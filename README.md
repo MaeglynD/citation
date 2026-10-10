@@ -4,6 +4,8 @@
 
 [![Play Citation Needed](https://img.shields.io/badge/play-citation.party-ffe65a?style=flat-square&labelColor=352363)](https://citation.party)
 [![CI](https://github.com/MaeglynD/citation/actions/workflows/ci.yml/badge.svg)](https://github.com/MaeglynD/citation/actions/workflows/ci.yml)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-8975da?style=flat-square&labelColor=352363)](https://www.typescriptlang.org/)
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-f8a36a?style=flat-square&labelColor=352363)](md/DEPLOYMENT.md)
 
 **[Play the game](https://citation.party)** · [Run locally](#run-locally) · [Development](md/DEVELOPMENT.md) · [Report an issue](https://github.com/MaeglynD/citation/issues)
 
