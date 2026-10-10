@@ -33,6 +33,19 @@ Wrangler opens an authorization page in your normal browser. `npm run deploy` ch
 
 Cloudflare provisions DNS and HTTPS for the custom domain declared in Wrangler. If you fork the project, change the Worker name and domain in `wrangler.jsonc` before deploying to your own account. Update the canonical URL and social metadata in `index.html` too.
 
+## Verify and roll back
+
+Check the commit's GitHub checks and the Worker’s build history after a push. A passing GitHub CI run confirms the tests and build; a successful Cloudflare build confirms publication. Open `https://citation.party` to check the released game.
+
+To inspect production versions or restore a previous one:
+
+```sh
+npx wrangler deployments list
+npx wrangler rollback <version-id>
+```
+
+A rollback restores the deployed assets without rewriting Git history. Revert the relevant source change in Git as well if the next push should keep that older behavior.
+
 ## Configuration and local files
 
 - Node.js 22 is recorded in `.nvmrc`; Wrangler is pinned in `package-lock.json`.
