@@ -14,7 +14,7 @@
 
 ## The game
 
-Read a quote, meet the suspects, and pick its unlikely source. Ten rounds later, revisit your spectacular deductions—and spectacular mistakes—with citations for every answer.
+Read a quote, meet the suspects, and pick its unlikely source. Ten rounds later, revisit your spectacular deductions—and spectacular mistakes (with citations for every answer)
 
 - **611 quotes.** Historical figures, fictional characters and people you probably weren't expecting.
 - **A cast of 853.** A pixel portrait for every answer and decoy, with springy cards, confetti and expressive reveals.
