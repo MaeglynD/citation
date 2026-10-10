@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "citation",
+  "compatibility_date": "2026-10-11",
+  "assets": {
+    "directory": "./dist"
+  },
+  "routes": [
+    { "pattern": "citation.party", "custom_domain": true }
+  ]
+}

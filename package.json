@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
+    "deploy": "npm test && npm run build && wrangler deploy",
     "quotes:check": "node scripts/build-quotes.mjs && node scripts/validate-quotes.mjs",
     "test": "node scripts/test-game.mjs",
     "test:browser": "node scripts/test-browser.mjs",
@@ -27,6 +28,7 @@
     "@vitejs/plugin-react": "^4.3.2",
     "playwright": "^1.48.0",
     "typescript": "^5.6.3",
-    "vite": "^5.4.9"
+    "vite": "^5.4.9",
+    "wrangler": "4.149.0"
   }
 }

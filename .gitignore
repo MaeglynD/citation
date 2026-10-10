@@ -5,6 +5,9 @@ shots
 *.tsbuildinfo
 release/
 .sites-runtime/
+.wrangler/
+.dev.vars
+.dev.vars.*
 
 # Local configuration and secrets (keep shareable examples).
 .env
