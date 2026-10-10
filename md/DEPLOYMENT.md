@@ -4,6 +4,8 @@
 
 Citation Needed is a static site hosted on Cloudflare Workers at **https://citation.party**. It needs no Worker script, database, API keys or runtime environment variables. [`wrangler.jsonc`](../wrangler.jsonc) defines the asset directory and custom domain.
 
+The same deployment is also available at **https://citation.abelian.workers.dev**. This backup address is useful while a DNS resolver is still caching an older response for the custom domain. Each address has its own browser-local scores and settings.
+
 ## Automatic deployments
 
 Connect `MaeglynD/citation` through **Cloudflare → Workers & Pages → citation → Settings → Builds** with:
