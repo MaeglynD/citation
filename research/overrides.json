@@ -1,0 +1,435 @@
+{
+ "__people": {
+  "The Bible": {
+   "alias": null
+  },
+  "The Quran": {
+   "alias": null
+  },
+  "Buddha": {
+   "alias": null
+  },
+  "Kim Jong Il": {
+   "alias": null
+  },
+  "Ayn Rand": {
+   "alias": null
+  },
+  "Karl Marx": {
+   "alias": null
+  },
+  "Bob Ross": {
+   "alias": null
+  },
+  "Henry VIII": {
+   "alias": null
+  },
+  "Andy Warhol": {
+   "alias": null
+  },
+  "Thomas Edison": {
+   "alias": null
+  },
+  "Fidel Castro": {
+   "alias": null
+  },
+  "Henry Ford": {
+   "alias": null
+  },
+  "George R.R. Martin": {
+   "alias": null
+  },
+  "Che Guevara": {
+   "alias": null
+  },
+  "Blaise Pascal": {
+   "alias": null
+  },
+  "Jimmy Carter": {
+   "alias": null
+  },
+  "Thomas Aquinas": {
+   "alias": null
+  },
+  "George Orwell": {
+   "alias": null
+  },
+  "Niccolò Machiavelli": {
+   "alias": null
+  },
+  "Søren Kierkegaard": {
+   "alias": null
+  },
+  "Leo Tolstoy": {
+   "alias": null
+  },
+  "Douglas Adams": {
+   "alias": null
+  },
+  "Sun Tzu": {
+   "alias": null
+  },
+  "Abraham Lincoln": {
+   "alias": null
+  },
+  "Hammurabi": {
+   "alias": null
+  },
+  "Peter Thiel": {
+   "alias": null
+  },
+  "Maximilien Robespierre": {
+   "alias": null
+  },
+  "Oliver Cromwell": {
+   "alias": null
+  },
+  "Logan Paul": {
+   "alias": null
+  },
+  "Florence Nightingale": {
+   "alias": null
+  },
+  "Saint Paul": {
+   "alias": null
+  },
+  "George Foreman": {
+   "alias": null
+  },
+  "Steve Wozniak": {
+   "alias": null
+  },
+  "Sam Altman": {
+   "alias": null
+  },
+  "Bernie Madoff": {
+   "alias": null
+  },
+  "Colonel Sanders": {
+   "alias": null
+  },
+  "Heinrich Himmler": {
+   "alias": null
+  },
+  "Hermann Göring": {
+   "alias": null
+  },
+  "Leon Trotsky": {
+   "alias": null
+  },
+  "John Wilkes Booth": {
+   "alias": null
+  },
+  "The Hippocratic Oath": {
+   "alias": null
+  },
+  "Magna Carta": {
+   "alias": null
+  },
+  "Krishna": {
+   "alias": null
+  },
+  "The Kama Sutra": {
+   "alias": null
+  },
+  "Lewis Carroll": {
+   "alias": null
+  },
+  "Herbert Hoover": {
+   "alias": null
+  },
+  "Brian May": {
+   "alias": null
+  },
+  "J. Robert Oppenheimer": {
+   "alias": null
+  },
+  "Wilbur Wright": {
+   "alias": null
+  },
+  "Pyotr Ilyich Tchaikovsky": {
+   "alias": null
+  },
+  "Snooki": {
+   "alias": null
+  },
+  "Donald Rumsfeld": {
+   "alias": null
+  },
+  "John Adams": {
+   "alias": null
+  },
+  "King Juan Carlos I": {
+   "alias": null
+  },
+  "Laozi": {
+   "alias": null
+  },
+  "Helen Keller": {
+   "alias": null
+  },
+  "Julia Child": {
+   "alias": null
+  },
+  "Ultimate Warrior": {
+   "alias": null
+  },
+  "Wilt Chamberlain": {
+   "alias": null
+  },
+  "Ric Flair": {
+   "alias": null
+  },
+  "Usain Bolt": {
+   "alias": null
+  },
+  "Andrew Carnegie": {
+   "alias": null
+  },
+  "Karl Lagerfeld": {
+   "alias": null
+  },
+  "Jack Ma": {
+   "alias": null
+  },
+  "Satoshi Nakamoto": {
+   "alias": null
+  },
+  "Edward Snowden": {
+   "alias": null
+  },
+  "Michael Dell": {
+   "alias": null
+  },
+  "Joe Exotic": {
+   "alias": null
+  },
+  "Mr. Peanutbutter": {
+   "alias": null
+  },
+  "Morty Smith": {
+   "alias": null
+  },
+  "Butters Stotch": {
+   "alias": null
+  },
+  "Plankton": {
+   "alias": null
+  },
+  "The Robot Devil": {
+   "alias": null
+  },
+  "Dr. Zoidberg": {
+   "alias": null
+  },
+  "Philip J. Fry": {
+   "alias": null
+  },
+  "Grunkle Stan": {
+   "alias": null
+  },
+  "Lord Farquaad": {
+   "alias": null
+  },
+  "The Genie": {
+   "alias": null
+  },
+  "Meowth": {
+   "alias": null
+  },
+  "Kratos": {
+   "alias": null
+  },
+  "Ganondorf": {
+   "alias": null
+  },
+  "Solid Snake": {
+   "alias": null
+  },
+  "Nero": {
+   "alias": null
+  },
+  "Christopher Columbus": {
+   "alias": null
+  },
+  "Hirohito": {
+   "alias": null
+  },
+  "Guy Fawkes": {
+   "alias": null
+  }
+ },
+ "tech-jobs-gates-acid": {
+  "note": "Gates did not take the advice."
+ },
+ "toon-grampa-with-it": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "toon-light-i-am-justice": {
+  "answer": {
+   "alias": "The honor student with a killer notebook (Death Note)"
+  }
+ },
+ "toon-andrew-ryan-sweat-of-brow": {
+  "quote": "Is a man not entitled to the sweat of his brow? 'No,' says the man in Washington, 'it belongs to the poor.'"
+ },
+ "doc-proverbs-loud-blessing": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "doc-ecclesiastes-race": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "doc-psalm-137-stones": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "doc-ezekiel-23-20": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "doc-song-of-songs-grapes": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "doc-deuteronomy-stones": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "doc-hammurabi-tavern": {
+  "answer": {
+   "alias": "The king who wrote the first law code"
+  }
+ },
+ "doc-sun-tzu-sons": {
+  "answer": {
+   "alias": "The guy who wrote The Art of War"
+  }
+ },
+ "doc-safire-moon-disaster": {
+  "answer": {
+   "alias": "Richard Nixon's speechwriter"
+  }
+ },
+ "doc-pirkei-avot-be-a-man": {
+  "answer": {
+   "name": "Hillel the Elder",
+   "alias": "A rabbi from around 10 AD"
+  }
+ },
+ "doc-gita-fruits": {
+  "answer": {
+   "name": "Krishna",
+   "alias": "A Hindu god, in the Bhagavad Gita"
+  }
+ },
+ "vil-mussolini-epitaph": {
+  "quote": "This is the epitaph I want on my tomb: Here lies one of the most intelligent animals who ever appeared on the face of the Earth."
+ },
+ "vil-hitler-vegetarian": {
+  "note": "The world of the future was not, as it turned out, vegetarian."
+ },
+ "sai-teresa-saint-of-darkness": {
+  "quote": "If I ever become a Saint — I will surely be one of darkness."
+ },
+ "sai-gandhi-dear-friend": {
+  "note": "Hitler did not write back."
+ },
+ "pol-quayle-lose-mind": {
+  "answer": {
+   "alias": "The Vice President who misspelled potato"
+  }
+ },
+ "pol-quayle-mars": {
+  "answer": {
+   "alias": "The Vice President who misspelled potato"
+  }
+ },
+ "pol-rumsfeld-unknown-unknowns": {
+  "answer": {
+   "alias": "The Pentagon chief who ran the Iraq War"
+  }
+ },
+ "pol-cain-ubeki": {
+  "answer": {
+   "alias": "The pizza CEO who ran for president"
+  }
+ },
+ "pol-adams-insignificant-office": {
+  "answer": {
+   "alias": "America's second president"
+  }
+ },
+ "pol-harding-jerry": {
+  "answer": {
+   "alias": "The 29th president, whom nobody remembers"
+  }
+ },
+ "pol-stevens-tubes": {
+  "answer": {
+   "alias": "The senator in charge of regulating the internet"
+  }
+ },
+ "pol-scalia-fortune-cookie": {
+  "answer": {
+   "alias": null
+  }
+ },
+ "pol-holmes-imbeciles": {
+  "answer": {
+   "alias": "America's most-quoted Supreme Court justice"
+  }
+ },
+ "pol-norton-abolish-congress": {
+  "answer": {
+   "alias": "The man who declared himself Emperor of the United States"
+  }
+ },
+ "pol-hawke-bum": {
+  "answer": {
+   "alias": "The Australian PM with a beer-drinking world record"
+  }
+ },
+ "pol-keating-slowly": {
+  "answer": {
+   "alias": "The Australian PM famous for parliamentary insults"
+  }
+ },
+ "pol-barry-killings": {
+  "answer": {
+   "alias": "The Washington D.C. mayor caught on an FBI drug tape"
+  }
+ },
+ "pol-morales-chicken": {
+  "answer": {
+   "alias": "The Bolivian president who used to grow coca"
+  }
+ },
+ "spo-mora-playoffs": {
+  "answer": {
+   "alias": "An NFL head coach having a bad November"
+  }
+ },
+ "spo-blatter-shorts": {
+  "answer": {
+   "alias": "The FIFA president later banned from football"
+  }
+ },
+ "spo-best-booze": {
+  "answer": {
+   "alias": "The footballer nicknamed 'El Beatle'"
+  }
+ },
+ "exp-einstein-socks": {
+  "note": "His cousin Elsa was also his second wife."
+ }
+}

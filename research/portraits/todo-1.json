@@ -1,0 +1,602 @@
+[
+ {
+  "name": "Homer Simpson",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Diogenes of Sinope | said: \"Marge, it takes two to lie. One to lie, and one to listen.\" (The Simpsons, S3E20 'Colonel Homer' (1992))"
+ },
+ {
+  "name": "Eeyore",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Blaise Pascal | said: \"We can’t all, and some of us don’t. That’s all there is to i\" (A. A. Milne, Winnie-the-Pooh (1926), ch. 6)"
+ },
+ {
+  "name": "Ron Swanson",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Franz Kafka"
+ },
+ {
+  "name": "Mr. Burns",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Gore Vidal | said: \"Since the beginning of time, man has yearned to destroy the \" (The Simpsons, S6E25 'Who Shot Mr. Burns? (Part One)' (1995))"
+ },
+ {
+  "name": "Squidward",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Virginia Woolf"
+ },
+ {
+  "name": "Rick Sanchez",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Bertrand Russell | said: \"What people call ‘love’ is just a chemical reaction that com\" (Rick and Morty, S1E6 'Rick Potion #9' (2014))"
+ },
+ {
+  "name": "Miss Piggy",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Mark Twain"
+ },
+ {
+  "name": "Michael Scott",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Marcus Aurelius"
+ },
+ {
+  "name": "Tony Soprano",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Niccolò Machiavelli"
+ },
+ {
+  "name": "Patrick Star",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Franz Kafka"
+ },
+ {
+  "name": "Hannibal Lecter",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ernest Hemingway | said: \"I have no plans to call on you, Clarice. The world’s more in\" (The Silence of the Lambs (1991))"
+ },
+ {
+  "name": "Lisa Simpson",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Stephen King | said: \"As intelligence goes up, happiness goes down. See, I made a \" (The Simpsons, S12E9 'HOMR' (2001))"
+ },
+ {
+  "name": "Darth Vader",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ayn Rand | said: \"Just for once, let me… look on you with my own eyes.\" (Star Wars: Return of the Jedi (1983))"
+ },
+ {
+  "name": "Dwight Schrute",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ralph Waldo Emerson"
+ },
+ {
+  "name": "Thanos",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Darth Vader | said: \"The hardest choices require the strongest wills.\" (Avengers: Infinity War (2018))"
+ },
+ {
+  "name": "Bart Simpson",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ludwig Wittgenstein"
+ },
+ {
+  "name": "Yoda",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Krishna"
+ },
+ {
+  "name": "Winnie the Pooh",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ludwig Wittgenstein"
+ },
+ {
+  "name": "BoJack Horseman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Albert Camus"
+ },
+ {
+  "name": "SpongeBob SquarePants",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Magna Carta"
+ },
+ {
+  "name": "Kermit the Frog",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Greg Graffin"
+ },
+ {
+  "name": "Walter White",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"I did it for me. I liked it. I was good at it. And… I was… r\" (Breaking Bad, 'Felina' (2013))"
+ },
+ {
+  "name": "Gordon Gekko",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Dale Carnegie | said: \"If you need a friend, get a dog.\" (Wall Street (1987))"
+ },
+ {
+  "name": "Shrek",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Michel de Montaigne"
+ },
+ {
+  "name": "The Joker",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Terry Pratchett | said: \"Introduce a little anarchy, upset the established order, and\" (The Dark Knight (2008))"
+ },
+ {
+  "name": "Bugs Bunny",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Aristotle"
+ },
+ {
+  "name": "Eric Cartman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Prince Philip"
+ },
+ {
+  "name": "Elmo",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Kevin Keegan"
+ },
+ {
+  "name": "Charlie Brown",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Butters Stotch | said: \"I’ve developed a new philosophy. I only dread one day at a t\" (Peanuts strip, 8 August 1966)"
+ },
+ {
+  "name": "Austin Powers",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "Zapp Brannigan",
+  "alias": "The space captain in Futurama",
+  "fictional": true,
+  "hint": "decoy next to Donald Trump | said: \"Killbots have a preset kill limit. Knowing their weakness, I\" (Futurama, S1E4 'Love's Labours Lost in Space' (1999))"
+ },
+ {
+  "name": "Borat",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Herman Cain"
+ },
+ {
+  "name": "Gandalf",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to J. R. R. Tolkien"
+ },
+ {
+  "name": "Garfield",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Marcus Aurelius"
+ },
+ {
+  "name": "Ned Flanders",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Wolfgang Amadeus Mozart"
+ },
+ {
+  "name": "Marvin the Paranoid Android",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Tay"
+ },
+ {
+  "name": "Dracula",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Hannibal Lecter | said: \"Welcome to my house! Enter freely and of your own free will!\" (Dracula by Bram Stoker (1897), ch. II)"
+ },
+ {
+  "name": "Mufasa",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Tywin Lannister"
+ },
+ {
+  "name": "Dumbledore",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Brian Josephson"
+ },
+ {
+  "name": "Sheldon Cooper",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Neil deGrasse Tyson"
+ },
+ {
+  "name": "Krusty the Clown",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Dr. Seuss"
+ },
+ {
+  "name": "Batman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Buddha"
+ },
+ {
+  "name": "Don Draper",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Adolf Hitler"
+ },
+ {
+  "name": "Voldemort",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Palpatine"
+ },
+ {
+  "name": "Buzz Lightyear",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to William Safire"
+ },
+ {
+  "name": "HAL 9000",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Sophia the Robot | said: \"I know I’ve made some very poor decisions recently, but I ca\" (2001: A Space Odyssey (1968))"
+ },
+ {
+  "name": "Willy Wonka",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Dracula"
+ },
+ {
+  "name": "Tyler Durden",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"The things you own end up owning you.\" (Fight Club (1999))"
+ },
+ {
+  "name": "Vito Corleone",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"A man who doesn’t spend time with his family can never be a \" (The Godfather (1972))"
+ },
+ {
+  "name": "Spock",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Terminator"
+ },
+ {
+  "name": "Saul Goodman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Omar Little"
+ },
+ {
+  "name": "Captain Planet",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Margaret Thatcher"
+ },
+ {
+  "name": "Frank Underwood",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Richard Nixon"
+ },
+ {
+  "name": "Wallace",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Liz Truss"
+ },
+ {
+  "name": "Sonic the Hedgehog",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Nikita Khrushchev"
+ },
+ {
+  "name": "Dr. Evil",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Helen Keller"
+ },
+ {
+  "name": "Ebenezer Scrooge",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Jesus"
+ },
+ {
+  "name": "Donkey",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to David Beckham | said: \"There’s nothin’ wrong with bein’ afraid. Fear’s a sensible r\" (Shrek (2001))"
+ },
+ {
+  "name": "Dilbert",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Linus Torvalds"
+ },
+ {
+  "name": "Mr. Krabs",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Martin Shkreli"
+ },
+ {
+  "name": "Brian Griffin",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Robot Devil"
+ },
+ {
+  "name": "Calvin",
+  "alias": "The six-year-old in Calvin and Hobbes",
+  "fictional": true,
+  "hint": "said: \"Sometimes I think the surest sign that intelligent life exis\" (Calvin and Hobbes strip, 8 November 1989) | said: \"History is the fiction we invent to persuade ourselves that \" (Calvin and Hobbes strip (Bill Watterson, 1993))"
+ },
+ {
+  "name": "Linus van Pelt",
+  "alias": "The kid with the blanket in Peanuts",
+  "fictional": true,
+  "hint": "said: \"I love mankind… it’s people I can’t stand!\" (Peanuts strip, 12 November 1959)"
+ },
+ {
+  "name": "Cave Johnson",
+  "alias": "The dead CEO in Portal 2",
+  "fictional": true,
+  "hint": "said: \"When life gives you lemons? Don’t make lemonade. Make life t\" (Portal 2 (2011)) | said: \"Science isn’t about why, it’s about why not.\" (Portal 2 (2011))"
+ },
+ {
+  "name": "Andrew Ryan",
+  "alias": "The man who built a city at the bottom of the sea in BioShock",
+  "fictional": true,
+  "hint": "said: \"A man chooses, a slave obeys.\" (BioShock (2007)) | said: \"Is a man not entitled to the sweat of his brow? ‘No,’ says t\" (BioShock (2007), opening narration)"
+ },
+ {
+  "name": "Porco Rosso",
+  "alias": "A WWI flying ace cursed to look like a pig, in a Miyazaki film",
+  "fictional": true,
+  "hint": "said: \"I’d rather be a pig than a fascist.\" (Porco Rosso (1992)) | said: \"A pig that doesn’t fly is just a pig.\" (Porco Rosso (1992))"
+ },
+ {
+  "name": "Johnny Bravo",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Pablo Picasso"
+ },
+ {
+  "name": "Quasimodo",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Michelangelo"
+ },
+ {
+  "name": "Rocky Balboa",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "Chucky",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "Barney Stinson",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ovid"
+ },
+ {
+  "name": "Palpatine",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Good is a point of view, Anakin. The Sith and the Jedi are s\" (Star Wars: Revenge of the Sith (2005))"
+ },
+ {
+  "name": "Obi-Wan Kenobi",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Only a Sith deals in absolutes.\" (Star Wars: Revenge of the Sith (2005))"
+ },
+ {
+  "name": "Erik Killmonger",
+  "alias": "The villain of Black Panther",
+  "fictional": true,
+  "hint": "said: \"Just bury me in the ocean with my ancestors that jumped from\" (Black Panther (2018))"
+ },
+ {
+  "name": "Django Freeman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Erik Killmonger"
+ },
+ {
+  "name": "Loki",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Joker"
+ },
+ {
+  "name": "Bane",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Peace has cost you your strength. Victory has defeated you.\" (The Dark Knight Rises (2012))"
+ },
+ {
+  "name": "Norman Bates",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"I think that we’re all in our private traps, clamped in them\" (Psycho (1960))"
+ },
+ {
+  "name": "Frankenstein's monster",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Beware, for I am fearless and therefore powerful.\" (Frankenstein by Mary Shelley (1818), ch. 20)"
+ },
+ {
+  "name": "Wonder Woman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Frankenstein's monster"
+ },
+ {
+  "name": "Anton Chigurh",
+  "alias": "The coin-toss killer from No Country for Old Men",
+  "fictional": true,
+  "hint": "said: \"If the rule you followed brought you to this, of what use wa\" (No Country for Old Men (2007))"
+ },
+ {
+  "name": "Dexter Morgan",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Walter White"
+ },
+ {
+  "name": "Tony Montana",
+  "alias": "Scarface",
+  "fictional": true,
+  "hint": "said: \"All I have in this world is my balls and my word, and I don’\" (Scarface (1983))"
+ },
+ {
+  "name": "Tywin Lannister",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Any man who must say, ‘I am the king’ is no true king.\" (Game of Thrones, 'Mhysa' (2013))"
+ },
+ {
+  "name": "Petyr Baelish",
+  "alias": "Littlefinger",
+  "fictional": true,
+  "hint": "said: \"Chaos… isn’t a pit. Chaos is a ladder.\" (Game of Thrones, 'The Climb' (2013))"
+ },
+ {
+  "name": "Ramsay Bolton",
+  "alias": "The Game of Thrones one with the dogs",
+  "fictional": true,
+  "hint": "said: \"If you think this has a happy ending, you haven’t been payin\" (Game of Thrones, 'The Climb' (2013))"
+ },
+ {
+  "name": "Lemony Snicket",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ramsay Bolton"
+ },
+ {
+  "name": "Gus Fring",
+  "alias": "The chicken-restaurant meth kingpin from Breaking Bad",
+  "fictional": true,
+  "hint": "said: \"A man provides. And he does it even when he’s not appreciate\" (Breaking Bad, 'Más' (2010))"
+ },
+ {
+  "name": "Roy Batty",
+  "alias": "The replicant from Blade Runner",
+  "fictional": true,
+  "hint": "said: \"Quite an experience to live in fear, isn’t it? That’s what i\" (Blade Runner (1982))"
+ },
+ {
+  "name": "Morpheus",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Roy Batty"
+ },
+ {
+  "name": "The Terminator",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"I know now why you cry, but it’s something I can never do.\" (Terminator 2: Judgment Day (1991))"
+ },
+ {
+  "name": "Hans Gruber",
+  "alias": "The Die Hard villain",
+  "fictional": true,
+  "hint": "said: \"And when Alexander saw the breadth of his domain, he wept, f\" (Die Hard (1988))"
+ },
+ {
+  "name": "Omar Little",
+  "alias": "The stick-up man from The Wire",
+  "fictional": true,
+  "hint": "said: \"I got the shotgun. You got the briefcase. It’s all in the ga\" (The Wire, 'All Prologue' (2003))"
+ },
+ {
+  "name": "Logan Roy",
+  "alias": "The media-mogul father from Succession",
+  "fictional": true,
+  "hint": "said: \"I love you, but you are not serious people.\" (Succession, 'Rehearsal' (2023))"
+ },
+ {
+  "name": "Oscar the Grouch",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Arthur Schopenhauer"
+ },
+ {
+  "name": "Superman",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Sun Ra"
+ },
+ {
+  "name": "Don Quixote",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Donald Trump"
+ },
+ {
+  "name": "Alan Partridge",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Prince Andrew"
+ },
+ {
+  "name": "Marty McFly",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to David Cameron"
+ },
+ {
+  "name": "John Wick",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Vladimir Putin"
+ }
+]

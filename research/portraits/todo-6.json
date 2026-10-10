@@ -1,0 +1,494 @@
+[
+ {
+  "name": "Yogi Berra",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to John Cage | said: \"I really didn’t say everything I said.\" (The Yogi Book (1997), p. 9)"
+ },
+ {
+  "name": "Mike Tyson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Muammar Gaddafi | said: \"I think Machiavelli’s the most sophisticated writer outside \" (Interview, The Telegraph, c. 2002)"
+ },
+ {
+  "name": "Zlatan Ibrahimović",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vladimir Nabokov | said: \"I went left, he went left. I went right, he went right. I we\" (On defender Stephane Henchoz, quoted in Simon Kuper's The Football Men (2011))"
+ },
+ {
+  "name": "Arnold Schwarzenegger",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Sophia the Robot | said: \"Strength does not come from winning. Your struggles develop \" (Interview with Marian Christy, Boston Globe, 9 May 1982)"
+ },
+ {
+  "name": "Muhammad Ali",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mike Tyson | said: \"The man who views the world at 50 the same as he did at 20 h\" (Playboy interview, November 1975)"
+ },
+ {
+  "name": "Conor McGregor",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mike Tyson | said: \"Me and Jesus are cool. I’m cool with all the gods. Gods reco\" (UFC 197 press conference, Las Vegas, 20 Jan 2016)"
+ },
+ {
+  "name": "Casey Stengel",
+  "alias": "The manager of the 1962 Mets, who lost 120 games",
+  "fictional": false,
+  "hint": "decoy next to Yogi Berra | said: \"Can’t anybody here play this game?\" (On the 1962 Mets; Jimmy Breslin, Can't Anybody Here Play This Game? (1963))"
+ },
+ {
+  "name": "Shaquille O'Neal",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Yogi Berra | said: \"I got hurt on company time, so I’ll heal on company time.\" (On sitting out with an ankle injury, NBCSports.com, 12 Dec 2005)"
+ },
+ {
+  "name": "Charles Barkley",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Shaquille O'Neal | said: \"I was going to sue her for defamation of character, but then\" (On Tonya Harding, Sports Illustrated, 7 Feb 1994)"
+ },
+ {
+  "name": "José Mourinho",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Zlatan Ibrahimović | said: \"Please do not call me arrogant because what I’m saying is tr\" (First Chelsea press conference, 2 June 2004)"
+ },
+ {
+  "name": "Alex Ferguson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bill Shankly"
+ },
+ {
+  "name": "Bill Belichick",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vince Lombardi"
+ },
+ {
+  "name": "Bobby Fischer",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mike Tyson | said: \"I object to being called a chess genius because I consider m\" (Radio interview, 6 July 2001)"
+ },
+ {
+  "name": "Satchel Paige",
+  "alias": "The oldest rookie in Major League history",
+  "fictional": false,
+  "hint": "decoy next to Yogi Berra | said: \"Avoid fried meats which angry up the blood.\" ('How to Stay Young', Collier's, 13 June 1953)"
+ },
+ {
+  "name": "Dennis Rodman",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Charles Barkley | said: \"He’s a good guy to me. Guess what? He’s my friend.\" (On Kim Jong Un, ABC's This Week, 3 March 2013)"
+ },
+ {
+  "name": "Michael Jordan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Charles Barkley | said: \"I’ve failed over and over and over again in my life. And tha\" (Nike 'Failure' commercial, 1997)"
+ },
+ {
+  "name": "Kimi Räikkönen",
+  "alias": "The Formula One world champion nicknamed 'The Iceman'",
+  "fictional": false,
+  "hint": "decoy next to Marshawn Lynch | said: \"Leave me alone. I know what I’m doing.\" (Team radio while leading the Abu Dhabi Grand Prix, 4 Nov 2012)"
+ },
+ {
+  "name": "Serena Williams",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Andre Agassi"
+ },
+ {
+  "name": "George Foreman",
+  "alias": "The heavyweight champion who sold 100 million grills",
+  "fictional": false,
+  "hint": "decoy next to Muhammad Ali | said: \"I wanted them to have something in common … I tell them if o\" (On naming all five sons George; In Depth with Graham Bensinger, 2021)"
+ },
+ {
+  "name": "Eric Cantona",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Zlatan Ibrahimović | said: \"When the seagulls follow the trawler, it is because they thi\" (Statement to the press after his assault appeal, 31 March 1995)"
+ },
+ {
+  "name": "Cristiano Ronaldo",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Zlatan Ibrahimović"
+ },
+ {
+  "name": "Bill Shankly",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Someone said to me ‘To you football is a matter of life or d\" (Granada TV interview with Shelley Rohde, 20 May 1981)"
+ },
+ {
+  "name": "Vince Lombardi",
+  "alias": "The coach the Super Bowl trophy is named after",
+  "fictional": false,
+  "hint": "decoy next to Bill Shankly | said: \"Gentlemen, we are going to relentlessly chase perfection, kn\" (First team meeting as Green Bay Packers coach, 1959)"
+ },
+ {
+  "name": "Babe Ruth",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Satchel Paige"
+ },
+ {
+  "name": "Ronnie Coleman",
+  "alias": "The eight-time Mr. Olympia who moonlighted as a police officer",
+  "fictional": false,
+  "hint": "decoy next to Arnold Schwarzenegger | said: \"Everybody wants to be a bodybuilder, but don’t nobody want t\" (Ronnie Coleman: The Unbelievable (training video, 2000))"
+ },
+ {
+  "name": "Lewis Hamilton",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ayrton Senna"
+ },
+ {
+  "name": "Garry Kasparov",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bobby Fischer"
+ },
+ {
+  "name": "Jesse Owens",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Hitler didn’t snub me; it was our president who snubbed me. \" (On Franklin Roosevelt; quoted in Jeremy Schaap, Triumph (2007), p. 211) | said: \"I had four gold medals, but you can’t eat four gold medals.\" (Interview, 1971 (ESPN SportsCentury, 2005))"
+ },
+ {
+  "name": "Charlie Chaplin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jesse Owens"
+ },
+ {
+  "name": "Michael Phelps",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jesse Owens"
+ },
+ {
+  "name": "Pep Guardiola",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to José Mourinho"
+ },
+ {
+  "name": "Kobe Bryant",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Michael Jordan"
+ },
+ {
+  "name": "Macho Man Randy Savage",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ultimate Warrior"
+ },
+ {
+  "name": "Floyd Mayweather",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George Foreman"
+ },
+ {
+  "name": "Brian Clough",
+  "alias": "The manager who won two European Cups with Nottingham Forest",
+  "fictional": false,
+  "hint": "said: \"I wouldn’t say I was the best manager in the business. But I\" (Regional TV interview, early 1990s (quoted by Sporting Life, 2019)) | said: \"If God had wanted us to play football in the clouds, he’d ha\" (Quoted in Match of the Day's 1993 tribute (Sporting Life, 2019))"
+ },
+ {
+  "name": "Madonna",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ronda Rousey"
+ },
+ {
+  "name": "Lao Tzu",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Yogi Berra"
+ },
+ {
+  "name": "Diego Maradona",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Zlatan Ibrahimović"
+ },
+ {
+  "name": "Sylvester Stallone",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Arnold Schwarzenegger"
+ },
+ {
+  "name": "Murray Walker",
+  "alias": "The voice of BBC Formula One commentary for decades",
+  "fictional": false,
+  "hint": "said: \"I don’t make mistakes. I make prophecies that immediately tu\" (Gold Coast Bulletin, 26 Oct 2002)"
+ },
+ {
+  "name": "Ayrton Senna",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"If you no longer go for a gap that exists, you are no longer\" (Interview with Jackie Stewart, Australian Grand Prix, November 1990)"
+ },
+ {
+  "name": "Niki Lauda",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ayrton Senna"
+ },
+ {
+  "name": "Joe Louis",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jesse Owens"
+ },
+ {
+  "name": "Jim Thorpe",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jesse Owens"
+ },
+ {
+  "name": "George Best",
+  "alias": "The footballer nicknamed 'El Beatle'",
+  "fictional": false,
+  "hint": "said: \"I spent a lot of money on booze, birds and fast cars. The re\" (Quoted in BBC News, 14 June 2005)"
+ },
+ {
+  "name": "Paul Gascoigne",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George Best"
+ },
+ {
+  "name": "Calvin Coolidge",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Casey Stengel"
+ },
+ {
+  "name": "Dusty Rhodes",
+  "alias": "The 300-pound wrestler billed as 'the son of a plumber'",
+  "fictional": false,
+  "hint": "said: \"Hard times are when a man has worked at a job for thirty yea\" ('Hard Times' promo, NWA Mid-Atlantic Championship Wrestling, 29 Oct 1985)"
+ },
+ {
+  "name": "Bruce Springsteen",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dusty Rhodes"
+ },
+ {
+  "name": "Ultimate Warrior",
+  "alias": "The face-painted WWF champion billed from 'Parts Unknown'",
+  "fictional": false,
+  "hint": "said: \"Load the spaceship with the rocket fuel!\" (WWF television promo, early 1990s (collected by Complex, 2014))"
+ },
+ {
+  "name": "Allen Iverson",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I’m supposed to be the franchise player and we’re in here ta\" (Philadelphia 76ers press conference, 7 May 2002)"
+ },
+ {
+  "name": "Marshawn Lynch",
+  "alias": "The running back nicknamed Beast Mode",
+  "fictional": false,
+  "hint": "said: \"I’m just here so I won’t get fined.\" (Super Bowl XLIX Media Day, 27 Jan 2015)"
+ },
+ {
+  "name": "Kyrie Irving",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"This is not even a conspiracy theory. The Earth is flat.\" ('Road Trippin'' podcast, 17 Feb 2017)"
+ },
+ {
+  "name": "LeBron James",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Kyrie Irving"
+ },
+ {
+  "name": "Joe Namath",
+  "alias": "The quarterback who modelled pantyhose in a 1974 TV ad",
+  "fictional": false,
+  "hint": "said: \"We’re gonna win the game. I guarantee it.\" (Miami Touchdown Club banquet, 9 Jan 1969 (unrecorded; wording per Namath))"
+ },
+ {
+  "name": "Tom Brady",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Joe Namath"
+ },
+ {
+  "name": "Jim Mora",
+  "alias": "An NFL head coach having a bad November",
+  "fictional": false,
+  "hint": "said: \"Playoffs? Don’t talk about -- playoffs? You kidding me? Play\" (Colts press conference after a 40-21 loss to the 49ers, 25 Nov 2001)"
+ },
+ {
+  "name": "Mike Ditka",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jim Mora"
+ },
+ {
+  "name": "Sid Waddell",
+  "alias": "The voice of televised darts",
+  "fictional": false,
+  "hint": "said: \"When Alexander of Macedonia was 33, he cried salt tears beca\" (BBC commentary on Eric Bristow winning the world darts title, mid-1980s)"
+ },
+ {
+  "name": "Howard Cosell",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Sid Waddell"
+ },
+ {
+  "name": "Novak Djokovic",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Through the power of prayer, through the power of gratitude,\" (Instagram Live with wellness guru Chervin Jafarieh, May 2020)"
+ },
+ {
+  "name": "Rafael Nadal",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Novak Djokovic"
+ },
+ {
+  "name": "Sepp Blatter",
+  "alias": "The FIFA president later banned from football",
+  "fictional": false,
+  "hint": "said: \"Let the women play in more feminine clothes like they do in \" (Interview with SonntagsBlick (Switzerland), January 2004)"
+ },
+ {
+  "name": "Kevin Keegan",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I will love it if we beat them. Love it.\" (Live Sky Sports interview after Leeds 0-1 Newcastle, 29 April 1996)"
+ },
+ {
+  "name": "Stone Cold Steve Austin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"You sit there and you thump your Bible, and you say your pra\" (Promo after winning King of the Ring, Milwaukee, 23 June 1996)"
+ },
+ {
+  "name": "The Rock",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Stone Cold Steve Austin"
+ },
+ {
+  "name": "Wilt Chamberlain",
+  "alias": "The man who scored 100 points in an NBA game",
+  "fictional": false,
+  "hint": "said: \"Yes, that’s correct, twenty thousand different ladies. At my\" (A View from Above (1991))"
+ },
+ {
+  "name": "Andre Agassi",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I play tennis for a living even though I hate tennis, hate i\" (Open: An Autobiography (2009), page 1)"
+ },
+ {
+  "name": "John McEnroe",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Andre Agassi"
+ },
+ {
+  "name": "Rich Piana",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ronnie Coleman"
+ },
+ {
+  "name": "David Beckham",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I definitely want Brooklyn to be christened - but I don’t kn\" (Interview c. 1999, as reported by the Irish Examiner, 2 April 2002)"
+ },
+ {
+  "name": "Wayne Rooney",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to David Beckham"
+ },
+ {
+  "name": "Nate Diaz",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I’m not surprised, motherfuckers.\" (Octagon interview after beating Conor McGregor, UFC 196, 5 March 2016)"
+ },
+ {
+  "name": "Scott Steiner",
+  "alias": "The wrestler who did Steiner Math",
+  "fictional": false,
+  "hint": "said: \"See, normally if you go one on one with another wrestler, yo\" ('Steiner Math' promo, TNA Impact, 1 May 2008)"
+ },
+ {
+  "name": "Ric Flair",
+  "alias": "The 16-time world champion known as 'The Nature Boy'",
+  "fictional": false,
+  "hint": "said: \"To be the man, you gotta beat the man.\" (Signature promo line, NWA/WCW television, 1980s (collected by AJC, 2017))"
+ },
+ {
+  "name": "Steven Seagal",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dennis Rodman"
+ },
+ {
+  "name": "Usain Bolt",
+  "alias": "The fastest man in recorded history",
+  "fictional": false,
+  "hint": "said: \"Man, I should have gotten a gold medal for all that chowing \" (Faster Than Lightning (2013), on his Beijing 2008 diet)"
+ },
+ {
+  "name": "Nancy Kerrigan",
+  "alias": "The figure skater who was clubbed on the knee in 1994",
+  "fictional": false,
+  "hint": "said: \"This is so corny. This is so dumb. I hate it. This is the mo\" (Hot mic at a Walt Disney World parade; Seattle Times, 2 March 1994)"
+ },
+ {
+  "name": "Tonya Harding",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Nancy Kerrigan"
+ },
+ {
+  "name": "Megan Rapinoe",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I’m not going to the fucking White House.\" (Eight by Eight video interview, recorded Jan 2019, published 25 June 2019)"
+ },
+ {
+  "name": "Colin Kaepernick",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Megan Rapinoe"
+ },
+ {
+  "name": "Ronda Rousey",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Just because my body was developed for a purpose other than \" (UFC 190 Embedded, episode 2, 29 July 2015)"
+ }
+]

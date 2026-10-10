@@ -1,0 +1,602 @@
+[
+ {
+  "name": "The Mad Hatter",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Kaiser Wilhelm II"
+ },
+ {
+  "name": "Joey Tribbiani",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Tony Abbott"
+ },
+ {
+  "name": "Christian Grey",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Paul Keating"
+ },
+ {
+  "name": "Carrie Bradshaw",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Imelda Marcos"
+ },
+ {
+  "name": "Fox Mulder",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Jimmy Carter"
+ },
+ {
+  "name": "Basil Fawlty",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Anne Frank"
+ },
+ {
+  "name": "Nurse Ratched",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Florence Nightingale"
+ },
+ {
+  "name": "Gregory House",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Florence Nightingale"
+ },
+ {
+  "name": "The Hulk",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Mister Rogers"
+ },
+ {
+  "name": "Regina George",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Maya Angelou"
+ },
+ {
+  "name": "Conan the Barbarian",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Jesus"
+ },
+ {
+  "name": "Cruella de Vil",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Jesus"
+ },
+ {
+  "name": "Archie Bunker",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Saint Paul"
+ },
+ {
+  "name": "Lightning McQueen",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ayrton Senna"
+ },
+ {
+  "name": "Marvin the Martian",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Elon Musk"
+ },
+ {
+  "name": "Rich Uncle Pennybags",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Mark Zuckerberg"
+ },
+ {
+  "name": "Scrooge McDuck",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Charlie Munger"
+ },
+ {
+  "name": "Emperor Palpatine",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Peter Thiel"
+ },
+ {
+  "name": "Donkey Kong",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Alex Jones"
+ },
+ {
+  "name": "Lucille Bluth",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Do Kwon"
+ },
+ {
+  "name": "Foghorn Leghorn",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Colonel Sanders"
+ },
+ {
+  "name": "Jack Sparrow",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Gabe Newell"
+ },
+ {
+  "name": "Kendall Roy",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Michael Dell"
+ },
+ {
+  "name": "Mr. Peanutbutter",
+  "alias": "A golden retriever who hosts a game show",
+  "fictional": true,
+  "hint": "said: \"The universe is a cruel, uncaring void. The key to being hap\" (BoJack Horseman, S1E12 'Later' (2014))"
+ },
+ {
+  "name": "Diane Nguyen",
+  "alias": "The ghostwriter in BoJack Horseman",
+  "fictional": true,
+  "hint": "said: \"I don’t think I believe in ‘deep down.’ I kind of think all \" (BoJack Horseman, S1E12 'Later' (2014))"
+ },
+ {
+  "name": "Morty Smith",
+  "alias": "The Morty in Rick and Morty",
+  "fictional": true,
+  "hint": "said: \"Nobody exists on purpose. Nobody belongs anywhere. Everybody\" (Rick and Morty, S1E8 'Rixty Minutes' (2014))"
+ },
+ {
+  "name": "Sideshow Bob",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Your guilty conscience may force you to vote Democratic, but\" (The Simpsons, S6E5 'Sideshow Bob Roberts' (1994))"
+ },
+ {
+  "name": "Stewie Griffin",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Lisa Simpson"
+ },
+ {
+  "name": "Grampa Simpson",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"I used to be with it. But then they changed what it was. Now\" (The Simpsons, S7E24 'Homerpalooza' (1996))"
+ },
+ {
+  "name": "Hank Hill",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Grampa Simpson"
+ },
+ {
+  "name": "Butters Stotch",
+  "alias": "The nice kid from South Park",
+  "fictional": true,
+  "hint": "said: \"I’m sad, but at the same time I’m really happy that somethin\" (South Park, S7E14 'Raisins' (2003))"
+ },
+ {
+  "name": "General Grievous",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Zapp Brannigan"
+ },
+ {
+  "name": "Plankton",
+  "alias": "The one-eyed villain in SpongeBob",
+  "fictional": true,
+  "hint": "said: \"And so passes another sleepless night, haunted by my inabili\" (SpongeBob SquarePants, S4E2 'Krabs vs. Plankton' (2005))"
+ },
+ {
+  "name": "Wile E. Coyote",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Plankton"
+ },
+ {
+  "name": "The Robot Devil",
+  "alias": "The Devil in Futurama",
+  "fictional": true,
+  "hint": "said: \"You can’t just have your characters announce how they feel! \" (Futurama, 'The Devil's Hands Are Idle Playthings' (2003))"
+ },
+ {
+  "name": "Dr. Zoidberg",
+  "alias": "The lobster doctor in Futurama",
+  "fictional": true,
+  "hint": "said: \"Your planet doesn’t deserve freedom until it learns what it \" (Futurama, 'A Taste of Freedom' (2002))"
+ },
+ {
+  "name": "Philip J. Fry",
+  "alias": "The delivery boy in Futurama",
+  "fictional": true,
+  "hint": "said: \"There but for the flip of a coin go we.\" (Futurama, 'The Farnsworth Parabox' (2003))"
+ },
+ {
+  "name": "Forrest Gump",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Philip J. Fry"
+ },
+ {
+  "name": "Bill Cipher",
+  "alias": "The triangle demon in Gravity Falls",
+  "fictional": true,
+  "hint": "said: \"Remember: reality is an illusion, the universe is a hologram\" (Gravity Falls, S1E19 'Dreamscaperers' (2013))"
+ },
+ {
+  "name": "Grunkle Stan",
+  "alias": "The con-man great-uncle in Gravity Falls",
+  "fictional": true,
+  "hint": "said: \"Is life just some kind of horrific joke without a punchline?\" (Gravity Falls, S1E14 'The Bottomless Pit!' (2013))"
+ },
+ {
+  "name": "Greg Universe",
+  "alias": "Steven's dad, who runs a car wash in Steven Universe",
+  "fictional": true,
+  "hint": "said: \"If every pork chop were perfect, we wouldn’t have hotdogs!\" (Steven Universe, S1E2 'Laser Light Cannon' (2013))"
+ },
+ {
+  "name": "Garnet",
+  "alias": "The three-eyed leader of the Crystal Gems",
+  "fictional": true,
+  "hint": "said: \"All comedy is derived from fear.\" (Steven Universe, S1E32 'Fusion Cuisine' (2014))"
+ },
+ {
+  "name": "Lord Farquaad",
+  "alias": "The very short villain in Shrek",
+  "fictional": true,
+  "hint": "said: \"Some of you may die, but it’s a sacrifice I am willing to ma\" (Shrek (2001))"
+ },
+ {
+  "name": "Master Oogway",
+  "alias": "The old tortoise in Kung Fu Panda",
+  "fictional": true,
+  "hint": "said: \"There are no accidents.\" (Kung Fu Panda (2008))"
+ },
+ {
+  "name": "Mr. Ping",
+  "alias": "The goose who runs a noodle shop in Kung Fu Panda",
+  "fictional": true,
+  "hint": "said: \"To make something special, you just have to believe it is sp\" (Kung Fu Panda (2008))"
+ },
+ {
+  "name": "Rafiki",
+  "alias": "The baboon in The Lion King",
+  "fictional": true,
+  "hint": "said: \"Oh yes, the past can hurt. But the way I see it, you can eit\" (The Lion King (1994))"
+ },
+ {
+  "name": "Anton Ego",
+  "alias": "The food critic in Ratatouille",
+  "fictional": true,
+  "hint": "said: \"In many ways, the work of a critic is easy. We risk very lit\" (Ratatouille (2007))"
+ },
+ {
+  "name": "Statler and Waldorf",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Anton Ego"
+ },
+ {
+  "name": "Auguste Gusteau",
+  "alias": "The dead chef who haunts a rat in Ratatouille",
+  "fictional": true,
+  "hint": "said: \"You must not let anyone define your limits because of where \" (Ratatouille (2007))"
+ },
+ {
+  "name": "Remy",
+  "alias": "The rat who cooks in Ratatouille",
+  "fictional": true,
+  "hint": "said: \"Change is nature, Dad. The part that we can influence. And i\" (Ratatouille (2007))"
+ },
+ {
+  "name": "Simba",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Remy"
+ },
+ {
+  "name": "Dug",
+  "alias": "The talking golden retriever in Up",
+  "fictional": true,
+  "hint": "said: \"My name is Dug. I have just met you and I love you.\" (Up (2009))"
+ },
+ {
+  "name": "Russell",
+  "alias": "The Wilderness Explorer kid in Up",
+  "fictional": true,
+  "hint": "said: \"That might sound boring, but I think the boring stuff is the\" (Up (2009))"
+ },
+ {
+  "name": "Sadness",
+  "alias": "The blue emotion in Inside Out",
+  "fictional": true,
+  "hint": "said: \"Crying helps me slow down and obsess over the weight of life\" (Inside Out (2015))"
+ },
+ {
+  "name": "Mr. Big",
+  "alias": "The tiny shrew crime boss in Zootopia",
+  "fictional": true,
+  "hint": "said: \"My child, we may be evolved, but deep down, we are still ani\" (Zootopia (2016))"
+ },
+ {
+  "name": "Nick Wilde",
+  "alias": "The con-artist fox in Zootopia",
+  "fictional": true,
+  "hint": "said: \"If the world’s only gonna see a fox as shifty and untrustwor\" (Zootopia (2016))"
+ },
+ {
+  "name": "Uncle Iroh",
+  "alias": "The tea-loving uncle in Avatar: The Last Airbender",
+  "fictional": true,
+  "hint": "said: \"Pride is not the opposite of shame, but its source. True hum\" (Avatar: The Last Airbender, S2E9 'Bitter Work' (2006))"
+ },
+ {
+  "name": "The Genie",
+  "alias": "The blue genie in Aladdin",
+  "fictional": true,
+  "hint": "said: \"To be my own master, such a thing would be greater than all \" (Aladdin (1992))"
+ },
+ {
+  "name": "Dobby",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Genie"
+ },
+ {
+  "name": "Bender",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Calvin"
+ },
+ {
+  "name": "Hobbes",
+  "alias": "The stuffed tiger in Calvin and Hobbes",
+  "fictional": true,
+  "hint": "said: \"Why waste time learning, when ignorance is instantaneous?\" (Calvin and Hobbes strip, 15 November 1990)"
+ },
+ {
+  "name": "Snoopy",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"Yesterday I was a dog. Today I’m a dog. Tomorrow I’ll probab\" (Peanuts strip, 15 February 1958)"
+ },
+ {
+  "name": "Pogo",
+  "alias": "A possum in a 1950s-70s newspaper comic strip",
+  "fictional": true,
+  "hint": "said: \"We have met the enemy and he is us.\" (Walt Kelly's 'Pogo' Earth Day poster (1970) and strip (1970))"
+ },
+ {
+  "name": "Porky Pine",
+  "alias": "The gloomy porcupine in the comic strip Pogo",
+  "fictional": true,
+  "hint": "said: \"Don’t take life so serious, son, it ain’t nohow permanent.\" (Walt Kelly's 'Pogo' comic strip (1950s))"
+ },
+ {
+  "name": "Meowth",
+  "alias": "The talking cat in Team Rocket",
+  "fictional": true,
+  "hint": "said: \"We do have a lot in common. The same Earth, the same air, th\" (Pokémon: The First Movie (1998))"
+ },
+ {
+  "name": "Mewtwo",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Meowth"
+ },
+ {
+  "name": "Piglet",
+  "alias": null,
+  "fictional": true,
+  "hint": "said: \"It is hard to be brave, when you’re only a Very Small Animal\" (A. A. Milne, Winnie-the-Pooh (1926), ch. 7)"
+ },
+ {
+  "name": "Frodo Baggins",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Piglet"
+ },
+ {
+  "name": "The Pokédex",
+  "alias": "The Pokédex entry for Yamask",
+  "fictional": true,
+  "hint": "said: \"Each of them carries a mask that used to be its face when it\" (Pokémon Black (2010), Pokédex entry for Yamask)"
+ },
+ {
+  "name": "The Grim Reaper",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to The Pokédex"
+ },
+ {
+  "name": "Professor Farnsworth",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Cave Johnson"
+ },
+ {
+  "name": "Kratos",
+  "alias": "The Greek god of war, as a dad",
+  "fictional": true,
+  "hint": "said: \"Do not be sorry. Be better.\" (God of War (2018))"
+ },
+ {
+  "name": "Magneto",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Andrew Ryan"
+ },
+ {
+  "name": "Frank Fontaine",
+  "alias": "The con man villain in BioShock",
+  "fictional": true,
+  "hint": "said: \"You don’t have to build a city to make people worship you… J\" (BioShock (2007))"
+ },
+ {
+  "name": "Ganondorf",
+  "alias": "The villain of the Zelda games",
+  "fictional": true,
+  "hint": "said: \"No matter when it came, the wind carried the same thing… Dea\" (The Legend of Zelda: The Wind Waker (2002))"
+ },
+ {
+  "name": "Sauron",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ganondorf"
+ },
+ {
+  "name": "The Happy Mask Salesman",
+  "alias": "The creepy mask seller in Zelda: Majora's Mask",
+  "fictional": true,
+  "hint": "said: \"Whenever there is a meeting, a parting shall follow. But tha\" (The Legend of Zelda: Majora's Mask (2000))"
+ },
+ {
+  "name": "Solid Snake",
+  "alias": "The Metal Gear Solid guy who hides in a cardboard box",
+  "fictional": true,
+  "hint": "said: \"Life isn’t just about passing on your genes. We can leave be\" (Metal Gear Solid 2: Sons of Liberty (2001))"
+ },
+ {
+  "name": "Arthur Morgan",
+  "alias": "The outlaw you play in Red Dead Redemption 2",
+  "fictional": true,
+  "hint": "said: \"Be loyal to what matters.\" (Red Dead Redemption 2 (2018))"
+ },
+ {
+  "name": "Ned Stark",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Arthur Morgan"
+ },
+ {
+  "name": "Spike Spiegel",
+  "alias": "The bounty hunter in Cowboy Bebop",
+  "fictional": true,
+  "hint": "said: \"I’m not going there to die. I’m going to find out if I’m rea\" (Cowboy Bebop, ep. 26 'The Real Folk Blues (Part 2)' (1999))"
+ },
+ {
+  "name": "Han Solo",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Spike Spiegel"
+ },
+ {
+  "name": "Jet Black",
+  "alias": "The ex-cop with a robot arm in Cowboy Bebop",
+  "fictional": true,
+  "hint": "said: \"Men only think of their past right before their death, as if\" (Cowboy Bebop, ep. 25 'The Real Folk Blues (Part 1)' (1999))"
+ },
+ {
+  "name": "Rust Cohle",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Jet Black"
+ },
+ {
+  "name": "Vicious",
+  "alias": "The sword-wielding villain in Cowboy Bebop",
+  "fictional": true,
+  "hint": "said: \"When angels are forced out of heaven, they become devils.\" (Cowboy Bebop, ep. 5 'Ballad of Fallen Angels' (1998))"
+ },
+ {
+  "name": "Lucifer Morningstar",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Vicious"
+ },
+ {
+  "name": "Babe",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Porco Rosso"
+ },
+ {
+  "name": "Ryuk",
+  "alias": "The apple-eating death god in Death Note",
+  "fictional": true,
+  "hint": "said: \"All humans will, without exception, eventually die. After th\" (Death Note, ep. 37 'New World' (2007))"
+ },
+ {
+  "name": "Death (Discworld)",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ryuk"
+ },
+ {
+  "name": "Light Yagami",
+  "alias": "The honor student with a killer notebook (Death Note)",
+  "fictional": true,
+  "hint": "said: \"I am Justice! I protect the innocent and those who fear evil\" (Death Note, ep. 2 'Confrontation' (2006))"
+ },
+ {
+  "name": "Judge Dredd",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Light Yagami"
+ },
+ {
+  "name": "Levi Ackerman",
+  "alias": "The short captain in Attack on Titan",
+  "fictional": true,
+  "hint": "said: \"I choose the hell of humans killing each other over the hell\" (Attack on Titan, S3 'The Uprising' arc (2018))"
+ },
+ {
+  "name": "Rick Grimes",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Levi Ackerman"
+ },
+ {
+  "name": "Gaara",
+  "alias": "The sand ninja in Naruto",
+  "fictional": true,
+  "hint": "said: \"I live solely for myself. I love only myself.\" (Naruto, ep. 'Hospital Besieged' (2003))"
+ },
+ {
+  "name": "Gilderoy Lockhart",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Gaara"
+ },
+ {
+  "name": "Pepé Le Pew",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Napoleon Bonaparte"
+ },
+ {
+  "name": "Mary Poppins",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Joseph Stalin"
+ },
+ {
+  "name": "Hermione Granger",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Augusto Pinochet"
+ },
+ {
+  "name": "Groundskeeper Willie",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Guy Fawkes"
+ },
+ {
+  "name": "Crocodile Dundee",
+  "alias": null,
+  "fictional": true,
+  "hint": "decoy next to Ned Kelly"
+ }
+]

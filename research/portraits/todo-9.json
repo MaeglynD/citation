@@ -1,0 +1,662 @@
+[
+ {
+  "name": "W. Somerset Maugham",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Evelyn Waugh"
+ },
+ {
+  "name": "Philip Larkin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Deprivation is for me what daffodils were for Wordsworth.\" (Interview with Miriam Gross, The Observer, 16 December 1979)"
+ },
+ {
+  "name": "Bret Easton Ellis",
+  "alias": "The guy who wrote American Psycho",
+  "fictional": false,
+  "hint": "said: \"…the most tedious, overrated, tortured, pretentious writer o\" (Tweet about David Foster Wallace, 6 September 2012)"
+ },
+ {
+  "name": "Norman Mailer",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bret Easton Ellis"
+ },
+ {
+  "name": "Jonathan Franzen",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bret Easton Ellis"
+ },
+ {
+  "name": "James Joyce",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vladimir Nabokov"
+ },
+ {
+  "name": "Ralph Waldo Emerson",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I notice that as soon as writers broach this question they b\" (Journals, May 1849)"
+ },
+ {
+  "name": "Damien Hirst",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Banksy"
+ },
+ {
+  "name": "Johann Sebastian Bach",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Wolfgang Amadeus Mozart"
+ },
+ {
+  "name": "Anton Chekhov",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I was so drunk the whole time that I took bottles for girls \" (Letter to his family, 25 April 1887)"
+ },
+ {
+  "name": "Fyodor Dostoevsky",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Anton Chekhov"
+ },
+ {
+  "name": "Paul Gauguin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vincent van Gogh"
+ },
+ {
+  "name": "Christopher Marlowe",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Shakespeare"
+ },
+ {
+  "name": "Edmund Wilson",
+  "alias": "America's most feared literary critic of the 1940s",
+  "fictional": false,
+  "hint": "said: \"The answer is, I believe, that certain people – especially, \" (Review of The Lord of the Rings, The Nation, 14 April 1956)"
+ },
+ {
+  "name": "Harold Bloom",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Edmund Wilson"
+ },
+ {
+  "name": "Walt Whitman",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Emily Dickinson"
+ },
+ {
+  "name": "Hedy Lamarr",
+  "alias": "The 1940s screen siren who co-invented frequency hopping",
+  "fictional": false,
+  "hint": "said: \"Any girl can be glamorous. All you have to do is stand still\" (Quoted in Richard Schickel, The Stars (1962))"
+ },
+ {
+  "name": "Ricky Gervais",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Science is humble. It knows what it knows and it knows what \" (Essay 'Why I'm an Atheist', Wall Street Journal, 2010)"
+ },
+ {
+  "name": "Tom Lehrer",
+  "alias": "The guy who wrote 'Poisoning Pigeons in the Park'",
+  "fictional": false,
+  "hint": "said: \"I find enough mystery in mathematics to satisfy my spiritual\" (Interview, June 1996)"
+ },
+ {
+  "name": "Weird Al Yankovic",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tom Lehrer"
+ },
+ {
+  "name": "Steve Martin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"…science is just pure empiricism, and by virtue of its metho\" (Comedy album A Wild and Crazy Guy (1978))"
+ },
+ {
+  "name": "Hugh Laurie",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Steve Martin"
+ },
+ {
+  "name": "Brian Cox",
+  "alias": "Keyboard player of 90s pop band D:Ream",
+  "fictional": false,
+  "hint": "said: \"Anyone who thinks the Large Hadron Collider will destroy the\" (Radio Times interview, 8 September 2008)"
+ },
+ {
+  "name": "Lewis Carroll",
+  "alias": "The guy who wrote Alice in Wonderland",
+  "fictional": false,
+  "hint": "said: \"If you want to inspire confidence, give plenty of statistics\" (Three Years in a Curatorship (1886))"
+ },
+ {
+  "name": "Herbert Hoover",
+  "alias": "The US President who was a mining engineer",
+  "fictional": false,
+  "hint": "said: \"…He cannot bury his mistakes in the grave like the doctors. \" (The Memoirs of Herbert Hoover, Vol. 1 (1951), ch. 11)"
+ },
+ {
+  "name": "Dexter Holland",
+  "alias": "Lead singer of The Offspring",
+  "fictional": false,
+  "hint": "said: \"It converts its RNA into DNA and then it gets into your nucl\" (Men's Health interview, 2024 (via Louder))"
+ },
+ {
+  "name": "Anthony Fauci",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dexter Holland"
+ },
+ {
+  "name": "Greg Graffin",
+  "alias": "Lead singer of Bad Religion",
+  "fictional": false,
+  "hint": "said: \"I have great hope and faith, but it’s a humanistic faith bas\" (Discover magazine interview, 6 October 2010)"
+ },
+ {
+  "name": "Henry Rollins",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Greg Graffin"
+ },
+ {
+  "name": "Brian May",
+  "alias": "Lead guitarist of Queen",
+  "fictional": false,
+  "hint": "said: \"We’re interested in zodiacal dust because, presumably, the d\" (Imperial College alumni lecture, 14 November 2007)"
+ },
+ {
+  "name": "Margaret Thatcher",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"…we have unwittingly begun a massive experiment with the sys\" (Speech to the Royal Society, 27 September 1988)"
+ },
+ {
+  "name": "Alan Turing",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Science is a differential equation. Religion is a boundary c\" (Epigram sent to Robin Gandy, 1954)"
+ },
+ {
+  "name": "Kary Mullis",
+  "alias": "The guy who invented PCR",
+  "fictional": false,
+  "hint": "said: \"It’s not even probable, let alone scientifically proven, tha\" (Spin magazine, Vol. 10 No. 4, 1994)"
+ },
+ {
+  "name": "Linus Pauling",
+  "alias": "The only person with two unshared Nobel Prizes",
+  "fictional": false,
+  "hint": "said: \"I think I think harder, think more than other people do, tha\" (Interview, Big Sur, 11 November 1990)"
+ },
+ {
+  "name": "Brian Josephson",
+  "alias": "Nobel physicist with a quantum 'junction' named after him",
+  "fictional": false,
+  "hint": "said: \"These developments may lead to an explanation of processes s\" (Royal Mail Nobel centenary stamp booklet, October 2001)"
+ },
+ {
+  "name": "Uri Geller",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Brian Josephson"
+ },
+ {
+  "name": "James Watson",
+  "alias": "The guy who co-discovered the structure of DNA",
+  "fictional": false,
+  "hint": "said: \"People say it would be terrible if we made all girls pretty.\" (Documentary DNA, reported in New Scientist, 28 February 2003)"
+ },
+ {
+  "name": "J. Robert Oppenheimer",
+  "alias": "The father of the atomic bomb",
+  "fictional": false,
+  "hint": "said: \"…the physicists have known sin; and this is a knowledge whic\" (Arthur D. Little Memorial Lecture, MIT, 25 November 1947)"
+ },
+ {
+  "name": "Ernest Rutherford",
+  "alias": "The guy who split the atom",
+  "fictional": false,
+  "hint": "said: \"…anyone who is looking for a source of cheap power in the tr\" (Calgary Daily Herald, 7 October 1933)"
+ },
+ {
+  "name": "Marie Curie",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ernest Rutherford"
+ },
+ {
+  "name": "Albert A. Michelson",
+  "alias": "The guy who measured the speed of light",
+  "fictional": false,
+  "hint": "said: \"The more important fundamental laws and facts of physical sc\" (Light Waves and Their Uses (1903), pp. 23–25)"
+ },
+ {
+  "name": "Wilbur Wright",
+  "alias": "The guy who invented the airplane",
+  "fictional": false,
+  "hint": "said: \"…in 1901 I said to my brother Orville that man would not fly\" (Speech to the Aéro-Club de France, Paris, 5 November 1908)"
+ },
+ {
+  "name": "Lee de Forest",
+  "alias": "The father of radio",
+  "fictional": false,
+  "hint": "said: \"I am bold enough to say that such a man-made voyage will nev\" (Associated Press interview, 25 February 1957)"
+ },
+ {
+  "name": "Richard Woolley",
+  "alias": "Britain's Astronomer Royal, 1956",
+  "fictional": false,
+  "hint": "said: \"It’s utter bilge. I don’t think anybody will ever put up eno\" (Time magazine, 16 January 1956)"
+ },
+ {
+  "name": "Patrick Moore",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Richard Woolley"
+ },
+ {
+  "name": "John Harvey Kellogg",
+  "alias": "The cornflakes guy",
+  "fictional": false,
+  "hint": "said: \"The influence of coffee in stimulating the genital organs is\" (Plain Facts for Old and Young (1881), pp. 391–393)"
+ },
+ {
+  "name": "Aristotle",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Males have more teeth than females in the case of men, sheep\" (History of Animals, Book II, Part 3 (c. 350 BC), trans. D'Arcy Thompson)"
+ },
+ {
+  "name": "Mikhail Kalashnikov",
+  "alias": "The guy who invented the AK-47",
+  "fictional": false,
+  "hint": "said: \"I’m proud of my invention, but I’m sad that it is used by te\" (Interview, The Guardian, 29 July 2002)"
+ },
+ {
+  "name": "Alfred Nobel",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mikhail Kalashnikov"
+ },
+ {
+  "name": "Francis Crick",
+  "alias": "The other guy who co-discovered the structure of DNA",
+  "fictional": false,
+  "hint": "said: \"There is no form of prose more difficult to understand and m\" (The Astonishing Hypothesis (1994))"
+ },
+ {
+  "name": "Buckminster Fuller",
+  "alias": "The geodesic dome guy",
+  "fictional": false,
+  "hint": "said: \"To ask a politician to lead us is to ask the tail of a dog t\" ('The Designers and the Politicians' (1962))"
+ },
+ {
+  "name": "Marshall McLuhan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Buckminster Fuller"
+ },
+ {
+  "name": "Giordano Bruno",
+  "alias": "The friar burned at the stake for saying the stars are other suns",
+  "fictional": false,
+  "hint": "said: \"Perchance you who pronounce my sentence are in greater fear \" (To his judges at sentencing, 8 February 1600 (reported by Kaspar Schoppe))"
+ },
+ {
+  "name": "Joan of Arc",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Giordano Bruno"
+ },
+ {
+  "name": "Paul Erdős",
+  "alias": "The most prolific mathematician of the 20th century",
+  "fictional": false,
+  "hint": "said: \"The SF created us to enjoy our suffering.\" (Quoted in Paul Hoffman, The Man Who Loved Only Numbers (1998), p. 4)"
+ },
+ {
+  "name": "Kurt Gödel",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Paul Erdős"
+ },
+ {
+  "name": "Charlie Munger",
+  "alias": "Warren Buffett's business partner",
+  "fictional": false,
+  "hint": "said: \"I regard the thing as a combination of dementia and immorali\" (Yahoo Finance interview on Bitcoin, 2018)"
+ },
+ {
+  "name": "Andrew Carnegie",
+  "alias": "The steel baron who built 2,500 free libraries",
+  "fictional": false,
+  "hint": "said: \"One of the serious obstacles to the improvement of our race \" (Essay 'Wealth', North American Review, 1889)"
+ },
+ {
+  "name": "Larry Flynt",
+  "alias": "The Hustler magazine guy",
+  "fictional": false,
+  "hint": "said: \"…the sole motivating factor behind the death penalty is veng\" (Guest column, The Hollywood Reporter, 2013)"
+ },
+ {
+  "name": "Ted Turner",
+  "alias": "The guy who founded CNN",
+  "fictional": false,
+  "hint": "said: \"If I only had a little humility, I’d be perfect.\" (Forbes, 2003)"
+ },
+ {
+  "name": "Karl Lagerfeld",
+  "alias": "The Chanel designer with the ponytail and sunglasses",
+  "fictional": false,
+  "hint": "said: \"I never thought that I would fall in love like this with a c\" (CNN, Fashion Week: Backstage Pass, 2013)"
+ },
+ {
+  "name": "Osho",
+  "alias": "The sex guru from 'Wild Wild Country' with 93 Rolls-Royces",
+  "fictional": false,
+  "hint": "said: \"I am the rich man’s guru.\" (The Last Testament: Interviews with the World Press, 1986)"
+ },
+ {
+  "name": "Sam Bankman-Fried",
+  "alias": "The FTX guy",
+  "fictional": false,
+  "hint": "said: \"I feel bad for those who get fucked by it. By this dumb game\" (DMs to Vox reporter Kelsey Piper, November 2022)"
+ },
+ {
+  "name": "Martin Shkreli",
+  "alias": "The pharma bro",
+  "fictional": false,
+  "hint": "said: \"I could have raised it higher and made more profits for our \" (Forbes Healthcare Summit, December 2015)"
+ },
+ {
+  "name": "Anna Sorokin",
+  "alias": "The fake German heiress",
+  "fictional": false,
+  "hint": "said: \"I’d be lying to you and to everyone else and to myself if I \" (Jailhouse interview with The New York Times, May 2019)"
+ },
+ {
+  "name": "Jordan Belfort",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bernie Madoff"
+ },
+ {
+  "name": "Tom Cruise",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"When you drive past an accident it’s not like anyone else. A\" (Leaked Scientology promotional video, 2008)"
+ },
+ {
+  "name": "Bill O'Reilly",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Tide goes in tide goes out, never a miscommunication. You ca\" (The O'Reilly Factor, Fox News, 4 January 2011)"
+ },
+ {
+  "name": "Ray Kroc",
+  "alias": "The McDonald's guy",
+  "fictional": false,
+  "hint": "said: \"This is rat eat rat, dog eat dog. I’ll kill ‘em, and I’m goi\" (Quoted in Eric Schlosser, 'Fast Food Nation', 2001)"
+ },
+ {
+  "name": "Jack Ma",
+  "alias": "The Alibaba founder",
+  "fictional": false,
+  "hint": "said: \"I personally think that being able to work 996 is a huge ble\" (Speech to Alibaba staff, posted on the company's WeChat, April 2019)"
+ },
+ {
+  "name": "Gary Vaynerchuk",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jack Ma"
+ },
+ {
+  "name": "Masayoshi Son",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jack Ma"
+ },
+ {
+  "name": "Gabe Newell",
+  "alias": "The guy who runs Steam",
+  "fictional": false,
+  "hint": "said: \"Piracy is almost always a service problem and not a pricing \" (Interview with The Cambridge Student, 2011)"
+ },
+ {
+  "name": "Lars Ulrich",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gabe Newell"
+ },
+ {
+  "name": "Kim Dotcom",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gabe Newell"
+ },
+ {
+  "name": "Satoshi Nakamoto",
+  "alias": "The anonymous inventor of Bitcoin",
+  "fictional": false,
+  "hint": "said: \"If you don’t believe me or don’t get it, I don’t have time t\" (Bitcointalk forum post, 29 July 2010)"
+ },
+ {
+  "name": "Edward Snowden",
+  "alias": "The NSA leaker who fled to Russia",
+  "fictional": false,
+  "hint": "said: \"Being called a traitor by Dick Cheney is the highest honor y\" (Live Q&A with The Guardian, 17 June 2013)"
+ },
+ {
+  "name": "Julian Assange",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Edward Snowden"
+ },
+ {
+  "name": "Tony Schwartz",
+  "alias": "The ghostwriter of The Art of the Deal",
+  "fictional": false,
+  "hint": "said: \"I genuinely believe that if Trump wins and gets the nuclear \" (Interview with Jane Mayer, The New Yorker, July 2016)"
+ },
+ {
+  "name": "Michael Cohen",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tony Schwartz"
+ },
+ {
+  "name": "Ken Olsen",
+  "alias": "The CEO of the second-biggest computer company of the 1970s",
+  "fictional": false,
+  "hint": "said: \"There is no reason for any individual to have a computer in \" (Talk at the World Future Society convention, Boston, 1977)"
+ },
+ {
+  "name": "Michael Dell",
+  "alias": "The Dell computers guy",
+  "fictional": false,
+  "hint": "said: \"What would I do? I’d shut it down and give the money back to\" (On Apple, Gartner Symposium, reported by CNET, 6 October 1997)"
+ },
+ {
+  "name": "Jake Paul",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Logan Paul"
+ },
+ {
+  "name": "Tai Lopez",
+  "alias": "The internet guru who sells a '67 Steps' course",
+  "fictional": false,
+  "hint": "said: \"Here in my garage, just bought this new Lamborghini here. It\" (YouTube pre-roll ad for his '67 Steps' course, 2015)"
+ },
+ {
+  "name": "Dan Bilzerian",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tai Lopez"
+ },
+ {
+  "name": "Grant Cardone",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tai Lopez"
+ },
+ {
+  "name": "Joe Exotic",
+  "alias": "The Tiger King",
+  "fictional": false,
+  "hint": "said: \"I am never going to financially recover from this.\" (Tiger King (Netflix), 2020)"
+ },
+ {
+  "name": "Carole Baskin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Joe Exotic"
+ },
+ {
+  "name": "Marcus Aurelius",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"At dawn, when you have trouble getting out of bed, tell your\" (Meditations 5.1 (c. 170 AD), trans. Gregory Hays, 2002)"
+ },
+ {
+  "name": "Ayn Rand",
+  "alias": "The woman who wrote Atlas Shrugged",
+  "fictional": false,
+  "hint": "said: \"Kant is the most evil man in mankind’s history.\" ('Brief Summary', The Objectivist, September 1971)"
+ },
+ {
+  "name": "Seneca",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Marcus Aurelius"
+ },
+ {
+  "name": "Carl Jung",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Sigmund Freud"
+ },
+ {
+  "name": "Woody Allen",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Grunkle Stan"
+ },
+ {
+  "name": "Rumi",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dug"
+ },
+ {
+  "name": "Ronald Reagan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Andrew Ryan"
+ },
+ {
+  "name": "Rainer Maria Rilke",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Butters Stotch"
+ },
+ {
+  "name": "Jerry Seinfeld",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Garnet"
+ },
+ {
+  "name": "Roger Ebert",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Anton Ego"
+ },
+ {
+  "name": "Tupac Shakur",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Nick Wilde"
+ },
+ {
+  "name": "Epictetus",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Genie"
+ },
+ {
+  "name": "Soren Kierkegaard",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Charlie Brown"
+ },
+ {
+  "name": "Brene Brown",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Charlie Brown"
+ },
+ {
+  "name": "Samuel Beckett",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Eeyore"
+ },
+ {
+  "name": "Werner Herzog",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Eeyore"
+ },
+ {
+  "name": "Jocko Willink",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Kratos"
+ },
+ {
+  "name": "P. T. Barnum",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Frank Fontaine"
+ },
+ {
+  "name": "L. Ron Hubbard",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Frank Fontaine"
+ },
+ {
+  "name": "T. E. Lawrence",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ganondorf"
+ },
+ {
+  "name": "John Milton",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vicious"
+ },
+ {
+  "name": "Epicurus",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ryuk"
+ }
+]

@@ -1,0 +1,512 @@
+[
+ {
+  "name": "Donald Trump",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mary McCarthy | said: \"I call it truthful hyperbole. It’s an innocent form of exagg\" (Trump: The Art of the Deal (1987))"
+ },
+ {
+  "name": "Gwyneth Paltrow",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ted Kaczynski"
+ },
+ {
+  "name": "Prince Philip",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Lord Kelvin | said: \"If it has four legs and is not a chair, has wings and is not\" (Remark to a World Wildlife Fund meeting, 1986 (BBC News, 1 Mar 2002))"
+ },
+ {
+  "name": "Alex Jones",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George Orwell | said: \"I’m like a chimpanzee, in a tree, jumping up and down, warni\" (Interview with The Young Turks, 2009)"
+ },
+ {
+  "name": "George W. Bush",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Rarely is the question asked: Is our children learning?\" (Campaign speech, Florence, South Carolina, 11 Jan 2000) | said: \"Fool me once, shame on — shame on you. Fool me — you can’t g\" (Speech in Nashville, Tennessee, 17 Sept 2002)"
+ },
+ {
+  "name": "Vladimir Putin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Sigmund Freud | said: \"So if we find them in the toilet, excuse me, we’ll rub them \" (Press remarks on Chechen terrorists, Astana, 24 Sept 1999)"
+ },
+ {
+  "name": "Bear Grylls",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Terry Pratchett"
+ },
+ {
+  "name": "Silvio Berlusconi",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Donald Trump | said: \"Barack Obama being young, handsome and sun-tanned is going t\" (Press conference with Dmitry Medvedev, Moscow, 6 Nov 2008)"
+ },
+ {
+  "name": "Marie Antoinette",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Pardon me, sir, I did not do it on purpose.\" (Last words, after stepping on the executioner's foot, 16 Oct 1793)"
+ },
+ {
+  "name": "Judge Judy",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Anton Chigurh"
+ },
+ {
+  "name": "Dan Quayle",
+  "alias": "The Vice President who misspelled potato",
+  "fictional": false,
+  "hint": "decoy next to George W. Bush | said: \"What a waste it is to lose one’s mind. Or not to have a mind\" (Speech to the United Negro College Fund, 9 May 1989)"
+ },
+ {
+  "name": "Richard Nixon",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to HAL 9000 | said: \"Well, when the president does it, that means that it is not \" (Interview with David Frost, broadcast 19 May 1977)"
+ },
+ {
+  "name": "Stephen Fry",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ricky Gervais"
+ },
+ {
+  "name": "Queen Elizabeth II",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mick Jagger"
+ },
+ {
+  "name": "Joe Biden",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George W. Bush | said: \"Corn Pop was a bad dude, and he ran a bunch of bad boys.\" (Speech at a pool dedication, Wilmington, Delaware, June 2017)"
+ },
+ {
+  "name": "Prince Harry",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to John Adams | said: \"While the ears and cheeks were already healing, the todger w\" (Spare (2023), memoir)"
+ },
+ {
+  "name": "Rob Ford",
+  "alias": "The Mayor of Toronto",
+  "fictional": false,
+  "hint": "decoy next to Marion Barry | said: \"Yes, I have smoked crack cocaine.\" (Remarks to reporters at Toronto City Hall, 5 Nov 2013)"
+ },
+ {
+  "name": "Boris Johnson",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"My chances of being PM are about as good as the chances of f\" (The Independent, 'You ask the questions', 17 June 2004) | said: \"Voting Tory will cause your wife to have bigger breasts and \" (General election campaign remark, April 2005 (Independent on Sunday))"
+ },
+ {
+  "name": "Jeremy Clarkson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Boris Johnson"
+ },
+ {
+  "name": "Bill Clinton",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"It depends on what the meaning of the word ‘is’ is.\" (Grand jury testimony, 17 Aug 1998 (Starr Report))"
+ },
+ {
+  "name": "Sarah Palin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"‘Refudiate,’ ‘misunderestimate,’ ‘wee-wee’d up.’ English is \" (Tweet, 18 July 2010)"
+ },
+ {
+  "name": "Rudy Giuliani",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"No, it isn’t truth. Truth isn’t truth.\" (NBC Meet the Press, 19 Aug 2018)"
+ },
+ {
+  "name": "Louis XIV",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Richard Nixon"
+ },
+ {
+  "name": "Jon Stewart",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Antonin Scalia"
+ },
+ {
+  "name": "Theresa May",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Boris Johnson | said: \"I have to confess that when me and my friends used to run th\" (ITV interview with Julie Etchingham, June 2017)"
+ },
+ {
+  "name": "Hillary Clinton",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Princess Diana"
+ },
+ {
+  "name": "David Cameron",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I was the future once.\" (Final Prime Minister's Questions, House of Commons, 13 July 2016) | said: \"The trouble with Twitter, the instantness of it – too many t\" (Absolute Radio interview, 29 July 2009)"
+ },
+ {
+  "name": "Nikita Khrushchev",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Politicians are the same all over. They promise to build a b\" (Remark about a bridge in Belgrade, 22 Aug 1963 (Chicago Tribune)) | said: \"If you start throwing hedgehogs under me, I shall throw a co\" (Quoted in The New York Times, 7 Nov 1963)"
+ },
+ {
+  "name": "Imelda Marcos",
+  "alias": "The first lady with 3,000 pairs of shoes",
+  "fictional": false,
+  "hint": "said: \"They went into my closets looking for skeletons, but thank G\" (At the opening of the Marikina Footwear Museum, Manila (BBC News, 16 Feb 2001)) | said: \"I have never been a material girl. My father always told me \" (Interview in TIME magazine, November 1996)"
+ },
+ {
+  "name": "Pat Robertson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hugo Chávez"
+ },
+ {
+  "name": "Robert Mugabe",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Only God, who appointed me, will remove me – not the MDC, no\" (Election rally, Zimbabwe, 2008) | said: \"Cricket civilizes people and creates good gentlemen. I want \" (The Sunday Times, 26 February 1984)"
+ },
+ {
+  "name": "Ayatollah Khomeini",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Open the door of the tavern and let us go there day and nigh\" (Poem published in the Tehran newspaper Kayhan after his death, June 1989)"
+ },
+ {
+  "name": "Yoko Ono",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Donald Trump"
+ },
+ {
+  "name": "Donald Rumsfeld",
+  "alias": "The Pentagon chief who ran the Iraq War",
+  "fictional": false,
+  "hint": "said: \"There are things we know we know. We also know there are kno\" (Pentagon news briefing, 12 Feb 2002)"
+ },
+ {
+  "name": "Marjorie Taylor Greene",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Now we have Nancy Pelosi’s gazpacho police spying on members\" (Interview on One America News, 8 Feb 2022)"
+ },
+ {
+  "name": "Lauren Boebert",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Marjorie Taylor Greene"
+ },
+ {
+  "name": "Herman Cain",
+  "alias": "The pizza CEO who ran for president",
+  "fictional": false,
+  "hint": "said: \"When they ask me who is the president of Ubeki-beki-beki-bek\" (Interview with CBN's David Brody, Oct 2011)"
+ },
+ {
+  "name": "Lyndon B. Johnson",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Now, another thing: the crotch, down where your nuts hang, i\" (Recorded phone call ordering trousers from Joe Haggar, 9 Aug 1964)"
+ },
+ {
+  "name": "Harry S. Truman",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Some day I hope to meet you. When that happens you’ll need a\" (Letter to Washington Post music critic Paul Hume, 6 Dec 1950)"
+ },
+ {
+  "name": "Andrew Jackson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Harry S. Truman"
+ },
+ {
+  "name": "Theodore Roosevelt",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Friends, I shall ask you to be as quiet as possible. I don’t\" (Campaign speech in Milwaukee, minutes after being shot, 14 Oct 1912)"
+ },
+ {
+  "name": "50 Cent",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Theodore Roosevelt"
+ },
+ {
+  "name": "John Adams",
+  "alias": "America's second president",
+  "fictional": false,
+  "hint": "said: \"My Country has in its Wisdom contrived for me, the most insi\" (Letter to Abigail Adams, 19 Dec 1793)"
+ },
+ {
+  "name": "Thomas Jefferson",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"The tree of liberty must be refreshed from time to time with\" (Letter to William Stephens Smith, 13 Nov 1787)"
+ },
+ {
+  "name": "Benjamin Franklin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"…in all your Amours you should prefer old Women to young one\" ('Old Mistresses Apologue', letter to a young friend, 25 June 1745)"
+ },
+ {
+  "name": "Warren G. Harding",
+  "alias": "The 29th president, whom nobody remembers",
+  "fictional": false,
+  "hint": "said: \"Jerry sends Christmas greetings! He would come too, if I mig\" (Letter to mistress Carrie Phillips, c.1910-20 (Library of Congress, opened 2014))"
+ },
+ {
+  "name": "Lord Byron",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Warren G. Harding"
+ },
+ {
+  "name": "Henry Kissinger",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"The illegal we do immediately. The unconstitutional takes a \" (Joking remark quoted in The Washington Post, 23 Dec 1973)"
+ },
+ {
+  "name": "Marion Barry",
+  "alias": "The Washington D.C. mayor caught on an FBI drug tape",
+  "fictional": false,
+  "hint": "said: \"Outside of the killings, D.C. has one of the lowest crime ra\" (Quoted in USA Today, 24 Mar 1989)"
+ },
+ {
+  "name": "Ted Stevens",
+  "alias": "The senator in charge of regulating the internet",
+  "fictional": false,
+  "hint": "said: \"And again, the Internet is not something that you just dump \" (Senate Commerce Committee debate on net neutrality, 28 June 2006)"
+ },
+ {
+  "name": "Antonin Scalia",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"The Supreme Court of the United States has descended from th\" (Dissent in Obergefell v. Hodges, 26 June 2015)"
+ },
+ {
+  "name": "Oliver Wendell Holmes Jr.",
+  "alias": "America's most-quoted Supreme Court justice",
+  "fictional": false,
+  "hint": "said: \"Three generations of imbeciles are enough.\" (Majority opinion, Buck v. Bell, 1927)"
+ },
+ {
+  "name": "Emperor Norton",
+  "alias": "The man who declared himself Emperor of the United States",
+  "fictional": false,
+  "hint": "said: \"…we do hereby abolish Congress, and it is therefore abolishe\" (Proclamation printed in the San Francisco Evening Bulletin, 12 Oct 1859)"
+ },
+ {
+  "name": "Pablo Escobar",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Prince Philip"
+ },
+ {
+  "name": "King Charles III",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Oh. God. I’ll just live inside your trousers or something. I\" (Intercepted phone call to Camilla Parker Bowles, 18 Dec 1989 (published 1993))"
+ },
+ {
+  "name": "Princess Anne",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"When I appear in public, people expect me to neigh, grind my\" (On her 'horsey' reputation (Oxford Dictionary of Quotations by Subject, 2010))"
+ },
+ {
+  "name": "Prince Andrew",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Because going to Pizza Express in Woking is an unusual thing\" (BBC Newsnight interview with Emily Maitlis, Nov 2019)"
+ },
+ {
+  "name": "Queen Victoria",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"An ugly baby is a very nasty object – and the prettiest is f\" (Letter to her daughter Vicky, 1859 (Dearest Child, ed. Roger Fulford))"
+ },
+ {
+  "name": "Princess Diana",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Well, there were three of us in this marriage, so it was a b\" (BBC Panorama interview with Martin Bashir, 20 Nov 1995)"
+ },
+ {
+  "name": "Elizabeth Taylor",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Princess Diana"
+ },
+ {
+  "name": "Tony Blair",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to David Cameron"
+ },
+ {
+  "name": "Liz Truss",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"We import two-thirds of our cheese. That is a disgrace.\" (Conservative Party Conference speech, Birmingham, 2014)"
+ },
+ {
+  "name": "Jacob Rees-Mogg",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Liz Truss"
+ },
+ {
+  "name": "Boris Yeltsin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Well, now for the first time, I can tell you that you’re a d\" (Joint press conference with Bill Clinton, Hyde Park, New York, 23 Oct 1995)"
+ },
+ {
+  "name": "Joan Rivers",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Boris Yeltsin"
+ },
+ {
+  "name": "Charles de Gaulle",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"How can you govern a country that has two hundred and forty-\" (Quoted in Ernest Mignon, Les Mots du Général (1962))"
+ },
+ {
+  "name": "Nicolas Sarkozy",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Get lost then, you poor jerk!\" (To a man who refused to shake his hand, Paris Agricultural Show, 23 Feb 2008)"
+ },
+ {
+  "name": "Zinedine Zidane",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Nicolas Sarkozy"
+ },
+ {
+  "name": "Hugh Grant",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Marie Antoinette"
+ },
+ {
+  "name": "Kaiser Wilhelm II",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"You English are mad, mad, mad as March hares.\" (Interview published in The Daily Telegraph, 28 Oct 1908)"
+ },
+ {
+  "name": "Justin Trudeau",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"We like to say ‘peoplekind,’ not necessarily ‘mankind,’ beca\" (Town hall at MacEwan University, Edmonton, 2 Feb 2018)"
+ },
+ {
+  "name": "Tony Abbott",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"No one, however smart, however well-educated, however experi\" (Speech at a Liberal Party event, Melbourne, 12 Aug 2013)"
+ },
+ {
+  "name": "Bob Hawke",
+  "alias": "The Australian PM with a beer-drinking world record",
+  "fictional": false,
+  "hint": "said: \"Any boss who sacks anyone for not turning up today is a bum.\" (ABC News interview after Australia won the America's Cup, 27 Sept 1983)"
+ },
+ {
+  "name": "Shane Warne",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bob Hawke"
+ },
+ {
+  "name": "Paul Keating",
+  "alias": "The Australian PM famous for parliamentary insults",
+  "fictional": false,
+  "hint": "said: \"…because I want to do you slowly.\" (To Opposition Leader John Hewson, House of Representatives, 15 Sept 1992)"
+ },
+ {
+  "name": "Barry White",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Paul Keating"
+ },
+ {
+  "name": "Hugo Chávez",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Yesterday the Devil came here. Right here. And it smells of \" (Speech to the UN General Assembly, New York, 20 Sept 2006)"
+ },
+ {
+  "name": "King Juan Carlos I",
+  "alias": "The King of Spain",
+  "fictional": false,
+  "hint": "said: \"Why don’t you shut up?\" (To Hugo Chávez at the Ibero-American Summit, Santiago, 10 Nov 2007)"
+ },
+ {
+  "name": "Mahmoud Ahmadinejad",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"In Iran, we don’t have homosexuals like in your country. We \" (Speech at Columbia University, New York, 24 Sept 2007 (via interpreter))"
+ },
+ {
+  "name": "Mike Pence",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mahmoud Ahmadinejad"
+ },
+ {
+  "name": "Recep Tayyip Erdoğan",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"A woman who rejects motherhood, who refrains from being arou\" (Speech to the Women and Democracy Association, Istanbul, 5 June 2016)"
+ },
+ {
+  "name": "Phyllis Schlafly",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Recep Tayyip Erdoğan"
+ },
+ {
+  "name": "Jair Bolsonaro",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"So what? I’m sorry. What do you want me to do? I’m Messiah, \" (To reporters as Brazil's COVID-19 deaths passed 5,000, Brasília, 28 Apr 2020)"
+ },
+ {
+  "name": "Evo Morales",
+  "alias": "The Bolivian president who used to grow coca",
+  "fictional": false,
+  "hint": "said: \"When we talk about chicken, it’s pumped full of female hormo\" (World People's Conference on Climate Change, Cochabamba, 20 Apr 2010)"
+ },
+ {
+  "name": "Deng Xiaoping",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"It doesn’t matter whether the cat is black or white, as long\" (Speech to a Communist Youth League conference, July 1962)"
+ }
+]

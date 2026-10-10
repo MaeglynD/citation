@@ -1,0 +1,1760 @@
+[
+  {
+    "id": "art-faulkner-hemingway-dictionary",
+    "quote": "He has never been known to use a word that might cause the reader to check with a dictionary to see if it is properly used.",
+    "answer": {
+      "name": "William Faulkner",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Vladimir Nabokov",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "Q&A at the University of Mississippi, April 1947 (pub. Western Review, 1951)",
+    "note": "On Hemingway. Hemingway's reply began: 'Poor Faulkner.'",
+    "url": "https://quoteinvestigator.com/2016/01/26/dictionary/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-hemingway-unsuccessful-rapist",
+    "quote": "Under the black hat, when I had first seen them, the eyes had been those of an unsuccessful rapist.",
+    "answer": {
+      "name": "Ernest Hemingway",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Stephen King",
+        "fictional": false
+      }
+    ],
+    "source": "A Moveable Feast (1964), ch. 12",
+    "note": "Describing fellow novelist and painter Wyndham Lewis.",
+    "url": "https://en.wikiquote.org/wiki/Ernest_Hemingway",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-twain-austen-natural-death",
+    "quote": "Jane is entirely impossible. It seems a great pity that they allowed her to die a natural death.",
+    "answer": {
+      "name": "Mark Twain",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Ernest Hemingway",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to William Dean Howells, 18 January 1909",
+    "note": "On Jane Austen. He kept re-reading her so he could hate her again.",
+    "url": "https://twainquotes.com/Austen_Jane.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-kafka-war-swimming",
+    "quote": "Germany has declared war on Russia. Swimming in the afternoon.",
+    "answer": {
+      "name": "Franz Kafka",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Ernest Hemingway",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      }
+    ],
+    "source": "Diary entry, 2 August 1914",
+    "note": "The entire entry for the day the First World War reached Russia.",
+    "url": "https://en.wikiquote.org/wiki/Franz_Kafka",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "deadpan",
+      "diary"
+    ]
+  },
+  {
+    "id": "art-vidal-friend-succeeds",
+    "quote": "Whenever a friend succeeds, a little something in me dies.",
+    "answer": {
+      "name": "Gore Vidal",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      },
+      {
+        "name": "Truman Capote",
+        "fictional": false
+      },
+      {
+        "name": "Taylor Swift",
+        "fictional": false
+      }
+    ],
+    "source": "The Sunday Times Magazine, 16 September 1973",
+    "url": "https://en.wikiquote.org/wiki/Gore_Vidal",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "petty",
+      "writer"
+    ]
+  },
+  {
+    "id": "art-woolf-ulysses-underbred",
+    "quote": "An illiterate, underbred book it seems to me; the book of a self-taught working man",
+    "answer": {
+      "name": "Virginia Woolf",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Dorothy Parker",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "Diary, 16 August 1922",
+    "note": "On James Joyce's Ulysses. She went on: 'ultimately nauseating.'",
+    "url": "https://en.wikiquote.org/wiki/Virginia_Woolf",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "snob"
+    ]
+  },
+  {
+    "id": "art-mccarthy-hellman-and-the",
+    "quote": "Every word she writes is a lie, including 'and' and 'the'.",
+    "answer": {
+      "name": "Mary McCarthy",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dorothy Parker",
+        "fictional": false
+      },
+      {
+        "name": "Gore Vidal",
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      }
+    ],
+    "source": "The Dick Cavett Show, 1979",
+    "note": "On playwright Lillian Hellman, who sued her for $2.25 million.",
+    "url": "https://en.wikiquote.org/wiki/Mary_McCarthy",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-orwell-fruit-juice-drinkers",
+    "quote": "...the mere words 'Socialism' and 'Communism' draw towards them with magnetic force every fruit-juice drinker, nudist, sandal-wearer, sex-maniac, Quaker, 'Nature Cure' quack, pacifist, and feminist in England.",
+    "answer": {
+      "name": "George Orwell",
+      "alias": "The guy who wrote 1984",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      }
+    ],
+    "source": "The Road to Wigan Pier (1937), ch. 11",
+    "note": "He was a lifelong socialist.",
+    "url": "https://en.wikiquote.org/wiki/The_Road_to_Wigan_Pier",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "petty",
+      "politics"
+    ]
+  },
+  {
+    "id": "art-sendak-rushdie-fuckhead",
+    "quote": "That flaccid fuckhead. He was detestable. I called up the Ayatollah, nobody knows that.",
+    "answer": {
+      "name": "Maurice Sendak",
+      "alias": "The guy who wrote Where the Wild Things Are",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Roald Dahl",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with The Guardian, 2 October 2011",
+    "note": "On Salman Rushdie, who had given him a bad review decades earlier.",
+    "url": "https://www.orderofthegooddeath.com/article/maurice-sendak-refuses-to-lie-to-your-child/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "children-author-filthy",
+      "writer-feud"
+    ]
+  },
+  {
+    "id": "art-king-meyer-darn",
+    "quote": "The real difference is that Jo Rowling is a terrific writer and Stephenie Meyer can't write worth a darn.",
+    "answer": {
+      "name": "Stephen King",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gore Vidal",
+        "fictional": false
+      },
+      {
+        "name": "George R.R. Martin",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "USA Weekend interview, February 2009",
+    "note": "He added that Twilight works because it is 'not overtly sexual'.",
+    "url": "https://www.mtv.com/news/f0i4l4/stephen-king-blasts-twilight-author-stephenie-meyer",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-marx-not-a-marxist",
+    "quote": "If anything is certain, it is that I myself am not a Marxist.",
+    "answer": {
+      "name": "Karl Marx",
+      "alias": "The guy who wrote the Communist Manifesto",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Groucho Marx",
+        "fictional": false
+      }
+    ],
+    "source": "Reported by Engels, letter to Eduard Bernstein, 2 November 1882",
+    "note": "Said of the French 'Marxists'. Engels repeated it for years.",
+    "url": "https://en.wikiquote.org/wiki/Karl_Marx",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "irony"
+    ]
+  },
+  {
+    "id": "art-wittgenstein-wonderful-life",
+    "quote": "Tell them I've had a wonderful life.",
+    "answer": {
+      "name": "Ludwig Wittgenstein",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Bertrand Russell",
+        "fictional": false
+      },
+      {
+        "name": "Winnie the Pooh",
+        "fictional": true
+      }
+    ],
+    "source": "Last words, 28 April 1951 (Norman Malcolm, Ludwig Wittgenstein: A Memoir, 1966)",
+    "note": "From a man who once threatened Karl Popper with a fireplace poker.",
+    "url": "https://en.wikiquote.org/wiki/Ludwig_Wittgenstein",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "philosopher-tender",
+      "last-words"
+    ]
+  },
+  {
+    "id": "art-wittgenstein-socrates-waste",
+    "quote": "Reading the Socratic dialogues one has the feeling: what a frightful waste of time! What's the point of these arguments that prove nothing and clarify nothing?",
+    "answer": {
+      "name": "Ludwig Wittgenstein",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bart Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Joe Rogan",
+        "fictional": false
+      }
+    ],
+    "source": "Culture and Value (1980), p. 14e, remark from 1931",
+    "note": "Written by one of the most influential philosophers of the 20th century.",
+    "url": "https://en.wikiquote.org/wiki/Ludwig_Wittgenstein",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-diogenes-rubbing-belly",
+    "quote": "I wish it were as easy to banish hunger by rubbing my belly.",
+    "answer": {
+      "name": "Diogenes of Sinope",
+      "alias": "The Greek philosopher who lived in a barrel",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Socrates",
+        "fictional": false
+      },
+      {
+        "name": "Snoop Dogg",
+        "fictional": false
+      }
+    ],
+    "source": "Diogenes Laërtius, Lives of Eminent Philosophers, 6.46 (c. 3rd century AD)",
+    "note": "Said while masturbating in the Athenian marketplace.",
+    "url": "https://en.wikiquote.org/wiki/Diogenes_of_Sinope",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher-filthy",
+      "ancient"
+    ]
+  },
+  {
+    "id": "art-marcus-aurelius-get-out-of-bed",
+    "quote": "At dawn, when you have trouble getting out of bed, tell yourself: 'I have to go to work — as a human being.'",
+    "answer": {
+      "name": "Marcus Aurelius",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      },
+      {
+        "name": "Seneca",
+        "fictional": false
+      },
+      {
+        "name": "Garfield",
+        "fictional": true
+      }
+    ],
+    "source": "Meditations 5.1 (c. 170 AD), trans. Gregory Hays, 2002",
+    "note": "The Emperor of Rome, pep-talking himself out of bed.",
+    "url": "https://www.themarginalian.org/2017/01/03/marcus-aurelius-meditations-bed-work/",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "relatable",
+      "ancient"
+    ]
+  },
+  {
+    "id": "art-machiavelli-inn-squabbles",
+    "quote": "I slum around with them for the rest of the day playing cricca and backgammon: these games lead to thousands of squabbles and endless abuses and vituperations.",
+    "answer": {
+      "name": "Niccolò Machiavelli",
+      "alias": "The guy who wrote The Prince",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      },
+      {
+        "name": "Giacomo Casanova",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to Francesco Vettori, 10 December 1513",
+    "note": "Same letter in which he mentions he has just written The Prince.",
+    "url": "https://qcurtius.com/2017/01/03/a-retreat-can-spur-creative-energy-machiavellis-letter-to-francesco-vettori/",
+    "verification": "primary",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "relatable"
+    ]
+  },
+  {
+    "id": "art-montaigne-kings-shit",
+    "quote": "Kings and philosophers shit, and so do ladies.",
+    "answer": {
+      "name": "Michel de Montaigne",
+      "alias": "The guy who invented the essay",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charles Bukowski",
+        "fictional": false
+      },
+      {
+        "name": "Voltaire",
+        "fictional": false
+      },
+      {
+        "name": "Shrek",
+        "fictional": true
+      }
+    ],
+    "source": "Essays (1580-88), trans. Ann Hartle",
+    "note": "French original: 'Les rois et les philosophes fientent, et les dames aussi.'",
+    "url": "https://en.wikiquote.org/wiki/Michel_de_Montaigne",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher-filthy",
+      "renaissance"
+    ]
+  },
+  {
+    "id": "art-pascal-stay-in-room",
+    "quote": "all the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber.",
+    "answer": {
+      "name": "Blaise Pascal",
+      "alias": "The guy the unit of pressure is named after",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Buddha",
+        "fictional": false
+      },
+      {
+        "name": "Søren Kierkegaard",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Pensées (1670), fragment 139",
+    "note": "Same book: Caesar was 'too old' to go off and amuse himself conquering the world.",
+    "url": "https://en.wikiquote.org/wiki/Pens%C3%A9es",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "introvert",
+      "sounds-modern"
+    ]
+  },
+  {
+    "id": "art-picasso-goddesses-doormats",
+    "quote": "For me, there are two kinds of women — goddesses and doormats.",
+    "answer": {
+      "name": "Pablo Picasso",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Salvador Dalí",
+        "fictional": false
+      },
+      {
+        "name": "Johnny Bravo",
+        "fictional": true
+      }
+    ],
+    "source": "Reported by Françoise Gilot, Life with Picasso (1964); Time, 1969",
+    "note": "Gilot, his partner of ten years, later wrote the book. He never spoke to her again.",
+    "url": "https://en.wikiquote.org/wiki/Pablo_Picasso",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "artist-savage",
+      "misogyny"
+    ]
+  },
+  {
+    "id": "art-dali-i-am-drugs",
+    "quote": "I don't do drugs. I am drugs.",
+    "answer": {
+      "name": "Salvador Dalí",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Snoop Dogg",
+        "fictional": false
+      },
+      {
+        "name": "Andy Warhol",
+        "fictional": false
+      },
+      {
+        "name": "Lady Gaga",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Paloma Chamorro, Madrid, 1982",
+    "note": "Spanish original: 'Yo no tomo drogas, yo soy la droga.'",
+    "url": "https://en.wikiquote.org/wiki/Salvador_Dal%C3%AD",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "artist-ego",
+      "sounds-like-rapper"
+    ]
+  },
+  {
+    "id": "art-warhol-coke-is-a-coke",
+    "quote": "A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking.",
+    "answer": {
+      "name": "Andy Warhol",
+      "alias": "The guy who painted the soup cans",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Banksy",
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      }
+    ],
+    "source": "The Philosophy of Andy Warhol (1975), ch. 6",
+    "note": "He also said: 'Being good in business is the most fascinating kind of art.'",
+    "url": "https://en.wikiquote.org/wiki/Andy_Warhol",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "artist",
+      "deadpan",
+      "sounds-modern"
+    ]
+  },
+  {
+    "id": "art-michelangelo-goitre",
+    "quote": "I've grown a goitre by dwelling in this den – as cats from stagnant streams in Lombardy, or in what other land they hap to be – which drives the belly close beneath the chin, my beard turns up to heaven; my nape falls in",
+    "answer": {
+      "name": "Michelangelo",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bob Ross",
+        "fictional": false
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "fictional": false
+      },
+      {
+        "name": "Quasimodo",
+        "fictional": true
+      }
+    ],
+    "source": "Sonnet to Giovanni da Pistoia, c. 1509-10, trans. J.A. Symonds (1878)",
+    "note": "Complaining about painting the Sistine Chapel ceiling. It ends: 'painting is my shame.'",
+    "url": "https://victorianfboos.studio.uiowa.edu/node/1266",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "artist",
+      "complaining",
+      "renaissance"
+    ]
+  },
+  {
+    "id": "art-beethoven-what-i-shit",
+    "quote": "O you miserable scoundrel, what I shit is better than anything you ever thought.",
+    "answer": {
+      "name": "Ludwig van Beethoven",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "fictional": false
+      },
+      {
+        "name": "Eminem",
+        "fictional": false
+      }
+    ],
+    "source": "Margin note beside a bad review in the journal Cäcilia, August 1825",
+    "note": "The review, by Gottfried Weber, had panned Wellington's Victory.",
+    "url": "https://en.wikiquote.org/wiki/Ludwig_van_Beethoven",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "composer-filthy",
+      "critics"
+    ]
+  },
+  {
+    "id": "art-rossini-wagner-quarters",
+    "quote": "Monsieur Wagner has good moments, but awful quarters of an hour!",
+    "answer": {
+      "name": "Gioachino Rossini",
+      "alias": "The guy who wrote the William Tell Overture",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dorothy Parker",
+        "fictional": false
+      },
+      {
+        "name": "Johannes Brahms",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to Emile Naumann, April 1867",
+    "note": "He also offered to set a laundress's bill to music.",
+    "url": "https://en.wikiquote.org/wiki/Gioachino_Rossini",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "composer-feud",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-cage-nothing-to-say",
+    "quote": "I have nothing to say and I am saying it and that is poetry as I need it.",
+    "answer": {
+      "name": "John Cage",
+      "alias": "The guy who composed four and a half minutes of silence",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yogi Berra",
+        "fictional": false
+      },
+      {
+        "name": "Bob Dylan",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      }
+    ],
+    "source": "Lecture on Nothing (1949)",
+    "url": "https://en.wikiquote.org/wiki/John_Cage",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "composer",
+      "deadpan"
+    ]
+  },
+  {
+    "id": "art-zizek-flowers-children",
+    "quote": "I think that flowers should be forbidden to children.",
+    "answer": {
+      "name": "Slavoj Žižek",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Roald Dahl",
+        "fictional": false
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "The Pervert's Guide to Cinema (2006)",
+    "note": "He has also said love is 'what makes sex more than masturbation' (BBC HARDtalk, 2010).",
+    "url": "https://en.wikiquote.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "philosopher",
+      "bizarre",
+      "children"
+    ]
+  },
+  {
+    "id": "art-nietzsche-my-impossibles",
+    "quote": "Dante: or the hyena who writes poetry in tombs. Kant: or cant as an intelligible character. Victor Hugo: or the pharos at the sea of nonsense.",
+    "answer": {
+      "name": "Friedrich Nietzsche",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gore Vidal",
+        "fictional": false
+      },
+      {
+        "name": "Arthur Schopenhauer",
+        "fictional": false
+      },
+      {
+        "name": "Eminem",
+        "fictional": false
+      }
+    ],
+    "source": "Twilight of the Idols (1889), 'Skirmishes of an Untimely Man', sec. 1",
+    "note": "A list he titled 'My Impossibles'. John Stuart Mill: 'or insulting clarity.'",
+    "url": "https://theanarchistlibrary.org/library/friedrich-nietzsche-twilight-of-the-idols.html",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "philosopher-savage",
+      "writer-feud"
+    ]
+  },
+  {
+    "id": "art-tolstoy-shakespeare-average",
+    "quote": "Shakespeare can not be recognized either as a great genius, or even as an average author.",
+    "answer": {
+      "name": "Leo Tolstoy",
+      "alias": "The guy who wrote War and Peace",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mark Twain",
+        "fictional": false
+      },
+      {
+        "name": "Charles Dickens",
+        "fictional": false
+      },
+      {
+        "name": "Bart Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Shakespeare and the Drama (1906), ch. 1, trans. V. Tchertkoff",
+    "note": "He called King Lear 'a very bad, carelessly composed production.'",
+    "url": "https://www.gutenberg.org/cache/epub/27726/pg27726.txt",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "writer-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-johnson-paradise-lost-longer",
+    "quote": "'Paradise Lost' is one of the books which the reader admires and lays down, and forgets to take up again. None ever wished it longer than it is.",
+    "answer": {
+      "name": "Samuel Johnson",
+      "alias": "The guy who wrote the first great English dictionary",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mark Twain",
+        "fictional": false
+      },
+      {
+        "name": "Alexander Pope",
+        "fictional": false
+      },
+      {
+        "name": "Bart Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Lives of the English Poets (1779-81), 'Life of Milton'",
+    "url": "https://en.wikiquote.org/wiki/Samuel_Johnson",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-johnson-oats-scotland",
+    "quote": "OATS — A grain which in England is generally given to horses, but in Scotland supports the people.",
+    "answer": {
+      "name": "Samuel Johnson",
+      "alias": "The guy who wrote the first great English dictionary",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Jonathan Swift",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "A Dictionary of the English Language (1755)",
+    "note": "This is the actual dictionary definition.",
+    "url": "https://en.wikiquote.org/wiki/Samuel_Johnson",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "petty",
+      "dictionary"
+    ]
+  },
+  {
+    "id": "art-twain-cooper-offences",
+    "quote": "In one place in 'Deerslayer,' and in the restricted space of two-thirds of a page, Cooper has scored 114 offences against literary art out of a possible 115. It breaks the record.",
+    "answer": {
+      "name": "Mark Twain",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gore Vidal",
+        "fictional": false
+      },
+      {
+        "name": "Ernest Hemingway",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Fenimore Cooper's Literary Offences, North American Review, July 1895",
+    "note": "Cooper had been dead for 44 years.",
+    "url": "https://gutenberg.org/files/3172/3172-h/3172-h.htm",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-vonnegut-semicolons",
+    "quote": "First rule: Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you've been to college.",
+    "answer": {
+      "name": "Kurt Vonnegut",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Stephen King",
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "A Man Without a Country (2005)",
+    "note": "Also: 'We are here on Earth to fart around. Don't let anybody tell you any different.'",
+    "url": "https://en.wikiquote.org/wiki/Kurt_Vonnegut",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer",
+      "grammar",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-oconnor-ayn-rand-garbage",
+    "quote": "The fiction of Ayn Rand is as low as you can get re fiction. I hope you picked it up off the floor of the subway and threw it in the nearest garbage pail. She makes Mickey Spillane look like Dostoevsky.",
+    "answer": {
+      "name": "Flannery O'Connor",
+      "alias": "The devout Catholic who wrote A Good Man Is Hard to Find",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dorothy Parker",
+        "fictional": false
+      },
+      {
+        "name": "Truman Capote",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to Maryat Lee, 31 May 1960 (The Habit of Being, 1979)",
+    "url": "https://www.openculture.com/2014/06/flannery-oconnor-friends-dont-let-friends-read-ayn-rand-1960.html",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-rand-kant-most-evil",
+    "quote": "Kant is the most evil man in mankind's history.",
+    "answer": {
+      "name": "Ayn Rand",
+      "alias": "The woman who wrote Atlas Shrugged",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Arthur Schopenhauer",
+        "fictional": false
+      },
+      {
+        "name": "Darth Vader",
+        "fictional": true
+      }
+    ],
+    "source": "'Brief Summary', The Objectivist, September 1971",
+    "note": "Written 26 years after the Second World War ended.",
+    "url": "https://aynrandlexicon.com/lexicon/kant,_immanuel.html",
+    "verification": "primary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "philosopher-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-waugh-children-procreation",
+    "quote": "Of children as of procreation— the pleasure momentary, the posture ridiculous, the expense damnable.",
+    "answer": {
+      "name": "Evelyn Waugh",
+      "alias": "The guy who wrote Brideshead Revisited",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "W. Somerset Maugham",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to Nancy Mitford, 5 May 1954",
+    "note": "He had seven children.",
+    "url": "https://en.wikiquote.org/wiki/Evelyn_Waugh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer",
+      "children",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-larkin-deprivation-daffodils",
+    "quote": "Deprivation is for me what daffodils were for Wordsworth.",
+    "answer": {
+      "name": "Philip Larkin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Eeyore",
+        "fictional": true
+      },
+      {
+        "name": "Sylvia Plath",
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Miriam Gross, The Observer, 16 December 1979",
+    "note": "Same interview: when he grew up he realised 'it was just children' he didn't like.",
+    "url": "https://en.wikiquote.org/wiki/Philip_Larkin",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "poet",
+      "gloomy",
+      "deadpan"
+    ]
+  },
+  {
+    "id": "art-ellis-dfw-tedious",
+    "quote": "...the most tedious, overrated, tortured, pretentious writer of my generation.",
+    "answer": {
+      "name": "Bret Easton Ellis",
+      "alias": "The guy who wrote American Psycho",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Norman Mailer",
+        "fictional": false
+      },
+      {
+        "name": "Jonathan Franzen",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      }
+    ],
+    "source": "Tweet about David Foster Wallace, 6 September 2012",
+    "note": "Wallace had been dead four years. Ellis was drinking tequila and reading his biography.",
+    "url": "https://www.openculture.com/2012/09/the_chutzpah_of_bret_easton_ellis_calls_david_foster_wallace_the_most_tedious_overrated_tortured_pretentious_writer_of_my_generation.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-grrm-aragorn-tax-policy",
+    "quote": "But Tolkien doesn't ask the question: What was Aragorn's tax policy?",
+    "answer": {
+      "name": "George R.R. Martin",
+      "alias": "The guy who wrote Game of Thrones",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Terry Pratchett",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Bernie Sanders",
+        "fictional": false
+      }
+    ],
+    "source": "The Rolling Stone Interview, 23 April 2014",
+    "note": "He also wondered about 'the little baby orcs, in their little orc cradles.'",
+    "url": "https://wist.info/martin-george-r-r/57304",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-feud",
+      "nerd"
+    ]
+  },
+  {
+    "id": "art-pratchett-set-fire",
+    "quote": "Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life.",
+    "answer": {
+      "name": "Terry Pratchett",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "The Joker",
+        "fictional": true
+      },
+      {
+        "name": "Douglas Adams",
+        "fictional": false
+      },
+      {
+        "name": "Bear Grylls",
+        "fictional": false
+      }
+    ],
+    "source": "Jingo (1997)",
+    "url": "https://lspace.org/books/pqf/jingo.html",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer",
+      "dark-comedy"
+    ]
+  },
+  {
+    "id": "art-nabokov-think-like-genius",
+    "quote": "I think like a genius, I write like a distinguished author, I speak like a child.",
+    "answer": {
+      "name": "Vladimir Nabokov",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "James Joyce",
+        "fictional": false
+      },
+      {
+        "name": "Zlatan Ibrahimović",
+        "fictional": false
+      }
+    ],
+    "source": "Strong Opinions (1973), foreword",
+    "note": "Same book calls Faulkner's novels 'corncobby chronicles'.",
+    "url": "https://en.wikiquote.org/wiki/Vladimir_Nabokov",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-ego",
+      "deadpan"
+    ]
+  },
+  {
+    "id": "art-russell-die-sooner-than-think",
+    "quote": "...most people would die sooner than think – in fact they do so.",
+    "answer": {
+      "name": "Bertrand Russell",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      },
+      {
+        "name": "Arthur Schopenhauer",
+        "fictional": false
+      },
+      {
+        "name": "Kim Kardashian",
+        "fictional": false
+      }
+    ],
+    "source": "The ABC of Relativity (1925), p. 166",
+    "note": "From a popular-science book about Einstein, written by a Nobel laureate.",
+    "url": "https://en.wikiquote.org/wiki/Bertrand_Russell",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "philosopher",
+      "misanthrope"
+    ]
+  },
+  {
+    "id": "art-emerson-hate-quotation",
+    "quote": "I notice that as soon as writers broach this question they begin to quote. I hate quotation. Tell me what you know.",
+    "answer": {
+      "name": "Ralph Waldo Emerson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mark Twain",
+        "fictional": false
+      },
+      {
+        "name": "Henry David Thoreau",
+        "fictional": false
+      },
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      }
+    ],
+    "source": "Journals, May 1849",
+    "note": "He is one of the most-quoted writers in the English language.",
+    "url": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer",
+      "meta",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-banksy-learn-to-draw",
+    "quote": "All artists are willing to suffer for their work. But why are so few prepared to learn to draw?",
+    "answer": {
+      "name": "Banksy",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Pablo Picasso",
+        "fictional": false
+      },
+      {
+        "name": "Damien Hirst",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "Existencilism (2002)",
+    "url": "https://en.wikiquote.org/wiki/Banksy",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "artist-savage",
+      "petty"
+    ]
+  },
+  {
+    "id": "art-mozart-voltaire-dog",
+    "quote": "...the ungodly arch-villain Voltaire has died miserably like a dog — just like a brute.",
+    "answer": {
+      "name": "Wolfgang Amadeus Mozart",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Martin Luther",
+        "fictional": false
+      },
+      {
+        "name": "Johann Sebastian Bach",
+        "fictional": false
+      },
+      {
+        "name": "Ned Flanders",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to his father Leopold, Paris, 3 July 1778",
+    "note": "Mozart was 22. Voltaire had died five weeks earlier, aged 83.",
+    "url": "https://en.wikiquote.org/wiki/Wolfgang_Amadeus_Mozart",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "composer-savage",
+      "philosopher-feud"
+    ]
+  },
+  {
+    "id": "art-chekhov-bottles-for-girls",
+    "quote": "I was so drunk the whole time that I took bottles for girls and girls for bottles.",
+    "answer": {
+      "name": "Anton Chekhov",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charles Bukowski",
+        "fictional": false
+      },
+      {
+        "name": "Fyodor Dostoevsky",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to his family, 25 April 1887",
+    "note": "He was a practising doctor at the time.",
+    "url": "https://en.wikiquote.org/wiki/Anton_Chekhov",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "writer",
+      "drunk",
+      "relatable"
+    ]
+  },
+  {
+    "id": "art-kierkegaard-marry-regret",
+    "quote": "Marry, and you will regret it. Do not marry, and you will also regret it.",
+    "answer": {
+      "name": "Søren Kierkegaard",
+      "alias": "The father of existentialism",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Groucho Marx",
+        "fictional": false
+      },
+      {
+        "name": "Jean-Paul Sartre",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "Either/Or (1843)",
+    "note": "He broke off his own engagement to Regine Olsen and regretted it for life.",
+    "url": "https://en.wikiquote.org/wiki/S%C3%B8ren_Kierkegaard",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "deadpan",
+      "marriage"
+    ]
+  },
+  {
+    "id": "art-camus-energy-to-be-normal",
+    "quote": "Nobody realizes that some people expend tremendous energy merely to be normal.",
+    "answer": {
+      "name": "Albert Camus",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kim Kardashian",
+        "fictional": false
+      },
+      {
+        "name": "Jean-Paul Sartre",
+        "fictional": false
+      },
+      {
+        "name": "BoJack Horseman",
+        "fictional": true
+      }
+    ],
+    "source": "Notebooks 1942-1951, Notebook IV",
+    "url": "https://en.wikiquote.org/wiki/Albert_Camus",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "relatable",
+      "sounds-modern"
+    ]
+  },
+  {
+    "id": "art-van-gogh-god-doornail",
+    "quote": "That God of the clergymen, He is for me as dead as a doornail.",
+    "answer": {
+      "name": "Vincent van Gogh",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Paul Gauguin",
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to his brother Theo, Etten, c. 21 December 1881",
+    "note": "His father was a pastor. Van Gogh had trained as a preacher himself.",
+    "url": "https://en.wikiquote.org/wiki/Vincent_van_Gogh",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "artist",
+      "blasphemy"
+    ]
+  },
+  {
+    "id": "art-shakespeare-done-thy-mother",
+    "quote": "Villain, I have done thy mother.",
+    "answer": {
+      "name": "Shakespeare",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Eminem",
+        "fictional": false
+      },
+      {
+        "name": "Christopher Marlowe",
+        "fictional": false
+      },
+      {
+        "name": "Bart Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Titus Andronicus (c. 1594), Act 4, Scene 2",
+    "note": "Aaron's reply to 'Thou hast undone our mother.' The original 'your mom' joke.",
+    "url": "https://en.wikiquote.org/wiki/Titus_Andronicus",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "writer-filthy",
+      "your-mom"
+    ]
+  },
+  {
+    "id": "art-wilson-tolkien-juvenile-trash",
+    "quote": "The answer is, I believe, that certain people – especially, perhaps, in Britain – have a lifelong appetite for juvenile trash.",
+    "answer": {
+      "name": "Edmund Wilson",
+      "alias": "America's most feared literary critic of the 1940s",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Harold Bloom",
+        "fictional": false
+      },
+      {
+        "name": "George R.R. Martin",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "Review of The Lord of the Rings, The Nation, 14 April 1956",
+    "note": "Explaining why anyone could like The Lord of the Rings.",
+    "url": "https://www.tolkiensociety.org/blog/2018/01/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "critic",
+      "writer-feud",
+      "savage"
+    ]
+  },
+  {
+    "id": "art-dickinson-tasted-life-circus",
+    "quote": "Friday I tasted life. It was a vast morsel. A circus passed the house",
+    "answer": {
+      "name": "Emily Dickinson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      },
+      {
+        "name": "Walt Whitman",
+        "fictional": false
+      },
+      {
+        "name": "Jaden Smith",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Mrs. J. G. Holland, c. 1857",
+    "note": "She rarely left the house.",
+    "url": "https://en.wikiquote.org/wiki/Emily_Dickinson",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "poet",
+      "sounds-modern",
+      "odd"
+    ]
+  },
+  {
+    "id": "art-adams-deadlines-whoosh",
+    "quote": "I love deadlines. I love the whooshing noise they make as they go by.",
+    "answer": {
+      "name": "Douglas Adams",
+      "alias": "The guy who wrote The Hitchhiker's Guide to the Galaxy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "George R.R. Martin",
+        "fictional": false
+      },
+      {
+        "name": "Terry Pratchett",
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      }
+    ],
+    "source": "The Salmon of Doubt (2002)",
+    "note": "His editor once locked him in a hotel suite for three weeks to finish a book.",
+    "url": "https://en.wikiquote.org/wiki/Douglas_Adams",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "writer",
+      "relatable",
+      "deadlines"
+    ]
+  },
+  {
+    "id": "art-pascal-caesar-too-old",
+    "quote": "Caesar was too old, it seems to me, to go off and amuse himself conquering the world.",
+    "answer": {
+      "name": "Blaise Pascal",
+      "alias": "The guy the unit of pressure is named after",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "Voltaire",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Pensées (1670), fragment 132",
+    "note": "He thought Augustus and Alexander were young enough to be excused.",
+    "url": "https://en.wikiquote.org/wiki/Pens%C3%A9es",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "philosopher",
+      "petty",
+      "deadpan"
+    ]
+  }
+]

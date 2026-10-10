@@ -1,0 +1,656 @@
+[
+ {
+  "name": "Gordon Ramsay",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to William Faulkner"
+ },
+ {
+  "name": "Friedrich Nietzsche",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Karl Marx | said: \"Dante: or the hyena who writes poetry in tombs. Kant: or can\" (Twilight of the Idols (1889), 'Skirmishes of an Untimely Man', sec. 1)"
+ },
+ {
+  "name": "Elon Musk",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Sophia the Robot | said: \"I would like to die on Mars; just not on impact.\" (Interview with Ashlee Vance, Bloomberg, 2012)"
+ },
+ {
+  "name": "Oscar Wilde",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to William Faulkner"
+ },
+ {
+  "name": "Hunter S. Thompson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ernest Hemingway"
+ },
+ {
+  "name": "Winston Churchill",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George Orwell | said: \"We are all worms. But I do believe that I am a glow-worm.\" (To Violet Asquith at a dinner party, 1906 (her memoir, 1965))"
+ },
+ {
+  "name": "Richard Dawkins",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vladimir Nabokov | said: \"Bin Laden has won, in airports of the world every day. I had\" (Tweet, 3 November 2013)"
+ },
+ {
+  "name": "Steve Jobs",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Walter White | said: \"He’d be a broader guy if he had dropped acid once or gone of\" (On Bill Gates, The New York Times, 1997)"
+ },
+ {
+  "name": "Mark Twain",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Jane is entirely impossible. It seems a great pity that they\" (Letter to William Dean Howells, 18 January 1909) | said: \"In one place in ‘Deerslayer,’ and in the restricted space of\" (Fenimore Cooper's Literary Offences, North American Review, July 1895)"
+ },
+ {
+  "name": "Carl Sagan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to William Safire | said: \"The illegality of cannabis is outrageous, an impediment to f\" (Essay as 'Mr. X' (1969), in Lester Grinspoon, Marihuana Reconsidered (1971))"
+ },
+ {
+  "name": "Bill Gates",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Prince | said: \"Spam will be a thing of the past in two years’ time.\" (World Economic Forum, Davos, reported by BBC News, 2004)"
+ },
+ {
+  "name": "Ernest Hemingway",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Under the black hat, when I had first seen them, the eyes ha\" (A Moveable Feast (1964), ch. 12)"
+ },
+ {
+  "name": "Jeff Bezos",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The CIA | said: \"Communication is a sign of dysfunction.\" (Quoted in Brad Stone, 'The Everything Store', 2013)"
+ },
+ {
+  "name": "Richard Feynman",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tom Lehrer | said: \"Please excuse my not mailing this — but I don’t know your ne\" (P.S. of a letter to his late wife Arline, 17 October 1946)"
+ },
+ {
+  "name": "Charles Bukowski",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Michel de Montaigne"
+ },
+ {
+  "name": "Joe Rogan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ludwig Wittgenstein"
+ },
+ {
+  "name": "Neil deGrasse Tyson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Frank Zappa | said: \"Not that anybody’s asked, but New Years Day on the Gregorian\" (Tweet, 1 January 2018)"
+ },
+ {
+  "name": "Albert Einstein",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Richard Feynman | said: \"Even on the most solemn occasions I got away without wearing\" (Letter to his cousin Elsa, quoted in New Scientist, 15 July 2006)"
+ },
+ {
+  "name": "Mark Zuckerberg",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mikhail Kalashnikov | said: \"People just submitted it. I don’t know why. They ‘trust me’.\" (Instant messages from 2004, published by Business Insider, 2010)"
+ },
+ {
+  "name": "Karl Marx",
+  "alias": "The guy who wrote the Communist Manifesto",
+  "fictional": false,
+  "hint": "said: \"If anything is certain, it is that I myself am not a Marxist\" (Reported by Engels, letter to Eduard Bernstein, 2 November 1882) | said: \"All that is solid melts into air, all that is holy is profan\" (The Communist Manifesto (1848), with Engels; Moore tr. 1888)"
+ },
+ {
+  "name": "Bernie Sanders",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George R.R. Martin"
+ },
+ {
+  "name": "Anthony Bourdain",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Prince Philip | said: \"Vegetarians, and their Hezbollah-like splinter faction, the \" (Kitchen Confidential, 2000)"
+ },
+ {
+  "name": "Andy Warhol",
+  "alias": "The guy who painted the soup cans",
+  "fictional": false,
+  "hint": "decoy next to Salvador Dalí | said: \"A Coke is a Coke and no amount of money can get you a better\" (The Philosophy of Andy Warhol (1975), ch. 6)"
+ },
+ {
+  "name": "Sigmund Freud",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dale Carnegie | said: \"America is a mistake, admittedly a gigantic mistake, but a m\" (Remark to Ernest Jones, in Jones's Life and Work of Sigmund Freud, vol. 2 (1955))"
+ },
+ {
+  "name": "Warren Buffett",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gordon Gekko | said: \"There’s class warfare, all right, but it’s my class, the ric\" (Quoted by Ben Stein, The New York Times, 2006)"
+ },
+ {
+  "name": "Charles Darwin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vladimir Nabokov | said: \"I hate a Barnacle as no man ever did before, not even a Sail\" (Letter to W. D. Fox, 24 October 1852)"
+ },
+ {
+  "name": "Stephen Hawking",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Richard Feynman | said: \"Women. They are a complete mystery.\" (New Scientist interview at 70, 4 January 2012)"
+ },
+ {
+  "name": "Thomas Edison",
+  "alias": "The light bulb guy",
+  "fictional": false,
+  "hint": "decoy next to Nikola Tesla | said: \"The baby of the twenty-first century will be rocked in a ste\" (Interview, Miami Metropolis, 1911)"
+ },
+ {
+  "name": "Stephen King",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ernest Hemingway | said: \"The real difference is that Jo Rowling is a terrific writer \" (USA Weekend interview, February 2009)"
+ },
+ {
+  "name": "Gore Vidal",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Whenever a friend succeeds, a little something in me dies.\" (The Sunday Times Magazine, 16 September 1973)"
+ },
+ {
+  "name": "Dorothy Parker",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Virginia Woolf"
+ },
+ {
+  "name": "Salvador Dalí",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Pablo Picasso | said: \"I don’t do drugs. I am drugs.\" (Interview with Paloma Chamorro, Madrid, 1982)"
+ },
+ {
+  "name": "Slavoj Žižek",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I think that flowers should be forbidden to children.\" (The Pervert's Guide to Cinema (2006))"
+ },
+ {
+  "name": "Arthur Schopenhauer",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Friedrich Nietzsche | said: \"The most inexcusable and disgraceful of all noises is the cr\" ('On Noise', Parerga and Paralipomena (1851), trans. T. Bailey Saunders)"
+ },
+ {
+  "name": "Jean-Paul Sartre",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Søren Kierkegaard"
+ },
+ {
+  "name": "Henry Ford",
+  "alias": "The Model T guy",
+  "fictional": false,
+  "hint": "said: \"I adopted the theory of Reincarnation when I was twenty six.\" (San Francisco Examiner interview, 26 August 1928) | said: \"History is bunk. What difference does it make how many times\" (The New York Times, 1921)"
+ },
+ {
+  "name": "Linus Torvalds",
+  "alias": "The guy who wrote Linux",
+  "fictional": false,
+  "hint": "decoy next to Steve Jobs | said: \"I’m doing a (free) operating system (just a hobby, won’t be \" (Usenet post to comp.os.minix, 25 August 1991)"
+ },
+ {
+  "name": "Steve Ballmer",
+  "alias": "Bill Gates's successor as Microsoft CEO",
+  "fictional": false,
+  "hint": "said: \"There’s no chance that the iPhone is going to get any signif\" (USA Today CEO Forum, 2007) | said: \"I’ve got my kids brainwashed: You don’t use Google, and you \" (Fortune magazine, 2006)"
+ },
+ {
+  "name": "Vladimir Nabokov",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to William Faulkner | said: \"I think like a genius, I write like a distinguished author, \" (Strong Opinions (1973), foreword)"
+ },
+ {
+  "name": "Franz Kafka",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Germany has declared war on Russia. Swimming in the afternoo\" (Diary entry, 2 August 1914)"
+ },
+ {
+  "name": "George R.R. Martin",
+  "alias": "The guy who wrote Game of Thrones",
+  "fictional": false,
+  "hint": "decoy next to Stephen King | said: \"But Tolkien doesn’t ask the question: What was Aragorn’s tax\" (The Rolling Stone Interview, 23 April 2014)"
+ },
+ {
+  "name": "Groucho Marx",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Karl Marx"
+ },
+ {
+  "name": "Eminem",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ludwig van Beethoven"
+ },
+ {
+  "name": "Bill Nye",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dexter Holland | said: \"By the end of this century, if emissions keep rising, the av\" (Last Week Tonight with John Oliver, HBO, 12 May 2019)"
+ },
+ {
+  "name": "Nikola Tesla",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Albert Einstein | said: \"The theory is like a beggar clothed in purple whom ignorant \" (New York Times, 11 July 1935 (79th birthday press conference))"
+ },
+ {
+  "name": "Isaac Newton",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Threatning my father and mother Smith to burne them and the \" (Coded list of sins, Fitzwilliam notebook, 1662) | said: \"It may end later, but I see no reason for its ending sooner.\" (Manuscript on the Book of Daniel, c. 1704 (Yahuda collection))"
+ },
+ {
+  "name": "Blaise Pascal",
+  "alias": "The guy the unit of pressure is named after",
+  "fictional": false,
+  "hint": "said: \"all the unhappiness of men arises from one single fact, that\" (Pensées (1670), fragment 139) | said: \"Caesar was too old, it seems to me, to go off and amuse hims\" (Pensées (1670), fragment 132)"
+ },
+ {
+  "name": "Wolfgang Amadeus Mozart",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ludwig van Beethoven | said: \"…the ungodly arch-villain Voltaire has died miserably like a\" (Letter to his father Leopold, Paris, 3 July 1778)"
+ },
+ {
+  "name": "John Cage",
+  "alias": "The guy who composed four and a half minutes of silence",
+  "fictional": false,
+  "hint": "said: \"I have nothing to say and I am saying it and that is poetry \" (Lecture on Nothing (1949))"
+ },
+ {
+  "name": "Kurt Vonnegut",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"First rule: Do not use semicolons. They are transvestite her\" (A Man Without a Country (2005))"
+ },
+ {
+  "name": "Terry Pratchett",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to George R.R. Martin | said: \"Give a man a fire and he’s warm for a day, but set fire to h\" (Jingo (1997))"
+ },
+ {
+  "name": "Albert Camus",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Nobody realizes that some people expend tremendous energy me\" (Notebooks 1942-1951, Notebook IV)"
+ },
+ {
+  "name": "Vincent van Gogh",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"That God of the clergymen, He is for me as dead as a doornai\" (Letter to his brother Theo, Etten, c. 21 December 1881)"
+ },
+ {
+  "name": "Marilyn Monroe",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hedy Lamarr"
+ },
+ {
+  "name": "Al Gore",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Margaret Thatcher"
+ },
+ {
+  "name": "Nostradamus",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Isaac Newton"
+ },
+ {
+  "name": "Lord Kelvin",
+  "alias": "The guy the temperature scale is named after",
+  "fictional": false,
+  "hint": "decoy next to Albert A. Michelson | said: \"I have not the smallest molecule of faith in aerial navigati\" (Letter declining to join the Aeronautical Society, 8 December 1896)"
+ },
+ {
+  "name": "Anna Wintour",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Queen Victoria"
+ },
+ {
+  "name": "Guy Fieri",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Usain Bolt"
+ },
+ {
+  "name": "Elizabeth Holmes",
+  "alias": "The Theranos woman",
+  "fictional": false,
+  "hint": "decoy next to Mark Zuckerberg | said: \"The minute that you have a backup plan, you’ve admitted that\" (Stanford GSB 'View From The Top' talk, 2015)"
+ },
+ {
+  "name": "Peter Thiel",
+  "alias": "The PayPal co-founder who bankrolled Facebook",
+  "fictional": false,
+  "hint": "said: \"I no longer believe that freedom and democracy are compatibl\" (Essay 'The Education of a Libertarian', Cato Unbound, 2009)"
+ },
+ {
+  "name": "Larry Ellison",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Steve Ballmer"
+ },
+ {
+  "name": "Truman Capote",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gore Vidal"
+ },
+ {
+  "name": "George Orwell",
+  "alias": "The guy who wrote 1984",
+  "fictional": false,
+  "hint": "said: \"…the mere words ‘Socialism’ and ‘Communism’ draw towards the\" (The Road to Wigan Pier (1937), ch. 11)"
+ },
+ {
+  "name": "Ludwig Wittgenstein",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Tell them I’ve had a wonderful life.\" (Last words, 28 April 1951 (Norman Malcolm, Ludwig Wittgenstein: A Memoir, 1966)) | said: \"Reading the Socratic dialogues one has the feeling: what a f\" (Culture and Value (1980), p. 14e, remark from 1931)"
+ },
+ {
+  "name": "Bertrand Russell",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ludwig Wittgenstein | said: \"…most people would die sooner than think – in fact they do s\" (The ABC of Relativity (1925), p. 166)"
+ },
+ {
+  "name": "Niccolò Machiavelli",
+  "alias": "The guy who wrote The Prince",
+  "fictional": false,
+  "hint": "said: \"I slum around with them for the rest of the day playing cric\" (Letter to Francesco Vettori, 10 December 1513)"
+ },
+ {
+  "name": "Voltaire",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Michel de Montaigne"
+ },
+ {
+  "name": "Søren Kierkegaard",
+  "alias": "The father of existentialism",
+  "fictional": false,
+  "hint": "decoy next to Blaise Pascal | said: \"Marry, and you will regret it. Do not marry, and you will al\" (Either/Or (1843))"
+ },
+ {
+  "name": "Pablo Picasso",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"For me, there are two kinds of women — goddesses and doormat\" (Reported by Françoise Gilot, Life with Picasso (1964); Time, 1969)"
+ },
+ {
+  "name": "Banksy",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Andy Warhol | said: \"All artists are willing to suffer for their work. But why ar\" (Existencilism (2002))"
+ },
+ {
+  "name": "Ludwig van Beethoven",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"O you miserable scoundrel, what I shit is better than anythi\" (Margin note beside a bad review in the journal Cäcilia, August 1825)"
+ },
+ {
+  "name": "Leo Tolstoy",
+  "alias": "The guy who wrote War and Peace",
+  "fictional": false,
+  "hint": "said: \"Shakespeare can not be recognized either as a great genius, \" (Shakespeare and the Drama (1906), ch. 1, trans. V. Tchertkoff)"
+ },
+ {
+  "name": "Samuel Johnson",
+  "alias": "The guy who wrote the first great English dictionary",
+  "fictional": false,
+  "hint": "said: \"‘Paradise Lost’ is one of the books which the reader admires\" (Lives of the English Poets (1779-81), 'Life of Milton') | said: \"OATS — A grain which in England is generally given to horses\" (A Dictionary of the English Language (1755))"
+ },
+ {
+  "name": "Sylvia Plath",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Philip Larkin"
+ },
+ {
+  "name": "Douglas Adams",
+  "alias": "The guy who wrote The Hitchhiker's Guide to the Galaxy",
+  "fictional": false,
+  "hint": "decoy next to Terry Pratchett | said: \"I love deadlines. I love the whooshing noise they make as th\" (The Salmon of Doubt (2002))"
+ },
+ {
+  "name": "Henry David Thoreau",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ralph Waldo Emerson"
+ },
+ {
+  "name": "Emily Dickinson",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Friday I tasted life. It was a vast morsel. A circus passed \" (Letter to Mrs. J. G. Holland, c. 1857)"
+ },
+ {
+  "name": "Frank Zappa",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I say there is more stupidity than hydrogen, and that is the\" (The Real Frank Zappa Book (1989), p. 239) | said: \"A composer is a guy who goes around forcing his will on unsu\" (The Real Frank Zappa Book (1989))"
+ },
+ {
+  "name": "Johnny Cash",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Richard Feynman"
+ },
+ {
+  "name": "Galileo Galilei",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Isaac Newton"
+ },
+ {
+  "name": "Paul Dirac",
+  "alias": "The Nobel physicist who predicted antimatter",
+  "fictional": false,
+  "hint": "said: \"I was taught at school never to start a sentence without kno\" (Quoted in Michael Berry, 'The purest soul in physics', Physics World, 1998) | said: \"In science one tries to tell people, in such a way as to be \" (Quoted in Robert Jungk, Brighter Than a Thousand Suns (1958))"
+ },
+ {
+  "name": "Deepak Chopra",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Brian Josephson"
+ },
+ {
+  "name": "George Carlin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Buckminster Fuller"
+ },
+ {
+  "name": "Logan Paul",
+  "alias": "The YouTuber from the Japanese suicide forest video",
+  "fictional": false,
+  "hint": "decoy next to Justin Bieber | said: \"I didn’t do it for views. I get views. I did it because I th\" (Written apology posted on Twitter, 1 January 2018)"
+ },
+ {
+  "name": "Steve Wozniak",
+  "alias": "The other Steve who co-founded Apple",
+  "fictional": false,
+  "hint": "decoy next to Steve Jobs | said: \"Steve Jobs doesn’t use a Mac, and won’t, because it’s too cr\" (MacTech magazine, May 1998)"
+ },
+ {
+  "name": "Sam Altman",
+  "alias": "The ChatGPT guy",
+  "fictional": false,
+  "hint": "decoy next to Bill Gates | said: \"A.I. will probably most likely lead to the end of the world,\" (Remarks as Y Combinator president, reported by Business Insider, June 2015)"
+ },
+ {
+  "name": "Bernie Madoff",
+  "alias": "The $65 billion Ponzi scheme guy",
+  "fictional": false,
+  "hint": "decoy next to Mark Zuckerberg | said: \"In today’s regulatory environment it is virtually impossible\" (Roundtable on 'the future of Wall Street', filmed October 2007)"
+ },
+ {
+  "name": "Howard Hughes",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jeff Bezos"
+ },
+ {
+  "name": "John D. Rockefeller",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Henry Ford | said: \"Do you know the only thing that gives me pleasure? It’s to s\" (Remark to a neighbour, quoted in Cosmopolitan, 1908)"
+ },
+ {
+  "name": "Amelia Earhart",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Henry Ford"
+ },
+ {
+  "name": "Do Kwon",
+  "alias": "The guy whose crypto coin lost $40 billion in a week",
+  "fictional": false,
+  "hint": "said: \"I don’t debate the poor on Twitter, and sorry I don’t have a\" (Tweet replying to economist Frances Coppola, July 2021)"
+ },
+ {
+  "name": "Colonel Sanders",
+  "alias": "The KFC Colonel",
+  "fictional": false,
+  "hint": "decoy next to Ray Kroc | said: \"What’s more, your frying fat should have been changed a week\" (Inspecting a Manhattan KFC with The New York Times, 1976)"
+ },
+ {
+  "name": "William Faulkner",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"He has never been known to use a word that might cause the r\" (Q&A at the University of Mississippi, April 1947 (pub. Western Review, 1951))"
+ },
+ {
+  "name": "Virginia Woolf",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"An illiterate, underbred book it seems to me; the book of a \" (Diary, 16 August 1922)"
+ },
+ {
+  "name": "Mary McCarthy",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Every word she writes is a lie, including ‘and’ and ‘the’.\" (The Dick Cavett Show, 1979)"
+ },
+ {
+  "name": "Maurice Sendak",
+  "alias": "The guy who wrote Where the Wild Things Are",
+  "fictional": false,
+  "hint": "said: \"That flaccid fuckhead. He was detestable. I called up the Ay\" (Interview with The Guardian, 2 October 2011)"
+ },
+ {
+  "name": "Diogenes of Sinope",
+  "alias": "The Greek philosopher who lived in a barrel",
+  "fictional": false,
+  "hint": "said: \"I wish it were as easy to banish hunger by rubbing my belly.\" (Diogenes Laërtius, Lives of Eminent Philosophers, 6.46 (c. 3rd century AD))"
+ },
+ {
+  "name": "Giacomo Casanova",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Niccolò Machiavelli"
+ },
+ {
+  "name": "Michel de Montaigne",
+  "alias": "The guy who invented the essay",
+  "fictional": false,
+  "hint": "said: \"Kings and philosophers shit, and so do ladies.\" (Essays (1580-88), trans. Ann Hartle)"
+ },
+ {
+  "name": "Michelangelo",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I’ve grown a goitre by dwelling in this den – as cats from s\" (Sonnet to Giovanni da Pistoia, c. 1509-10, trans. J.A. Symonds (1878))"
+ },
+ {
+  "name": "Leonardo da Vinci",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Michelangelo"
+ },
+ {
+  "name": "Gioachino Rossini",
+  "alias": "The guy who wrote the William Tell Overture",
+  "fictional": false,
+  "hint": "said: \"Monsieur Wagner has good moments, but awful quarters of an h\" (Letter to Emile Naumann, April 1867)"
+ },
+ {
+  "name": "Johannes Brahms",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gioachino Rossini"
+ },
+ {
+  "name": "Charles Dickens",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Leo Tolstoy"
+ },
+ {
+  "name": "Alexander Pope",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Samuel Johnson"
+ },
+ {
+  "name": "Jonathan Swift",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Samuel Johnson"
+ },
+ {
+  "name": "Flannery O'Connor",
+  "alias": "The devout Catholic who wrote A Good Man Is Hard to Find",
+  "fictional": false,
+  "hint": "said: \"The fiction of Ayn Rand is as low as you can get re fiction.\" (Letter to Maryat Lee, 31 May 1960 (The Habit of Being, 1979))"
+ },
+ {
+  "name": "Evelyn Waugh",
+  "alias": "The guy who wrote Brideshead Revisited",
+  "fictional": false,
+  "hint": "said: \"Of children as of procreation— the pleasure momentary, the p\" (Letter to Nancy Mitford, 5 May 1954)"
+ }
+]

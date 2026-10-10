@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "toon-peanutbutter-void",
+    "quote": "The universe is a cruel, uncaring void. The key to being happy isn't a search for meaning. It's to just keep yourself busy with unimportant nonsense, and eventually, you'll be dead.",
+    "answer": {
+      "name": "Mr. Peanutbutter",
+      "alias": "A golden retriever who hosts a game show",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Albert Camus",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      },
+      {
+        "name": "Kim Kardashian",
+        "fictional": false
+      }
+    ],
+    "source": "BoJack Horseman, S1E12 'Later' (2014)",
+    "note": "Delivered cheerfully, by a dog, as a pep talk.",
+    "url": "https://www.moviemistakes.com/tv12056/episode87304",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "nihilism"
+    ]
+  },
+  {
+    "id": "toon-diane-deep-down",
+    "quote": "I don't think I believe in 'deep down.' I kind of think all you are is just the things that you do.",
+    "answer": {
+      "name": "Diane Nguyen",
+      "alias": "The ghostwriter in BoJack Horseman",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Jean-Paul Sartre",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Judge Judy",
+        "fictional": false
+      }
+    ],
+    "source": "BoJack Horseman, S1E12 'Later' (2014)",
+    "note": "Her answer to 'am I a good person deep down?' He did not enjoy it.",
+    "url": "https://alisechaffins.substack.com/p/bojack-breakdowns-downer-ending-later-season-1",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "existentialism"
+    ]
+  },
+  {
+    "id": "toon-morty-nobody-exists",
+    "quote": "Nobody exists on purpose. Nobody belongs anywhere. Everybody's gonna die. Come watch TV.",
+    "answer": {
+      "name": "Morty Smith",
+      "alias": "The Morty in Rick and Morty",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "BoJack Horseman",
+        "fictional": true
+      },
+      {
+        "name": "Charles Bukowski",
+        "fictional": false
+      }
+    ],
+    "source": "Rick and Morty, S1E8 'Rixty Minutes' (2014)",
+    "note": "Said to cheer up his sister. It worked.",
+    "url": "https://en.wikiquote.org/wiki/Rick_and_Morty_(season_1)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "nihilism"
+    ]
+  },
+  {
+    "id": "toon-rick-love-chemical",
+    "quote": "What people call 'love' is just a chemical reaction that compels animals to breed.",
+    "answer": {
+      "name": "Rick Sanchez",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Richard Dawkins",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      }
+    ],
+    "source": "Rick and Morty, S1E6 'Rick Potion #9' (2014)",
+    "note": "Said while refusing to make a love potion. He then made the love potion.",
+    "url": "https://en.wikiquote.org/wiki/Rick_and_Morty_(season_1)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "science"
+    ]
+  },
+  {
+    "id": "toon-homer-two-to-lie",
+    "quote": "Marge, it takes two to lie. One to lie, and one to listen.",
+    "answer": {
+      "name": "Homer Simpson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Mark Twain",
+        "fictional": false
+      },
+      {
+        "name": "Socrates",
+        "fictional": false
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      }
+    ],
+    "source": "The Simpsons, S3E20 'Colonel Homer' (1992)",
+    "note": "His defense for lying about a country singer's looks.",
+    "url": "https://simpsonswiki.com/wiki/Colonel_Homer/Quotes",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "aphorism"
+    ]
+  },
+  {
+    "id": "toon-sideshow-bob-republican",
+    "quote": "Your guilty conscience may force you to vote Democratic, but deep down inside, you secretly long for a cold-hearted Republican to lower taxes, brutalize criminals and rule you like a king!",
+    "answer": {
+      "name": "Sideshow Bob",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "The Simpsons, S6E5 'Sideshow Bob Roberts' (1994)",
+    "note": "Confessing to election fraud, in court, as a point of pride.",
+    "url": "https://simpsonswiki.com/wiki/Sideshow_Bob_Roberts/Quotes",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "politics"
+    ]
+  },
+  {
+    "id": "toon-burns-destroy-sun",
+    "quote": "Since the beginning of time, man has yearned to destroy the sun. I will do the next best thing: block it out.",
+    "answer": {
+      "name": "Mr. Burns",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Thanos",
+        "fictional": true
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Vladimir Putin",
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S6E25 'Who Shot Mr. Burns? (Part One)' (1995)",
+    "note": "He was shot shortly afterwards. By a baby.",
+    "url": "https://en.wikiquote.org/wiki/The_Simpsons/Season_6",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "villain"
+    ]
+  },
+  {
+    "id": "toon-homer-thermodynamics",
+    "quote": "In this house, we obey the laws of thermodynamics!",
+    "answer": {
+      "name": "Homer Simpson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Richard Feynman",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S6E21 'The PTA Disbands' (1995)",
+    "note": "Shouted at Lisa, whose perpetual-motion machine 'just keeps going faster and faster.'",
+    "url": "https://simpsonswiki.com/wiki/The_PTA_Disbands/Quotes",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "science"
+    ]
+  },
+  {
+    "id": "toon-homer-facts-meaningless",
+    "quote": "Facts are meaningless. You can use facts to prove anything that's even remotely true.",
+    "answer": {
+      "name": "Homer Simpson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      }
+    ],
+    "source": "The Simpsons, S9E8 'Lisa the Skeptic' (1997)",
+    "note": "Followed by: 'Facts, schmacts.'",
+    "url": "https://en.wikiquote.org/wiki/The_Simpsons/Season_9",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "toon-homer-remember-bad",
+    "quote": "Well, of course, everything looks bad if you remember it.",
+    "answer": {
+      "name": "Homer Simpson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S8E9 'El Viaje Misterioso de Nuestro Jomer' (1997)",
+    "note": "Said after a chili-pepper vision quest.",
+    "url": "https://en.wikiquote.org/wiki/The_Simpsons/Season_8",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "memory"
+    ]
+  },
+  {
+    "id": "toon-lisa-intelligence-graph",
+    "quote": "As intelligence goes up, happiness goes down. See, I made a graph. I make lots of graphs.",
+    "answer": {
+      "name": "Lisa Simpson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ernest Hemingway",
+        "fictional": false
+      },
+      {
+        "name": "Stewie Griffin",
+        "fictional": true
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S12E9 'HOMR' (2001)",
+    "note": "Freakonomics later checked the data. The graph did not hold up.",
+    "url": "https://freakonomics.com/2009/01/is-ignorance-really-bliss/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "science"
+    ]
+  },
+  {
+    "id": "toon-grampa-with-it",
+    "quote": "I used to be with it. But then they changed what it was. Now what I'm with isn't it, and what's it seems weird and scary to me.",
+    "answer": {
+      "name": "Grampa Simpson",
+      "alias": "Abe Simpson, Homer's father",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Socrates",
+        "fictional": false
+      },
+      {
+        "name": "Hank Hill",
+        "fictional": true
+      },
+      {
+        "name": "Prince Philip",
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S7E24 'Homerpalooza' (1996)",
+    "note": "Followed by: 'It'll happen to you!' It did.",
+    "url": "https://en.wikiquote.org/wiki/The_Simpsons/Season_7",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "aging"
+    ]
+  },
+  {
+    "id": "toon-burns-three-demons",
+    "quote": "Family, religion, friendship. These are the three demons you must slay if you wish to succeed in business.",
+    "answer": {
+      "name": "Mr. Burns",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ayn Rand",
+        "fictional": false
+      },
+      {
+        "name": "Jeff Bezos",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Gekko",
+        "fictional": true
+      }
+    ],
+    "source": "The Simpsons, S8E21 'The Old Man and the Lisa' (1997)",
+    "note": "Career advice delivered to a group of schoolchildren.",
+    "url": "https://en.wikiquote.org/wiki/The_Simpsons/Season_8",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "business"
+    ]
+  },
+  {
+    "id": "toon-butters-beautiful-sadness",
+    "quote": "I'm sad, but at the same time I'm really happy that something could make me feel that sad. It's like, it makes me feel alive, you know? It makes me feel human.",
+    "answer": {
+      "name": "Butters Stotch",
+      "alias": "The nice kid from South Park",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Rainer Maria Rilke",
+        "fictional": false
+      },
+      {
+        "name": "Charlie Brown",
+        "fictional": true
+      },
+      {
+        "name": "Keanu Reeves",
+        "fictional": false
+      }
+    ],
+    "source": "South Park, S7E14 'Raisins' (2003)",
+    "note": "Said while turning down an invitation to become a goth.",
+    "url": "https://en.wikiquote.org/wiki/South_Park/Season_7",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "grief"
+    ]
+  },
+  {
+    "id": "toon-zapp-wave-after-wave",
+    "quote": "Killbots have a preset kill limit. Knowing their weakness, I sent wave after wave of my own men at them until they reached their limit and shut down.",
+    "answer": {
+      "name": "Zapp Brannigan",
+      "alias": "The space captain in Futurama",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Joseph Stalin",
+        "fictional": false
+      },
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "General Grievous",
+        "fictional": true
+      }
+    ],
+    "source": "Futurama, S1E4 'Love's Labours Lost in Space' (1999)",
+    "note": "He considers this his greatest military victory.",
+    "url": "https://theinfosphere.org/Transcript:Love%27s_Labours_Lost_in_Space",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "military"
+    ]
+  },
+  {
+    "id": "toon-zapp-suicide-mission",
+    "quote": "When I'm in command, every mission is a suicide mission.",
+    "answer": {
+      "name": "Zapp Brannigan",
+      "alias": "The space captain in Futurama",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Genghis Khan",
+        "fictional": false
+      },
+      {
+        "name": "Darth Vader",
+        "fictional": true
+      },
+      {
+        "name": "Hulk Hogan",
+        "fictional": false
+      }
+    ],
+    "source": "Futurama, S1E12 'When Aliens Attack' (1999)",
+    "url": "https://en.wikiquote.org/wiki/Futurama/Season_1",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "military"
+    ]
+  },
+  {
+    "id": "toon-plankton-sleepless",
+    "quote": "And so passes another sleepless night, haunted by my inability to steal even a single Krabby Patty.",
+    "answer": {
+      "name": "Plankton",
+      "alias": "The one-eyed villain in SpongeBob",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Franz Kafka",
+        "fictional": false
+      },
+      {
+        "name": "Wile E. Coyote",
+        "fictional": true
+      },
+      {
+        "name": "Vincent van Gogh",
+        "fictional": false
+      }
+    ],
+    "source": "SpongeBob SquarePants, S4E2 'Krabs vs. Plankton' (2005)",
+    "url": "https://en.wikiquote.org/wiki/SpongeBob_SquarePants/Season_4",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "obsession"
+    ]
+  },
+  {
+    "id": "toon-robot-devil-announce-feel",
+    "quote": "You can't just have your characters announce how they feel! That makes me feel angry!",
+    "answer": {
+      "name": "The Robot Devil",
+      "alias": "The Devil in Futurama",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ernest Hemingway",
+        "fictional": false
+      },
+      {
+        "name": "Stephen King",
+        "fictional": false
+      },
+      {
+        "name": "Brian Griffin",
+        "fictional": true
+      }
+    ],
+    "source": "Futurama, 'The Devil's Hands Are Idle Playthings' (2003)",
+    "note": "Still the most-quoted piece of screenwriting advice on the internet.",
+    "url": "https://en.wikiquote.org/wiki/Futurama/Season_4",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "writing"
+    ]
+  },
+  {
+    "id": "toon-zoidberg-freedom",
+    "quote": "Your planet doesn't deserve freedom until it learns what it is not to have freedom.",
+    "answer": {
+      "name": "Dr. Zoidberg",
+      "alias": "The lobster doctor in Futurama",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Fidel Castro",
+        "fictional": false
+      },
+      {
+        "name": "Mao Zedong",
+        "fictional": false
+      },
+      {
+        "name": "Darth Vader",
+        "fictional": true
+      }
+    ],
+    "source": "Futurama, 'A Taste of Freedom' (2002)",
+    "note": "He said this while helping an alien fleet conquer Earth.",
+    "url": "https://en.wikiquote.org/wiki/Futurama/Season_4",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "freedom"
+    ]
+  },
+  {
+    "id": "toon-fry-flip-of-a-coin",
+    "quote": "There but for the flip of a coin go we.",
+    "answer": {
+      "name": "Philip J. Fry",
+      "alias": "The delivery boy in Futurama",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Blaise Pascal",
+        "fictional": false
+      },
+      {
+        "name": "Carl Sagan",
+        "fictional": false
+      },
+      {
+        "name": "Forrest Gump",
+        "fictional": true
+      }
+    ],
+    "source": "Futurama, 'The Farnsworth Parabox' (2003)",
+    "note": "Said while looking into a box containing a parallel universe.",
+    "url": "https://en.wikiquote.org/wiki/Futurama/Season_4",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "fate"
+    ]
+  },
+  {
+    "id": "toon-bill-cipher-hologram",
+    "quote": "Remember: reality is an illusion, the universe is a hologram, buy gold. Bye!",
+    "answer": {
+      "name": "Bill Cipher",
+      "alias": "The triangle demon in Gravity Falls",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "Gravity Falls, S1E19 'Dreamscaperers' (2013)",
+    "note": "The holographic principle is a real idea in theoretical physics. The gold tip is not.",
+    "url": "https://en.wikiquote.org/wiki/Gravity_Falls",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "physics"
+    ]
+  },
+  {
+    "id": "toon-stan-horrific-joke",
+    "quote": "Is life just some kind of horrific joke without a punchline?",
+    "answer": {
+      "name": "Grunkle Stan",
+      "alias": "The con-man great-uncle in Gravity Falls",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Albert Camus",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      },
+      {
+        "name": "Woody Allen",
+        "fictional": false
+      }
+    ],
+    "source": "Gravity Falls, S1E14 'The Bottomless Pit!' (2013)",
+    "note": "Asked while falling down a bottomless pit.",
+    "url": "https://en.wikiquote.org/wiki/Gravity_Falls",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "absurdism"
+    ]
+  },
+  {
+    "id": "toon-greg-pork-chop",
+    "quote": "If every pork chop were perfect, we wouldn't have hotdogs!",
+    "answer": {
+      "name": "Greg Universe",
+      "alias": "Steven's dad, who runs a car wash in Steven Universe",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Bob Ross",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Anthony Bourdain",
+        "fictional": false
+      }
+    ],
+    "source": "Steven Universe, S1E2 'Laser Light Cannon' (2013)",
+    "url": "https://en.wikiquote.org/wiki/Steven_Universe_(season_1)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "imperfection"
+    ]
+  },
+  {
+    "id": "toon-garnet-comedy-fear",
+    "quote": "All comedy is derived from fear.",
+    "answer": {
+      "name": "Garnet",
+      "alias": "The three-eyed leader of the Crystal Gems",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Sigmund Freud",
+        "fictional": false
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "fictional": false
+      },
+      {
+        "name": "Krusty the Clown",
+        "fictional": true
+      }
+    ],
+    "source": "Steven Universe, S1E32 'Fusion Cuisine' (2014)",
+    "note": "Said while pretending to be a normal human mother at dinner.",
+    "url": "https://en.wikiquote.org/wiki/Steven_Universe_(season_1)",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "comedy"
+    ]
+  },
+  {
+    "id": "toon-farquaad-sacrifice",
+    "quote": "Some of you may die, but it's a sacrifice I am willing to make.",
+    "answer": {
+      "name": "Lord Farquaad",
+      "alias": "The very short villain in Shrek",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Joseph Stalin",
+        "fictional": false
+      },
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Thanos",
+        "fictional": true
+      }
+    ],
+    "source": "Shrek (2001)",
+    "note": "Addressing knights before a tournament. He did not participate.",
+    "url": "https://imsdb.com/scripts/Shrek.html",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "military"
+    ]
+  },
+  {
+    "id": "toon-donkey-fear-sensible",
+    "quote": "There's nothin' wrong with bein' afraid. Fear's a sensible response to an unfamiliar situation.",
+    "answer": {
+      "name": "Donkey",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Sigmund Freud",
+        "fictional": false
+      },
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Yoda",
+        "fictional": true
+      }
+    ],
+    "source": "Shrek (2001)",
+    "url": "https://imsdb.com/scripts/Shrek.html",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "psychology"
+    ]
+  },
+  {
+    "id": "toon-oogway-no-accidents",
+    "quote": "There are no accidents.",
+    "answer": {
+      "name": "Master Oogway",
+      "alias": "The old tortoise in Kung Fu Panda",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Carl Jung",
+        "fictional": false
+      },
+      {
+        "name": "Buddha",
+        "fictional": false
+      },
+      {
+        "name": "Yoda",
+        "fictional": true
+      }
+    ],
+    "source": "Kung Fu Panda (2008)",
+    "note": "Said about a panda chosen as the Dragon Warrior after falling out of the sky.",
+    "url": "https://en.wikiquote.org/wiki/Kung_Fu_Panda",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "fate"
+    ]
+  },
+  {
+    "id": "toon-ping-believe-special",
+    "quote": "To make something special, you just have to believe it is special.",
+    "answer": {
+      "name": "Mr. Ping",
+      "alias": "The goose who runs a noodle shop in Kung Fu Panda",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Oprah Winfrey",
+        "fictional": false
+      },
+      {
+        "name": "Andy Warhol",
+        "fictional": false
+      },
+      {
+        "name": "Willy Wonka",
+        "fictional": true
+      }
+    ],
+    "source": "Kung Fu Panda (2008)",
+    "note": "The secret ingredient of his Secret Ingredient Soup is nothing.",
+    "url": "https://en.wikiquote.org/wiki/Kung_Fu_Panda",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "belief"
+    ]
+  },
+  {
+    "id": "toon-rafiki-past-can-hurt",
+    "quote": "Oh yes, the past can hurt. But the way I see it, you can either run from it, or learn from it.",
+    "answer": {
+      "name": "Rafiki",
+      "alias": "The baboon in The Lion King",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Nelson Mandela",
+        "fictional": false
+      },
+      {
+        "name": "Gandalf",
+        "fictional": true
+      }
+    ],
+    "source": "The Lion King (1994)",
+    "note": "Said immediately after hitting Simba on the head with a stick.",
+    "url": "https://en.wikiquote.org/wiki/The_Lion_King",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "stoic"
+    ]
+  },
+  {
+    "id": "toon-ego-critic-easy",
+    "quote": "In many ways, the work of a critic is easy. We risk very little, yet enjoy a position over those who offer up their work and their selves to our judgment.",
+    "answer": {
+      "name": "Anton Ego",
+      "alias": "The food critic in Ratatouille",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Roger Ebert",
+        "fictional": false
+      },
+      {
+        "name": "Statler and Waldorf",
+        "fictional": true
+      }
+    ],
+    "source": "Ratatouille (2007)",
+    "note": "Written after being served ratatouille by a rat.",
+    "url": "https://en.wikiquote.org/wiki/Ratatouille",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "criticism"
+    ]
+  },
+  {
+    "id": "toon-gusteau-only-limit",
+    "quote": "You must not let anyone define your limits because of where you come from. Your only limit is your soul.",
+    "answer": {
+      "name": "Auguste Gusteau",
+      "alias": "The dead chef who haunts a rat in Ratatouille",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Nelson Mandela",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Mufasa",
+        "fictional": true
+      }
+    ],
+    "source": "Ratatouille (2007)",
+    "url": "https://en.wikiquote.org/wiki/Ratatouille",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "toon-remy-change-is-nature",
+    "quote": "Change is nature, Dad. The part that we can influence. And it starts when we decide.",
+    "answer": {
+      "name": "Remy",
+      "alias": "The rat who cooks in Ratatouille",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Charles Darwin",
+        "fictional": false
+      },
+      {
+        "name": "Barack Obama",
+        "fictional": false
+      },
+      {
+        "name": "Simba",
+        "fictional": true
+      }
+    ],
+    "source": "Ratatouille (2007)",
+    "url": "https://en.wikiquote.org/wiki/Ratatouille",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "change"
+    ]
+  },
+  {
+    "id": "toon-dug-just-met-you",
+    "quote": "My name is Dug. I have just met you and I love you.",
+    "answer": {
+      "name": "Dug",
+      "alias": "The talking golden retriever in Up",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Rumi",
+        "fictional": false
+      },
+      {
+        "name": "Elmo",
+        "fictional": true
+      }
+    ],
+    "source": "Up (2009)",
+    "url": "https://en.wikiquote.org/wiki/Up_(2009_film)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tender",
+      "love"
+    ]
+  },
+  {
+    "id": "toon-russell-boring-stuff",
+    "quote": "That might sound boring, but I think the boring stuff is the stuff I remember the most.",
+    "answer": {
+      "name": "Russell",
+      "alias": "The Wilderness Explorer kid in Up",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Kurt Vonnegut",
+        "fictional": false
+      },
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Charlie Brown",
+        "fictional": true
+      }
+    ],
+    "source": "Up (2009)",
+    "note": "About sitting on a curb eating ice cream with his dad.",
+    "url": "https://en.wikiquote.org/wiki/Up_(2009_film)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "memory"
+    ]
+  },
+  {
+    "id": "toon-sadness-crying",
+    "quote": "Crying helps me slow down and obsess over the weight of life's problems.",
+    "answer": {
+      "name": "Sadness",
+      "alias": "The blue emotion in Inside Out",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Sylvia Plath",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      },
+      {
+        "name": "Morrissey",
+        "fictional": false
+      }
+    ],
+    "source": "Inside Out (2015)",
+    "note": "The Writers Guild cited this line when ranking the screenplay among the century's best.",
+    "url": "https://wga.org/writers-room/101-best-lists/101-best-screenplays-of-the-21st-century-so-far/inside-out",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "grief"
+    ]
+  },
+  {
+    "id": "toon-mr-big-still-animals",
+    "quote": "My child, we may be evolved, but deep down, we are still animals.",
+    "answer": {
+      "name": "Mr. Big",
+      "alias": "The tiny shrew crime boss in Zootopia",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Charles Darwin",
+        "fictional": false
+      },
+      {
+        "name": "Vito Corleone",
+        "fictional": true
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      }
+    ],
+    "source": "Zootopia (2016)",
+    "url": "https://en.wikiquote.org/wiki/Zootopia",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "nature"
+    ]
+  },
+  {
+    "id": "toon-nick-wilde-shifty-fox",
+    "quote": "If the world's only gonna see a fox as shifty and untrustworthy, there's no point trying to be anything else.",
+    "answer": {
+      "name": "Nick Wilde",
+      "alias": "The con-artist fox in Zootopia",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "James Baldwin",
+        "fictional": false
+      },
+      {
+        "name": "Tupac Shakur",
+        "fictional": false
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      }
+    ],
+    "source": "Zootopia (2016)",
+    "url": "https://en.wikiquote.org/wiki/Zootopia",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "toon-iroh-pride-shame",
+    "quote": "Pride is not the opposite of shame, but its source. True humility is the only antidote to shame.",
+    "answer": {
+      "name": "Uncle Iroh",
+      "alias": "The tea-loving uncle in Avatar: The Last Airbender",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Thomas Aquinas",
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "fictional": false
+      },
+      {
+        "name": "Yoda",
+        "fictional": true
+      }
+    ],
+    "source": "Avatar: The Last Airbender, S2E9 'Bitter Work' (2006)",
+    "note": "Said to a teenager who had just insisted he felt no shame at all.",
+    "url": "https://www.pastemagazine.com/tv/avatar-the-last-airbender/avatar-the-last-airbender-quotes",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "virtue"
+    ]
+  },
+  {
+    "id": "toon-genie-own-master",
+    "quote": "To be my own master, such a thing would be greater than all the magic and all the treasures in all the world!",
+    "answer": {
+      "name": "The Genie",
+      "alias": "The blue genie in Aladdin",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Frederick Douglass",
+        "fictional": false
+      },
+      {
+        "name": "Epictetus",
+        "fictional": false
+      },
+      {
+        "name": "Dobby",
+        "fictional": true
+      }
+    ],
+    "source": "Aladdin (1992)",
+    "note": "Epictetus was a slave. Dobby was a house-elf. The Genie was a lamp-dweller.",
+    "url": "https://imsdb.com/scripts/Aladdin.html",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "freedom"
+    ]
+  },
+  {
+    "id": "toon-calvin-intelligent-life",
+    "quote": "Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.",
+    "answer": {
+      "name": "Calvin",
+      "alias": "The six-year-old in Calvin and Hobbes",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Carl Sagan",
+        "fictional": false
+      },
+      {
+        "name": "Stephen Hawking",
+        "fictional": false
+      },
+      {
+        "name": "Bender",
+        "fictional": true
+      }
+    ],
+    "source": "Calvin and Hobbes strip, 8 November 1989",
+    "url": "https://en.wikiquote.org/wiki/Calvin_and_Hobbes",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "space"
+    ]
+  },
+  {
+    "id": "toon-calvin-history-fiction",
+    "quote": "History is the fiction we invent to persuade ourselves that events are knowable and that life has order and direction.",
+    "answer": {
+      "name": "Calvin",
+      "alias": "The six-year-old in Calvin and Hobbes",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Calvin and Hobbes strip (Bill Watterson, 1993)",
+    "url": "https://en.wikiquote.org/wiki/Calvin_and_Hobbes",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "history"
+    ]
+  },
+  {
+    "id": "toon-hobbes-ignorance-instantaneous",
+    "quote": "Why waste time learning, when ignorance is instantaneous?",
+    "answer": {
+      "name": "Hobbes",
+      "alias": "The stuffed tiger in Calvin and Hobbes",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      }
+    ],
+    "source": "Calvin and Hobbes strip, 15 November 1990",
+    "url": "https://en.wikiquote.org/wiki/Calvin_and_Hobbes",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "toon-linus-mankind",
+    "quote": "I love mankind... it's people I can't stand!",
+    "answer": {
+      "name": "Linus van Pelt",
+      "alias": "The kid with the blanket in Peanuts",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Charles Bukowski",
+        "fictional": false
+      },
+      {
+        "name": "Jean-Paul Sartre",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "Peanuts strip, 12 November 1959",
+    "url": "https://en.wikiquote.org/wiki/Peanuts",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "misanthropy"
+    ]
+  },
+  {
+    "id": "toon-charlie-brown-dread",
+    "quote": "I've developed a new philosophy. I only dread one day at a time.",
+    "answer": {
+      "name": "Charlie Brown",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Soren Kierkegaard",
+        "fictional": false
+      },
+      {
+        "name": "Woody Allen",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Peanuts strip, 8 August 1966",
+    "url": "https://en.wikiquote.org/wiki/Peanuts",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "anxiety"
+    ]
+  },
+  {
+    "id": "toon-snoopy-still-a-dog",
+    "quote": "Yesterday I was a dog. Today I'm a dog. Tomorrow I'll probably still be a dog.",
+    "answer": {
+      "name": "Snoopy",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Franz Kafka",
+        "fictional": false
+      },
+      {
+        "name": "Brian Griffin",
+        "fictional": true
+      }
+    ],
+    "source": "Peanuts strip, 15 February 1958",
+    "note": "He added: 'There's so little hope for advancement.'",
+    "url": "https://en.wikiquote.org/wiki/Peanuts",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "identity"
+    ]
+  },
+  {
+    "id": "toon-charlie-brown-desperate",
+    "quote": "We all need help with our homework. We're all pleading for someone to listen. We're all desperate.",
+    "answer": {
+      "name": "Charlie Brown",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Henry David Thoreau",
+        "fictional": false
+      },
+      {
+        "name": "Brene Brown",
+        "fictional": false
+      },
+      {
+        "name": "BoJack Horseman",
+        "fictional": true
+      }
+    ],
+    "source": "Peanuts strip, 12 May 1997",
+    "url": "https://en.wikiquote.org/wiki/Peanuts",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "loneliness"
+    ]
+  },
+  {
+    "id": "toon-pogo-enemy-is-us",
+    "quote": "We have met the enemy and he is us.",
+    "answer": {
+      "name": "Pogo",
+      "alias": "A possum in a 1950s-70s newspaper comic strip",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Abraham Lincoln",
+        "fictional": false
+      },
+      {
+        "name": "Carl Sagan",
+        "fictional": false
+      },
+      {
+        "name": "Linus van Pelt",
+        "fictional": true
+      }
+    ],
+    "source": "Walt Kelly's 'Pogo' Earth Day poster (1970) and strip (1970)",
+    "note": "A parody of Commodore Perry's 1813 dispatch: 'We have met the enemy and they are ours.'",
+    "url": "https://en.wikiquote.org/wiki/Walt_Kelly",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "environment"
+    ]
+  },
+  {
+    "id": "toon-porky-pine-permanent",
+    "quote": "Don't take life so serious, son, it ain't nohow permanent.",
+    "answer": {
+      "name": "Porky Pine",
+      "alias": "The gloomy porcupine in the comic strip Pogo",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Mark Twain",
+        "fictional": false
+      },
+      {
+        "name": "Seneca",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Walt Kelly's 'Pogo' comic strip (1950s)",
+    "url": "https://en.wikiquote.org/wiki/Walt_Kelly",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "mortality"
+    ]
+  },
+  {
+    "id": "toon-meowth-same-sky",
+    "quote": "We do have a lot in common. The same Earth, the same air, the same sky. Maybe if we started looking at what's the same, instead of always looking at what's different, well, who knows?",
+    "answer": {
+      "name": "Meowth",
+      "alias": "The talking cat in Team Rocket",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Martin Luther King Jr.",
+        "fictional": false
+      },
+      {
+        "name": "Carl Sagan",
+        "fictional": false
+      },
+      {
+        "name": "Mewtwo",
+        "fictional": true
+      }
+    ],
+    "source": "Pokémon: The First Movie (1998)",
+    "note": "Said to his own clone, declining to fight it.",
+    "url": "https://en.wikiquote.org/wiki/Pok%C3%A9mon:_The_First_Movie",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "unity"
+    ]
+  },
+  {
+    "id": "toon-eeyore-cant-all",
+    "quote": "We can't all, and some of us don't. That's all there is to it.",
+    "answer": {
+      "name": "Eeyore",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Samuel Beckett",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "A. A. Milne, Winnie-the-Pooh (1926), ch. 6",
+    "note": "The question was 'Can't all what?' The answer: 'Gaiety. Song-and-dance.'",
+    "url": "https://en.wikiquote.org/wiki/Winnie-the-Pooh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "melancholy"
+    ]
+  },
+  {
+    "id": "toon-piglet-very-small-animal",
+    "quote": "It is hard to be brave, when you're only a Very Small Animal.",
+    "answer": {
+      "name": "Piglet",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "Woody Allen",
+        "fictional": false
+      },
+      {
+        "name": "Frodo Baggins",
+        "fictional": true
+      }
+    ],
+    "source": "A. A. Milne, Winnie-the-Pooh (1926), ch. 7",
+    "url": "https://en.wikiquote.org/wiki/Winnie-the-Pooh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "courage"
+    ]
+  },
+  {
+    "id": "toon-eeyore-piece-of-weather",
+    "quote": "Being fine today doesn't mean anything. It has no sig - what's that word? Well, it has none of that. It's just a small piece of weather.",
+    "answer": {
+      "name": "Eeyore",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Seneca",
+        "fictional": false
+      },
+      {
+        "name": "Werner Herzog",
+        "fictional": false
+      },
+      {
+        "name": "Marvin the Paranoid Android",
+        "fictional": true
+      }
+    ],
+    "source": "A. A. Milne, The House at Pooh Corner (1928)",
+    "url": "https://en.wikiquote.org/wiki/A._A._Milne",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "toon-pokedex-yamask",
+    "quote": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+    "answer": {
+      "name": "The Pokédex",
+      "alias": "The Pokédex entry for Yamask",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Edgar Allan Poe",
+        "fictional": false
+      },
+      {
+        "name": "Carl Jung",
+        "fictional": false
+      },
+      {
+        "name": "The Grim Reaper",
+        "fictional": true
+      }
+    ],
+    "source": "Pokémon Black (2010), Pokédex entry for Yamask",
+    "note": "Yamask is a ghost-type Pokémon for children aged 7 and up.",
+    "url": "https://pokemondb.net/pokedex/yamask",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "dark"
+    ]
+  },
+  {
+    "id": "toon-cave-johnson-lemons",
+    "quote": "When life gives you lemons? Don't make lemonade. Make life take the lemons back! Get mad! Demand to see life's manager!",
+    "answer": {
+      "name": "Cave Johnson",
+      "alias": "The dead CEO in Portal 2",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Steve Jobs",
+        "fictional": false
+      },
+      {
+        "name": "Tony Robbins",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "Portal 2 (2011)",
+    "note": "He then announces plans for a combustible lemon that burns your house down.",
+    "url": "https://en.wikiquote.org/wiki/Portal_2",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "motivation"
+    ]
+  },
+  {
+    "id": "toon-cave-johnson-why-not",
+    "quote": "Science isn't about why, it's about why not.",
+    "answer": {
+      "name": "Cave Johnson",
+      "alias": "The dead CEO in Portal 2",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Richard Feynman",
+        "fictional": false
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Professor Farnsworth",
+        "fictional": true
+      }
+    ],
+    "source": "Portal 2 (2011)",
+    "note": "Context: he was explaining why his employees were being injected with praying-mantis DNA.",
+    "url": "https://en.wikiquote.org/wiki/Portal_2",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "science"
+    ]
+  },
+  {
+    "id": "toon-kratos-be-better",
+    "quote": "Do not be sorry. Be better.",
+    "answer": {
+      "name": "Kratos",
+      "alias": "The Greek god of war, as a dad",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Jocko Willink",
+        "fictional": false
+      },
+      {
+        "name": "Darth Vader",
+        "fictional": true
+      }
+    ],
+    "source": "God of War (2018)",
+    "url": "https://en.wikiquote.org/wiki/God_of_War_(2018_video_game)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "stoic"
+    ]
+  },
+  {
+    "id": "toon-andrew-ryan-slave-obeys",
+    "quote": "A man chooses, a slave obeys.",
+    "answer": {
+      "name": "Andrew Ryan",
+      "alias": "The man who built a city at the bottom of the sea in BioShock",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ayn Rand",
+        "fictional": false
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Magneto",
+        "fictional": true
+      }
+    ],
+    "source": "BioShock (2007)",
+    "note": "Said while ordering the player to beat him to death with a golf club. The player obeyed.",
+    "url": "https://en.wikiquote.org/wiki/BioShock",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "free-will"
+    ]
+  },
+  {
+    "id": "toon-andrew-ryan-sweat-of-brow",
+    "quote": "Is a man not entitled to the sweat of his brow? 'No,' says the man in Washington, 'it belongs to the poor.'",
+    "answer": {
+      "name": "Andrew Ryan",
+      "alias": "The man who built a city at the bottom of the sea in BioShock",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ayn Rand",
+        "fictional": false
+      },
+      {
+        "name": "Ronald Reagan",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "BioShock (2007), opening narration",
+    "url": "https://en.wikiquote.org/wiki/BioShock",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "politics"
+    ]
+  },
+  {
+    "id": "toon-fontaine-worth-a-nickel",
+    "quote": "You don't have to build a city to make people worship you... Just make the chumps believe they're worth a nickel.",
+    "answer": {
+      "name": "Frank Fontaine",
+      "alias": "The con man villain in BioShock",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "P. T. Barnum",
+        "fictional": false
+      },
+      {
+        "name": "L. Ron Hubbard",
+        "fictional": false
+      },
+      {
+        "name": "Saul Goodman",
+        "fictional": true
+      }
+    ],
+    "source": "BioShock (2007)",
+    "url": "https://en.wikiquote.org/wiki/BioShock",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "toon-tyrant",
+      "manipulation"
+    ]
+  },
+  {
+    "id": "toon-ganondorf-coveted-wind",
+    "quote": "No matter when it came, the wind carried the same thing... Death. But the winds that blew across the green fields of Hyrule brought something other than suffering and ruin. I coveted that wind, I suppose.",
+    "answer": {
+      "name": "Ganondorf",
+      "alias": "The villain of the Zelda games",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Genghis Khan",
+        "fictional": false
+      },
+      {
+        "name": "T. E. Lawrence",
+        "fictional": false
+      },
+      {
+        "name": "Sauron",
+        "fictional": true
+      }
+    ],
+    "source": "The Legend of Zelda: The Wind Waker (2002)",
+    "note": "Said moments before the final boss fight, about growing up in a desert.",
+    "url": "https://www.nintendojo.com/features/editorials/best-npc-quotes-ever/3",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "villain"
+    ]
+  },
+  {
+    "id": "toon-mask-salesman-parting",
+    "quote": "Whenever there is a meeting, a parting shall follow. But that parting needs not last forever.",
+    "answer": {
+      "name": "The Happy Mask Salesman",
+      "alias": "The creepy mask seller in Zelda: Majora's Mask",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Buddha",
+        "fictional": false
+      },
+      {
+        "name": "Rumi",
+        "fictional": false
+      },
+      {
+        "name": "Gandalf",
+        "fictional": true
+      }
+    ],
+    "source": "The Legend of Zelda: Majora's Mask (2000)",
+    "url": "https://www.nintendojo.com/features/editorials/best-npc-quotes-ever/3",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "impermanence"
+    ]
+  },
+  {
+    "id": "toon-snake-more-than-dna",
+    "quote": "Life isn't just about passing on your genes. We can leave behind much more than just DNA.",
+    "answer": {
+      "name": "Solid Snake",
+      "alias": "The Metal Gear Solid guy who hides in a cardboard box",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Richard Dawkins",
+        "fictional": false
+      },
+      {
+        "name": "Carl Sagan",
+        "fictional": false
+      },
+      {
+        "name": "Mufasa",
+        "fictional": true
+      }
+    ],
+    "source": "Metal Gear Solid 2: Sons of Liberty (2001)",
+    "url": "https://en.wikiquote.org/wiki/Metal_Gear_Solid",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "legacy"
+    ]
+  },
+  {
+    "id": "toon-arthur-loyal-to-what-matters",
+    "quote": "Be loyal to what matters.",
+    "answer": {
+      "name": "Arthur Morgan",
+      "alias": "The outlaw you play in Red Dead Redemption 2",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Dolly Parton",
+        "fictional": false
+      },
+      {
+        "name": "Ned Stark",
+        "fictional": true
+      }
+    ],
+    "source": "Red Dead Redemption 2 (2018)",
+    "url": "https://en.wikiquote.org/wiki/Red_Dead_Redemption_2",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "toon-profound",
+      "loyalty"
+    ]
+  },
+  {
+    "id": "toon-spike-really-alive",
+    "quote": "I'm not going there to die. I'm going to find out if I'm really alive.",
+    "answer": {
+      "name": "Spike Spiegel",
+      "alias": "The bounty hunter in Cowboy Bebop",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ernest Hemingway",
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Han Solo",
+        "fictional": true
+      }
+    ],
+    "source": "Cowboy Bebop, ep. 26 'The Real Folk Blues (Part 2)' (1999)",
+    "url": "https://en.wikiquote.org/wiki/Cowboy_Bebop",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "mortality"
+    ]
+  },
+  {
+    "id": "toon-jet-proof-alive",
+    "quote": "Men only think of their past right before their death, as if they were searching frantically for proof that they were alive.",
+    "answer": {
+      "name": "Jet Black",
+      "alias": "The ex-cop with a robot arm in Cowboy Bebop",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Leo Tolstoy",
+        "fictional": false
+      },
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Rust Cohle",
+        "fictional": true
+      }
+    ],
+    "source": "Cowboy Bebop, ep. 25 'The Real Folk Blues (Part 1)' (1999)",
+    "url": "https://en.wikiquote.org/wiki/Cowboy_Bebop",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "mortality"
+    ]
+  },
+  {
+    "id": "toon-vicious-angels-devils",
+    "quote": "When angels are forced out of heaven, they become devils.",
+    "answer": {
+      "name": "Vicious",
+      "alias": "The sword-wielding villain in Cowboy Bebop",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "John Milton",
+        "fictional": false
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Lucifer Morningstar",
+        "fictional": true
+      }
+    ],
+    "source": "Cowboy Bebop, ep. 5 'Ballad of Fallen Angels' (1998)",
+    "url": "https://en.wikiquote.org/wiki/Cowboy_Bebop",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "villain"
+    ]
+  },
+  {
+    "id": "toon-porco-pig-fascist",
+    "quote": "I'd rather be a pig than a fascist.",
+    "answer": {
+      "name": "Porco Rosso",
+      "alias": "A WWI flying ace cursed to look like a pig, in a Miyazaki film",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "George Orwell",
+        "fictional": false
+      },
+      {
+        "name": "Charlie Chaplin",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "Porco Rosso (1992)",
+    "note": "His reply to an invitation to rejoin the Italian Air Force.",
+    "url": "https://en.wikiquote.org/wiki/Porco_Rosso",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "politics"
+    ]
+  },
+  {
+    "id": "toon-porco-pig-doesnt-fly",
+    "quote": "A pig that doesn't fly is just a pig.",
+    "answer": {
+      "name": "Porco Rosso",
+      "alias": "A WWI flying ace cursed to look like a pig, in a Miyazaki film",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Amelia Earhart",
+        "fictional": false
+      },
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Babe",
+        "fictional": true
+      }
+    ],
+    "source": "Porco Rosso (1992)",
+    "url": "https://en.wikiquote.org/wiki/Porco_Rosso",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "purpose"
+    ]
+  },
+  {
+    "id": "toon-ryuk-nothingness",
+    "quote": "All humans will, without exception, eventually die. After they die, the place they go is MU. (Nothingness)",
+    "answer": {
+      "name": "Ryuk",
+      "alias": "The apple-eating death god in Death Note",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Epicurus",
+        "fictional": false
+      },
+      {
+        "name": "Richard Dawkins",
+        "fictional": false
+      },
+      {
+        "name": "Death (Discworld)",
+        "fictional": true
+      }
+    ],
+    "source": "Death Note, ep. 37 'New World' (2007)",
+    "note": "Listed among the official rules of the notebook.",
+    "url": "https://en.wikiquote.org/wiki/Death_Note",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "death"
+    ]
+  },
+  {
+    "id": "toon-light-i-am-justice",
+    "quote": "I am Justice! I protect the innocent and those who fear evil.",
+    "answer": {
+      "name": "Light Yagami",
+      "alias": "The honor student who kills people with a notebook in Death Note",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "George W. Bush",
+        "fictional": false
+      },
+      {
+        "name": "Maximilien Robespierre",
+        "fictional": false
+      },
+      {
+        "name": "Judge Dredd",
+        "fictional": true
+      }
+    ],
+    "source": "Death Note, ep. 2 'Confrontation' (2006)",
+    "url": "https://en.wikiquote.org/wiki/Death_Note",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "toon-tyrant",
+      "justice"
+    ]
+  },
+  {
+    "id": "toon-levi-hell-of-humans",
+    "quote": "I choose the hell of humans killing each other over the hell of being eaten.",
+    "answer": {
+      "name": "Levi Ackerman",
+      "alias": "The short captain in Attack on Titan",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Thomas Hobbes",
+        "fictional": false
+      },
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Rick Grimes",
+        "fictional": true
+      }
+    ],
+    "source": "Attack on Titan, S3 'The Uprising' arc (2018)",
+    "url": "https://en.wikiquote.org/wiki/Attack_on_Titan",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "toon-profound",
+      "dark"
+    ]
+  },
+  {
+    "id": "toon-gaara-love-only-myself",
+    "quote": "I live solely for myself. I love only myself.",
+    "answer": {
+      "name": "Gaara",
+      "alias": "The sand ninja in Naruto",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ayn Rand",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Gilderoy Lockhart",
+        "fictional": true
+      }
+    ],
+    "source": "Naruto, ep. 'Hospital Besieged' (2003)",
+    "url": "https://en.wikiquote.org/wiki/Naruto",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "toon-tyrant",
+      "ego"
+    ]
+  }
+]

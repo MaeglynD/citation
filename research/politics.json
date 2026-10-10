@@ -1,0 +1,2543 @@
+[
+  {
+    "id": "pol-trump-best-words",
+    "quote": "I know words. I have the best words.",
+    "answer": {
+      "name": "Donald Trump",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Zapp Brannigan",
+        "fictional": true
+      },
+      {
+        "name": "Shakespeare",
+        "fictional": false
+      }
+    ],
+    "source": "Rally speech, Hilton Head, South Carolina, 30 Dec 2015",
+    "note": "He went on to describe himself as 'very highly educated'.",
+    "url": "https://en.wikiquote.org/wiki/Donald_Trump",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "braggart"
+    ]
+  },
+  {
+    "id": "pol-trump-poorly-educated",
+    "quote": "I love the poorly educated.",
+    "answer": {
+      "name": "Donald Trump",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      },
+      {
+        "name": "Silvio Berlusconi",
+        "fictional": false
+      },
+      {
+        "name": "Oprah Winfrey",
+        "fictional": false
+      }
+    ],
+    "source": "Nevada caucus victory speech, 23 Feb 2016",
+    "note": "He had just won the Nevada caucus. Among the poorly educated.",
+    "url": "https://en.wikiquote.org/wiki/Donald_Trump",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "accidentally-honest"
+    ]
+  },
+  {
+    "id": "pol-trump-person-woman",
+    "quote": "Person, woman, man, camera, TV.",
+    "answer": {
+      "name": "Donald Trump",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yoko Ono",
+        "fictional": false
+      },
+      {
+        "name": "Jaden Smith",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      }
+    ],
+    "source": "Fox News interview with Dr. Marc Siegel, 22 July 2020",
+    "note": "The five words he recalled from a dementia screening, offered as proof of genius.",
+    "url": "https://www.cbsnews.com/news/trump-cognitive-test-difficulty-claim/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "poetry"
+    ]
+  },
+  {
+    "id": "pol-trump-windmills",
+    "quote": "If you have a windmill anywhere near your house, congratulations, your house just went down 75 percent in value. And they say the noise causes cancer.",
+    "answer": {
+      "name": "Donald Trump",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      },
+      {
+        "name": "Don Quixote",
+        "fictional": true
+      }
+    ],
+    "source": "Speech at the NRCC spring dinner, Washington, 2 April 2019",
+    "note": "The American Cancer Society was asked for comment. It had none.",
+    "url": "https://www.bloomberg.com/news/articles/2019-04-03/ap-fact-check-trump-is-tilting-at-wind-farms-again",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "conspiracy"
+    ]
+  },
+  {
+    "id": "pol-trump-covfefe",
+    "quote": "Despite the constant negative press covfefe",
+    "answer": {
+      "name": "Donald Trump",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      },
+      {
+        "name": "Lil Wayne",
+        "fictional": false
+      }
+    ],
+    "source": "Tweet posted at 12:06 a.m., 31 May 2017",
+    "note": "The press secretary insisted 'a small group of people know exactly what he meant'.",
+    "url": "https://en.wikipedia.org/wiki/Covfefe",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "tweet"
+    ]
+  },
+  {
+    "id": "pol-bush-children-learning",
+    "quote": "Rarely is the question asked: Is our children learning?",
+    "answer": {
+      "name": "George W. Bush",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Dan Quayle",
+        "fictional": false
+      },
+      {
+        "name": "Yogi Berra",
+        "fictional": false
+      }
+    ],
+    "source": "Campaign speech, Florence, South Carolina, 11 Jan 2000",
+    "note": "He later signed the No Child Left Behind Act.",
+    "url": "https://content.time.com/time/specials/packages/article/0,28804,1870938_1870943,00.html",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "education"
+    ]
+  },
+  {
+    "id": "pol-bush-fool-me-once",
+    "quote": "Fool me once, shame on — shame on you. Fool me — you can't get fooled again.",
+    "answer": {
+      "name": "George W. Bush",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yogi Berra",
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      },
+      {
+        "name": "Joe Biden",
+        "fictional": false
+      }
+    ],
+    "source": "Speech in Nashville, Tennessee, 17 Sept 2002",
+    "note": "Introduced as 'an old saying in Tennessee. I know it's in Texas, probably in Tennessee.'",
+    "url": "https://content.time.com/time/specials/packages/article/0,28804,1870938_1870943_1870944,00.html",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "proverb"
+    ]
+  },
+  {
+    "id": "pol-bush-food-on-family",
+    "quote": "I know how hard it is for you to put food on your family.",
+    "answer": {
+      "name": "George W. Bush",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      },
+      {
+        "name": "Joe Biden",
+        "fictional": false
+      }
+    ],
+    "source": "Campaign speech, Nashua, New Hampshire, 27 Jan 2000",
+    "note": "He was talking about single mothers. Probably.",
+    "url": "https://en.wikipedia.org/wiki/Bushism",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "accidentally-sinister"
+    ]
+  },
+  {
+    "id": "pol-biden-corn-pop",
+    "quote": "Corn Pop was a bad dude, and he ran a bunch of bad boys.",
+    "answer": {
+      "name": "Joe Biden",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Snoop Dogg",
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      }
+    ],
+    "source": "Speech at a pool dedication, Wilmington, Delaware, June 2017",
+    "note": "The story involved a razor, a six-foot chain and a 1962 swimming pool. Corn Pop was real.",
+    "url": "https://www.snopes.com/fact-check/joe-biden-hairy-legs-remark/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-bizarre",
+      "tough-guy"
+    ]
+  },
+  {
+    "id": "pol-quayle-lose-mind",
+    "quote": "What a waste it is to lose one's mind. Or not to have a mind is being very wasteful. How true that is.",
+    "answer": {
+      "name": "Dan Quayle",
+      "alias": "Vice President of the United States (1989-93)",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      },
+      {
+        "name": "George W. Bush",
+        "fictional": false
+      },
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      }
+    ],
+    "source": "Speech to the United Negro College Fund, 9 May 1989",
+    "note": "The slogan he was attempting was 'A mind is a terrible thing to waste.'",
+    "url": "https://en.wikiquote.org/wiki/Dan_Quayle",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "mangled-slogan"
+    ]
+  },
+  {
+    "id": "pol-quayle-mars",
+    "quote": "We have seen pictures where there are canals, we believe, and water. If there is water, that means there is oxygen. If oxygen, that means we can breathe.",
+    "answer": {
+      "name": "Dan Quayle",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Neil deGrasse Tyson",
+        "fictional": false
+      },
+      {
+        "name": "SpongeBob SquarePants",
+        "fictional": true
+      }
+    ],
+    "source": "Televised remarks on Mars exploration, CNN, 11 Aug 1989",
+    "note": "He was, at the time, chairman of the National Space Council.",
+    "url": "https://en.wikiquote.org/wiki/Dan_Quayle",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "science"
+    ]
+  },
+  {
+    "id": "pol-clinton-is",
+    "quote": "It depends on what the meaning of the word 'is' is.",
+    "answer": {
+      "name": "Bill Clinton",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Socrates",
+        "fictional": false
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      },
+      {
+        "name": "Yoda",
+        "fictional": true
+      }
+    ],
+    "source": "Grand jury testimony, 17 Aug 1998 (Starr Report)",
+    "note": "A sitting president, under oath, doing philosophy of language.",
+    "url": "https://www.slate.com/id/1000162",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-philosophy",
+      "lawyerly"
+    ]
+  },
+  {
+    "id": "pol-rumsfeld-unknown-unknowns",
+    "quote": "There are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don't know we don't know.",
+    "answer": {
+      "name": "Donald Rumsfeld",
+      "alias": "US Secretary of Defense, at a Pentagon briefing",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Socrates",
+        "fictional": false
+      },
+      {
+        "name": "Yoda",
+        "fictional": true
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "Pentagon news briefing, 12 Feb 2002",
+    "note": "The question was about evidence that Iraq had weapons of mass destruction.",
+    "url": "https://en.wikipedia.org/wiki/There_are_unknown_unknowns",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-philosophy",
+      "accidentally-profound"
+    ]
+  },
+  {
+    "id": "pol-palin-refudiate",
+    "quote": "'Refudiate,' 'misunderestimate,' 'wee-wee'd up.' English is a living language. Shakespeare liked to coin new words too. Got to celebrate it!",
+    "answer": {
+      "name": "Sarah Palin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dr. Seuss",
+        "fictional": false
+      },
+      {
+        "name": "Lil Wayne",
+        "fictional": false
+      },
+      {
+        "name": "George W. Bush",
+        "fictional": false
+      }
+    ],
+    "source": "Tweet, 18 July 2010",
+    "note": "The New Oxford American Dictionary named 'refudiate' its Word of the Year.",
+    "url": "https://www.csmonitor.com/USA/Politics/The-Vote/2010/0719/Sarah-Palin-and-Shakespeare-What-do-they-have-in-common-Refudiate",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "language"
+    ]
+  },
+  {
+    "id": "pol-mtg-gazpacho",
+    "quote": "Now we have Nancy Pelosi's gazpacho police spying on members of Congress, spying on the legislative work we do, spying on our staff and spying on American citizens.",
+    "answer": {
+      "name": "Marjorie Taylor Greene",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      },
+      {
+        "name": "Lauren Boebert",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "Interview on One America News, 8 Feb 2022",
+    "note": "Gazpacho is a cold Spanish soup. The Gestapo were something else.",
+    "url": "https://www.thejakartapost.com/world/2022/02/10/soup-nazis-pro-trump-lawmaker-mocked-over-gazpacho-police-.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "malapropism"
+    ]
+  },
+  {
+    "id": "pol-giuliani-truth",
+    "quote": "No, it isn't truth. Truth isn't truth.",
+    "answer": {
+      "name": "Rudy Giuliani",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "NBC Meet the Press, 19 Aug 2018",
+    "note": "He was explaining why his client should not testify under oath.",
+    "url": "https://www.npr.org/transcripts/640329279",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-philosophy",
+      "postmodern"
+    ]
+  },
+  {
+    "id": "pol-cain-ubeki",
+    "quote": "When they ask me who is the president of Ubeki-beki-beki-beki-stan-stan, I'm going to say, you know, I don't know. Do you know?",
+    "answer": {
+      "name": "Herman Cain",
+      "alias": "Republican presidential frontrunner, October 2011",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Sarah Palin",
+        "fictional": false
+      },
+      {
+        "name": "Borat",
+        "fictional": true
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "Interview with CBN's David Brody, Oct 2011",
+    "note": "Uzbekistan has 35 million people and a US air base agreement.",
+    "url": "https://www.cbsnews.com/news/cain-says-hes-ready-for-questions-about-ubeki-beki-beki-beki-stan-stan/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "foreign-policy"
+    ]
+  },
+  {
+    "id": "pol-nixon-not-illegal",
+    "quote": "Well, when the president does it, that means that it is not illegal.",
+    "answer": {
+      "name": "Richard Nixon",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Vladimir Putin",
+        "fictional": false
+      },
+      {
+        "name": "Louis XIV",
+        "fictional": false
+      },
+      {
+        "name": "Frank Underwood",
+        "fictional": true
+      }
+    ],
+    "source": "Interview with David Frost, broadcast 19 May 1977",
+    "note": "Said three years after resigning to avoid impeachment.",
+    "url": "https://teachingamericanhistory.org/document/transcript-of-david-frosts-interview-with-richard-nixon/",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-sinister",
+      "power"
+    ]
+  },
+  {
+    "id": "pol-lbj-trousers",
+    "quote": "Now, another thing: the crotch, down where your nuts hang, is always a little too tight.",
+    "answer": {
+      "name": "Lyndon B. Johnson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      }
+    ],
+    "source": "Recorded phone call ordering trousers from Joe Haggar, 9 Aug 1964",
+    "note": "The sitting President of the United States, on tape, mid-belch, discussing his 'bunghole'.",
+    "url": "https://prde.upress.virginia.edu/conversations/4006350/",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-crude",
+      "tapes"
+    ]
+  },
+  {
+    "id": "pol-truman-critic",
+    "quote": "Some day I hope to meet you. When that happens you'll need a new nose, a lot of beefsteak for black eyes, and perhaps a supporter below!",
+    "answer": {
+      "name": "Harry S. Truman",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mike Tyson",
+        "fictional": false
+      },
+      {
+        "name": "Al Capone",
+        "fictional": false
+      },
+      {
+        "name": "Andrew Jackson",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Washington Post music critic Paul Hume, 6 Dec 1950",
+    "note": "Hume had reviewed a recital by Truman's daughter. The president was mid-Korean War.",
+    "url": "https://www.trumanlibrary.gov/education/trivia/letter-truman-defends-daughter-singing",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-threat",
+      "dad"
+    ]
+  },
+  {
+    "id": "pol-roosevelt-shot",
+    "quote": "Friends, I shall ask you to be as quiet as possible. I don't know whether you fully understand that I have just been shot; but it takes more than that to kill a Bull Moose.",
+    "answer": {
+      "name": "Theodore Roosevelt",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Arnold Schwarzenegger",
+        "fictional": false
+      },
+      {
+        "name": "50 Cent",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "Campaign speech in Milwaukee, minutes after being shot, 14 Oct 1912",
+    "note": "He spoke for 84 minutes with the bullet still in his chest.",
+    "url": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Theodore_Roosevelt",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-badass",
+      "history"
+    ]
+  },
+  {
+    "id": "pol-adams-insignificant-office",
+    "quote": "My Country has in its Wisdom contrived for me, the most insignificant Office that ever the Invention of Man contrived or his Imagination conceived.",
+    "answer": {
+      "name": "John Adams",
+      "alias": "The first Vice President of the United States",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dan Quayle",
+        "fictional": false
+      },
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      },
+      {
+        "name": "Prince Harry",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Abigail Adams, 19 Dec 1793",
+    "note": "He was describing the vice presidency. He then became president.",
+    "url": "https://www.masshist.org/beehiveblog/2021/06/the-day-the-vice-president-showed-his-strength",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-bitter",
+      "founding-fathers"
+    ]
+  },
+  {
+    "id": "pol-jefferson-manure",
+    "quote": "The tree of liberty must be refreshed from time to time with the blood of patriots & tyrants. It is it's natural manure.",
+    "answer": {
+      "name": "Thomas Jefferson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Che Guevara",
+        "fictional": false
+      },
+      {
+        "name": "Ted Kaczynski",
+        "fictional": false
+      },
+      {
+        "name": "Thanos",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to William Stephens Smith, 13 Nov 1787",
+    "note": "Spelling is his. He was reacting to Shays' Rebellion, which he thought was fine, actually.",
+    "url": "https://tjrs.monticello.org/node/100",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-sinister",
+      "founding-fathers"
+    ]
+  },
+  {
+    "id": "pol-franklin-old-mistresses",
+    "quote": "...in all your Amours you should prefer old Women to young ones.",
+    "answer": {
+      "name": "Benjamin Franklin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hugh Hefner",
+        "fictional": false
+      },
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      }
+    ],
+    "source": "'Old Mistresses Apologue', letter to a young friend, 25 June 1745",
+    "note": "He gave eight numbered reasons. The eighth: 'They are so grateful!!'",
+    "url": "https://founders.archives.gov/documents/Franklin/01-03-02-0011",
+    "verification": "primary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-bawdy",
+      "founding-fathers"
+    ]
+  },
+  {
+    "id": "pol-harding-jerry",
+    "quote": "Jerry sends Christmas greetings! He would come too, if I might: would he be welcomed cordially?",
+    "answer": {
+      "name": "Warren G. Harding",
+      "alias": "The 29th President of the United States",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Lord Byron",
+        "fictional": false
+      },
+      {
+        "name": "Kermit the Frog",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to mistress Carrie Phillips, c.1910-20 (Library of Congress, opened 2014)",
+    "note": "'Jerry' was his penis. The letters were sealed for 50 years at the family's request.",
+    "url": "https://abcnews.com/blogs/politics/2014/07/ten-sexy-things-president-warren-harding-told-his-mistress",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-bawdy",
+      "letters"
+    ]
+  },
+  {
+    "id": "pol-kissinger-illegal",
+    "quote": "The illegal we do immediately. The unconstitutional takes a little longer.",
+    "answer": {
+      "name": "Henry Kissinger",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Al Capone",
+        "fictional": false
+      },
+      {
+        "name": "Frank Underwood",
+        "fictional": true
+      },
+      {
+        "name": "Richard Nixon",
+        "fictional": false
+      }
+    ],
+    "source": "Joking remark quoted in The Washington Post, 23 Dec 1973",
+    "note": "He was Secretary of State at the time. He won the Nobel Peace Prize the same year.",
+    "url": "https://en.wikiquote.org/wiki/Henry_Kissinger",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-sinister",
+      "diplomat"
+    ]
+  },
+  {
+    "id": "pol-barry-killings",
+    "quote": "Outside of the killings, D.C. has one of the lowest crime rates in the country.",
+    "answer": {
+      "name": "Marion Barry",
+      "alias": "The Mayor of Washington, D.C.",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Rob Ford",
+        "fictional": false
+      },
+      {
+        "name": "Rudy Giuliani",
+        "fictional": false
+      },
+      {
+        "name": "Walter White",
+        "fictional": true
+      }
+    ],
+    "source": "Quoted in USA Today, 24 Mar 1989",
+    "note": "D.C. had the highest homicide rate in America that year. He was re-elected in 1994.",
+    "url": "https://en.wikiquote.org/wiki/Marion_Barry",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "crime"
+    ]
+  },
+  {
+    "id": "pol-stevens-tubes",
+    "quote": "And again, the Internet is not something that you just dump something on. It's not a big truck. It's a series of tubes.",
+    "answer": {
+      "name": "Ted Stevens",
+      "alias": "The US Senator in charge of regulating the internet (2006)",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Al Gore",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Bill Gates",
+        "fictional": false
+      }
+    ],
+    "source": "Senate Commerce Committee debate on net neutrality, 28 June 2006",
+    "note": "He chaired the committee. Earlier in the speech, 'an internet was sent by my staff'.",
+    "url": "https://en.wikipedia.org/wiki/Series_of_tubes",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "technology"
+    ]
+  },
+  {
+    "id": "pol-scalia-fortune-cookie",
+    "quote": "The Supreme Court of the United States has descended from the disciplined legal reasoning of John Marshall and Joseph Story to the mystical aphorisms of the fortune cookie.",
+    "answer": {
+      "name": "Antonin Scalia",
+      "alias": "A US Supreme Court Justice, in an official dissent",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Judge Judy",
+        "fictional": false
+      },
+      {
+        "name": "Jon Stewart",
+        "fictional": false
+      },
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      }
+    ],
+    "source": "Dissent in Obergefell v. Hodges, 26 June 2015",
+    "note": "Same footnote: if he had ever joined such an opinion, he 'would hide my head in a bag'.",
+    "url": "https://www.law.cornell.edu/supremecourt/text/14-556",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "judge-savage",
+      "legal"
+    ]
+  },
+  {
+    "id": "pol-holmes-imbeciles",
+    "quote": "Three generations of imbeciles are enough.",
+    "answer": {
+      "name": "Oliver Wendell Holmes Jr.",
+      "alias": "A sitting US Supreme Court Justice, in a majority opinion (1927)",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Adolf Hitler",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "Majority opinion, Buck v. Bell, 1927",
+    "note": "The Court upheld forced sterilisation 8-1. The ruling has never been overturned.",
+    "url": "https://www.law.cornell.edu/supremecourt/text/274/200",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "judge-sinister",
+      "legal"
+    ]
+  },
+  {
+    "id": "pol-norton-abolish-congress",
+    "quote": "...we do hereby abolish Congress, and it is therefore abolished.",
+    "answer": {
+      "name": "Emperor Norton",
+      "alias": "The San Francisco man who declared himself Emperor of the United States",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "Kim Jong Un",
+        "fictional": false
+      }
+    ],
+    "source": "Proclamation printed in the San Francisco Evening Bulletin, 12 Oct 1859",
+    "note": "Congress ignored him. He then ordered the army to clear the building.",
+    "url": "https://www.libertarian-labyrinth.org/emperor-norton-project/emperor-nortons-proclamations-for-1859/",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-bizarre",
+      "deed-better-known"
+    ]
+  },
+  {
+    "id": "pol-boris-olive",
+    "quote": "My chances of being PM are about as good as the chances of finding Elvis on Mars, or my being reincarnated as an olive.",
+    "answer": {
+      "name": "Boris Johnson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Stephen Fry",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      },
+      {
+        "name": "Theresa May",
+        "fictional": false
+      }
+    ],
+    "source": "The Independent, 'You ask the questions', 17 June 2004",
+    "note": "He became Prime Minister in 2019.",
+    "url": "https://en.wikiquote.org/wiki/Boris_Johnson",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-bizarre",
+      "prophecy"
+    ]
+  },
+  {
+    "id": "pol-boris-breasts",
+    "quote": "Voting Tory will cause your wife to have bigger breasts and increase your chances of owning a BMW M3.",
+    "answer": {
+      "name": "Boris Johnson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Silvio Berlusconi",
+        "fictional": false
+      },
+      {
+        "name": "Jeremy Clarkson",
+        "fictional": false
+      },
+      {
+        "name": "Zapp Brannigan",
+        "fictional": true
+      }
+    ],
+    "source": "General election campaign remark, April 2005 (Independent on Sunday)",
+    "note": "The Conservatives lost that election.",
+    "url": "https://en.wikiquote.org/wiki/Boris_Johnson",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-crude",
+      "campaign"
+    ]
+  },
+  {
+    "id": "pol-boris-cocaine",
+    "quote": "I think I was once given cocaine but I sneezed so it didn't go up my nose. In fact, it may have been icing sugar.",
+    "answer": {
+      "name": "Boris Johnson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      },
+      {
+        "name": "Rob Ford",
+        "fictional": false
+      },
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      }
+    ],
+    "source": "Evening Standard, 17 Oct 2005",
+    "note": "Two years later he admitted it was cocaine and that he had 'tried it at university'.",
+    "url": "https://en.wikiquote.org/wiki/Boris_Johnson",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-bizarre",
+      "drugs"
+    ]
+  },
+  {
+    "id": "pol-philip-not-a-chair",
+    "quote": "If it has four legs and is not a chair, has wings and is not an aeroplane, or swims and is not a submarine, the Cantonese will eat it.",
+    "answer": {
+      "name": "Prince Philip",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Anthony Bourdain",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Shrek",
+        "fictional": true
+      }
+    ],
+    "source": "Remark to a World Wildlife Fund meeting, 1986 (BBC News, 1 Mar 2002)",
+    "note": "He was President of the World Wildlife Fund at the time.",
+    "url": "https://en.wikiquote.org/wiki/Prince_Philip,_Duke_of_Edinburgh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-gaffe",
+      "food"
+    ]
+  },
+  {
+    "id": "pol-philip-not-eaten",
+    "quote": "You managed not to get eaten then?",
+    "answer": {
+      "name": "Prince Philip",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bear Grylls",
+        "fictional": false
+      },
+      {
+        "name": "Steve Irwin",
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      }
+    ],
+    "source": "To a British student who had trekked in Papua New Guinea, 1998 (BBC News)",
+    "note": "The student had not, in fact, been eaten.",
+    "url": "https://en.wikiquote.org/wiki/Prince_Philip,_Duke_of_Edinburgh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-gaffe",
+      "travel"
+    ]
+  },
+  {
+    "id": "pol-philip-deadly-virus",
+    "quote": "In the event that I am reincarnated, I would like to return as a deadly virus, to contribute something to solving overpopulation.",
+    "answer": {
+      "name": "Prince Philip",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Thanos",
+        "fictional": true
+      },
+      {
+        "name": "The Dalai Lama",
+        "fictional": false
+      },
+      {
+        "name": "Ted Kaczynski",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Deutsche Presse-Agentur, 1988",
+    "note": "He was the long-serving president of the World Wildlife Fund.",
+    "url": "https://en.wikiquote.org/wiki/Prince_Philip,_Duke_of_Edinburgh",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "royal-sinister",
+      "environment"
+    ]
+  },
+  {
+    "id": "pol-philip-bastards",
+    "quote": "I would very much like to go to Russia — although the bastards murdered half my family.",
+    "answer": {
+      "name": "Prince Philip",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Pablo Escobar",
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "fictional": false
+      }
+    ],
+    "source": "On being asked whether he would visit Moscow, 1967 (Reuters/NBC)",
+    "note": "The Romanovs were his great-aunt's family. He later gave DNA to identify their remains.",
+    "url": "https://www.nbcnews.com/news/world/prince-philip-retire-duke-edinburgh-s-most-memorable-quips-n754681",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "royal-gaffe",
+      "family"
+    ]
+  },
+  {
+    "id": "pol-philip-deaf",
+    "quote": "Deaf? If you are near there, no wonder you are deaf.",
+    "answer": {
+      "name": "Prince Philip",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ludwig van Beethoven",
+        "fictional": false
+      },
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Eric Cartman",
+        "fictional": true
+      }
+    ],
+    "source": "To a group of deaf children standing near a steel band, Cardiff, 1999 (BBC News)",
+    "note": "Said at the opening of the Welsh Assembly.",
+    "url": "https://en.wikiquote.org/wiki/Prince_Philip,_Duke_of_Edinburgh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-gaffe",
+      "cruel"
+    ]
+  },
+  {
+    "id": "pol-charles-trousers",
+    "quote": "Oh. God. I'll just live inside your trousers or something. It would be much easier!",
+    "answer": {
+      "name": "King Charles III",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Austin Powers",
+        "fictional": true
+      },
+      {
+        "name": "Prince Harry",
+        "fictional": false
+      },
+      {
+        "name": "Lil Wayne",
+        "fictional": false
+      }
+    ],
+    "source": "Intercepted phone call to Camilla Parker Bowles, 18 Dec 1989 (published 1993)",
+    "note": "Next line: 'Or, God forbid, a Tampax. Just my luck!' He now heads the Church of England.",
+    "url": "https://en.wikipedia.org/wiki/Tampongate",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "royal-bawdy",
+      "tapes"
+    ]
+  },
+  {
+    "id": "pol-harry-todger",
+    "quote": "While the ears and cheeks were already healing, the todger wasn't. It was becoming more of an issue by the day.",
+    "answer": {
+      "name": "Prince Harry",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Bear Grylls",
+        "fictional": false
+      },
+      {
+        "name": "Austin Powers",
+        "fictional": true
+      }
+    ],
+    "source": "Spare (2023), memoir",
+    "note": "Frostbite from a North Pole trek, suffered through his brother's wedding.",
+    "url": "https://www.newsweek.com/everything-prince-harry-says-crown-jewels-memoir-spare-1771904",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-bawdy",
+      "memoir"
+    ]
+  },
+  {
+    "id": "pol-anne-neigh",
+    "quote": "When I appear in public, people expect me to neigh, grind my teeth, paw the ground, and swish my tail — none of which is easy.",
+    "answer": {
+      "name": "Princess Anne",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "BoJack Horseman",
+        "fictional": true
+      },
+      {
+        "name": "Lady Gaga",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "On her 'horsey' reputation (Oxford Dictionary of Quotations by Subject, 2010)",
+    "note": "She competed in the 1976 Olympics. In equestrian events.",
+    "url": "https://en.wikiquote.org/wiki/Anne,_Princess_Royal",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "royal-selfaware",
+      "horses"
+    ]
+  },
+  {
+    "id": "pol-andrew-pizza-express",
+    "quote": "Because going to Pizza Express in Woking is an unusual thing for me to do, a very unusual thing for me to do.",
+    "answer": {
+      "name": "Prince Andrew",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Alan Partridge",
+        "fictional": true
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      },
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      }
+    ],
+    "source": "BBC Newsnight interview with Emily Maitlis, Nov 2019",
+    "note": "This was his alibi. He also stated that he does not sweat.",
+    "url": "https://www.thejournal.ie/?p=4894625",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-bizarre",
+      "alibi"
+    ]
+  },
+  {
+    "id": "pol-victoria-ugly-baby",
+    "quote": "An ugly baby is a very nasty object – and the prettiest is frightful when undressed...",
+    "answer": {
+      "name": "Queen Victoria",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Anna Wintour",
+        "fictional": false
+      },
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "Letter to her daughter Vicky, 1859 (Dearest Child, ed. Roger Fulford)",
+    "note": "She had nine children. The sentence continues: '...that terrible frog-like action.'",
+    "url": "https://mentalfloss.com/article/51762/10-quotes-queen-victoria-miseries-royal-motherhood",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "royal-cruel",
+      "children"
+    ]
+  },
+  {
+    "id": "pol-diana-three-of-us",
+    "quote": "Well, there were three of us in this marriage, so it was a bit crowded.",
+    "answer": {
+      "name": "Princess Diana",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dolly Parton",
+        "fictional": false
+      },
+      {
+        "name": "Elizabeth Taylor",
+        "fictional": false
+      },
+      {
+        "name": "Hillary Clinton",
+        "fictional": false
+      }
+    ],
+    "source": "BBC Panorama interview with Martin Bashir, 20 Nov 1995",
+    "note": "The third was Camilla. The Queen wrote to both parties recommending divorce within weeks.",
+    "url": "https://en.wikipedia.org/wiki/An_Interview_with_HRH_The_Princess_of_Wales",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "royal-savage",
+      "marriage"
+    ]
+  },
+  {
+    "id": "pol-churchill-glow-worm",
+    "quote": "We are all worms. But I do believe that I am a glow-worm.",
+    "answer": {
+      "name": "Winston Churchill",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Salvador Dalí",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Winnie the Pooh",
+        "fictional": true
+      }
+    ],
+    "source": "To Violet Asquith at a dinner party, 1906 (her memoir, 1965)",
+    "note": "He was 31 and had just met her. She married someone else.",
+    "url": "https://winstonchurchill.org/resources/quotes/we-are-all-worms/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-ego",
+      "poetic"
+    ]
+  },
+  {
+    "id": "pol-cameron-future-once",
+    "quote": "I was the future once.",
+    "answer": {
+      "name": "David Cameron",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Marty McFly",
+        "fictional": true
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "fictional": false
+      },
+      {
+        "name": "Tony Blair",
+        "fictional": false
+      }
+    ],
+    "source": "Final Prime Minister's Questions, House of Commons, 13 July 2016",
+    "note": "His last words as PM, three weeks after losing the Brexit referendum he called.",
+    "url": "https://www.newstatesman.com/politics/2016/07/pmqs-review-david-cameron-closes-style-i-was-future-once",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-poetic",
+      "exit"
+    ]
+  },
+  {
+    "id": "pol-cameron-twat",
+    "quote": "The trouble with Twitter, the instantness of it – too many twits might make a twat.",
+    "answer": {
+      "name": "David Cameron",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jeremy Clarkson",
+        "fictional": false
+      },
+      {
+        "name": "Stephen Fry",
+        "fictional": false
+      },
+      {
+        "name": "Prince Philip",
+        "fictional": false
+      }
+    ],
+    "source": "Absolute Radio interview, 29 July 2009",
+    "note": "Said live on breakfast radio, a year before he became Prime Minister. He apologised.",
+    "url": "https://www.theregister.com/2009/07/29/cameron_tweets/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-crude",
+      "technology"
+    ]
+  },
+  {
+    "id": "pol-truss-cheese",
+    "quote": "We import two-thirds of our cheese. That is a disgrace.",
+    "answer": {
+      "name": "Liz Truss",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Wallace",
+        "fictional": true
+      },
+      {
+        "name": "Anthony Bourdain",
+        "fictional": false
+      },
+      {
+        "name": "Jacob Rees-Mogg",
+        "fictional": false
+      }
+    ],
+    "source": "Conservative Party Conference speech, Birmingham, 2014",
+    "note": "Delivered with a long dramatic pause and a look of revulsion. Later PM for 49 days.",
+    "url": "https://www.nationalworld.com/news/politics/liz-truss-prime-minister-cheese-pork-markets-conservative-leadership-race-3385078",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-bizarre",
+      "food"
+    ]
+  },
+  {
+    "id": "pol-may-fields-of-wheat",
+    "quote": "I have to confess that when me and my friends used to run through the fields of wheat, the farmers weren't too pleased about that.",
+    "answer": {
+      "name": "Theresa May",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ned Flanders",
+        "fictional": true
+      },
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      }
+    ],
+    "source": "ITV interview with Julie Etchingham, June 2017",
+    "note": "Her answer, as Prime Minister, to 'what is the naughtiest thing you have ever done?'",
+    "url": "https://www.fortune.com/2017/06/06/uk-election-theresa-may-naughty-wheat/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-bizarre",
+      "wholesome"
+    ]
+  },
+  {
+    "id": "pol-berlusconi-suntanned",
+    "quote": "Barack Obama being young, handsome and sun-tanned is going to get along with you swimmingly.",
+    "answer": {
+      "name": "Silvio Berlusconi",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Prince Philip",
+        "fictional": false
+      },
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      },
+      {
+        "name": "Vladimir Putin",
+        "fictional": false
+      }
+    ],
+    "source": "Press conference with Dmitry Medvedev, Moscow, 6 Nov 2008",
+    "note": "Two days after the US election. He later called it a compliment.",
+    "url": "https://en.wikiquote.org/wiki/Silvio_Berlusconi",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-gaffe",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "pol-berlusconi-napoleon",
+    "quote": "Only Napoleon did more than I have done. But I am definitely taller.",
+    "answer": {
+      "name": "Silvio Berlusconi",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Zlatan Ibrahimović",
+        "fictional": false
+      },
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted by Reuters, 9 Feb 2006",
+    "note": "Berlusconi is 5 ft 5 in. Napoleon was about 5 ft 6 in.",
+    "url": "https://en.wikiquote.org/wiki/Silvio_Berlusconi",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-ego",
+      "braggart"
+    ]
+  },
+  {
+    "id": "pol-berlusconi-hair",
+    "quote": "I have little hair because my brain is so big it pushes the hair out.",
+    "answer": {
+      "name": "Silvio Berlusconi",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      },
+      {
+        "name": "Jeff Bezos",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted in The Observer, 20 April 2008",
+    "note": "He had a hair transplant in 2004.",
+    "url": "https://en.wikiquote.org/wiki/Silvio_Berlusconi",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-ego",
+      "vanity"
+    ]
+  },
+  {
+    "id": "pol-putin-outhouse",
+    "quote": "So if we find them in the toilet, excuse me, we'll rub them out in the outhouse.",
+    "answer": {
+      "name": "Vladimir Putin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      },
+      {
+        "name": "Joseph Stalin",
+        "fictional": false
+      },
+      {
+        "name": "John Wick",
+        "fictional": true
+      }
+    ],
+    "source": "Press remarks on Chechen terrorists, Astana, 24 Sept 1999",
+    "note": "He had been Prime Minister for six weeks. The phrase made him famous in Russia.",
+    "url": "https://en.wikiquote.org/wiki/Vladimir_Putin",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-crude",
+      "threat"
+    ]
+  },
+  {
+    "id": "pol-putin-bad-days",
+    "quote": "I am not a woman, so I don't have bad days.",
+    "answer": {
+      "name": "Vladimir Putin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Andrew Tate",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Silvio Berlusconi",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Oliver Stone, 'The Putin Interviews', 2017",
+    "note": "He added that this was 'the nature of things' and that he was not trying to insult anyone.",
+    "url": "https://en.wikiquote.org/wiki/Vladimir_Putin",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-sexist",
+      "macho"
+    ]
+  },
+  {
+    "id": "pol-khrushchev-bridge",
+    "quote": "Politicians are the same all over. They promise to build a bridge even where there is no river.",
+    "answer": {
+      "name": "Nikita Khrushchev",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mark Twain",
+        "fictional": false
+      },
+      {
+        "name": "Groucho Marx",
+        "fictional": false
+      },
+      {
+        "name": "Will Rogers",
+        "fictional": false
+      }
+    ],
+    "source": "Remark about a bridge in Belgrade, 22 Aug 1963 (Chicago Tribune)",
+    "note": "Said by the leader of the Soviet Union, who did not face elections.",
+    "url": "https://en.wikiquote.org/wiki/Nikita_Khrushchev",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-witty",
+      "self-aware"
+    ]
+  },
+  {
+    "id": "pol-khrushchev-hedgehogs",
+    "quote": "If you start throwing hedgehogs under me, I shall throw a couple of porcupines under you.",
+    "answer": {
+      "name": "Nikita Khrushchev",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Sonic the Hedgehog",
+        "fictional": true
+      },
+      {
+        "name": "Dr. Seuss",
+        "fictional": false
+      },
+      {
+        "name": "Genghis Khan",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted in The New York Times, 7 Nov 1963",
+    "note": "This was a nuclear superpower's official position.",
+    "url": "https://en.wikiquote.org/wiki/Nikita_Khrushchev",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-bizarre",
+      "threat"
+    ]
+  },
+  {
+    "id": "pol-yeltsin-disaster",
+    "quote": "Well, now for the first time, I can tell you that you're a disaster.",
+    "answer": {
+      "name": "Boris Yeltsin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Joan Rivers",
+        "fictional": false
+      }
+    ],
+    "source": "Joint press conference with Bill Clinton, Hyde Park, New York, 23 Oct 1995",
+    "note": "Said to the press corps. Clinton laughed until he cried. Yeltsin was reportedly drunk.",
+    "url": "https://www.presidency.ucsb.edu/documents/the-presidents-news-conference-with-president-boris-yeltsin-russia-hyde-park-new-york",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-savage",
+      "press"
+    ]
+  },
+  {
+    "id": "pol-degaulle-cheese",
+    "quote": "How can you govern a country that has two hundred and forty-six varieties of cheese?",
+    "answer": {
+      "name": "Charles de Gaulle",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "Anthony Bourdain",
+        "fictional": false
+      },
+      {
+        "name": "Wallace",
+        "fictional": true
+      }
+    ],
+    "source": "Quoted in Ernest Mignon, Les Mots du Général (1962)",
+    "note": "He governed it anyway, for ten years.",
+    "url": "https://en.wikiquote.org/wiki/Charles_de_Gaulle",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-witty",
+      "food"
+    ]
+  },
+  {
+    "id": "pol-sarkozy-casse-toi",
+    "quote": "Get lost then, you poor jerk!",
+    "answer": {
+      "name": "Nicolas Sarkozy",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jeremy Clarkson",
+        "fictional": false
+      },
+      {
+        "name": "Eric Cartman",
+        "fictional": true
+      },
+      {
+        "name": "Zinedine Zidane",
+        "fictional": false
+      }
+    ],
+    "source": "To a man who refused to shake his hand, Paris Agricultural Show, 23 Feb 2008",
+    "note": "Original: 'Casse-toi, alors, pauvre con!' The sitting President of France, on camera.",
+    "url": "https://en.wikipedia.org/wiki/Casse-toi,_pauv%27_con",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-crude",
+      "insult"
+    ]
+  },
+  {
+    "id": "pol-marie-antoinette-pardon",
+    "quote": "Pardon me, sir, I did not do it on purpose.",
+    "answer": {
+      "name": "Marie Antoinette",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Winnie the Pooh",
+        "fictional": true
+      },
+      {
+        "name": "Hugh Grant",
+        "fictional": false
+      }
+    ],
+    "source": "Last words, after stepping on the executioner's foot, 16 Oct 1793",
+    "note": "She never said 'let them eat cake'. She did say this, to the man about to behead her.",
+    "url": "https://en.wikiquote.org/wiki/Marie_Antoinette",
+    "verification": "wikiquote-sourced",
+    "confidence": 3,
+    "translated": true,
+    "tags": [
+      "royal-polite",
+      "last-words"
+    ]
+  },
+  {
+    "id": "pol-wilhelm-march-hares",
+    "quote": "You English are mad, mad, mad as March hares.",
+    "answer": {
+      "name": "Kaiser Wilhelm II",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      },
+      {
+        "name": "The Mad Hatter",
+        "fictional": true
+      },
+      {
+        "name": "Adolf Hitler",
+        "fictional": false
+      }
+    ],
+    "source": "Interview published in The Daily Telegraph, 28 Oct 1908",
+    "note": "He was Queen Victoria's grandson. The interview nearly cost him his throne.",
+    "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/the-daily-telegraph-affair-october-28-1908.pdf",
+    "verification": "primary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "royal-gaffe",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "pol-trudeau-peoplekind",
+    "quote": "We like to say 'peoplekind,' not necessarily 'mankind,' because it's more inclusive.",
+    "answer": {
+      "name": "Justin Trudeau",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      }
+    ],
+    "source": "Town hall at MacEwan University, Edmonton, 2 Feb 2018",
+    "note": "He interrupted a woman mid-question to say it. He later called it 'a dumb joke'.",
+    "url": "https://www.cbc.ca/news/politics/trudeau-peoplekind-dumb-joke-1.4524233",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-woke",
+      "gaffe"
+    ]
+  },
+  {
+    "id": "pol-ford-crack",
+    "quote": "Yes, I have smoked crack cocaine.",
+    "answer": {
+      "name": "Rob Ford",
+      "alias": "The Mayor of Toronto",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Snoop Dogg",
+        "fictional": false
+      },
+      {
+        "name": "Charlie Sheen",
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      }
+    ],
+    "source": "Remarks to reporters at Toronto City Hall, 5 Nov 2013",
+    "note": "Follow-up: 'Probably in one of my drunken stupors.' He did not resign.",
+    "url": "https://www.cbc.ca/news/canada/toronto/rob-ford-s-crack-use-in-his-own-words-1.2415605",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-confession",
+      "drugs"
+    ]
+  },
+  {
+    "id": "pol-abbott-suppository",
+    "quote": "No one, however smart, however well-educated, however experienced, is the suppository of all wisdom.",
+    "answer": {
+      "name": "Tony Abbott",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yogi Berra",
+        "fictional": false
+      },
+      {
+        "name": "Joey Tribbiani",
+        "fictional": true
+      },
+      {
+        "name": "George W. Bush",
+        "fictional": false
+      }
+    ],
+    "source": "Speech at a Liberal Party event, Melbourne, 12 Aug 2013",
+    "note": "He became Prime Minister of Australia four weeks later.",
+    "url": "https://edition.cnn.com/2013/08/12/world/asia/australia-abbott-suppository-gaffe",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-stupid",
+      "malapropism"
+    ]
+  },
+  {
+    "id": "pol-hawke-bum",
+    "quote": "Any boss who sacks anyone for not turning up today is a bum.",
+    "answer": {
+      "name": "Bob Hawke",
+      "alias": "The Prime Minister of Australia",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Shane Warne",
+        "fictional": false
+      },
+      {
+        "name": "Karl Marx",
+        "fictional": false
+      }
+    ],
+    "source": "ABC News interview after Australia won the America's Cup, 27 Sept 1983",
+    "note": "Said live, in a loud jacket, at dawn, after a long night. He held a beer-drinking record.",
+    "url": "https://www.australiangeographic.com.au/history-culture/2023/09/any-boss-who-sacks-anyone-for-not-turning-up-today-is-a-bum-its-been-40-years-since-bob-hawke-uttered-these-famous-words/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-larrikin",
+      "sport"
+    ]
+  },
+  {
+    "id": "pol-keating-slowly",
+    "quote": "...because I want to do you slowly.",
+    "answer": {
+      "name": "Paul Keating",
+      "alias": "The Prime Minister of Australia, in Parliament",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      },
+      {
+        "name": "Christian Grey",
+        "fictional": true
+      },
+      {
+        "name": "Barry White",
+        "fictional": false
+      }
+    ],
+    "source": "To Opposition Leader John Hewson, House of Representatives, 15 Sept 1992",
+    "note": "Hewson had asked why he would not call an early election.",
+    "url": "https://en.wikiquote.org/wiki/Paul_Keating",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-savage",
+      "parliament"
+    ]
+  },
+  {
+    "id": "pol-imelda-shoes",
+    "quote": "They went into my closets looking for skeletons, but thank God, all they found were shoes, beautiful shoes.",
+    "answer": {
+      "name": "Imelda Marcos",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Carrie Bradshaw",
+        "fictional": true
+      },
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      },
+      {
+        "name": "Lady Gaga",
+        "fictional": false
+      }
+    ],
+    "source": "At the opening of the Marikina Footwear Museum, Manila (BBC News, 16 Feb 2001)",
+    "note": "The museum displays about 800 of her pairs. Estimates of the original haul run to 3,000.",
+    "url": "https://en.wikiquote.org/wiki/Imelda_Marcos",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "politician-shameless",
+      "fashion"
+    ]
+  },
+  {
+    "id": "pol-chavez-devil",
+    "quote": "Yesterday the Devil came here. Right here. And it smells of sulphur still today.",
+    "answer": {
+      "name": "Hugo Chávez",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Pat Robertson",
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      },
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      }
+    ],
+    "source": "Speech to the UN General Assembly, New York, 20 Sept 2006",
+    "note": "The Devil was George W. Bush, who had used the podium the day before. He crossed himself.",
+    "url": "https://en.wikiquote.org/wiki/Hugo_Ch%C3%A1vez",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "politician-bizarre",
+      "religion"
+    ]
+  },
+  {
+    "id": "pol-mugabe-only-god",
+    "quote": "Only God, who appointed me, will remove me – not the MDC, not the British. Only God will remove me!",
+    "answer": {
+      "name": "Robert Mugabe",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Louis XIV",
+        "fictional": false
+      },
+      {
+        "name": "Thanos",
+        "fictional": true
+      }
+    ],
+    "source": "Election rally, Zimbabwe, 2008",
+    "note": "He was removed by his own army in 2017, aged 93.",
+    "url": "https://www.aljazeera.com/news/2019/09/06/robert-mugabes-most-famous-quotes/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "politician-ego",
+      "power"
+    ]
+  },
+  {
+    "id": "pol-juan-carlos-shut-up",
+    "quote": "Why don't you shut up?",
+    "answer": {
+      "name": "King Juan Carlos I",
+      "alias": "The King of Spain",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Judge Judy",
+        "fictional": false
+      },
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "fictional": false
+      }
+    ],
+    "source": "To Hugo Chávez at the Ibero-American Summit, Santiago, 10 Nov 2007",
+    "note": "'¿Por qué no te callas?' became a ringtone that outsold most Spanish pop singles.",
+    "url": "https://en.wikipedia.org/wiki/%C2%BFPor_qu%C3%A9_no_te_callas%3F",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "royal-savage",
+      "diplomacy"
+    ]
+  },
+  {
+    "id": "pol-khomeini-tavern",
+    "quote": "Open the door of the tavern and let us go there day and night, for I am sick and tired of the mosque and seminary.",
+    "answer": {
+      "name": "Ayatollah Khomeini",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charles Bukowski",
+        "fictional": false
+      },
+      {
+        "name": "Osama bin Laden",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      }
+    ],
+    "source": "Poem published in the Tehran newspaper Kayhan after his death, June 1989",
+    "note": "Sufi imagery, said his family. Same poem: 'imprisoned, O beloved, by the mole on your lip'",
+    "url": "https://www.danielkalder.com/?p=5475",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "cleric-poetic",
+      "wine"
+    ]
+  },
+  {
+    "id": "pol-ahmadinejad-homosexuals",
+    "quote": "In Iran, we don't have homosexuals like in your country. We don't have that in our country.",
+    "answer": {
+      "name": "Mahmoud Ahmadinejad",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Vladimir Putin",
+        "fictional": false
+      },
+      {
+        "name": "Mike Pence",
+        "fictional": false
+      },
+      {
+        "name": "Borat",
+        "fictional": true
+      }
+    ],
+    "source": "Speech at Columbia University, New York, 24 Sept 2007 (via interpreter)",
+    "note": "The audience laughed. He asked who had told them otherwise.",
+    "url": "https://www.npr.org/transcripts/14663823",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-denial",
+      "absurd"
+    ]
+  },
+  {
+    "id": "pol-erdogan-motherhood",
+    "quote": "A woman who rejects motherhood, who refrains from being around the house, however successful her working life is, is deficient, is incomplete.",
+    "answer": {
+      "name": "Recep Tayyip Erdoğan",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Phyllis Schlafly",
+        "fictional": false
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      },
+      {
+        "name": "Pope Francis",
+        "fictional": false
+      }
+    ],
+    "source": "Speech to the Women and Democracy Association, Istanbul, 5 June 2016",
+    "note": "Said at the opening of a women's rights organisation's new headquarters.",
+    "url": "https://www.aljazeera.com/news/2016/06/turkey-erdogan-childless-women-incomplete-160606042442710.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-sexist",
+      "family"
+    ]
+  },
+  {
+    "id": "pol-bolsonaro-messiah",
+    "quote": "So what? I'm sorry. What do you want me to do? I'm Messiah, but I don't do miracles.",
+    "answer": {
+      "name": "Jair Bolsonaro",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Jesus",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "To reporters as Brazil's COVID-19 deaths passed 5,000, Brasília, 28 Apr 2020",
+    "note": "His middle name is Messias. Brazil's final toll passed 700,000.",
+    "url": "https://istoe.com.br/e-dai-lamento-quer-que-eu-faca-o-que-diz-bolsonaro-sobre-recorde-de-mortes-por-coronavirus/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-callous",
+      "pandemic"
+    ]
+  },
+  {
+    "id": "pol-morales-chicken",
+    "quote": "When we talk about chicken, it's pumped full of female hormones, and so when men eat this chicken, they stray from being men.",
+    "answer": {
+      "name": "Evo Morales",
+      "alias": "The President of Bolivia",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      },
+      {
+        "name": "Joe Rogan",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "World People's Conference on Climate Change, Cochabamba, 20 Apr 2010",
+    "note": "Same speech: 'Baldness, which seems normal, is a disease in Europe.'",
+    "url": "https://time.com/archive/6949898/bolivias-morales-eating-chicken-makes-you-gay/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-bizarre",
+      "science"
+    ]
+  },
+  {
+    "id": "pol-deng-cat",
+    "quote": "It doesn't matter whether the cat is black or white, as long as it catches mice.",
+    "answer": {
+      "name": "Deng Xiaoping",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Garfield",
+        "fictional": true
+      },
+      {
+        "name": "Confucius",
+        "fictional": false
+      },
+      {
+        "name": "Mao Zedong",
+        "fictional": false
+      }
+    ],
+    "source": "Speech to a Communist Youth League conference, July 1962",
+    "note": "The cat was capitalism. Mao purged him for it twice. Then it became national policy.",
+    "url": "https://en.wikiquote.org/wiki/Deng_Xiaoping",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "politician-folksy",
+      "economics"
+    ]
+  }
+]

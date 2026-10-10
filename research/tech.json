@@ -1,0 +1,1825 @@
+[
+  {
+    "id": "tech-musk-mars-impact",
+    "quote": "I would like to die on Mars; just not on impact.",
+    "answer": {
+      "name": "Elon Musk",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Neil deGrasse Tyson",
+        "fictional": false
+      },
+      {
+        "name": "Jeff Bezos",
+        "fictional": false
+      },
+      {
+        "name": "Marvin the Martian",
+        "fictional": true
+      }
+    ],
+    "source": "Interview with Ashlee Vance, Bloomberg, 2012",
+    "note": "SpaceX has not yet offered either option.",
+    "url": "https://en.wikiquote.org/wiki/Elon_Musk",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "deluded",
+      "space"
+    ]
+  },
+  {
+    "id": "tech-jobs-gates-acid",
+    "quote": "He'd be a broader guy if he had dropped acid once or gone off to an ashram when he was younger.",
+    "answer": {
+      "name": "Steve Jobs",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Steve Wozniak",
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "fictional": false
+      }
+    ],
+    "source": "On Bill Gates, The New York Times, 1997",
+    "note": "He was talking about Bill Gates.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Jobs",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "savage",
+      "drugs"
+    ]
+  },
+  {
+    "id": "tech-jobs-microsoft-taste",
+    "quote": "The only problem with Microsoft is they just have no taste.",
+    "answer": {
+      "name": "Steve Jobs",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Anna Wintour",
+        "fictional": false
+      },
+      {
+        "name": "Linus Torvalds",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "Triumph of the Nerds (PBS documentary), 1996",
+    "note": "A year later Microsoft invested $150 million in Apple.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Jobs",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "savage"
+    ]
+  },
+  {
+    "id": "tech-jobs-thermonuclear",
+    "quote": "I'm going to destroy Android, because it's a stolen product. I'm willing to go thermonuclear war on this.",
+    "answer": {
+      "name": "Steve Jobs",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kim Jong Un",
+        "fictional": false
+      },
+      {
+        "name": "Bill Gates",
+        "fictional": false
+      },
+      {
+        "name": "Darth Vader",
+        "fictional": true
+      }
+    ],
+    "source": "To Walter Isaacson, quoted in 'Steve Jobs' (biography), 2011",
+    "note": "Android currently runs on about three billion devices.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Jobs",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "rage"
+    ]
+  },
+  {
+    "id": "tech-jobs-subscription-music",
+    "quote": "The subscription model of buying music is bankrupt.",
+    "answer": {
+      "name": "Steve Jobs",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Jeff Bezos",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "Rolling Stone interview, 2003",
+    "note": "Apple Music, a subscription service, launched in 2015.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Jobs",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "wrong-prophecy"
+    ]
+  },
+  {
+    "id": "tech-gates-spam",
+    "quote": "Spam will be a thing of the past in two years' time.",
+    "answer": {
+      "name": "Bill Gates",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Steve Jobs",
+        "fictional": false
+      },
+      {
+        "name": "Al Gore",
+        "fictional": false
+      },
+      {
+        "name": "Nostradamus",
+        "fictional": false
+      }
+    ],
+    "source": "World Economic Forum, Davos, reported by BBC News, 2004",
+    "note": "Please check your junk folder for the follow-up.",
+    "url": "https://en.wikiquote.org/wiki/Bill_Gates",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "wrong-prophecy"
+    ]
+  },
+  {
+    "id": "tech-gates-no-bugs",
+    "quote": "There are no significant bugs in our released software that any significant number of users want fixed.",
+    "answer": {
+      "name": "Bill Gates",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Linus Torvalds",
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      }
+    ],
+    "source": "Interview in Focus magazine (Germany), 1995",
+    "note": "Windows 95 shipped two months before this interview.",
+    "url": "https://en.wikiquote.org/wiki/Bill_Gates",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "deluded"
+    ]
+  },
+  {
+    "id": "tech-gates-universe",
+    "quote": "It's possible, you can never know, that the universe exists only for me.",
+    "answer": {
+      "name": "Bill Gates",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "Time magazine interview, 1997",
+    "note": "He added: 'If so, it's sure going well for me, I must admit.'",
+    "url": "https://en.wikiquote.org/wiki/Bill_Gates",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "ego",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "tech-gates-religion",
+    "quote": "Just in terms of allocation of time resources, religion is not very efficient.",
+    "answer": {
+      "name": "Bill Gates",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Richard Dawkins",
+        "fictional": false
+      },
+      {
+        "name": "Sam Altman",
+        "fictional": false
+      },
+      {
+        "name": "Spock",
+        "fictional": true
+      }
+    ],
+    "source": "Time magazine interview, 1997",
+    "note": "He went on: 'There's a lot more I could be doing on a Sunday morning.'",
+    "url": "https://en.wikiquote.org/wiki/Bill_Gates",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "religion",
+      "nerd"
+    ]
+  },
+  {
+    "id": "tech-zuck-dumb-fucks",
+    "quote": "People just submitted it. I don't know why. They 'trust me'. Dumb fucks.",
+    "answer": {
+      "name": "Mark Zuckerberg",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bernie Madoff",
+        "fictional": false
+      },
+      {
+        "name": "Elizabeth Holmes",
+        "fictional": false
+      },
+      {
+        "name": "The Joker",
+        "fictional": true
+      }
+    ],
+    "source": "Instant messages from 2004, published by Business Insider, 2010",
+    "note": "He was describing Facebook's first users and their personal data.",
+    "url": "https://en.wikiquote.org/wiki/Mark_Zuckerberg",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "accidentally-honest"
+    ]
+  },
+  {
+    "id": "tech-zuck-buy-not-compete",
+    "quote": "It is better to buy than compete.",
+    "answer": {
+      "name": "Mark Zuckerberg",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Warren Buffett",
+        "fictional": false
+      },
+      {
+        "name": "Rich Uncle Pennybags",
+        "fictional": true
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      }
+    ],
+    "source": "Internal email, 2008, cited in the FTC antitrust lawsuit (2020)",
+    "note": "Facebook bought Instagram in 2012 and WhatsApp in 2014.",
+    "url": "https://en.wikiquote.org/wiki/Mark_Zuckerberg",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "accidentally-honest",
+      "monopoly"
+    ]
+  },
+  {
+    "id": "tech-bezos-communication",
+    "quote": "Communication is a sign of dysfunction.",
+    "answer": {
+      "name": "Jeff Bezos",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "fictional": false
+      },
+      {
+        "name": "Howard Hughes",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted in Brad Stone, 'The Everything Store', 2013",
+    "note": "Said while rejecting a proposal for more inter-team communication at Amazon.",
+    "url": "https://en.wikiquote.org/wiki/Jeff_Bezos",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "tech",
+      "management",
+      "odd"
+    ]
+  },
+  {
+    "id": "tech-bezos-day-2",
+    "quote": "Day 2 is stasis. Followed by irrelevance. Followed by excruciating, painful decline. Followed by death.",
+    "answer": {
+      "name": "Jeff Bezos",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Steve Jobs",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Amazon letter to shareholders, 2016",
+    "note": "This was the upbeat corporate version.",
+    "url": "https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "bleak",
+      "corporate"
+    ]
+  },
+  {
+    "id": "tech-munger-bitcoin",
+    "quote": "I regard the thing as a combination of dementia and immorality.",
+    "answer": {
+      "name": "Charlie Munger",
+      "alias": "Warren Buffett's business partner",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Pope Francis",
+        "fictional": false
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      },
+      {
+        "name": "Scrooge McDuck",
+        "fictional": true
+      }
+    ],
+    "source": "Yahoo Finance interview on Bitcoin, 2018",
+    "note": "He was talking about Bitcoin. He was 94.",
+    "url": "https://en.wikiquote.org/wiki/Charlie_Munger",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "savage",
+      "crypto"
+    ]
+  },
+  {
+    "id": "tech-thiel-democracy",
+    "quote": "I no longer believe that freedom and democracy are compatible.",
+    "answer": {
+      "name": "Peter Thiel",
+      "alias": "The PayPal co-founder who bankrolled Facebook",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Vladimir Putin",
+        "fictional": false
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "fictional": false
+      },
+      {
+        "name": "Emperor Palpatine",
+        "fictional": true
+      }
+    ],
+    "source": "Essay 'The Education of a Libertarian', Cato Unbound, 2009",
+    "note": "He blamed welfare and women getting the vote.",
+    "url": "https://en.wikiquote.org/wiki/Peter_Thiel",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "political",
+      "ominous"
+    ]
+  },
+  {
+    "id": "tech-ford-greek-kites",
+    "quote": "History is bunk. What difference does it make how many times the ancient Greeks flew their kites?",
+    "answer": {
+      "name": "Henry Ford",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "George W. Bush",
+        "fictional": false
+      },
+      {
+        "name": "Thomas Edison",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "The New York Times, 1921",
+    "note": "He later founded a history museum.",
+    "url": "https://en.wikiquote.org/wiki/Henry_Ford",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "stupid",
+      "history"
+    ]
+  },
+  {
+    "id": "tech-ford-airplane",
+    "quote": "I've never made a flight in an airplane, and I don't know that I'm particularly anxious to.",
+    "answer": {
+      "name": "Henry Ford",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Howard Hughes",
+        "fictional": false
+      },
+      {
+        "name": "John D. Rockefeller",
+        "fictional": false
+      },
+      {
+        "name": "Amelia Earhart",
+        "fictional": false
+      }
+    ],
+    "source": "Popular Science, 1925",
+    "note": "His company started building airliners the following year.",
+    "url": "https://en.wikiquote.org/wiki/Henry_Ford",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "odd",
+      "transport"
+    ]
+  },
+  {
+    "id": "tech-ford-reincarnation",
+    "quote": "I adopted the theory of Reincarnation when I was twenty six.",
+    "answer": {
+      "name": "Henry Ford",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "The Dalai Lama",
+        "fictional": false
+      },
+      {
+        "name": "Steve Wozniak",
+        "fictional": false
+      },
+      {
+        "name": "Shirley MacLaine",
+        "fictional": false
+      }
+    ],
+    "source": "Interview, San Francisco Examiner, 1928",
+    "note": "Which does raise the question of what he was in a previous life.",
+    "url": "https://en.wikiquote.org/wiki/Henry_Ford",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "religion",
+      "odd"
+    ]
+  },
+  {
+    "id": "tech-carnegie-charity",
+    "quote": "One of the serious obstacles to the improvement of our race is indiscriminate charity.",
+    "answer": {
+      "name": "Andrew Carnegie",
+      "alias": "The steel baron who built 2,500 free libraries",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ayn Rand",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      },
+      {
+        "name": "Mother Teresa",
+        "fictional": false
+      }
+    ],
+    "source": "Essay 'Wealth', North American Review, 1889",
+    "note": "He gave away about 90 percent of his fortune anyway.",
+    "url": "https://en.wikiquote.org/wiki/Andrew_Carnegie",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "savage",
+      "money"
+    ]
+  },
+  {
+    "id": "tech-rockefeller-dividends",
+    "quote": "Do you know the only thing that gives me pleasure? It's to see my dividends coming in.",
+    "answer": {
+      "name": "John D. Rockefeller",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      },
+      {
+        "name": "Gordon Gekko",
+        "fictional": true
+      },
+      {
+        "name": "Warren Buffett",
+        "fictional": false
+      }
+    ],
+    "source": "Remark to a neighbour, quoted in Cosmopolitan, 1908",
+    "note": "He was, at the time, the richest man alive.",
+    "url": "https://en.wikiquote.org/wiki/John_D._Rockefeller",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "tech",
+      "money",
+      "accidentally-honest"
+    ]
+  },
+  {
+    "id": "tech-buffett-class-warfare",
+    "quote": "There's class warfare, all right, but it's my class, the rich class, that's making war, and we're winning.",
+    "answer": {
+      "name": "Warren Buffett",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bernie Sanders",
+        "fictional": false
+      },
+      {
+        "name": "Karl Marx",
+        "fictional": false
+      },
+      {
+        "name": "Jeff Bezos",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted by Ben Stein, The New York Times, 2006",
+    "note": "Said by the world's second-richest man, cheerfully.",
+    "url": "https://en.wikiquote.org/wiki/Warren_Buffett",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "accidentally-honest",
+      "money"
+    ]
+  },
+  {
+    "id": "tech-buffett-six-year-old",
+    "quote": "I eat like a normal 6-year-old, but if you look at the mortality statistics, I mean, 6-year-olds don't die very often.",
+    "answer": {
+      "name": "Warren Buffett",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      },
+      {
+        "name": "Guy Fieri",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      }
+    ],
+    "source": "PBS NewsHour interview, 2017",
+    "note": "He drinks about five Cokes a day. He was 86 at the time.",
+    "url": "https://en.wikiquote.org/wiki/Warren_Buffett",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "food",
+      "logic"
+    ]
+  },
+  {
+    "id": "tech-ballmer-iphone",
+    "quote": "There's no chance that the iPhone is going to get any significant market share. No chance.",
+    "answer": {
+      "name": "Steve Ballmer",
+      "alias": "Bill Gates's successor as Microsoft CEO",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bill Gates",
+        "fictional": false
+      },
+      {
+        "name": "Larry Ellison",
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      }
+    ],
+    "source": "USA Today CEO Forum, 2007",
+    "note": "Apple has since sold roughly 2.5 billion of them.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Ballmer",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "wrong-prophecy"
+    ]
+  },
+  {
+    "id": "tech-ballmer-kids",
+    "quote": "I've got my kids brainwashed: You don't use Google, and you don't use an iPod.",
+    "answer": {
+      "name": "Steve Ballmer",
+      "alias": "Bill Gates's successor as Microsoft CEO",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kim Jong Il",
+        "fictional": false
+      },
+      {
+        "name": "Steve Jobs",
+        "fictional": false
+      },
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      }
+    ],
+    "source": "Fortune magazine, 2006",
+    "note": "The Zune launched later that year.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Ballmer",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "children",
+      "odd"
+    ]
+  },
+  {
+    "id": "tech-torvalds-hobby",
+    "quote": "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.",
+    "answer": {
+      "name": "Linus Torvalds",
+      "alias": "The guy who wrote Linux",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bill Gates",
+        "fictional": false
+      },
+      {
+        "name": "Mark Zuckerberg",
+        "fictional": false
+      },
+      {
+        "name": "Dilbert",
+        "fictional": true
+      }
+    ],
+    "source": "Usenet post to comp.os.minix, 25 August 1991",
+    "note": "The hobby now runs most of the internet and every Android phone.",
+    "url": "https://en.wikiquote.org/wiki/Linus_Torvalds",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "wrong-prophecy",
+      "humble"
+    ]
+  },
+  {
+    "id": "tech-torvalds-bastard",
+    "quote": "I'm a bastard. I have absolutely no clue why people can ever think otherwise.",
+    "answer": {
+      "name": "Linus Torvalds",
+      "alias": "The guy who wrote Linux",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "Linux kernel mailing list, 2000",
+    "note": "The Linux community confirms.",
+    "url": "https://en.wikiquote.org/wiki/Linus_Torvalds",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "accidentally-honest",
+      "savage"
+    ]
+  },
+  {
+    "id": "tech-bourdain-vegans",
+    "quote": "Vegetarians, and their Hezbollah-like splinter faction, the vegans, are a persistent irritant to any chef worth a damn.",
+    "answer": {
+      "name": "Anthony Bourdain",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Guy Fieri",
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      }
+    ],
+    "source": "Kitchen Confidential, 2000",
+    "note": "He later softened, slightly.",
+    "url": "https://en.wikiquote.org/wiki/Anthony_Bourdain",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tv",
+      "savage",
+      "food"
+    ]
+  },
+  {
+    "id": "tech-flynt-death-penalty",
+    "quote": "...the sole motivating factor behind the death penalty is vengeance, not justice.",
+    "answer": {
+      "name": "Larry Flynt",
+      "alias": "The Hustler magazine guy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Pope Francis",
+        "fictional": false
+      },
+      {
+        "name": "Nelson Mandela",
+        "fictional": false
+      },
+      {
+        "name": "Hugh Hefner",
+        "fictional": false
+      }
+    ],
+    "source": "Guest column, The Hollywood Reporter, 2013",
+    "note": "He was arguing to spare the life of the man who shot and paralysed him.",
+    "url": "https://en.wikiquote.org/wiki/Larry_Flynt",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "scoundrel-noble",
+      "justice"
+    ]
+  },
+  {
+    "id": "tech-turner-humility",
+    "quote": "If I only had a little humility, I'd be perfect.",
+    "answer": {
+      "name": "Ted Turner",
+      "alias": "The guy who founded CNN",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Rupert Murdoch",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "Forbes, 2003",
+    "url": "https://en.wikiquote.org/wiki/Ted_Turner",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tv",
+      "ego"
+    ]
+  },
+  {
+    "id": "tech-lagerfeld-cat",
+    "quote": "I never thought that I would fall in love like this with a cat.",
+    "answer": {
+      "name": "Karl Lagerfeld",
+      "alias": "The Chanel designer with the ponytail and sunglasses",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Taylor Swift",
+        "fictional": false
+      },
+      {
+        "name": "Anna Wintour",
+        "fictional": false
+      },
+      {
+        "name": "Dr. Evil",
+        "fictional": true
+      }
+    ],
+    "source": "CNN, Fashion Week: Backstage Pass, 2013",
+    "note": "The cat, Choupette, reportedly inherited part of his fortune.",
+    "url": "https://en.wikiquote.org/wiki/Karl_Lagerfeld",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "fashion",
+      "tender",
+      "animals"
+    ]
+  },
+  {
+    "id": "tech-osho-rich-mans-guru",
+    "quote": "I am the rich man's guru.",
+    "answer": {
+      "name": "Osho",
+      "alias": "The sex guru from 'Wild Wild Country' with 93 Rolls-Royces",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Tony Robbins",
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      }
+    ],
+    "source": "The Last Testament: Interviews with the World Press, 1986",
+    "note": "At least he was honest about the business model.",
+    "url": "https://en.wikiquote.org/wiki/Rajneesh",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "guru",
+      "accidentally-honest"
+    ]
+  },
+  {
+    "id": "tech-jones-chimpanzee",
+    "quote": "I'm like a chimpanzee, in a tree, jumping up and down, warning other chimpanzees.",
+    "answer": {
+      "name": "Alex Jones",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jane Goodall",
+        "fictional": false
+      },
+      {
+        "name": "Joe Rogan",
+        "fictional": false
+      },
+      {
+        "name": "Donkey Kong",
+        "fictional": true
+      }
+    ],
+    "source": "Interview with The Young Turks, 2009",
+    "note": "The most accurate thing he has ever said.",
+    "url": "https://en.wikiquote.org/wiki/Alex_Jones",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tv",
+      "accidentally-honest",
+      "absurd"
+    ]
+  },
+  {
+    "id": "tech-holmes-backup-plan",
+    "quote": "The minute that you have a backup plan, you've admitted that you're not going to succeed.",
+    "answer": {
+      "name": "Elizabeth Holmes",
+      "alias": "The Theranos woman",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Tony Robbins",
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      },
+      {
+        "name": "Bear Grylls",
+        "fictional": false
+      }
+    ],
+    "source": "Stanford GSB 'View From The Top' talk, 2015",
+    "note": "Theranos's blood tests did not work. There was no backup plan.",
+    "url": "https://www.gsb.stanford.edu/insights/elizabeth-holmes-i-wasnt-weighted-influences-i-couldnt-do-it",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "scammer",
+      "hustle-culture",
+      "irony"
+    ]
+  },
+  {
+    "id": "tech-sbf-woke-westerners",
+    "quote": "I feel bad for those who get fucked by it. By this dumb game we woke westerners play where we say all the right shiboleths and so everyone likes us.",
+    "answer": {
+      "name": "Sam Bankman-Fried",
+      "alias": "The FTX guy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Slavoj Žižek",
+        "fictional": false
+      },
+      {
+        "name": "Peter Thiel",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "DMs to Vox reporter Kelsey Piper, November 2022",
+    "note": "His answer to the question: 'So the ethics stuff - mostly a front?'",
+    "url": "https://reason.com/video/2022/11/28/sam-bankman-fried-trust-is-everything/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "scammer",
+      "accidentally-honest",
+      "crypto"
+    ]
+  },
+  {
+    "id": "tech-shkreli-primary-duty",
+    "quote": "I could have raised it higher and made more profits for our shareholders. Which is my primary duty.",
+    "answer": {
+      "name": "Martin Shkreli",
+      "alias": "The pharma bro",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Gekko",
+        "fictional": true
+      },
+      {
+        "name": "Larry Ellison",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Krabs",
+        "fictional": true
+      }
+    ],
+    "source": "Forbes Healthcare Summit, December 2015",
+    "note": "He had raised the price of a life-saving drug from $13.50 to $750 a pill.",
+    "url": "https://www.fool.com/investing/2017/02/17/thanks-martin-shkreli-for-the-dumbest-advice-ever.aspx",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "scammer",
+      "money",
+      "villain"
+    ]
+  },
+  {
+    "id": "tech-sorokin-not-sorry",
+    "quote": "I'd be lying to you and to everyone else and to myself if I said I was sorry for anything.",
+    "answer": {
+      "name": "Anna Sorokin",
+      "alias": "The fake German heiress",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Elizabeth Holmes",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "Jailhouse interview with The New York Times, May 2019",
+    "note": "Said a day after her 4-12 year sentence. A parole board later called it 'flippant'.",
+    "url": "https://www.nbcnewyork.com/news/local/sentenced-for-scams-fake-heiress-not-sorry-for-anything/1070607/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "scammer",
+      "unapologetic"
+    ]
+  },
+  {
+    "id": "tech-dokwon-debate-poor",
+    "quote": "I don't debate the poor on Twitter, and sorry I don't have any change on me for her at the moment.",
+    "answer": {
+      "name": "Do Kwon",
+      "alias": "The guy whose crypto coin lost $40 billion in a week",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Marie Antoinette",
+        "fictional": false
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "fictional": true
+      }
+    ],
+    "source": "Tweet replying to economist Frances Coppola, July 2021",
+    "note": "Ten months later his coin collapsed. Interpol issued a red notice for him in 2022.",
+    "url": "https://fortune.com/crypto/2022/05/18/who-is-do-kwon-luna-ust-crypto-founder-rise-and-fall",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "crypto",
+      "savage",
+      "irony"
+    ]
+  },
+  {
+    "id": "tech-madoff-impossible-violate",
+    "quote": "In today's regulatory environment it is virtually impossible to violate rules.",
+    "answer": {
+      "name": "Bernie Madoff",
+      "alias": "The $65 billion Ponzi scheme guy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Warren Buffett",
+        "fictional": false
+      },
+      {
+        "name": "Jordan Belfort",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Gekko",
+        "fictional": true
+      }
+    ],
+    "source": "Roundtable on 'the future of Wall Street', filmed October 2007",
+    "note": "His Ponzi scheme had been running undetected for about three decades at the time.",
+    "url": "https://talkingpointsmemo.com/?p=172456",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "scammer",
+      "irony",
+      "finance"
+    ]
+  },
+  {
+    "id": "tech-cruise-drive-past-accident",
+    "quote": "When you drive past an accident it's not like anyone else. As you drive past, you know you have to do something about it because you know you're the only one that can really help.",
+    "answer": {
+      "name": "Tom Cruise",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Batman",
+        "fictional": true
+      },
+      {
+        "name": "Keanu Reeves",
+        "fictional": false
+      },
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      }
+    ],
+    "source": "Leaked Scientology promotional video, 2008",
+    "note": "Being a Scientologist, he explained, is what gives you this ability.",
+    "url": "https://www.theregister.com/2008/01/16/scientology_video/",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "cult",
+      "deluded",
+      "celebrity"
+    ]
+  },
+  {
+    "id": "tech-oreilly-tide",
+    "quote": "Tide goes in tide goes out, never a miscommunication. You cannot explain that.",
+    "answer": {
+      "name": "Bill O'Reilly",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Neil deGrasse Tyson",
+        "fictional": false
+      },
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      },
+      {
+        "name": "SpongeBob SquarePants",
+        "fictional": true
+      }
+    ],
+    "source": "The O'Reilly Factor, Fox News, 4 January 2011",
+    "note": "Offered as proof that religion is not a scam. The Moon declined to comment.",
+    "url": "https://www.foxnews.com/transcript/oreilly-debates-atheist-group-president-over-religions-are-scams-billboard",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tv",
+      "stupid",
+      "religion"
+    ]
+  },
+  {
+    "id": "tech-kroc-rat-eat-rat",
+    "quote": "This is rat eat rat, dog eat dog. I'll kill 'em, and I'm going to kill 'em before they kill me.",
+    "answer": {
+      "name": "Ray Kroc",
+      "alias": "The McDonald's guy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Al Capone",
+        "fictional": false
+      },
+      {
+        "name": "Colonel Sanders",
+        "fictional": false
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      }
+    ],
+    "source": "Quoted in Eric Schlosser, 'Fast Food Nation', 2001",
+    "note": "He was describing the fast-food business. Billions and billions served.",
+    "url": "https://litcharts.com/lit/fast-food-nation/characters/ray-kroc",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "business",
+      "savage",
+      "food"
+    ]
+  },
+  {
+    "id": "tech-sanders-worst-fried-chicken",
+    "quote": "What's more, your frying fat should have been changed a week ago. That's the worst fried chicken I've ever seen.",
+    "answer": {
+      "name": "Colonel Sanders",
+      "alias": "The KFC Colonel",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Anthony Bourdain",
+        "fictional": false
+      },
+      {
+        "name": "Foghorn Leghorn",
+        "fictional": true
+      }
+    ],
+    "source": "Inspecting a Manhattan KFC with The New York Times, 1976",
+    "note": "He also called the gravy 'sludge'. KFC had bought him out in 1964.",
+    "url": "https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "food",
+      "savage",
+      "irony"
+    ]
+  },
+  {
+    "id": "tech-ma-996-blessing",
+    "quote": "I personally think that being able to work 996 is a huge blessing.",
+    "answer": {
+      "name": "Jack Ma",
+      "alias": "The Alibaba founder",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gary Vaynerchuk",
+        "fictional": false
+      },
+      {
+        "name": "Masayoshi Son",
+        "fictional": false
+      },
+      {
+        "name": "Dolly Parton",
+        "fictional": false
+      }
+    ],
+    "source": "Speech to Alibaba staff, posted on the company's WeChat, April 2019",
+    "note": "'996' means 9am to 9pm, six days a week. He is worth about $25 billion.",
+    "url": "https://www.malaymail.com/news/money---international/2019/04/12/alibaba-founder-defends-overtime-work-culture-as-huge-blessing/1742692",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "hustle-culture",
+      "business",
+      "villain"
+    ]
+  },
+  {
+    "id": "tech-newell-piracy-service",
+    "quote": "Piracy is almost always a service problem and not a pricing problem.",
+    "answer": {
+      "name": "Gabe Newell",
+      "alias": "The guy who runs Steam",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jack Sparrow",
+        "fictional": true
+      },
+      {
+        "name": "Lars Ulrich",
+        "fictional": false
+      },
+      {
+        "name": "Kim Dotcom",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with The Cambridge Student, 2011",
+    "note": "Steam now sells more PC games than anyone. Metallica is on Spotify.",
+    "url": "https://en.wikiquote.org/wiki/Gabe_Newell",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "insight",
+      "gaming"
+    ]
+  },
+  {
+    "id": "tech-woz-jobs-crappy-mac",
+    "quote": "Steve Jobs doesn't use a Mac, and won't, because it's too crappy in his opinion.",
+    "answer": {
+      "name": "Steve Wozniak",
+      "alias": "The other Steve who co-founded Apple",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bill Gates",
+        "fictional": false
+      },
+      {
+        "name": "Steve Ballmer",
+        "fictional": false
+      },
+      {
+        "name": "Dilbert",
+        "fictional": true
+      }
+    ],
+    "source": "MacTech magazine, May 1998",
+    "note": "Jobs had been back at Apple for about a year. The iMac came out that August.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Wozniak",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "tech",
+      "savage",
+      "apple"
+    ]
+  },
+  {
+    "id": "tech-satoshi-dont-have-time",
+    "quote": "If you don't believe me or don't get it, I don't have time to try to convince you, sorry.",
+    "answer": {
+      "name": "Satoshi Nakamoto",
+      "alias": "The anonymous inventor of Bitcoin",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Linus Torvalds",
+        "fictional": false
+      },
+      {
+        "name": "Do Kwon",
+        "fictional": false
+      },
+      {
+        "name": "Jesus",
+        "fictional": false
+      }
+    ],
+    "source": "Bitcointalk forum post, 29 July 2010",
+    "note": "Nobody knows who he is. His untouched coins are worth about $100 billion.",
+    "url": "https://en.wikiquote.org/wiki/Satoshi_Nakamoto",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "crypto",
+      "savage",
+      "mystery"
+    ]
+  },
+  {
+    "id": "tech-snowden-cheney-traitor",
+    "quote": "Being called a traitor by Dick Cheney is the highest honor you can give an American.",
+    "answer": {
+      "name": "Edward Snowden",
+      "alias": "The NSA leaker who fled to Russia",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jon Stewart",
+        "fictional": false
+      },
+      {
+        "name": "Julian Assange",
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      }
+    ],
+    "source": "Live Q&A with The Guardian, 17 June 2013",
+    "note": "He was answering from a Hong Kong hotel room, a week after the leaks began.",
+    "url": "https://en.wikiquote.org/wiki/Edward_Snowden",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "political",
+      "savage",
+      "whistleblower"
+    ]
+  },
+  {
+    "id": "tech-schwartz-nuclear-codes",
+    "quote": "I genuinely believe that if Trump wins and gets the nuclear codes there is an excellent possibility it will lead to the end of civilization.",
+    "answer": {
+      "name": "Tony Schwartz",
+      "alias": "The ghostwriter of The Art of the Deal",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Hillary Clinton",
+        "fictional": false
+      },
+      {
+        "name": "Michael Cohen",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Interview with Jane Mayer, The New Yorker, July 2016",
+    "note": "He ghostwrote 'The Art of the Deal' in 1987 and took half the royalties.",
+    "url": "https://www.10news.com/news/national/tony-schwartz-co-author-of-the-art-of-the-deal-tells-new-yorker-he-regrets-helping-trump",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "political",
+      "regret",
+      "irony"
+    ]
+  },
+  {
+    "id": "tech-olsen-computer-home",
+    "quote": "There is no reason for any individual to have a computer in his home.",
+    "answer": {
+      "name": "Ken Olsen",
+      "alias": "The CEO of the second-biggest computer company of the 1970s",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Steve Ballmer",
+        "fictional": false
+      },
+      {
+        "name": "Henry Ford",
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      }
+    ],
+    "source": "Talk at the World Future Society convention, Boston, 1977",
+    "note": "He later said he meant home automation. Compaq bought his company in 1998.",
+    "url": "https://en.wikiquote.org/wiki/Ken_Olsen",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "tech",
+      "wrong-prophecy"
+    ]
+  },
+  {
+    "id": "tech-dell-shut-down-apple",
+    "quote": "What would I do? I'd shut it down and give the money back to the shareholders.",
+    "answer": {
+      "name": "Michael Dell",
+      "alias": "The Dell computers guy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Steve Ballmer",
+        "fictional": false
+      },
+      {
+        "name": "Larry Ellison",
+        "fictional": false
+      },
+      {
+        "name": "Kendall Roy",
+        "fictional": true
+      }
+    ],
+    "source": "On Apple, Gartner Symposium, reported by CNET, 6 October 1997",
+    "note": "Apple is now worth roughly 30 times more than Dell.",
+    "url": "https://en.wikiquote.org/wiki/Michael_Dell",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "tech",
+      "wrong-prophecy",
+      "apple"
+    ]
+  },
+  {
+    "id": "tech-altman-end-of-world",
+    "quote": "A.I. will probably most likely lead to the end of the world, but in the meantime, there'll be great companies.",
+    "answer": {
+      "name": "Sam Altman",
+      "alias": "The ChatGPT guy",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Peter Thiel",
+        "fictional": false
+      },
+      {
+        "name": "Marvin the Paranoid Android",
+        "fictional": true
+      }
+    ],
+    "source": "Remarks as Y Combinator president, reported by Business Insider, June 2015",
+    "note": "He now runs OpenAI. Progress on both fronts continues.",
+    "url": "https://finance.yahoo.com/news/sam-altman-man-behind-chatgpt-174841291.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "tech",
+      "ominous",
+      "ai"
+    ]
+  },
+  {
+    "id": "tech-loganpaul-i-get-views",
+    "quote": "I didn't do it for views. I get views. I did it because I thought I could make a positive ripple on the internet, not cause a monsoon of negativity.",
+    "answer": {
+      "name": "Logan Paul",
+      "alias": "The YouTuber from the Japanese suicide forest video",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Jake Paul",
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "fictional": true
+      }
+    ],
+    "source": "Written apology posted on Twitter, 1 January 2018",
+    "note": "His apology for posting a video of a dead body in Aokigahara forest.",
+    "url": "https://www.nbcnews.com/news/world/logan-paul-apologizes-after-suicide-forest-youtube-post-n833946",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "internet",
+      "accidentally-honest",
+      "ego"
+    ]
+  },
+  {
+    "id": "tech-tailopez-garage",
+    "quote": "Here in my garage, just bought this new Lamborghini here. It's fun to drive up here in the Hollywood hills. But you know what I like more than materialistic things? Knowledge.",
+    "answer": {
+      "name": "Tai Lopez",
+      "alias": "The internet guru who sells a '67 Steps' course",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dan Bilzerian",
+        "fictional": false
+      },
+      {
+        "name": "Grant Cardone",
+        "fictional": false
+      },
+      {
+        "name": "Socrates",
+        "fictional": false
+      }
+    ],
+    "source": "YouTube pre-roll ad for his '67 Steps' course, 2015",
+    "note": "He went on to say he was prouder of his seven new bookshelves.",
+    "url": "https://knowyourmeme.com/memes/here-in-my-garage",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "guru",
+      "hustle-culture",
+      "absurd"
+    ]
+  },
+  {
+    "id": "tech-joeexotic-financially-recover",
+    "quote": "I am never going to financially recover from this.",
+    "answer": {
+      "name": "Joe Exotic",
+      "alias": "The Tiger King",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Carole Baskin",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Tiger King (Netflix), 2020",
+    "note": "Said after a tiger mauled an employee's arm. He later lost the zoo to Carole Baskin.",
+    "url": "https://en.wikiquote.org/wiki/Tiger_King",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "tv",
+      "absurd",
+      "money"
+    ]
+  }
+]

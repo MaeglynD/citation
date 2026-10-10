@@ -1,0 +1,25 @@
+import { chromium } from 'playwright'
+import assert from 'node:assert/strict'
+import fs from 'node:fs'
+const browser = await chromium.launch({ args: ['--use-gl=angle', '--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'] })
+const errors = []
+const page = await browser.newPage({ viewport: { width: 1440, height: 900 } })
+page.on('pageerror', e => errors.push(e.message))
+page.on('console', m => { if (m.type() === 'error') errors.push(m.text()) })
+await page.goto(process.argv[2] ?? 'http://127.0.0.1:4173/')
+await page.waitForFunction(() => document.querySelector('canvas')?.getAttribute('aria-label')?.includes('Press Enter to start'))
+await page.waitForTimeout(1800)
+assert.equal(await page.evaluate(() => typeof window.__qa), 'undefined')
+assert.equal(await page.evaluate(() => typeof window.__renderThemeOffline), 'undefined')
+await page.keyboard.press('Enter')
+await page.waitForFunction(() => document.querySelector('canvas').getAttribute('aria-label').startsWith('Question'))
+await page.keyboard.press('Space')
+await page.waitForTimeout(500)
+await page.keyboard.press('1')
+await page.waitForFunction(() => /^(Correct|Incorrect)/.test(document.querySelector('canvas').getAttribute('aria-label')))
+await page.waitForTimeout(1600)
+fs.mkdirSync('shots/release', {recursive:true})
+await page.screenshot({path:'shots/release/production.png'})
+assert.deepEqual(errors, [])
+console.log('Production smoke passed: playable built assets, audio startup, question, verdict, and development hooks absent.')
+await browser.close()

@@ -1,0 +1,33 @@
+node_modules
+dist
+shots
+*.log
+*.tsbuildinfo
+release/
+.sites-runtime/
+
+# Local configuration and secrets (keep shareable examples).
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+
+# Test output and caches.
+coverage/
+playwright-report/
+test-results/
+.cache/
+.vite/
+
+# Editor and operating-system files.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+/prompts-and-responses
+/.openai

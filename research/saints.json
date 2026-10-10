@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "sai-teresa-poor-lot",
+    "quote": "I think it is very beautiful for the poor to accept their lot, to share it with the passion of Christ. I think the world is being much helped by the suffering of the poor people.",
+    "answer": { "name": "Mother Teresa", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Marie Antoinette", "fictional": false },
+      { "name": "Ayn Rand", "fictional": false },
+      { "name": "Mr. Burns", "fictional": true }
+    ],
+    "source": "Press conference, Washington DC, 1981 (qtd. Hitchens, 1995)",
+    "note": "The poor were not consulted.",
+    "url": "https://en.wikiquote.org/wiki/Mother_Teresa",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "cruel", "poverty"]
+  },
+  {
+    "id": "sai-teresa-saint-of-darkness",
+    "quote": "If I ever become a Saint—I will surely be one of 'darkness.'",
+    "answer": { "name": "Mother Teresa", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Darth Vader", "fictional": true },
+      { "name": "Pope Francis", "fictional": false },
+      { "name": "Lady Gaga", "fictional": false }
+    ],
+    "source": "Private letter, 1962 (pub. in Come Be My Light, 2007)",
+    "note": "Canonized in 2016. She had asked for the letters to be destroyed.",
+    "url": "https://www.christianitytoday.com/ct/2007/augustweb-only/135-43.0.html",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "bleak", "faith"]
+  },
+  {
+    "id": "sai-teresa-no-god",
+    "quote": "I feel that God does not want me, that God is not God, and that God does not exist.",
+    "answer": { "name": "Mother Teresa", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Friedrich Nietzsche", "fictional": false },
+      { "name": "Richard Dawkins", "fictional": false },
+      { "name": "Eeyore", "fictional": true }
+    ],
+    "source": "Private letter to a confessor, late 1950s (pub. 2003)",
+    "note": "She kept this up for roughly fifty years. The smile, she wrote, was 'a great cloak.'",
+    "url": "https://christianitytoday.com/2003/02/flash-mother-teresa-was-human",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "bleak", "blasphemous"]
+  },
+  {
+    "id": "sai-gandhi-dear-friend",
+    "quote": "Dear Friend, That I address you as a friend is no formality. I own no foes.",
+    "answer": { "name": "Mahatma Gandhi", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Mister Rogers", "fictional": false },
+      { "name": "The Dalai Lama", "fictional": false },
+      { "name": "Thanos", "fictional": true }
+    ],
+    "source": "Letter to Adolf Hitler, 24 December 1940",
+    "note": "The addressee was Adolf Hitler. Christmas Eve, 1940. Hitler did not write back.",
+    "url": "https://www.mkgandhi.org/letters/hitler_ltr1.php",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "weird", "hitler"]
+  },
+  {
+    "id": "sai-gandhi-hitler-not-bad",
+    "quote": "I do not consider Hitler to be as bad as he is depicted.",
+    "answer": { "name": "Mahatma Gandhi", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Henry Ford", "fictional": false },
+      { "name": "Prince Philip", "fictional": false },
+      { "name": "Kanye West", "fictional": false }
+    ],
+    "source": "Letter to Rajkumari Amrit Kaur, May 1940",
+    "note": "Written the month the Wehrmacht marched into France.",
+    "url": "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "hitler", "pragmatic"]
+  },
+  {
+    "id": "sai-gandhi-butcher",
+    "quote": "But the Jews should have offered themselves to the butcher's knife.",
+    "answer": { "name": "Mahatma Gandhi", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Joseph Goebbels", "fictional": false },
+      { "name": "Martin Luther", "fictional": false },
+      { "name": "Mel Gibson", "fictional": false }
+    ],
+    "source": "Interview with biographer Louis Fischer, June 1946",
+    "note": "Gandhi confirmed in print that he had said 'some such thing' to Fischer.",
+    "url": "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "cruel", "holocaust"]
+  },
+  {
+    "id": "sai-gandhi-war-criminals",
+    "quote": "Roosevelt and Churchill are no less war criminals than Hitler and Mussolini.",
+    "answer": { "name": "Mahatma Gandhi", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Noam Chomsky", "fictional": false },
+      { "name": "Joseph Stalin", "fictional": false },
+      { "name": "Alex Jones", "fictional": false }
+    ],
+    "source": "Interview with Ralph Coniston, April 1945",
+    "url": "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "political", "ww2"]
+  },
+  {
+    "id": "sai-gandhi-vaccination",
+    "quote": "Vaccination is a barbarous practice, and it is one of the most fatal of all the delusions current in our time...",
+    "answer": { "name": "Mahatma Gandhi", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Robert F. Kennedy Jr.", "fictional": false },
+      { "name": "Gwyneth Paltrow", "fictional": false },
+      { "name": "Joe Rogan", "fictional": false }
+    ],
+    "source": "A Guide to Health (1921), chapter on Small-Pox",
+    "note": "He wrote an entire health manual. This is from it.",
+    "url": "https://gutenberg.org/cache/epub/40373/pg40373-images.html",
+    "verification": "primary",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "weird", "antivax"]
+  },
+  {
+    "id": "sai-dalai-attractive",
+    "quote": "If a female Dalai Lama comes, she should be more attractive.",
+    "answer": { "name": "The Dalai Lama", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Donald Trump", "fictional": false },
+      { "name": "Piers Morgan", "fictional": false },
+      { "name": "Miss Piggy", "fictional": true }
+    ],
+    "source": "BBC interview with Rajini Vaidyanathan, 27 June 2019",
+    "note": "Asked if he was joking, he said no. He had said the same thing in 2015.",
+    "url": "https://www.cbsnews.com/news/dalai-lama-insists-his-female-successor-should-have-an-attractive-face/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "horny", "sexist"]
+  },
+  {
+    "id": "sai-dalai-europe",
+    "quote": "I think Europe belongs to the Europeans.",
+    "answer": { "name": "The Dalai Lama", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Marine Le Pen", "fictional": false },
+      { "name": "Viktor Orbán", "fictional": false },
+      { "name": "Borat", "fictional": true }
+    ],
+    "source": "Conference in Malmö, Sweden, September 2018",
+    "note": "He has lived as a refugee in India since 1959.",
+    "url": "https://www.thelocal.se/20180913/dalai-lama-europe-belongs-to-the-europeans",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "political", "refugees"]
+  },
+  {
+    "id": "sai-francis-punch",
+    "quote": "If my good friend Dr. Gasparri says a curse word against my mother, he can expect a punch.",
+    "answer": { "name": "Pope Francis", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Mike Tyson", "fictional": false },
+      { "name": "Tony Soprano", "fictional": true },
+      { "name": "Mother Teresa", "fictional": false }
+    ],
+    "source": "In-flight press conference, Sri Lanka to Manila, 15 January 2015",
+    "note": "He mimed the punch. The Vatican spent a week clarifying.",
+    "url": "https://www.christianpost.com/news/pope-francis-criticized-by-piers-morgan-for-saying-he-would-punch-someone-for-insulting-his-mother-vatican-defends-remarks.html",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "violent", "pope"]
+  },
+  {
+    "id": "sai-francis-rabbits",
+    "quote": "Some think, excuse me if I use the word, that in order to be good Catholics, we have to be like rabbits — but no.",
+    "answer": { "name": "Pope Francis", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Stephen Colbert", "fictional": false },
+      { "name": "Mel Gibson", "fictional": false },
+      { "name": "Bugs Bunny", "fictional": true }
+    ],
+    "source": "In-flight press conference, Manila to Rome, 19 January 2015",
+    "note": "The Association of German Rabbit Breeders lodged a complaint.",
+    "url": "https://time.com/3673991/pope-francis-contraception-philippines-asia-like-rabbits/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "horny", "pope"]
+  },
+  {
+    "id": "sai-francis-coprophagia",
+    "quote": "And since people have a tendency towards the sickness of coprophagia, a lot of damage can be done.",
+    "answer": { "name": "Pope Francis", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Slavoj Žižek", "fictional": false },
+      { "name": "Hunter S. Thompson", "fictional": false },
+      { "name": "Eric Cartman", "fictional": true }
+    ],
+    "source": "Interview with Belgian Catholic weekly Tertio, 7 December 2016",
+    "note": "He was talking about the news media. Do not look up the word.",
+    "url": "https://www.foxnews.com/world/pope-francis-calls-spreading-fake-news-a-sin",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "weird", "pope"]
+  },
+  {
+    "id": "sai-ross-latrine",
+    "quote": "I was the guy who makes you scrub the latrine, the guy who makes you make your bed, the guy who screams at you for being late to work.",
+    "answer": { "name": "Bob Ross", "alias": "The happy little trees guy", "fictional": false },
+    "decoys": [
+      { "name": "Gordon Ramsay", "fictional": false },
+      { "name": "R. Lee Ermey", "fictional": false },
+      { "name": "Squidward", "fictional": true }
+    ],
+    "source": "Interview, Orlando Sentinel, 1990",
+    "note": "Twenty years in the Air Force. He vowed never to raise his voice again.",
+    "url": "https://www.biography.com/artists/bob-ross-air-force",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "harsh", "military"]
+  },
+  {
+    "id": "sai-carter-lust",
+    "quote": "I've looked on a lot of women with lust. I've committed adultery in my heart many times.",
+    "answer": { "name": "Jimmy Carter", "alias": "The peanut farmer who became president", "fictional": false },
+    "decoys": [
+      { "name": "Bill Clinton", "fictional": false },
+      { "name": "Donald Trump", "fictional": false },
+      { "name": "Kermit the Frog", "fictional": true }
+    ],
+    "source": "Playboy interview, November 1976 issue",
+    "note": "Published weeks before the election. He won anyway.",
+    "url": "https://www.ajc.com/news/when-jimmy-carter-lusted-his-heart/kzdD5pLXvT3qnf5RyJlIiK/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "horny", "president"]
+  },
+  {
+    "id": "sai-carter-ufo",
+    "quote": "I don't laugh at people any more when they say they've seen UFO's, because I've seen one myself.",
+    "answer": { "name": "Jimmy Carter", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Fox Mulder", "fictional": true },
+      { "name": "Joe Rogan", "fictional": false },
+      { "name": "Dwight Schrute", "fictional": true }
+    ],
+    "source": "UPI report, Medford Mail Tribune, 16 September 1973",
+    "note": "He filed a formal sighting report that year. He was Governor of Georgia at the time.",
+    "url": "https://www.ufologie.patrickgross.org/press/medfordmailtribune16sep1973.htm",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "weird", "ufo"]
+  },
+  {
+    "id": "sai-mlk-fantasy",
+    "quote": "They believe that American society is essentially hospitable to fair play and to steady growth toward a middle-class Utopia embodying racial harmony. But unfortunately this is a fantasy of self-deception and comfortable vanity.",
+    "answer": { "name": "Martin Luther King Jr.", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Malcolm X", "fictional": false },
+      { "name": "James Baldwin", "fictional": false },
+      { "name": "Ron Swanson", "fictional": true }
+    ],
+    "source": "Where Do We Go from Here: Chaos or Community? (1967)",
+    "note": "'They' are the majority of white Americans. Written the year before he was shot.",
+    "url": "https://www.rawstory.com/2019/01/9-mlk-quotes-wont-hear-mainstream-media-cite-today/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "bleak", "race"]
+  },
+  {
+    "id": "sai-mlk-shallow",
+    "quote": "Shallow understanding from people of good will is more frustrating than absolute misunderstanding from people of ill will.",
+    "answer": { "name": "Martin Luther King Jr.", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Friedrich Nietzsche", "fictional": false },
+      { "name": "Malcolm X", "fictional": false },
+      { "name": "Michael Scott", "fictional": true }
+    ],
+    "source": "Letter from Birmingham Jail, 16 April 1963",
+    "url": "https://en.wikiquote.org/wiki/Martin_Luther_King_Jr.",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "moderates"]
+  },
+  {
+    "id": "sai-mandela-sabotage",
+    "quote": "I do not, however, deny that I planned sabotage. I did not plan it in a spirit of recklessness, nor because I have any love of violence.",
+    "answer": { "name": "Nelson Mandela", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Ted Kaczynski", "fictional": false },
+      { "name": "Che Guevara", "fictional": false },
+      { "name": "Walter White", "fictional": true }
+    ],
+    "source": "Statement from the dock, Rivonia Trial, 20 April 1964",
+    "note": "He got life. The US kept him on its terror watch list until 2008.",
+    "url": "https://en.wikiquote.org/wiki/Nelson_Mandela",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "violent", "trial"]
+  },
+  {
+    "id": "sai-mandela-force",
+    "quote": "Force is the only language the imperialists can hear, and no country became free without some sort of violence.",
+    "answer": { "name": "Nelson Mandela", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Mao Zedong", "fictional": false },
+      { "name": "Fidel Castro", "fictional": false },
+      { "name": "Zlatan Ibrahimović", "fictional": false }
+    ],
+    "source": "Address to PAFMECA conference, Addis Ababa, 1962",
+    "url": "https://en.wikiquote.org/wiki/Nelson_Mandela",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "violent", "revolution"]
+  },
+  {
+    "id": "sai-lincoln-charleston",
+    "quote": "...while they do remain together there must be the position of superior and inferior, and I as much as any other man am in favor of having the superior position assigned to the white race.",
+    "answer": { "name": "Abraham Lincoln", "alias": "The man who freed the slaves", "fictional": false },
+    "decoys": [
+      { "name": "Jefferson Davis", "fictional": false },
+      { "name": "George Wallace", "fictional": false },
+      { "name": "Mr. Burns", "fictional": true }
+    ],
+    "source": "Fourth Lincoln-Douglas debate, Charleston, Illinois, 18 September 1858",
+    "note": "Four years later he signed the Emancipation Proclamation.",
+    "url": "https://home.nps.gov/liho/historyculture/debate4.htm",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "racist-era", "president"]
+  },
+  {
+    "id": "sai-luther-witches",
+    "quote": "I should have no compassion on these witches; I would burn all of them.",
+    "answer": { "name": "Martin Luther", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Tomás de Torquemada", "fictional": false },
+      { "name": "Henry VIII", "fictional": false },
+      { "name": "Voldemort", "fictional": true }
+    ],
+    "source": "Table Talk, 25 August 1538 (tr. Hazlitt, 1857)",
+    "url": "https://en.wikiquote.org/wiki/Martin_Luther",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "violent", "reformation"]
+  },
+  {
+    "id": "sai-luther-reason",
+    "quote": "But since the devil's bride, Reason, that pretty whore, comes in and thinks she's wise, and what she says, what she thinks, is from the Holy Spirit, who can help us, then?",
+    "answer": { "name": "Martin Luther", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Alex Jones", "fictional": false },
+      { "name": "Pat Robertson", "fictional": false },
+      { "name": "Jordan Peterson", "fictional": false }
+    ],
+    "source": "Last sermon in Wittenberg, 17 January 1546",
+    "note": "Father of the Reformation. Not a fan of reason.",
+    "url": "https://en.wikiquote.org/wiki/Martin_Luther",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "weird", "reformation"]
+  },
+  {
+    "id": "sai-luther-ripe-stool",
+    "quote": "I'm like a ripe stool, and the world's like a gigantic anus, and so we're about to let go of each other.",
+    "answer": { "name": "Martin Luther", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Charles Bukowski", "fictional": false },
+      { "name": "Ozzy Osbourne", "fictional": false },
+      { "name": "Eeyore", "fictional": true }
+    ],
+    "source": "Remark to his wife shortly before his death, 1546 (Gritsch, 2012)",
+    "note": "Reported by Luther scholar Eric Gritsch. He died days later.",
+    "url": "https://www.wilsonquarterly.com/quarterly/summer-2012-american-vistas/the-scatological-luther",
+    "verification": "reputable-secondary",
+    "confidence": 3,
+    "translated": true,
+    "tags": ["saint-dark", "scatological", "bleak"]
+  },
+  {
+    "id": "sai-augustine-chastity",
+    "quote": "Give me chastity and continence, but not yet.",
+    "answer": { "name": "Saint Augustine", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Hugh Hefner", "fictional": false },
+      { "name": "Oscar Wilde", "fictional": false },
+      { "name": "Homer Simpson", "fictional": true }
+    ],
+    "source": "Confessions, Book VIII, ch. 7 (c. 400 AD)",
+    "note": "His prayer as a young man. God took His time.",
+    "url": "https://en.wikiquote.org/wiki/Augustine_of_Hippo",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "horny", "confession"]
+  },
+  {
+    "id": "sai-augustine-evil",
+    "quote": "I became evil for no reason. I had no motives for my wickedness except wickedness itself. It was foul, and I loved it.",
+    "answer": { "name": "Saint Augustine", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "The Joker", "fictional": true },
+      { "name": "Charles Manson", "fictional": false },
+      { "name": "Bart Simpson", "fictional": true }
+    ],
+    "source": "Confessions, Book II, ch. 4 (c. 400 AD), tr. Chadwick",
+    "note": "He is describing stealing some pears as a teenager.",
+    "url": "https://cepreaching.org/preaching-connections/reading/confessions",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "villain", "confession"]
+  },
+  {
+    "id": "sai-aquinas-woman",
+    "quote": "As regards the individual nature, woman is defective and misbegotten.",
+    "answer": { "name": "Thomas Aquinas", "alias": "The guy who wrote the Summa Theologica", "fictional": false },
+    "decoys": [
+      { "name": "Andrew Tate", "fictional": false },
+      { "name": "Henry VIII", "fictional": false },
+      { "name": "Patrick Star", "fictional": true }
+    ],
+    "source": "Summa Theologica, I, q. 92, a. 1 (c. 1270)",
+    "note": "Doctor of the Church. Patron saint of students.",
+    "url": "https://www.newadvent.org/summa/1092.htm",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "sexist", "theology"]
+  },
+  {
+    "id": "sai-aquinas-heretics",
+    "quote": "...they deserve not only to be separated from the Church by excommunication, but also to be severed from the world by death.",
+    "answer": { "name": "Thomas Aquinas", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Tomás de Torquemada", "fictional": false },
+      { "name": "Ayatollah Khomeini", "fictional": false },
+      { "name": "Darth Vader", "fictional": true }
+    ],
+    "source": "Summa Theologica, II-II, q. 11, a. 3 (c. 1270)",
+    "note": "On whether heretics should be tolerated. Short answer: no.",
+    "url": "https://www.newadvent.org/summa/3011.htm",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "violent", "theology"]
+  },
+  {
+    "id": "sai-confucius-girls",
+    "quote": "Of all people, girls and servants are the most difficult to behave to. If you are familiar with them, they lose their humility. If you maintain a reserve towards them, they are discontented.",
+    "answer": { "name": "Confucius", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Prince Philip", "fictional": false },
+      { "name": "Marie Antoinette", "fictional": false },
+      { "name": "Mr. Burns", "fictional": true }
+    ],
+    "source": "Analects, Book XVII, ch. 25 (tr. Legge)",
+    "url": "https://en.wikiquote.org/wiki/Confucius",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "sexist", "ancient"]
+  },
+  {
+    "id": "sai-confucius-pest",
+    "quote": "In youth not humble as befits a junior; in manhood, doing nothing worthy of being handed down; and living on to old age:—this is to be a pest.",
+    "answer": { "name": "Confucius", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Gordon Ramsay", "fictional": false },
+      { "name": "Clint Eastwood", "fictional": false },
+      { "name": "Squidward", "fictional": true }
+    ],
+    "source": "Analects, Book XIV, ch. 46 (tr. Legge)",
+    "note": "Said to an old acquaintance. He then hit him on the shin with his staff.",
+    "url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/XIV",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "petty", "ancient"]
+  },
+  {
+    "id": "sai-laozi-straw-dogs",
+    "quote": "Heaven and earth are ruthless, and treat the myriad creatures as straw dogs; the sage is ruthless, and treats the people as straw dogs.",
+    "answer": { "name": "Laozi", "alias": "The guy who wrote the Tao Te Ching", "fictional": false },
+    "decoys": [
+      { "name": "Thanos", "fictional": true },
+      { "name": "Genghis Khan", "fictional": false },
+      { "name": "Rick Sanchez", "fictional": true }
+    ],
+    "source": "Tao Te Ching, ch. 5 (tr. D. C. Lau)",
+    "note": "Straw dogs were ritual offerings, trampled once the ceremony was over.",
+    "url": "https://languagehat.com/straw-dogs/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "nihilistic", "ancient"]
+  },
+  {
+    "id": "sai-tolkien-gifted",
+    "quote": "But if I am to understand that you are enquiring whether I am of Jewish origin, I can only reply that I regret that I appear to have no ancestors of that gifted people.",
+    "answer": { "name": "J. R. R. Tolkien", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Winston Churchill", "fictional": false },
+      { "name": "Oscar Wilde", "fictional": false },
+      { "name": "Gandalf", "fictional": true }
+    ],
+    "source": "Draft letter to German publisher Rütten & Loening, 25 July 1938",
+    "note": "They had asked whether he was Aryan before publishing The Hobbit in German.",
+    "url": "https://en.wikiquote.org/wiki/J._R._R._Tolkien",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "savage", "nazis"]
+  },
+  {
+    "id": "sai-tolkien-dune",
+    "quote": "In fact I dislike Dune with some intensity.",
+    "answer": { "name": "J. R. R. Tolkien", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Stephen King", "fictional": false },
+      { "name": "George R. R. Martin", "fictional": false },
+      { "name": "Patrick Star", "fictional": true }
+    ],
+    "source": "Letter to John Bush, 12 March 1966",
+    "note": "He had been asked to blurb it.",
+    "url": "https://en.wikiquote.org/wiki/J._R._R._Tolkien",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "books"]
+  },
+  {
+    "id": "sai-dahl-stinker",
+    "quote": "Even a stinker like Hitler didn't just pick on them for no reason.",
+    "answer": { "name": "Roald Dahl", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Mel Gibson", "fictional": false },
+      { "name": "Kanye West", "fictional": false },
+      { "name": "Eric Cartman", "fictional": true }
+    ],
+    "source": "Interview, New Statesman, August 1983",
+    "note": "His family apologised in 2020, thirty years after his death.",
+    "url": "https://www.sbs.com.au/news/article/family-of-childrens-author-roald-dahl-apologises-for-incomprehensible-anti-semitic-remarks/l17sj48nl",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "antisemitic", "author"]
+  },
+  {
+    "id": "sai-frank-germans",
+    "quote": "Fine specimens of humanity, those Germans, and to think that I am actually one of them!",
+    "answer": { "name": "Anne Frank", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Albert Einstein", "fictional": false },
+      { "name": "Marlene Dietrich", "fictional": false },
+      { "name": "Basil Fawlty", "fictional": true }
+    ],
+    "source": "Diary, 9 October 1942",
+    "note": "Born in Frankfurt. The Reich had stripped her of citizenship.",
+    "url": "https://en.wikiquote.org/wiki/Anne_Frank",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "bitter", "diary"]
+  },
+  {
+    "id": "sai-frank-urge",
+    "quote": "There's a destructive urge in people, the urge to rage, murder and kill.",
+    "answer": { "name": "Anne Frank", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Sigmund Freud", "fictional": false },
+      { "name": "Thomas Hobbes", "fictional": false },
+      { "name": "Hannibal Lecter", "fictional": true }
+    ],
+    "source": "Diary, 3 May 1944",
+    "note": "She was fourteen.",
+    "url": "https://www.shmoop.com/study-guides/diary-of-anne-frank/warfare-quotes.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "bleak", "diary"]
+  },
+  {
+    "id": "sai-attenborough-plague",
+    "quote": "We are a plague on Earth. It's coming home to roost over the next 50 years or so.",
+    "answer": { "name": "David Attenborough", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Ted Kaczynski", "fictional": false },
+      { "name": "Greta Thunberg", "fictional": false },
+      { "name": "Rick Sanchez", "fictional": true }
+    ],
+    "source": "Interview, Radio Times, January 2013",
+    "url": "https://www.sciencealert.com/the-time-david-attenborough-said-humans-are-a-plague",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "misanthropic", "nature"]
+  },
+  {
+    "id": "sai-nightingale-horse",
+    "quote": "No man, not even a doctor, ever gives any other definition of what a nurse should be than this—\"devoted and obedient.\" This definition would do just as well for a porter. It might even do for a horse.",
+    "answer": { "name": "Florence Nightingale", "alias": "The nurse with the lamp", "fictional": false },
+    "decoys": [
+      { "name": "Nurse Ratched", "fictional": true },
+      { "name": "Gregory House", "fictional": true },
+      { "name": "Dolly Parton", "fictional": false }
+    ],
+    "source": "Notes on Nursing (1860)",
+    "note": "The next line: 'It would not do for a policeman.'",
+    "url": "https://en.wikiquote.org/wiki/Florence_Nightingale",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "savage", "nursing"]
+  },
+  {
+    "id": "sai-nightingale-women",
+    "quote": "Women crave for being loved, not for loving.",
+    "answer": { "name": "Florence Nightingale", "alias": "The nurse with the lamp", "fictional": false },
+    "decoys": [
+      { "name": "Andrew Tate", "fictional": false },
+      { "name": "Oscar Wilde", "fictional": false },
+      { "name": "Miss Piggy", "fictional": true }
+    ],
+    "source": "Letter to Mary Clarke Mohl, 13 December 1861",
+    "note": "Same letter: 'my experience of women is almost as large as Europe.'",
+    "url": "https://en.wikiquote.org/wiki/Florence_Nightingale",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "sexist", "letter"]
+  },
+  {
+    "id": "sai-keller-sacred",
+    "quote": "...a human life is sacred only when it may be of some use to itself and to the world.",
+    "answer": { "name": "Helen Keller", "alias": "The deaf-blind girl from The Miracle Worker", "fictional": false },
+    "decoys": [
+      { "name": "Adolf Hitler", "fictional": false },
+      { "name": "Ayn Rand", "fictional": false },
+      { "name": "Dr. Evil", "fictional": true }
+    ],
+    "source": "New York Call Magazine, 26 November 1915",
+    "note": "Defending a surgeon who let a disabled newborn die. She supported eugenics.",
+    "url": "https://en.wikiquote.org/wiki/Helen_Keller",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "eugenics", "cruel"]
+  },
+  {
+    "id": "sai-dolly-tramp",
+    "quote": "I patterned my look after the town tramp.",
+    "answer": { "name": "Dolly Parton", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Lady Gaga", "fictional": false },
+      { "name": "Cher", "fictional": false },
+      { "name": "Miss Piggy", "fictional": true }
+    ],
+    "source": "Interview, Rolling Stone, 30 October 2003",
+    "url": "https://en.wikiquote.org/wiki/Dolly_Parton",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "bawdy", "country"]
+  },
+  {
+    "id": "sai-nye-fire",
+    "quote": "By the end of this century, if emissions keep rising, the average temperature on Earth could go up another four to eight degrees. What I'm saying is, the planet's on fucking fire!",
+    "answer": { "name": "Bill Nye", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Greta Thunberg", "fictional": false },
+      { "name": "Samuel L. Jackson", "fictional": false },
+      { "name": "Gordon Ramsay", "fictional": false }
+    ],
+    "source": "Last Week Tonight with John Oliver, HBO, 12 May 2019",
+    "note": "He set a globe on fire with a blowtorch. 'Grow the fuck up,' he added.",
+    "url": "https://www.businessinsider.nl/bill-nye-angrily-tells-everyone-to-fight-climate-change-2019-5",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "profane", "climate"]
+  },
+  {
+    "id": "sai-einstein-conditions",
+    "quote": "You will renounce all personal relations with me insofar as they are not completely necessary for social reasons.",
+    "answer": { "name": "Albert Einstein", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Sheldon Cooper", "fictional": true },
+      { "name": "Napoleon Bonaparte", "fictional": false },
+      { "name": "Dwight Schrute", "fictional": true }
+    ],
+    "source": "Memorandum of conditions to his wife Mileva, July 1914",
+    "note": "Also: 'you will stop talking to me if I request it.' She left Berlin that month.",
+    "url": "https://www.openculture.com/2013/12/albert-einstein-imposes-on-his-first-wife-a-cruel-list-of-marital-demands.html",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "cruel", "marriage"]
+  },
+  {
+    "id": "sai-calvin-servetus",
+    "quote": "But I am by no means inclined to be responsible for him; and if he come, I will never allow him, supposing my influence worth anything, to depart alive.",
+    "answer": { "name": "John Calvin", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Tony Soprano", "fictional": true },
+      { "name": "Al Capone", "fictional": false },
+      { "name": "Henry VIII", "fictional": false }
+    ],
+    "source": "Letter to William Farel, 13 February 1546",
+    "note": "Michael Servetus came to Geneva in 1553. He was burned at the stake.",
+    "url": "https://banneroftruth.org/uk/?p=3012",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "violent", "reformation"]
+  },
+  {
+    "id": "sai-calvin-womb",
+    "quote": "We take nothing from the womb but pure filth.",
+    "answer": { "name": "John Calvin", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Friedrich Nietzsche", "fictional": false },
+      { "name": "Charles Bukowski", "fictional": false },
+      { "name": "Rick Sanchez", "fictional": true }
+    ],
+    "source": "Qtd. in William Bouwsma, John Calvin: A Sixteenth-Century Portrait (1989)",
+    "url": "https://en.wikiquote.org/wiki/John_Calvin",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "bleak", "theology"]
+  },
+  {
+    "id": "sai-day-rotten",
+    "quote": "Our problems stem from our acceptance of this filthy, rotten system.",
+    "answer": { "name": "Dorothy Day", "alias": "The Catholic Worker founder now up for sainthood", "fictional": false },
+    "decoys": [
+      { "name": "Karl Marx", "fictional": false },
+      { "name": "Bernie Sanders", "fictional": false },
+      { "name": "Lisa Simpson", "fictional": true }
+    ],
+    "source": "Qtd. in Daniela Gioseffi, Women on War (1988)",
+    "note": "The Vatican opened her sainthood cause in 2000.",
+    "url": "https://en.wikiquote.org/wiki/Dorothy_Day",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "radical", "political"]
+  },
+  {
+    "id": "sai-disney-mickey",
+    "quote": "Girls bored me — they still do. I love Mickey Mouse more than any woman I've ever known.",
+    "answer": { "name": "Walt Disney", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Andy Warhol", "fictional": false },
+      { "name": "Hugh Hefner", "fictional": false },
+      { "name": "Squidward", "fictional": true }
+    ],
+    "source": "Qtd. in Walter Wagner, You Must Remember This (1975)",
+    "note": "Married for 41 years.",
+    "url": "https://en.wikiquote.org/wiki/Walt_Disney",
+    "verification": "wikiquote-sourced",
+    "confidence": 3,
+    "translated": false,
+    "tags": ["saint-dark", "weird", "mickey"]
+  },
+  {
+    "id": "sai-diana-crowded",
+    "quote": "Well, there were three of us in this marriage, so it was a bit crowded.",
+    "answer": { "name": "Princess Diana", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Elizabeth Taylor", "fictional": false },
+      { "name": "Hillary Clinton", "fictional": false },
+      { "name": "Marge Simpson", "fictional": true }
+    ],
+    "source": "BBC Panorama interview with Martin Bashir, 20 November 1995",
+    "url": "https://en.wikiquote.org/wiki/Diana,_Princess_of_Wales",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "royal"]
+  },
+  {
+    "id": "sai-tutu-homophobic",
+    "quote": "I would not worship a God who is homophobic and that is how deeply I feel about this.",
+    "answer": { "name": "Desmond Tutu", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Elton John", "fictional": false },
+      { "name": "Lady Gaga", "fictional": false },
+      { "name": "Jesus", "fictional": false }
+    ],
+    "source": "UN Free & Equal campaign launch, Cape Town, 26 July 2013",
+    "note": "He added he would rather go to 'the other place' than a homophobic heaven.",
+    "url": "https://en.wikiquote.org/wiki/Desmond_Tutu",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "blasphemous", "archbishop"]
+  },
+  {
+    "id": "sai-schweitzer-child",
+    "quote": "The negro is a child, and with children nothing can be done without the use of authority.",
+    "answer": { "name": "Albert Schweitzer", "alias": "The jungle doctor who won the Nobel Peace Prize", "fictional": false },
+    "decoys": [
+      { "name": "Rudyard Kipling", "fictional": false },
+      { "name": "King Leopold II", "fictional": false },
+      { "name": "Prince Philip", "fictional": false }
+    ],
+    "source": "On the Edge of the Primeval Forest (1922), ch. VII",
+    "note": "Nobel Peace Prize, 1952. He later said the time for 'elder brothers' had passed.",
+    "url": "https://en.wikiquote.org/wiki/Albert_Schweitzer",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "racist-era", "colonial"]
+  },
+  {
+    "id": "sai-schweitzer-glad",
+    "quote": "Only at quite rare moments have I felt really glad to be alive.",
+    "answer": { "name": "Albert Schweitzer", "alias": "The jungle doctor who won the Nobel Peace Prize", "fictional": false },
+    "decoys": [
+      { "name": "Morrissey", "fictional": false },
+      { "name": "Eeyore", "fictional": true },
+      { "name": "BoJack Horseman", "fictional": true }
+    ],
+    "source": "Reverence for Life (1969)",
+    "url": "https://en.wikiquote.org/wiki/Albert_Schweitzer",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": ["saint-dark", "bleak", "nobel"]
+  },
+  {
+    "id": "sai-seuss-adults",
+    "quote": "Adults are just obsolete children and the hell with them.",
+    "answer": { "name": "Dr. Seuss", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "George Carlin", "fictional": false },
+      { "name": "Roald Dahl", "fictional": false },
+      { "name": "Bart Simpson", "fictional": true }
+    ],
+    "source": "Qtd. in Thomas Fensch, Of Sneetches and Whos and the Good Dr. Seuss (1997)",
+    "url": "https://en.wikiquote.org/wiki/Dr._Seuss",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "children"]
+  },
+  {
+    "id": "sai-seuss-make-em",
+    "quote": "You make 'em, I amuse 'em.",
+    "answer": { "name": "Dr. Seuss", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "W. C. Fields", "fictional": false },
+      { "name": "Jim Henson", "fictional": false },
+      { "name": "Krusty the Clown", "fictional": true }
+    ],
+    "source": "On children; qtd. in Clifton Fadiman, Enter, Conversing (1962)",
+    "note": "He had none.",
+    "url": "https://en.wikiquote.org/wiki/Dr._Seuss",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "weird", "children"]
+  },
+  {
+    "id": "sai-rogers-mad",
+    "quote": "What do you do with the mad that you feel, when you feel so mad you could bite?",
+    "answer": { "name": "Mister Rogers", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Mike Tyson", "fictional": false },
+      { "name": "The Hulk", "fictional": true },
+      { "name": "Walter White", "fictional": true }
+    ],
+    "source": "Song lyric (1968), recited to the US Senate, 1 May 1969",
+    "note": "He recited it to a Senate subcommittee. PBS got its $20 million.",
+    "url": "https://en.wikipedia.org/wiki/What_Do_You_Do_with_the_Mad_That_You_Feel%3F",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "weird", "children-tv"]
+  },
+  {
+    "id": "sai-angelou-plain-girls",
+    "quote": "I believe most plain girls are virtuous because of the scarcity of opportunity to be otherwise.",
+    "answer": { "name": "Maya Angelou", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Dorothy Parker", "fictional": false },
+      { "name": "Oscar Wilde", "fictional": false },
+      { "name": "Regina George", "fictional": true }
+    ],
+    "source": "I Know Why the Caged Bird Sings (1969), ch. 35",
+    "url": "https://en.wikiquote.org/wiki/Maya_Angelou",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "memoir"]
+  },
+  {
+    "id": "sai-child-england",
+    "quote": "My, I get so depressed after a poor meal; that's why I can never stay in England for more than a week.",
+    "answer": { "name": "Julia Child", "alias": "The woman who taught America French cooking", "fictional": false },
+    "decoys": [
+      { "name": "Gordon Ramsay", "fictional": false },
+      { "name": "Anthony Bourdain", "fictional": false },
+      { "name": "Napoleon Bonaparte", "fictional": false }
+    ],
+    "source": "Letter to Avis DeVoto, 30 January 1953",
+    "url": "https://en.wikiquote.org/wiki/Julia_Child",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "food"]
+  },
+  {
+    "id": "sai-lewis-religious",
+    "quote": "Of all bad men religious bad men are the worst.",
+    "answer": { "name": "C. S. Lewis", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Christopher Hitchens", "fictional": false },
+      { "name": "Richard Dawkins", "fictional": false },
+      { "name": "Homer Simpson", "fictional": true }
+    ],
+    "source": "Reflections on the Psalms (1958)",
+    "note": "From the author of Narnia and Mere Christianity.",
+    "url": "https://en.wikiquote.org/wiki/C._S._Lewis",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": ["saint-dark", "harsh", "religion"]
+  },
+  {
+    "id": "sai-benedict-filth",
+    "quote": "How much filth there is in the Church, even among those who, in the priesthood, should belong entirely to Him.",
+    "answer": { "name": "Pope Benedict XVI", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Martin Luther", "fictional": false },
+      { "name": "Sinéad O'Connor", "fictional": false },
+      { "name": "Bill Maher", "fictional": false }
+    ],
+    "source": "Good Friday Stations of the Cross meditation, 25 March 2005",
+    "note": "Three weeks later the cardinals elected him Pope.",
+    "url": "https://en.wikiquote.org/wiki/Pope_Benedict_XVI",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "harsh", "pope"]
+  },
+  {
+    "id": "sai-jesus-sword",
+    "quote": "Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.",
+    "answer": { "name": "Jesus", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Genghis Khan", "fictional": false },
+      { "name": "Napoleon Bonaparte", "fictional": false },
+      { "name": "Conan the Barbarian", "fictional": true }
+    ],
+    "source": "Gospel of Matthew 10:34 (NIV)",
+    "note": "Prince of Peace.",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+10%3A34&version=NIV",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "violent", "gospel"]
+  },
+  {
+    "id": "sai-jesus-hate",
+    "quote": "If anyone comes to me and does not hate father and mother, wife and children, brothers and sisters—yes, even their own life—such a person cannot be my disciple.",
+    "answer": { "name": "Jesus", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Charles Manson", "fictional": false },
+      { "name": "Jim Jones", "fictional": false },
+      { "name": "Darth Vader", "fictional": true }
+    ],
+    "source": "Gospel of Luke 14:26 (NIV)",
+    "url": "https://www.biblegateway.com/passage/?search=Luke+14%3A26&version=NIV",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "cult", "gospel"]
+  },
+  {
+    "id": "sai-jesus-dogs",
+    "quote": "It is not right to take the children's bread and toss it to the dogs.",
+    "answer": { "name": "Jesus", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Ebenezer Scrooge", "fictional": true },
+      { "name": "Marie Antoinette", "fictional": false },
+      { "name": "Cruella de Vil", "fictional": true }
+    ],
+    "source": "Gospel of Matthew 15:26 (NIV)",
+    "note": "Said to a Canaanite woman begging him to heal her daughter. He relented.",
+    "url": "https://www.biblegateway.com/passage/?search=Matthew+15%3A26&version=NIV",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "harsh", "gospel"]
+  },
+  {
+    "id": "sai-paul-woman",
+    "quote": "I do not permit a woman to teach or to assume authority over a man; she must be quiet.",
+    "answer": { "name": "Saint Paul", "alias": "The apostle who wrote half the New Testament", "fictional": false },
+    "decoys": [
+      { "name": "Andrew Tate", "fictional": false },
+      { "name": "Henry VIII", "fictional": false },
+      { "name": "Archie Bunker", "fictional": true }
+    ],
+    "source": "First Epistle to Timothy 2:12 (NIV)",
+    "url": "https://www.biblegateway.com/passage/?search=1+Timothy+2%3A12&version=NIV",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "sexist", "epistle"]
+  },
+  {
+    "id": "sai-paul-burn",
+    "quote": "But if they cannot control themselves, they should marry, for it is better to marry than to burn with passion.",
+    "answer": { "name": "Saint Paul", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Dolly Parton", "fictional": false },
+      { "name": "Mae West", "fictional": false },
+      { "name": "Hugh Hefner", "fictional": false }
+    ],
+    "source": "First Epistle to the Corinthians 7:9 (NIV)",
+    "note": "His considered view of marriage: better than the alternative.",
+    "url": "https://www.biblegateway.com/passage/?search=1+Corinthians+7%3A9&version=NIV",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "horny", "epistle"]
+  },
+  {
+    "id": "sai-buddha-nest",
+    "quote": "Fully worn out is this body, a nest of disease, and fragile. This foul mass breaks up, for death is the end of life.",
+    "answer": { "name": "Buddha", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Edgar Allan Poe", "fictional": false },
+      { "name": "Marcus Aurelius", "fictional": false },
+      { "name": "Eeyore", "fictional": true }
+    ],
+    "source": "Dhammapada, verse 148 (tr. Buddharakkhita)",
+    "url": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.11.budd.html",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "bleak", "body"]
+  },
+  {
+    "id": "sai-buddha-ablaze",
+    "quote": "When this world is ever ablaze, why this laughter, why this jubilation? Shrouded in darkness, will you not see the light?",
+    "answer": { "name": "Buddha", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Greta Thunberg", "fictional": false },
+      { "name": "Jonathan Edwards", "fictional": false },
+      { "name": "Batman", "fictional": true }
+    ],
+    "source": "Dhammapada, verse 146 (tr. Buddharakkhita)",
+    "url": "https://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.11.budd.html",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": true,
+    "tags": ["saint-dark", "bleak", "ancient"]
+  },
+  {
+    "id": "sai-irwin-executives",
+    "quote": "Crikey, mate. You're far safer dealing with crocodiles and western diamondback rattlesnakes than the executives and the producers and all those sharks in the big MGM building.",
+    "answer": { "name": "Steve Irwin", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Bear Grylls", "fictional": false },
+      { "name": "Russell Crowe", "fictional": false },
+      { "name": "Hunter S. Thompson", "fictional": false }
+    ],
+    "source": "Enough Rope with Andrew Denton, ABC TV (2003)",
+    "note": "MGM had just made his movie, Collision Course.",
+    "url": "https://en.wikiquote.org/wiki/Steve_Irwin",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "petty", "hollywood"]
+  },
+  {
+    "id": "sai-goodall-population",
+    "quote": "All these things we talk about wouldn't be a problem if there was the size of population that there was 500 years ago.",
+    "answer": { "name": "Jane Goodall", "alias": null, "fictional": false },
+    "decoys": [
+      { "name": "Thanos", "fictional": true },
+      { "name": "Bill Gates", "fictional": false },
+      { "name": "Thomas Malthus", "fictional": false }
+    ],
+    "source": "World Economic Forum panel, Davos, 22 January 2020",
+    "note": "World population 500 years ago: roughly half a billion.",
+    "url": "https://www.politifact.com/factchecks/2022/jul/27/instagram-posts/no-jane-goodalls-population-comments-didnt-spark-p/",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": ["saint-dark", "misanthropic", "population"]
+  }
+]

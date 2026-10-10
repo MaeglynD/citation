@@ -1,0 +1,1588 @@
+{
+ "The Mad Hatter": {
+  "skin": "pale",
+  "face": "long",
+  "hair": "wild",
+  "hairColor": "ginger",
+  "headwear": "tophat",
+  "headwearColor": "#3f7a3a",
+  "headwearColor2": "cream",
+  "eyes": "crazy",
+  "eyeColor": "green",
+  "brows": "raised",
+  "nose": "long",
+  "mouth": "gap",
+  "outfit": "suit-bowtie",
+  "outfitColor": "#3f7a3a",
+  "outfitColor2": "saffron"
+ },
+ "Joey Tribbiani": {
+  "skin": "light",
+  "face": "square",
+  "hair": "messy",
+  "hairColor": "darkbrown",
+  "brows": "raised",
+  "eyes": "normal",
+  "eyeColor": "brown",
+  "mouth": "smirk",
+  "facialHair": "shadow",
+  "facialHairColor": "darkbrown",
+  "outfit": "leather",
+  "outfitColor": "black",
+  "outfitColor2": "grey"
+ },
+ "Christian Grey": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "messy",
+  "hairColor": "#8a5a3a",
+  "facialHair": "stubble",
+  "eyes": "narrow",
+  "eyeColor": "grey",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "silver"
+ },
+ "Carrie Bradshaw": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "curlylong",
+  "hairColor": "blonde",
+  "eyes": "normal",
+  "eyeColor": "blue",
+  "mouth": "lipstick",
+  "lipColor": "#e0507a",
+  "extras": [
+   "lashes",
+   "necklace"
+  ],
+  "outfit": "dress",
+  "outfitColor": "pink"
+ },
+ "Fox Mulder": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "sidepart",
+  "hairColor": "darkbrown",
+  "eyes": "sleepy",
+  "eyeColor": "hazel",
+  "nose": "long",
+  "mouth": "neutral",
+  "outfit": "trenchcoat",
+  "outfitColor": "#3a3a48",
+  "outfitColor2": "#7e1f3a"
+ },
+ "Basil Fawlty": {
+  "skin": "fair",
+  "face": "long",
+  "build": "slim",
+  "hair": "slick",
+  "hairColor": "#3a2a20",
+  "facialHair": "moustache",
+  "facialHairColor": "#3a2a20",
+  "eyes": "crazy",
+  "brows": "angry",
+  "nose": "long",
+  "mouth": "open",
+  "outfit": "suit",
+  "outfitColor": "#6a6a5a",
+  "outfitColor2": "maroon"
+ },
+ "Nurse Ratched": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "curly",
+  "hairColor": "#5a3a28",
+  "headwear": "sailor",
+  "headwearColor": "white",
+  "headwearColor2": "black",
+  "brows": "thin",
+  "eyes": "narrow",
+  "mouth": "smirk",
+  "lipColor": "#a03040",
+  "outfit": "shirt",
+  "outfitColor": "white"
+ },
+ "Gregory House": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "messy",
+  "hairColor": "#6a5a4a",
+  "facialHair": "stubble",
+  "facialHairColor": "#5a4a3a",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "brows": "raised",
+  "mouth": "smirk",
+  "extras": [
+   "bags"
+  ],
+  "outfit": "blazer",
+  "outfitColor": "#3a3a48"
+ },
+ "The Hulk": {
+  "skin": "green",
+  "face": "square",
+  "build": "broad",
+  "hair": "messy",
+  "hairColor": "black",
+  "brows": "angry",
+  "eyes": "angry",
+  "eyeColor": "green",
+  "mouth": "open",
+  "outfit": "bare"
+ },
+ "Regina George": {
+  "skin": "fair",
+  "hair": "long",
+  "hairColor": "blonde",
+  "eyes": "sleepy",
+  "eyeColor": "blue",
+  "brows": "thin",
+  "mouth": "smirk",
+  "lipColor": "#e0507a",
+  "extras": [
+   "lashes",
+   "earrings"
+  ],
+  "outfit": "dress",
+  "outfitColor": "hotpink"
+ },
+ "Conan the Barbarian": {
+  "skin": "tan",
+  "face": "square",
+  "build": "broad",
+  "hair": "long",
+  "hairColor": "#2a2020",
+  "brows": "angry",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "mouth": "frown",
+  "extras": [
+   "scar",
+   "necklace"
+  ],
+  "outfit": "bare"
+ },
+ "Cruella de Vil": {
+  "skin": "#e8dcd4",
+  "face": "narrow",
+  "build": "slim",
+  "hair": "shaggy",
+  "hairColor": "white",
+  "brows": "angry",
+  "browColor": "black",
+  "eyes": "crazy",
+  "eyeColor": "yellow",
+  "nose": "long",
+  "mouth": "lipstick",
+  "lipColor": "#d8303a",
+  "extras": [
+   "cigarette",
+   "lashes"
+  ],
+  "outfit": "regal",
+  "outfitColor": "#2b2934",
+  "outfitColor2": "red"
+ },
+ "Archie Bunker": {
+  "skin": "fair",
+  "face": "round",
+  "build": "heavy",
+  "age": "old",
+  "hair": "receding",
+  "hairColor": "grey",
+  "brows": "bushy",
+  "eyes": "narrow",
+  "mouth": "frown",
+  "extras": [
+   "cigar"
+  ],
+  "outfit": "shirt",
+  "outfitColor": "white"
+ },
+ "Lightning McQueen": {
+  "base": "animal",
+  "animal": {
+   "fur": "#d8303a",
+   "ears": "none",
+   "snout": "none"
+  },
+  "face": "wide",
+  "eyes": "big",
+  "nose": "none",
+  "mouth": "grin",
+  "outfit": "emblem",
+  "outfitColor": "#d8303a",
+  "outfitColor2": "yellow",
+  "symbol": "95"
+ },
+ "Marvin the Martian": {
+  "base": "animal",
+  "animal": {
+   "fur": "#22202a",
+   "ears": "none",
+   "snout": "none"
+  },
+  "face": "round",
+  "hair": "spiky",
+  "hairColor": "#d8e040",
+  "headwear": "kufi",
+  "headwearColor": "#35a852",
+  "eyes": "big",
+  "nose": "none",
+  "mouth": "none",
+  "outfit": "tunic",
+  "outfitColor": "red",
+  "outfitColor2": "red"
+ },
+ "Rich Uncle Pennybags": {
+  "skin": "fair",
+  "face": "round",
+  "build": "heavy",
+  "age": "old",
+  "hair": "baldsides",
+  "hairColor": "white",
+  "facialHair": "walrus",
+  "facialHairColor": "white",
+  "brows": "bushy",
+  "browColor": "white",
+  "eyes": "closed",
+  "mouth": "smile",
+  "headwear": "tophat",
+  "headwearColor": "black",
+  "headwearColor2": "charcoal",
+  "extras": [
+   "blush"
+  ],
+  "outfit": "tuxedo",
+  "outfitColor": "black",
+  "outfitColor2": "red"
+ },
+ "Scrooge McDuck": {
+  "base": "animal",
+  "animal": {
+   "fur": "white",
+   "ears": "none",
+   "snout": "duck",
+   "nose": "orange"
+  },
+  "eyes": "big",
+  "eyewear": "round",
+  "headwear": "tophat",
+  "headwearColor": "#3b4fd8",
+  "headwearColor2": "#2b2934",
+  "facialHair": "muttonchops",
+  "facialHairColor": "white",
+  "outfit": "suit",
+  "outfitColor": "red",
+  "outfitColor2": "red"
+ },
+ "Emperor Palpatine": {
+  "skin": "#e4d8cc",
+  "face": "long",
+  "age": "ancient",
+  "headwear": "hood",
+  "headwearColor": "#22202a",
+  "eyes": "angry",
+  "eyeColor": "yellow",
+  "brows": "angry",
+  "browColor": "#8a8070",
+  "nose": "hooked",
+  "mouth": "grin",
+  "extras": [
+   "wrinkles"
+  ],
+  "outfit": "robe",
+  "outfitColor": "#22202a",
+  "outfitColor2": "#2b2934"
+ },
+ "Donkey Kong": {
+  "base": "animal",
+  "animal": {
+   "fur": "#6a3a20",
+   "ears": "small",
+   "snout": "monkey",
+   "fur2": "#e0a878"
+  },
+  "face": "wide",
+  "build": "heavy",
+  "hair": "tuft",
+  "hairColor": "#3a2010",
+  "brows": "angry",
+  "browColor": "#2a1408",
+  "eyes": "normal",
+  "mouth": "grin",
+  "outfit": "jersey",
+  "outfitColor": "#6a3a20",
+  "outfitColor2": "red",
+  "symbol": "DK"
+ },
+ "Lucille Bluth": {
+  "skin": "fair",
+  "face": "narrow",
+  "age": "old",
+  "hair": "bob",
+  "hairColor": "#6a3a2a",
+  "brows": "raised",
+  "eyes": "sleepy",
+  "mouth": "smirk",
+  "lipColor": "#b03040",
+  "extras": [
+   "pearls",
+   "earrings",
+   "lashes"
+  ],
+  "outfit": "dress",
+  "outfitColor": "navy"
+ },
+ "Foghorn Leghorn": {
+  "base": "animal",
+  "animal": {
+   "fur": "white",
+   "fur2": "#f4f1ea",
+   "ears": "none",
+   "snout": "bigbeak",
+   "nose": "#f5c030"
+  },
+  "face": "big",
+  "hair": "mohawk",
+  "hairColor": "red",
+  "brows": "thick",
+  "browColor": "#2b2934",
+  "eyes": "normal",
+  "outfit": "none"
+ },
+ "Jack Sparrow": {
+  "skin": "tan",
+  "face": "long",
+  "hair": "dreads",
+  "hairColor": "#3a2818",
+  "headwear": "tricorn",
+  "headwearColor": "#4f3422",
+  "headwearColor2": "red",
+  "facialHair": "fumanchu",
+  "facialHairColor": "#3a2818",
+  "eyes": "sleepy",
+  "eyeColor": "brown",
+  "mouth": "gold",
+  "extras": [
+   "lashes"
+  ],
+  "outfit": "vest",
+  "outfitColor": "#5a4030",
+  "outfitColor2": "cream"
+ },
+ "Kendall Roy": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "sidepart",
+  "hairColor": "#3a2a20",
+  "facialHair": "stubble",
+  "facialHairColor": "#3a2a20",
+  "brows": "sad",
+  "eyes": "sleepy",
+  "eyeColor": "brown",
+  "mouth": "frown",
+  "extras": [
+   "bags"
+  ],
+  "outfit": "blazer",
+  "outfitColor": "navy"
+ },
+ "Mr. Peanutbutter": {
+  "base": "animal",
+  "animal": {
+   "fur": "#e8b860",
+   "fur2": "#f6dca0",
+   "earColor": "#c08a3a",
+   "ears": "floppy",
+   "snout": "dog"
+  },
+  "eyes": "dots",
+  "brows": "raised",
+  "browColor": "#8a5a20",
+  "mouth": "tongue",
+  "outfit": "sweater",
+  "outfitColor": "#4aa8c8",
+  "outfitColor2": "white"
+ },
+ "Diane Nguyen": {
+  "skin": "light",
+  "face": "oval",
+  "hair": "shoulder",
+  "hairColor": "black",
+  "eyes": "normal",
+  "eyeColor": "dark",
+  "brows": "thin",
+  "mouth": "neutral",
+  "outfit": "leather",
+  "outfitColor": "armygreen",
+  "outfitColor2": "white"
+ },
+ "Morty Smith": {
+  "skin": "fair",
+  "face": "round",
+  "age": "child",
+  "hair": "short",
+  "hairColor": "#6a4224",
+  "brows": "sad",
+  "eyes": "big",
+  "mouth": "frown",
+  "outfit": "tshirt",
+  "outfitColor": "yellow"
+ },
+ "Sideshow Bob": {
+  "skin": "yellow",
+  "face": "long",
+  "hair": "anime",
+  "hairColor": "#d8402a",
+  "eyes": "big",
+  "nose": "long",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "#2b2934",
+  "outfitColor2": "red"
+ },
+ "Stewie Griffin": {
+  "skin": "fair",
+  "face": "wide",
+  "age": "child",
+  "hair": "tuft",
+  "hairColor": "#6a4a2a",
+  "brows": "angry",
+  "eyes": "big",
+  "mouth": "smirk",
+  "outfit": "overalls",
+  "outfitColor": "red",
+  "outfitColor2": "yellow"
+ },
+ "Grampa Simpson": {
+  "skin": "yellow",
+  "face": "long",
+  "age": "ancient",
+  "hair": "wisps",
+  "hairColor": "white",
+  "ears": "big",
+  "eyes": "big",
+  "mouth": "open",
+  "extras": [
+   "wrinkles"
+  ],
+  "outfit": "shirt",
+  "outfitColor": "#a8d8c8"
+ },
+ "Hank Hill": {
+  "skin": "fair",
+  "face": "wide",
+  "hair": "crew",
+  "hairColor": "#6a4a2a",
+  "eyewear": "square",
+  "eyewearColor": "#5a4a3a",
+  "eyes": "small",
+  "mouth": "neutral",
+  "outfit": "tshirt",
+  "outfitColor": "white"
+ },
+ "Butters Stotch": {
+  "skin": "fair",
+  "face": "wide",
+  "age": "child",
+  "hair": "sidefringe",
+  "hairColor": "platinum",
+  "brows": "sad",
+  "eyes": "big",
+  "mouth": "smile",
+  "extras": [
+   "blush"
+  ],
+  "outfit": "shirt",
+  "outfitColor": "#5ac8b8"
+ },
+ "General Grievous": {
+  "skin": "#ece4cc",
+  "face": "long",
+  "hair": "none",
+  "eyes": "glow",
+  "eyeColor": "yellow",
+  "brows": "angry",
+  "browColor": "#2b2934",
+  "nose": "slits",
+  "mouth": "teeth",
+  "lipColor": "#5c5c6c",
+  "extras": [
+   "chinridges",
+   "bags"
+  ],
+  "outfit": "armor",
+  "outfitColor": "#9a9aa8"
+ },
+ "Plankton": {
+  "base": "blob"
+ },
+ "Wile E. Coyote": {
+  "base": "animal",
+  "animal": {
+   "fur": "#8a6a4a",
+   "fur2": "#e8d0a8",
+   "ears": "pointy",
+   "snout": "dog",
+   "nose": "#2b2934"
+  },
+  "face": "long",
+  "eyes": "normal",
+  "eyeColor": "yellow",
+  "brows": "raised",
+  "browColor": "#4a3018",
+  "mouth": "smirk",
+  "outfit": "none"
+ },
+ "The Robot Devil": {
+  "skin": "red",
+  "face": "long",
+  "hair": "none",
+  "headwear": "horns",
+  "headwearColor": "#8a1a20",
+  "ears": "pointy",
+  "eyes": "wide",
+  "eyeColor": "yellow",
+  "brows": "angry",
+  "browColor": "#2b2934",
+  "mouth": "bigsmile",
+  "lipColor": "#2b2934",
+  "extras": [
+   "bolts"
+  ],
+  "outfit": "armor",
+  "outfitColor": "crimson"
+ },
+ "Dr. Zoidberg": {
+  "skin": "#e8705a",
+  "face": "big",
+  "hair": "none",
+  "ears": "none",
+  "eyes": "frog",
+  "nose": "none",
+  "mouth": "none",
+  "facialHair": "tentacles",
+  "facialHairColor": "#d05a48",
+  "outfit": "labcoat",
+  "outfitColor": "white",
+  "outfitColor2": "#e8705a"
+ },
+ "Philip J. Fry": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "pompadour",
+  "hairColor": "ginger",
+  "eyes": "big",
+  "mouth": "open",
+  "outfit": "leather",
+  "outfitColor": "red",
+  "outfitColor2": "white"
+ },
+ "Forrest Gump": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "short",
+  "hairColor": "#7a5232",
+  "brows": "raised",
+  "eyes": "normal",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "suit",
+  "outfitColor": "#e8dcc0",
+  "outfitColor2": "lightblue"
+ },
+ "Bill Cipher": {
+  "base": "triangle"
+ },
+ "Grunkle Stan": {
+  "skin": "fair",
+  "face": "square",
+  "age": "old",
+  "hair": "short",
+  "hairColor": "grey",
+  "headwear": "fez",
+  "headwearColor": "#b0202a",
+  "headwearColor2": "#2b2934",
+  "eyewear": "thick",
+  "eyewearColor": "#2b2934",
+  "nose": "big",
+  "facialHair": "shadow",
+  "facialHairColor": "grey",
+  "mouth": "smirk",
+  "outfit": "suit-bowtie",
+  "outfitColor": "#2b2934",
+  "outfitColor2": "red"
+ },
+ "Greg Universe": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "long",
+  "hairColor": "#6a4a2a",
+  "headwear": "zucchetto",
+  "headwearColor": "#f6cfb3",
+  "facialHair": "stubble",
+  "facialHairColor": "#6a4a2a",
+  "eyes": "normal",
+  "mouth": "smile",
+  "outfit": "tank",
+  "outfitColor": "white"
+ },
+ "Garnet": {
+  "skin": "#a8385e",
+  "face": "square",
+  "build": "broad",
+  "hair": "afro",
+  "hairColor": "#1e1a24",
+  "eyewear": "visor",
+  "eyewearColor": "#f070c0",
+  "brows": "none",
+  "mouth": "neutral",
+  "lipColor": "#5a1030",
+  "outfit": "jumpsuit",
+  "outfitColor": "#6a1a40",
+  "outfitColor2": "#2b2934"
+ },
+ "Lord Farquaad": {
+  "skin": "fair",
+  "face": "big",
+  "build": "slim",
+  "hair": "bob",
+  "hairColor": "black",
+  "brows": "thick",
+  "eyes": "sleepy",
+  "eyeColor": "blue",
+  "mouth": "smirk",
+  "outfit": "uniform",
+  "outfitColor": "crimson",
+  "outfitColor2": "gold"
+ },
+ "Master Oogway": {
+  "base": "animal",
+  "animal": {
+   "fur": "#8a9a6a",
+   "fur2": "#b8c098",
+   "ears": "none",
+   "snout": "none"
+  },
+  "face": "long",
+  "age": "ancient",
+  "eyes": "sleepy",
+  "eyeColor": "green",
+  "brows": "bushy",
+  "browColor": "#f0f0f6",
+  "nose": "slits",
+  "mouth": "smile",
+  "extras": [
+   "wrinkles"
+  ],
+  "outfit": "armor",
+  "outfitColor": "#a07a48"
+ },
+ "Mr. Ping": {
+  "base": "animal",
+  "animal": {
+   "fur": "white",
+   "ears": "none",
+   "snout": "beak",
+   "nose": "#f0b030"
+  },
+  "face": "long",
+  "build": "slim",
+  "eyes": "small",
+  "headwear": "kufi",
+  "headwearColor": "#2a5a6a",
+  "mouth": "none",
+  "outfit": "tunic",
+  "outfitColor": "#4a8ab8",
+  "outfitColor2": "#2a5a6a"
+ },
+ "Rafiki": {
+  "base": "animal",
+  "animal": {
+   "fur": "#8a8a90",
+   "fur2": "#e8c890",
+   "ears": "none",
+   "snout": "monkey",
+   "pattern": "mask"
+  },
+  "face": "long",
+  "age": "old",
+  "hair": "wisps",
+  "hairColor": "white",
+  "facialHair": "long",
+  "facialHairColor": "#e8e8ee",
+  "eyes": "narrow",
+  "eyeColor": "yellow",
+  "brows": "bushy",
+  "browColor": "white",
+  "mouth": "grin",
+  "outfit": "none"
+ },
+ "Anton Ego": {
+  "skin": "#ece0d8",
+  "face": "long",
+  "build": "slim",
+  "hair": "widow",
+  "hairColor": "#3a3640",
+  "brows": "angry",
+  "eyes": "sleepy",
+  "eyeColor": "grey",
+  "nose": "hooked",
+  "mouth": "frown",
+  "extras": [
+   "bags"
+  ],
+  "outfit": "suit",
+  "outfitColor": "#2e2440",
+  "outfitColor2": "#4a2a5a"
+ },
+ "Statler and Waldorf": {
+  "skin": "#f0b8a0",
+  "face": "wide",
+  "age": "old",
+  "hair": "baldsides",
+  "hairColor": "white",
+  "facialHair": "walrus",
+  "facialHairColor": "white",
+  "brows": "bushy",
+  "browColor": "white",
+  "eyes": "sleepy",
+  "nose": "big",
+  "mouth": "muppet",
+  "extras": [
+   "fuzzy"
+  ],
+  "outfit": "suit-bowtie",
+  "outfitColor": "#46465a",
+  "outfitColor2": "black"
+ },
+ "Auguste Gusteau": {
+  "skin": "light",
+  "face": "round",
+  "build": "heavy",
+  "hair": "short",
+  "hairColor": "black",
+  "headwear": "chef",
+  "facialHair": "handlebar",
+  "facialHairColor": "black",
+  "eyes": "closed",
+  "mouth": "bigsmile",
+  "extras": [
+   "blush",
+   "scarf"
+  ],
+  "color2": "red",
+  "outfit": "chef",
+  "outfitColor": "white"
+ },
+ "Remy": {
+  "base": "animal",
+  "animal": {
+   "fur": "#7a7c9a",
+   "fur2": "#b8bad0",
+   "earColor": "#f0a8b8",
+   "ears": "mouse",
+   "snout": "mouse",
+   "nose": "#ff8aa8"
+  },
+  "eyes": "normal",
+  "eyeColor": "green",
+  "mouth": "smile",
+  "outfit": "none"
+ },
+ "Simba": {
+  "base": "animal",
+  "animal": {
+   "fur": "#e0a040",
+   "fur2": "#8a3a1a",
+   "muzzle": "#f4d898",
+   "earColor": "#b07020",
+   "ears": "round",
+   "snout": "lion",
+   "pattern": "mane",
+   "nose": "#6a3a2a"
+  },
+  "eyes": "normal",
+  "eyeColor": "brown",
+  "brows": "normal",
+  "browColor": "#8a4a1a",
+  "mouth": "smile",
+  "outfit": "none"
+ },
+ "Dug": {
+  "base": "animal",
+  "animal": {
+   "fur": "#d8a050",
+   "fur2": "#f0d090",
+   "earColor": "#b07a30",
+   "ears": "floppy",
+   "snout": "dog"
+  },
+  "eyes": "wide",
+  "brows": "raised",
+  "browColor": "#8a5a20",
+  "mouth": "tongue",
+  "extras": [
+   "spikes"
+  ],
+  "outfit": "none"
+ },
+ "Russell": {
+  "skin": "light",
+  "face": "round",
+  "build": "heavy",
+  "age": "child",
+  "hair": "short",
+  "hairColor": "black",
+  "headwear": "cap",
+  "headwearColor": "#3a6ab0",
+  "headwearColor2": "yellow",
+  "eyes": "dots",
+  "mouth": "bigsmile",
+  "extras": [
+   "scarf",
+   "medals"
+  ],
+  "color2": "orange",
+  "outfit": "shirt",
+  "outfitColor": "#e8d8a0"
+ },
+ "Sadness": {
+  "skin": "#7ab0e8",
+  "face": "round",
+  "build": "heavy",
+  "hair": "bob",
+  "hairColor": "#2a4a9a",
+  "eyewear": "round",
+  "eyewearColor": "#1e2a5a",
+  "eyes": "sleepy",
+  "eyeColor": "blue",
+  "brows": "sad",
+  "mouth": "frown",
+  "outfit": "turtleneck",
+  "outfitColor": "#f0ece4"
+ },
+ "Mr. Big": {
+  "base": "animal",
+  "animal": {
+   "fur": "#e4e0dc",
+   "fur2": "#f4f0ec",
+   "earColor": "#f0b8c0",
+   "ears": "small",
+   "snout": "mouse",
+   "nose": "#ff8aa8"
+  },
+  "face": "small",
+  "eyes": "narrow",
+  "brows": "angry",
+  "browColor": "#8a8a90",
+  "mouth": "frown",
+  "extras": [
+   "rose"
+  ],
+  "outfit": "tuxedo",
+  "outfitColor": "black",
+  "outfitColor2": "black"
+ },
+ "Nick Wilde": {
+  "base": "animal",
+  "animal": {
+   "fur": "#e07a30",
+   "fur2": "#f4dcb4",
+   "earColor": "#5a3018",
+   "ears": "pointy",
+   "snout": "dog",
+   "pattern": "mask"
+  },
+  "face": "long",
+  "eyes": "sleepy",
+  "eyeColor": "green",
+  "brows": "raised",
+  "browColor": "#8a4018",
+  "mouth": "smirk",
+  "extras": [
+   "tie"
+  ],
+  "color2": "#5a5ab0",
+  "outfit": "hawaiian",
+  "outfitColor": "#7ac06a",
+  "outfitColor2": "#3a8a4a"
+ },
+ "Uncle Iroh": {
+  "skin": "light",
+  "face": "round",
+  "build": "heavy",
+  "age": "old",
+  "hair": "topknot",
+  "hairColor": "grey",
+  "facialHair": "full",
+  "facialHairColor": "#c8c8d0",
+  "brows": "bushy",
+  "browColor": "grey",
+  "eyes": "closed",
+  "mouth": "smile",
+  "outfit": "robe",
+  "outfitColor": "#a02a2a",
+  "outfitColor2": "#e8b83a"
+ },
+ "The Genie": {
+  "skin": "blue",
+  "face": "square",
+  "build": "broad",
+  "hair": "topknot",
+  "hairColor": "black",
+  "facialHair": "goatee",
+  "facialHairColor": "black",
+  "brows": "raised",
+  "browColor": "black",
+  "eyes": "wide",
+  "mouth": "bigsmile",
+  "extras": [
+   "hoops"
+  ],
+  "outfit": "bare"
+ },
+ "Dobby": {
+  "skin": "#c8c4a8",
+  "face": "big",
+  "build": "slim",
+  "hair": "none",
+  "ears": "yoda",
+  "eyes": "wide",
+  "eyeColor": "green",
+  "brows": "sad",
+  "browColor": "#8a8470",
+  "nose": "long",
+  "mouth": "smile",
+  "outfit": "toga",
+  "outfitColor": "#e8dcc0",
+  "outfitColor2": "#e8dcc0"
+ },
+ "Bender": {
+  "base": "robot",
+  "kind": "bender"
+ },
+ "Hobbes": {
+  "base": "animal",
+  "animal": {
+   "fur": "#f08a30",
+   "fur2": "#f8f0e0",
+   "earColor": "#f8f0e0",
+   "ears": "round",
+   "snout": "bear",
+   "pattern": "stripes",
+   "nose": "#e88a98"
+  },
+  "eyes": "dots",
+  "mouth": "smile",
+  "outfit": "none"
+ },
+ "Snoopy": {
+  "base": "animal",
+  "animal": {
+   "fur": "white",
+   "fur2": "white",
+   "earColor": "black",
+   "muzzle": "white",
+   "ears": "floppy",
+   "snout": "dog"
+  },
+  "eyes": "dots",
+  "mouth": "smile",
+  "outfit": "none"
+ },
+ "Pogo": {
+  "base": "animal",
+  "animal": {
+   "fur": "#c8c4c0",
+   "fur2": "#f4f0ec",
+   "earColor": "#f0b8b8",
+   "ears": "round",
+   "snout": "mouse",
+   "nose": "#2b2934"
+  },
+  "eyes": "dots",
+  "mouth": "smile",
+  "outfit": "stripes",
+  "outfitColor": "white",
+  "outfitColor2": "red"
+ },
+ "Porky Pine": {
+  "base": "animal",
+  "animal": {
+   "fur": "#6a5a4a",
+   "fur2": "#d8c8b0",
+   "ears": "small",
+   "snout": "mouse",
+   "nose": "#2b2934"
+  },
+  "hair": "spiky",
+  "hairColor": "#2b2934",
+  "eyes": "sleepy",
+  "brows": "sad",
+  "browColor": "#2b2934",
+  "mouth": "frown",
+  "outfit": "none"
+ },
+ "Meowth": {
+  "base": "animal",
+  "animal": {
+   "fur": "#f0e0b0",
+   "fur2": "#f8f0d8",
+   "earColor": "#4a3020",
+   "ears": "pointy",
+   "snout": "cat",
+   "nose": "#ff8aa8"
+  },
+  "headwear": "coin",
+  "headwearColor": "gold",
+  "eyes": "narrow",
+  "eyeColor": "dark",
+  "mouth": "fangs",
+  "outfit": "none"
+ },
+ "Mewtwo": {
+  "base": "animal",
+  "animal": {
+   "fur": "#d0c4dc",
+   "fur2": "#9a6ac0",
+   "earColor": "#b8a8c8",
+   "ears": "pointy",
+   "snout": "none"
+  },
+  "face": "long",
+  "nose": "none",
+  "eyes": "angry",
+  "eyeColor": "purple",
+  "brows": "angry",
+  "browColor": "#6a5a7a",
+  "mouth": "neutral",
+  "outfit": "none"
+ },
+ "Piglet": {
+  "base": "animal",
+  "animal": {
+   "fur": "#f8b8c8",
+   "fur2": "#fcd8e0",
+   "earColor": "#e888a0",
+   "ears": "pointy",
+   "snout": "pig"
+  },
+  "face": "small",
+  "eyes": "dots",
+  "brows": "sad",
+  "browColor": "#c06080",
+  "mouth": "smile",
+  "outfit": "stripes",
+  "outfitColor": "#e06090",
+  "outfitColor2": "#a02a5a"
+ },
+ "Frodo Baggins": {
+  "skin": "pale",
+  "face": "oval",
+  "age": "young",
+  "hair": "curly",
+  "hairColor": "#3a2818",
+  "ears": "pointy",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "brows": "sad",
+  "mouth": "neutral",
+  "extras": [
+   "necklace"
+  ],
+  "outfit": "vest",
+  "outfitColor": "#5a4a2a",
+  "outfitColor2": "cream"
+ },
+ "The Pokédex": {
+  "base": "object",
+  "kind": "device",
+  "color": "#d8303a",
+  "color2": "#1d6a6a"
+ },
+ "The Grim Reaper": {
+  "base": "skull",
+  "color2": "#1e1a24"
+ },
+ "Professor Farnsworth": {
+  "skin": "fair",
+  "face": "long",
+  "age": "ancient",
+  "hair": "wisps",
+  "hairColor": "white",
+  "eyewear": "round",
+  "eyewearColor": "#2b2934",
+  "eyes": "wide",
+  "nose": "long",
+  "mouth": "o",
+  "extras": [
+   "wrinkles"
+  ],
+  "outfit": "labcoat",
+  "outfitColor": "white",
+  "outfitColor2": "#a8c0d8"
+ },
+ "Kratos": {
+  "skin": "#e4ddd6",
+  "face": "square",
+  "build": "broad",
+  "hair": "bald",
+  "facialHair": "full",
+  "facialHairColor": "#4a3a30",
+  "eyes": "angry",
+  "eyeColor": "brown",
+  "brows": "angry",
+  "browColor": "#3a2a20",
+  "mouth": "frown",
+  "extras": [
+   "redstripe",
+   "scar"
+  ],
+  "outfit": "armor",
+  "outfitColor": "#6a5444"
+ },
+ "Magneto": {
+  "skin": "fair",
+  "face": "long",
+  "age": "old",
+  "headwear": "cowl",
+  "headwearColor": "crimson",
+  "eyes": "angry",
+  "eyeColor": "blue",
+  "brows": "angry",
+  "browColor": "grey",
+  "mouth": "frown",
+  "outfit": "uniform",
+  "outfitColor": "purple",
+  "outfitColor2": "crimson"
+ },
+ "Frank Fontaine": {
+  "skin": "light",
+  "face": "square",
+  "hair": "slick",
+  "hairColor": "black",
+  "facialHair": "pencil",
+  "facialHairColor": "black",
+  "eyes": "narrow",
+  "brows": "raised",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "#3a3a4a",
+  "outfitColor2": "maroon"
+ },
+ "Ganondorf": {
+  "skin": "#6a5a42",
+  "face": "square",
+  "build": "broad",
+  "hair": "widow",
+  "hairColor": "#c4402a",
+  "facialHair": "none",
+  "facialHairColor": "#c4402a",
+  "headwear": "tiara",
+  "headwearColor": "gold",
+  "headwearColor2": "#3fd8e0",
+  "eyes": "angry",
+  "eyeColor": "yellow",
+  "brows": "angry",
+  "nose": "hooked",
+  "mouth": "frown",
+  "outfit": "armor",
+  "outfitColor": "#2b2934"
+ },
+ "Sauron": {
+  "base": "helmet",
+  "kind": "knight",
+  "color": "#2b2934"
+ },
+ "The Happy Mask Salesman": {
+  "skin": "light",
+  "face": "wide",
+  "hair": "spiky",
+  "hairColor": "#d86a3a",
+  "eyes": "closed",
+  "brows": "raised",
+  "mouth": "bigsmile",
+  "outfit": "tunic",
+  "outfitColor": "#7a4aa0",
+  "outfitColor2": "#e8b83a"
+ },
+ "Solid Snake": {
+  "skin": "light",
+  "face": "square",
+  "hair": "shaggy",
+  "hairColor": "#5a4030",
+  "headwear": "bandana",
+  "headwearColor": "#2a3550",
+  "facialHair": "stubble",
+  "facialHairColor": "#4a3020",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "brows": "angry",
+  "mouth": "neutral",
+  "outfit": "turtleneck",
+  "outfitColor": "#3e4a5e"
+ },
+ "Arthur Morgan": {
+  "skin": "light",
+  "face": "square",
+  "hair": "short",
+  "hairColor": "#6a4a2a",
+  "headwear": "cowboy",
+  "headwearColor": "#4a3a2e",
+  "headwearColor2": "#2b2934",
+  "facialHair": "short",
+  "facialHairColor": "#6a4a2a",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "mouth": "frown",
+  "outfit": "vest",
+  "outfitColor": "#3a3430",
+  "outfitColor2": "#8a9ab8"
+ },
+ "Ned Stark": {
+  "skin": "light",
+  "face": "long",
+  "hair": "shoulder",
+  "hairColor": "#3a2818",
+  "facialHair": "short",
+  "facialHairColor": "#3a2818",
+  "brows": "thick",
+  "eyes": "narrow",
+  "eyeColor": "grey",
+  "mouth": "frown",
+  "outfit": "armor",
+  "outfitColor": "#6a5a4a"
+ },
+ "Spike Spiegel": {
+  "skin": "light",
+  "face": "long",
+  "build": "slim",
+  "hair": "messy",
+  "hairColor": "#3a6a52",
+  "eyes": "sleepy",
+  "eyeColor": "brown",
+  "mouth": "smirk",
+  "extras": [
+   "tie",
+   "cigarette"
+  ],
+  "color2": "#1e1a24",
+  "outfit": "leather",
+  "outfitColor": "#2a4a8a",
+  "outfitColor2": "yellow"
+ },
+ "Han Solo": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "sidepart",
+  "hairColor": "#6a4a2a",
+  "eyes": "normal",
+  "eyeColor": "hazel",
+  "brows": "raised",
+  "mouth": "smirk",
+  "outfit": "vest",
+  "outfitColor": "#22202a",
+  "outfitColor2": "#f4f1ea"
+ },
+ "Jet Black": {
+  "skin": "light",
+  "face": "square",
+  "build": "broad",
+  "hair": "bald",
+  "facialHair": "full",
+  "facialHairColor": "black",
+  "brows": "thick",
+  "browColor": "black",
+  "eyes": "narrow",
+  "mouth": "neutral",
+  "extras": [
+   "scar"
+  ],
+  "outfit": "leather",
+  "outfitColor": "#2a3550",
+  "outfitColor2": "#c8c0b0"
+ },
+ "Rust Cohle": {
+  "skin": "light",
+  "face": "long",
+  "hair": "shoulder",
+  "hairColor": "#8a6a42",
+  "facialHair": "horseshoe",
+  "facialHairColor": "#7a5a3a",
+  "eyes": "sleepy",
+  "eyeColor": "blue",
+  "mouth": "neutral",
+  "extras": [
+   "bags",
+   "cigarette"
+  ],
+  "outfit": "shirt",
+  "outfitColor": "#6a7080"
+ },
+ "Vicious": {
+  "skin": "pale",
+  "face": "narrow",
+  "build": "slim",
+  "hair": "long",
+  "hairColor": "silver",
+  "brows": "thin",
+  "browColor": "#8a8a99",
+  "eyes": "narrow",
+  "eyeColor": "red",
+  "mouth": "frown",
+  "outfit": "mao",
+  "outfitColor": "#22202a"
+ },
+ "Lucifer Morningstar": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "slick",
+  "hairColor": "black",
+  "facialHair": "stubble",
+  "facialHairColor": "black",
+  "brows": "raised",
+  "eyes": "glow",
+  "eyeColor": "red",
+  "mouth": "smirk",
+  "outfit": "blazer",
+  "outfitColor": "#22202a"
+ },
+ "Babe": {
+  "base": "animal",
+  "animal": {
+   "fur": "#f8d8cc",
+   "fur2": "#fce8e0",
+   "earColor": "#f0b0a8",
+   "ears": "pointy",
+   "snout": "pig"
+  },
+  "eyes": "normal",
+  "eyeColor": "brown",
+  "mouth": "smile",
+  "outfit": "none"
+ },
+ "Ryuk": {
+  "skin": "#9aa4bc",
+  "face": "long",
+  "hair": "spiky",
+  "hairColor": "black",
+  "ears": "pointy",
+  "eyes": "crazy",
+  "eyeColor": "red",
+  "brows": "angry",
+  "browColor": "black",
+  "mouth": "joker",
+  "lipColor": "#2b2934",
+  "extras": [
+   "spikes"
+  ],
+  "outfit": "leather",
+  "outfitColor": "#22202a",
+  "outfitColor2": "#2b2934"
+ },
+ "Death (Discworld)": {
+  "skin": "#eeeae0",
+  "face": "narrow",
+  "headwear": "hood",
+  "headwearColor": "#1e1a24",
+  "eyes": "glow",
+  "eyeColor": "#6ab0ff",
+  "nose": "slits",
+  "mouth": "gap",
+  "brows": "none",
+  "outfit": "robe",
+  "outfitColor": "#1e1a24",
+  "outfitColor2": "#2b2934"
+ },
+ "Light Yagami": {
+  "skin": "fair",
+  "face": "narrow",
+  "hair": "mop",
+  "hairColor": "#8a5a32",
+  "eyes": "narrow",
+  "eyeColor": "red",
+  "brows": "thin",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "#4a5a7a",
+  "outfitColor2": "#8a2a2a"
+ },
+ "Judge Dredd": {
+  "skin": "light",
+  "face": "square",
+  "build": "broad",
+  "headwear": "helmet",
+  "headwearColor": "#2a2e4a",
+  "eyewear": "sunglasses",
+  "eyewearColor": "#2a2e4a",
+  "brows": "none",
+  "mouth": "frown",
+  "extras": [
+   "badge"
+  ],
+  "outfit": "uniform",
+  "outfitColor": "#22202a",
+  "outfitColor2": "gold"
+ },
+ "Levi Ackerman": {
+  "skin": "pale",
+  "face": "narrow",
+  "build": "slim",
+  "hair": "partmiddle",
+  "hairColor": "black",
+  "eyes": "narrow",
+  "eyeColor": "grey",
+  "brows": "thin",
+  "mouth": "frown",
+  "extras": [
+   "scarf"
+  ],
+  "color2": "white",
+  "outfit": "leather",
+  "outfitColor": "#a07a4a",
+  "outfitColor2": "white"
+ },
+ "Rick Grimes": {
+  "skin": "light",
+  "face": "square",
+  "hair": "short",
+  "hairColor": "#5a3a22",
+  "headwear": "cowboy",
+  "headwearColor": "#8a6a42",
+  "headwearColor2": "#4f3422",
+  "facialHair": "stubble",
+  "facialHairColor": "#5a3a22",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "brows": "sad",
+  "mouth": "frown",
+  "extras": [
+   "badge"
+  ],
+  "outfit": "uniform",
+  "outfitColor": "khaki",
+  "outfitColor2": "#8a6a42"
+ },
+ "Gaara": {
+  "skin": "pale",
+  "face": "oval",
+  "hair": "messy",
+  "hairColor": "#c0302a",
+  "brows": "none",
+  "eyes": "angry",
+  "eyeColor": "teal",
+  "mouth": "frown",
+  "extras": [
+   "gaara",
+   "bags"
+  ],
+  "outfit": "robe",
+  "outfitColor": "#7e2a3a",
+  "outfitColor2": "#c8a878"
+ },
+ "Gilderoy Lockhart": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "shaggy",
+  "hairColor": "blonde",
+  "eyes": "normal",
+  "eyeColor": "blue",
+  "brows": "raised",
+  "mouth": "grin",
+  "outfit": "cape",
+  "outfitColor": "#9b6ad6",
+  "outfitColor2": "#e8b83a"
+ },
+ "Pepé Le Pew": {
+  "base": "animal",
+  "animal": {
+   "fur": "#2b2934",
+   "fur2": "#f4f1ea",
+   "ears": "small",
+   "snout": "mouse",
+   "nose": "#ff8aa8"
+  },
+  "hair": "mohawk",
+  "hairColor": "white",
+  "eyes": "sleepy",
+  "mouth": "smile",
+  "extras": [
+   "blush"
+  ],
+  "outfit": "none"
+ },
+ "Mary Poppins": {
+  "skin": "pale",
+  "face": "oval",
+  "hair": "bun",
+  "hairColor": "#3a2818",
+  "headwear": "bowler",
+  "headwearColor": "#22202a",
+  "headwearColor2": "#e05080",
+  "eyes": "normal",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "lipColor": "#c03040",
+  "extras": [
+   "blush",
+   "lashes"
+  ],
+  "outfit": "suit-bowtie",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Hermione Granger": {
+  "skin": "fair",
+  "face": "oval",
+  "age": "young",
+  "hair": "curlylong",
+  "hairColor": "#7a5232",
+  "brows": "raised",
+  "eyes": "normal",
+  "eyeColor": "brown",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "#22202a",
+  "outfitColor2": "#b0102a"
+ },
+ "Groundskeeper Willie": {
+  "skin": "yellow",
+  "face": "square",
+  "build": "broad",
+  "hair": "curly",
+  "hairColor": "#c8441e",
+  "facialHair": "short",
+  "facialHairColor": "#c8441e",
+  "brows": "angry",
+  "browColor": "#8a2a10",
+  "eyes": "big",
+  "mouth": "frown",
+  "outfit": "overalls",
+  "outfitColor": "#3a6a5a",
+  "outfitColor2": "#e8dcc0"
+ },
+ "Crocodile Dundee": {
+  "skin": "tan",
+  "face": "long",
+  "hair": "short",
+  "hairColor": "#a0744a",
+  "headwear": "cowboy",
+  "headwearColor": "#6a4a2e",
+  "headwearColor2": "#f1e2c2",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "mouth": "grin",
+  "extras": [
+   "wrinkles",
+   "necklace"
+  ],
+  "outfit": "vest",
+  "outfitColor": "#7a4a2a",
+  "outfitColor2": "#d39a6a"
+ }
+}

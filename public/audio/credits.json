@@ -1,0 +1,68 @@
+{
+  "origin": "User-provided Suno recordings",
+  "editing": "Phrase excerpts, short fades, matched music-loop transitions, balanced levels; no time compression.",
+  "tracks": [
+    {
+      "id": "attribution-chaos",
+      "source": "Attribution Chaos.wav",
+      "sourceSha256": "db993f61fd45c30e8de326b2f2b3f204333bd036c2cc6d25c9c32c932d62b595",
+      "sourceDuration": 139.88,
+      "start": 8.005,
+      "end": 70.965,
+      "duration": 62.96,
+      "loopBlendSeconds": 0.492,
+      "peakDb": -3.54,
+      "rmsDb": -19.0,
+      "seamStep": 0.023451
+    },
+    {
+      "id": "quiz-groove",
+      "source": "Quiz Groove.wav",
+      "sourceSha256": "f8eefa797cc2056a1c07bf3b713642725688bcfd4bb05322dd1b9697599c6ead",
+      "sourceDuration": 89.96,
+      "start": 20.905,
+      "end": 57.815,
+      "duration": 36.91,
+      "loopBlendSeconds": 0.577,
+      "peakDb": -5.39,
+      "rmsDb": -19.0,
+      "seamStep": 0.010076
+    },
+    {
+      "id": "correct",
+      "source": "One-second Cheerful Correct-answer Sound. Three Rising Marimba And Plucky Syn....wav",
+      "sourceSha256": "64c38db7dc6c0b5d4bd7363f1838e1ce624228ab246a81a516a949a37179e901",
+      "sourceDuration": 3.56,
+      "start": 1.472,
+      "end": 2.84,
+      "duration": 1.368,
+      "loopBlendSeconds": 0,
+      "peakDb": -5.15,
+      "rmsDb": -19.0
+    },
+    {
+      "id": "wrong",
+      "source": "A 1-second Playful Wrong-answer Sound. Two Descending Rounded Synth Boops, Wi....wav",
+      "sourceSha256": "ea12c6e81648df88d66bf8b50f30e54f5a9494844f37f75936620c613439651b",
+      "sourceDuration": 7.2,
+      "start": 5.416,
+      "end": 6.76,
+      "duration": 1.344,
+      "loopBlendSeconds": 0,
+      "peakDb": -7.94,
+      "rmsDb": -19.0
+    },
+    {
+      "id": "complete",
+      "source": "3 Second Game-completion Flourish In C Major. Bouncy Marimba, Warm Plucky Syn....wav",
+      "sourceSha256": "4ff2f46451d8a393a08044e081807a81bcbd645bde029c7337d18e7dd6ddeabb",
+      "sourceDuration": 8.0,
+      "start": 4.365,
+      "end": 7.5,
+      "duration": 3.135,
+      "loopBlendSeconds": 0,
+      "peakDb": -6.74,
+      "rmsDb": -19.0
+    }
+  ]
+}

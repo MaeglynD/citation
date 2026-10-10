@@ -1,0 +1,413 @@
+{
+ "Jesus": {
+  "skin": "tan",
+  "face": "long",
+  "hair": "long",
+  "hairColor": "darkbrown",
+  "facialHair": "short",
+  "facialHairColor": "darkbrown",
+  "eyes": "sleepy",
+  "outfit": "robe",
+  "outfitColor": "white",
+  "outfitColor2": "crimson",
+  "headwear": "halo",
+  "headwearColor": "yellow"
+ },
+ "Pope Francis": {
+  "skin": "fair",
+  "age": "old",
+  "face": "round",
+  "hair": "short",
+  "hairColor": "white",
+  "headwear": "zucchetto",
+  "eyewear": "round",
+  "eyewearColor": "#c0c0c0",
+  "mouth": "smile",
+  "outfit": "papal",
+  "outfitColor": "white",
+  "outfitColor2": "gold"
+ },
+ "Ayatollah Khomeini": {
+  "skin": "tan",
+  "age": "ancient",
+  "face": "long",
+  "headwear": "turban",
+  "headwearColor": "black",
+  "facialHair": "long",
+  "facialHairColor": "white",
+  "brows": "bushy",
+  "browColor": "grey",
+  "eyes": "angry",
+  "outfit": "robe",
+  "outfitColor": "black",
+  "outfitColor2": "brown"
+ },
+ "Muammar Gaddafi": {
+  "skin": "tan",
+  "hair": "curly",
+  "hairColor": "black",
+  "eyewear": "sunglasses",
+  "outfit": "military",
+  "outfitColor": "white",
+  "outfitColor2": "gold",
+  "extras": [
+   "medals"
+  ]
+ },
+ "Ted Kaczynski": {
+  "skin": "fair",
+  "headwear": "hood",
+  "headwearColor": "grey",
+  "eyewear": "aviators",
+  "eyewearColor": "#2b2934",
+  "facialHair": "moustache",
+  "facialHairColor": "brown",
+  "outfit": "hoodie",
+  "outfitColor": "grey"
+ },
+ "Elvis Presley": {
+  "skin": "fair",
+  "hair": "pompadour",
+  "hairColor": "black",
+  "eyes": "sleepy",
+  "mouth": "smirk",
+  "outfit": "jumpsuit",
+  "outfitColor": "white",
+  "outfitColor2": "gold"
+ },
+ "Frida Kahlo": {
+  "skin": "tan",
+  "hair": "bun",
+  "hairColor": "black",
+  "brows": "unibrow",
+  "headwear": "flower",
+  "headwearColor": "red",
+  "mouth": "neutral",
+  "outfit": "shawl",
+  "outfitColor": "teal",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "Salvador Dalí": {
+  "skin": "light",
+  "hair": "slick",
+  "hairColor": "black",
+  "facialHair": "dali",
+  "facialHairColor": "black",
+  "eyes": "crazy",
+  "brows": "raised",
+  "outfit": "suit",
+  "outfitColor": "black",
+  "outfitColor2": "gold"
+ },
+ "Ozzy Osbourne": {
+  "skin": "pale",
+  "age": "old",
+  "hair": "long",
+  "hairColor": "black",
+  "eyewear": "round",
+  "eyewearColor": "#8a3aa0",
+  "mouth": "open",
+  "outfit": "leather",
+  "outfitColor": "black",
+  "extras": [
+   "cross"
+  ]
+ },
+ "Kanye West": {
+  "skin": "brown",
+  "hair": "buzz",
+  "hairColor": "black",
+  "facialHair": "short",
+  "facialHairColor": "black",
+  "eyewear": "shutter",
+  "eyewearColor": "#f5f0f0",
+  "outfit": "hoodie",
+  "outfitColor": "black",
+  "extras": [
+   "chain"
+  ]
+ },
+ "Taylor Swift": {
+  "skin": "pale",
+  "hair": "bangs",
+  "hairColor": "blonde",
+  "mouth": "lipstick",
+  "lipColor": "#d8303a",
+  "eyes": "normal",
+  "eyeColor": "blue",
+  "extras": [
+   "lashes"
+  ],
+  "outfit": "dress",
+  "outfitColor": "navy"
+ },
+ "Snoop Dogg": {
+  "skin": "brown",
+  "face": "long",
+  "build": "slim",
+  "hair": "braids",
+  "hairColor": "black",
+  "facialHair": "goatee",
+  "eyes": "sleepy",
+  "outfit": "jersey",
+  "outfitColor": "blue",
+  "outfitColor2": "white",
+  "symbol": "21",
+  "extras": [
+   "chain"
+  ]
+ },
+ "Lil Wayne": {
+  "skin": "brown",
+  "build": "slim",
+  "hair": "dreads",
+  "hairColor": "black",
+  "extras": [
+   "tattoo",
+   "tear",
+   "chain"
+  ],
+  "mouth": "gold",
+  "outfit": "tshirt",
+  "outfitColor": "black"
+ },
+ "Steve Jobs": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "receding",
+  "hairColor": "saltpepper",
+  "facialHair": "stubble",
+  "eyewear": "round",
+  "outfit": "turtleneck",
+  "outfitColor": "black"
+ },
+ "Mark Zuckerberg": {
+  "skin": "pale",
+  "hair": "messy",
+  "hairColor": "brown",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "mouth": "neutral",
+  "outfit": "tshirt",
+  "outfitColor": "grey"
+ },
+ "Elmo": {
+  "base": "animal",
+  "animal": {
+   "fur": "red",
+   "ears": "none",
+   "snout": "none"
+  },
+  "face": "round",
+  "eyes": "pingpong",
+  "nose": "ball",
+  "noseColor": "orange",
+  "mouth": "muppet",
+  "extras": [
+   "fuzzy"
+  ],
+  "outfit": "none"
+ },
+ "Cookie Monster": {
+  "base": "animal",
+  "animal": {
+   "fur": "#2f6fd6",
+   "ears": "none",
+   "snout": "none"
+  },
+  "face": "round",
+  "eyes": "googly",
+  "nose": "none",
+  "mouth": "muppet",
+  "extras": [
+   "fuzzy"
+  ],
+  "outfit": "none"
+ },
+ "Big Bird": {
+  "base": "animal",
+  "animal": {
+   "fur": "yellow",
+   "ears": "none",
+   "snout": "beak",
+   "nose": "orange"
+  },
+  "eyes": "big",
+  "hair": "spiky",
+  "hairColor": "yellow",
+  "outfit": "none"
+ },
+ "Mickey Mouse": {
+  "base": "animal",
+  "animal": {
+   "fur": "black",
+   "fur2": "peach",
+   "ears": "mouse",
+   "snout": "mouse",
+   "pattern": "mask"
+  },
+  "eyes": "dots",
+  "mouth": "smile",
+  "outfit": "tshirt",
+  "outfitColor": "red"
+ },
+ "Bugs Bunny": {
+  "base": "animal",
+  "animal": {
+   "fur": "#9a9ab0",
+   "fur2": "white",
+   "ears": "long",
+   "snout": "mouse",
+   "nose": "#ff8aa8",
+   "pattern": "mask"
+  },
+  "mouth": "buck",
+  "eyes": "sleepy",
+  "outfit": "none"
+ },
+ "Snoopy": {
+  "base": "animal",
+  "animal": {
+   "fur": "white",
+   "fur2": "white",
+   "earColor": "black",
+   "muzzle": "white",
+   "ears": "floppy",
+   "snout": "dog"
+  },
+  "eyes": "dots",
+  "mouth": "smile",
+  "outfit": "none"
+ },
+ "Pikachu": {
+  "base": "animal",
+  "animal": {
+   "fur": "yellow",
+   "ears": "pikachu",
+   "snout": "none"
+  },
+  "eyes": "dots",
+  "nose": "button",
+  "mouth": "smile",
+  "extras": [
+   "blush"
+  ],
+  "outfit": "none"
+ },
+ "Scrooge McDuck": {
+  "base": "animal",
+  "animal": {
+   "fur": "white",
+   "ears": "none",
+   "snout": "duck",
+   "nose": "orange"
+  },
+  "eyes": "big",
+  "eyewear": "round",
+  "headwear": "tophat",
+  "headwearColor": "black",
+  "facialHair": "muttonchops",
+  "facialHairColor": "white",
+  "outfit": "suit",
+  "outfitColor": "red"
+ },
+ "Gordon Ramsay": {
+  "skin": "light",
+  "face": "long",
+  "hair": "spiky",
+  "hairColor": "blonde",
+  "brows": "angry",
+  "eyes": "angry",
+  "mouth": "shout",
+  "extras": [
+   "wrinkles"
+  ],
+  "outfit": "chef",
+  "outfitColor": "white"
+ },
+ "Marie Curie": {
+  "skin": "pale",
+  "face": "narrow",
+  "age": "old",
+  "hair": "bun",
+  "hairColor": "grey",
+  "eyes": "sleepy",
+  "outfit": "dress",
+  "outfitColor": "black"
+ },
+ "Hammurabi": {
+  "base": "object",
+  "kind": "tablet",
+  "color": "#7a7a8a",
+  "symbol": "sun"
+ },
+ "The CIA": {
+  "base": "object",
+  "kind": "document",
+  "symbol": "SECRET",
+  "color2": "#d8303a"
+ },
+ "Bill Cipher": {
+  "base": "triangle"
+ },
+ "Plankton": {
+  "base": "blob"
+ },
+ "Mr. Krabs": {
+  "base": "crab"
+ },
+ "The Terminator": {
+  "base": "robot",
+  "kind": "terminator",
+  "skin": "fair",
+  "face": "square",
+  "hair": "crew",
+  "hairColor": "darkbrown",
+  "outfit": "leather",
+  "outfitColor": "black",
+  "eyewear": "none"
+ },
+ "HAL 9000": {
+  "base": "object",
+  "kind": "lens"
+ },
+ "Tay": {
+  "base": "robot",
+  "kind": "screen",
+  "color": "#3a2a6a",
+  "color2": "#ff77a8"
+ },
+ "Master Chief": {
+  "base": "helmet",
+  "kind": "chief"
+ },
+ "Ultimate Warrior": {
+  "skin": "tan",
+  "build": "broad",
+  "hair": "long",
+  "hairColor": "brown",
+  "extras": [
+   "facepaint"
+  ],
+  "color2": "#ff3d8a",
+  "eyes": "crazy",
+  "mouth": "shout",
+  "outfit": "tank",
+  "outfitColor": "#ff3d8a"
+ },
+ "Gene Simmons": {
+  "skin": "white",
+  "hair": "long",
+  "hairColor": "black",
+  "extras": [
+   "facepaint"
+  ],
+  "color2": "#15111e",
+  "mouth": "tongue",
+  "outfit": "armor",
+  "outfitColor": "black",
+  "outfitColor2": "silver"
+ }
+}

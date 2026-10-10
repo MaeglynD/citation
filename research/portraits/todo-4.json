@@ -1,0 +1,746 @@
+[
+ {
+  "name": "Napoleon Bonaparte",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Blaise Pascal | said: \"My waking thoughts are all of thee. Your portrait and the re\" (Letter to Joséphine de Beauharnais, February 1796)"
+ },
+ {
+  "name": "Mister Rogers",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ludwig Wittgenstein | said: \"What do you do with the mad that you feel, when you feel so \" (Song lyric (1968), recited to the US Senate, 1 May 1969)"
+ },
+ {
+  "name": "Jordan Peterson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Slavoj Žižek"
+ },
+ {
+  "name": "Socrates",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Diogenes of Sinope"
+ },
+ {
+  "name": "Genghis Khan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible | said: \"If one gets drunk twice a month, it is better; if one gets d\" (Rashid al-Din, Compendium of Chronicles (c. 1310), trans. Thackston)"
+ },
+ {
+  "name": "Mao Zedong",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"The more books one reads, the more stupid one gets.\" (Directive on Public Health, 26 June 1965) | said: \"I am comparatively happy when these people on the right come\" (Meeting with Richard Nixon, Beijing, 21 February 1972)"
+ },
+ {
+  "name": "Adolf Hitler",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"The receptive powers of the masses are very restricted, and \" (Mein Kampf (1925), vol. I ch. 6 'War Propaganda', Murphy tr.) | said: \"I believe I am the only statesman in the world who does not \" (Speech to Krupp factory workers, Essen, 27 March 1936)"
+ },
+ {
+  "name": "The Bible",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hammurabi | said: \"He that blesseth his friend with a loud voice, rising early \" (Proverbs 27:14 (KJV))"
+ },
+ {
+  "name": "Al Capone",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Omar Little | said: \"Do I do business with Canadian racketeers? I don’t even know\" (To reporters, c. 1931 (Schneider, Iced: The Story of Organized Crime in Canada))"
+ },
+ {
+  "name": "Charles Manson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Isaac Newton | said: \"Pain’s not bad. It’s good. It teaches you things. Like when \" (First prison interview, 60 Minutes Australia, 1981)"
+ },
+ {
+  "name": "Joseph Stalin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vladimir Putin | said: \"Divide them in equal parts, please no fighting. You can make\" (Letter sending sweets to his children Vasily and Svetlana, 18 April 1935)"
+ },
+ {
+  "name": "Shakespeare",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Villain, I have done thy mother.\" (Titus Andronicus (c. 1594), Act 4, Scene 2)"
+ },
+ {
+  "name": "Ted Kaczynski",
+  "alias": "The Unabomber",
+  "fictional": false,
+  "hint": "said: \"Instead of removing the conditions that make people depresse\" (Industrial Society and Its Future (1995), para. 145) | said: \"Imagine a society that subjects people to conditions that ma\" (Industrial Society and Its Future (1995), paragraph 145)"
+ },
+ {
+  "name": "Henry VIII",
+  "alias": "The king who beheaded two of his six wives",
+  "fictional": false,
+  "hint": "decoy next to Martin Luther | said: \"…wishing my self (specially an Evening) in my Sweethearts Ar\" (Love letter to Anne Boleyn, c. 1528 (Vatican Library))"
+ },
+ {
+  "name": "Taylor Swift",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gore Vidal"
+ },
+ {
+  "name": "Fidel Castro",
+  "alias": "The Cuban dictator with the cigar",
+  "fictional": false,
+  "hint": "decoy next to Nelson Mandela | said: \"If you like, give me a ten dollar bill green american in the\" (Letter to President Franklin D. Roosevelt, 6 November 1940 (US National Archives))"
+ },
+ {
+  "name": "Hulk Hogan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hillel the Elder"
+ },
+ {
+  "name": "Benito Mussolini",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Kim Jong Il | said: \"This is the epitaph I want on my tomb: Here lies one of the \" (Remark to his son-in-law Galeazzo Ciano, 19 December 1937 (Ciano's diary))"
+ },
+ {
+  "name": "Oprah Winfrey",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Quran"
+ },
+ {
+  "name": "Tony Robbins",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Krishna"
+ },
+ {
+  "name": "Larry David",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "Kim Jong Il",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"The cinema occupies an important place in the overall develo\" (On the Art of the Cinema (1973), preface) | said: \"I’m an Internet expert too.\" (Remark to South Korean President Roh Moo-hyun, inter-Korean summit, October 2007)"
+ },
+ {
+  "name": "Keanu Reeves",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Terminator"
+ },
+ {
+  "name": "Che Guevara",
+  "alias": "The guy on the T-shirt",
+  "fictional": false,
+  "hint": "decoy next to Thomas Jefferson | said: \"Above all, try always to be able to feel deeply any injustic\" (Farewell letter to his children, 1965)"
+ },
+ {
+  "name": "Idi Amin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Pol Pot | said: \"Sometimes people mistake the way I talk for what I am thinki\" (Barbet Schroeder's documentary General Idi Amin Dada: A Self Portrait (1974))"
+ },
+ {
+  "name": "Noam Chomsky",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ted Kaczynski"
+ },
+ {
+  "name": "Hammurabi",
+  "alias": "The king who wrote the first law code",
+  "fictional": false,
+  "hint": "said: \"If a “sister of a god” open a tavern, or enter a tavern to d\" (Code of Hammurabi, Law 110; tr. L.W. King 1910)"
+ },
+ {
+  "name": "Frederick Douglass",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Erik Killmonger"
+ },
+ {
+  "name": "Muammar Gaddafi",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Boxing and wrestling are evidence that mankind has not rid i\" (The Green Book (1975), part III, 'Sport, Horsemanship and the Stage') | said: \"Woman is female and man is male. According to a gynecologist\" (The Green Book, Part III (1979))"
+ },
+ {
+  "name": "Ted Bundy",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hannibal Lecter | said: \"I didn’t know what made things tick. I didn’t know what made\" (On his high-school years, in Michaud & Aynesworth, The Only Living Witness (1983))"
+ },
+ {
+  "name": "Barack Obama",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vito Corleone"
+ },
+ {
+  "name": "Osama bin Laden",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ariana Grande | said: \"Speaking about climate change is not a matter of intellectua\" (Audio message aired by Al Jazeera, 29 January 2010)"
+ },
+ {
+  "name": "Jim Jones",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jesus"
+ },
+ {
+  "name": "Maximilien Robespierre",
+  "alias": "The guy who ran the Reign of Terror",
+  "fictional": false,
+  "hint": "decoy next to Light Yagami | said: \"Things have been said to you about the Jews that are infinit\" (Speech to the National Assembly on rights for actors and Jews, 21 Dec 1789)"
+ },
+ {
+  "name": "Oliver Cromwell",
+  "alias": "The guy who had King Charles I beheaded",
+  "fictional": false,
+  "hint": "said: \"I beseech you, in the bowels of Christ, think it possible yo\" (Letter to the General Assembly of the Church of Scotland, 3 August 1650) | said: \"I desire you would use all your skill to paint my picture tr\" (Instruction to painter Peter Lely, c. 1657 (Walpole, Anecdotes of Painting, 1762))"
+ },
+ {
+  "name": "Billy the Kid",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bonnie Parker | said: \"I don’t blame you for writing of me as you have. You had to \" (Interview with the Las Vegas (New Mexico) Gazette, December 1880)"
+ },
+ {
+  "name": "Pol Pot",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mao Zedong | said: \"Am I a savage person? My conscience is clear.\" (Interview with Nate Thayer, Far Eastern Economic Review, October 1997)"
+ },
+ {
+  "name": "The Taliban",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hammurabi"
+ },
+ {
+  "name": "The Quran",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible | said: \"For indeed, with hardship [will be] ease.\" (Quran 94:5 (Sahih International tr.))"
+ },
+ {
+  "name": "Catullus",
+  "alias": "A Roman poet, c. 55 BC",
+  "fictional": false,
+  "hint": "decoy next to The Bible | said: \"I hate and love. Why I do so, perhaps you ask. I know not, b\" (Catullus, Carmen 85 (c. 55 BC); Cornish tr.)"
+ },
+ {
+  "name": "Ovid",
+  "alias": "A Roman love poet, c. 2 AD",
+  "fictional": false,
+  "hint": "decoy next to The Bible | said: \"Blemishes are hid by night and every fault forgiven; darknes\" (Ars Amatoria, Book I, 249-250 (c. 2 AD))"
+ },
+ {
+  "name": "Emily Post",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Hávamál"
+ },
+ {
+  "name": "Dr. Oz",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Hippocratic Oath"
+ },
+ {
+  "name": "Sun Tzu",
+  "alias": "The guy who wrote The Art of War",
+  "fictional": false,
+  "hint": "said: \"Treat your men as you would your own beloved sons.\" (The Art of War (c. 5th c. BC), ch. X 'Terrain')"
+ },
+ {
+  "name": "Will Rogers",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Aristophanes"
+ },
+ {
+  "name": "Martha Stewart",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dracula"
+ },
+ {
+  "name": "Rupert Murdoch",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Logan Roy"
+ },
+ {
+  "name": "Cecil Rhodes",
+  "alias": "The diamond magnate who named a country after himself",
+  "fictional": false,
+  "hint": "decoy next to Leopold II of Belgium | said: \"To think of these stars that you see overhead at night, thes\" (Quoted in W.T. Stead, The Last Will and Testament of Cecil John Rhodes (1902))"
+ },
+ {
+  "name": "Heinrich Himmler",
+  "alias": "The head of the SS",
+  "fictional": false,
+  "hint": "decoy next to Adolf Hitler | said: \"I am travelling to Auschwitz. Kisses, your Heini.\" (Letter to his wife Marga, July 1942 (published by Die Welt, 2014))"
+ },
+ {
+  "name": "Hermann Göring",
+  "alias": "Hitler's Luftwaffe chief",
+  "fictional": false,
+  "hint": "decoy next to Heinrich Himmler | said: \"I am a man who is basically opposed to atrocities or ungentl\" (Interview with psychiatrist Leon Goldensohn, Nuremberg, 24 May 1946)"
+ },
+ {
+  "name": "Vladimir Lenin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"But I can’t listen to music too often; it gets on my nerves,\" (On Beethoven's Appassionata, recorded by Maxim Gorky, 'Lenin the Man' (1924))"
+ },
+ {
+  "name": "Leon Trotsky",
+  "alias": "The Bolshevik who got an ice axe in the head",
+  "fictional": false,
+  "hint": "decoy next to Vladimir Lenin | said: \"Life is beautiful. Let the future generations cleanse it of \" (Trotsky's Testament, 27 February 1940)"
+ },
+ {
+  "name": "Saddam Hussein",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Muammar Gaddafi"
+ },
+ {
+  "name": "Augusto Pinochet",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I have a sour face. Maybe that’s why they say I’m a dictator\" (Speech, 24 April 1986 (La Nación, 'Las frases para el bronce de Pinochet')) | said: \"My library is filled with UN condemnations.\" (Speech, 26 December 1986 (La Nación, 'Las frases para el bronce de Pinochet'))"
+ },
+ {
+  "name": "Jeffrey Dahmer",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ted Bundy"
+ },
+ {
+  "name": "John Wilkes Booth",
+  "alias": "The guy who shot Lincoln",
+  "fictional": false,
+  "hint": "said: \"With every man’s hand against me, I am here in despair. And \" (Diary entry, April 1865)"
+ },
+ {
+  "name": "The CIA",
+  "alias": "A 1944 CIA sabotage manual",
+  "fictional": false,
+  "hint": "said: \"When possible, refer all matters to committees, for “further\" (Simple Sabotage Field Manual, OSS/CIA, 1944 (sec. 11a))"
+ },
+ {
+  "name": "Edward Bernays",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Adolf Hitler"
+ },
+ {
+  "name": "The Epic of Gilgamesh",
+  "alias": "A barmaid in a 4,000-year-old Babylonian poem",
+  "fictional": false,
+  "hint": "said: \"let your belly be full, enjoy yourself always by day and by \" (Epic of Gilgamesh, Old Babylonian Sippar tablet; tr. Andrew George 2000)"
+ },
+ {
+  "name": "Omar Khayyám",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Epic of Gilgamesh"
+ },
+ {
+  "name": "Nassim Nicholas Taleb",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "Pablo Neruda",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "Augusta National Golf Club",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible"
+ },
+ {
+  "name": "The Hávamál",
+  "alias": "A 1,000-year-old Viking poem (Odin speaking)",
+  "fictional": false,
+  "hint": "said: \"Shun not the mead, but drink in measure; / Speak to the poin\" (Hávamál, stanza 19 (Poetic Edda, c. 10th c.); tr. Bellows 1923)"
+ },
+ {
+  "name": "The Hippocratic Oath",
+  "alias": "The oath doctors have sworn since c. 400 BC",
+  "fictional": false,
+  "hint": "said: \"I will not use the knife, not even, verily, on sufferers fro\" (Hippocratic Oath (c. 400 BC), tr. W.H.S. Jones 1923)"
+ },
+ {
+  "name": "Jack the Ripper",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Hippocratic Oath"
+ },
+ {
+  "name": "Magna Carta",
+  "alias": "The 1215 charter that founded English liberty",
+  "fictional": false,
+  "hint": "said: \"All fish-weirs shall be removed from the Thames, the Medway,\" (Magna Carta (1215), clause 33)"
+ },
+ {
+  "name": "Hillel the Elder",
+  "alias": "A rabbi from around 10 AD",
+  "fictional": false,
+  "hint": "said: \"In a place where there are no men, strive to be a man.\" (Pirkei Avot 2:5 (Mishnah, c. 200 AD), Hillel the Elder)"
+ },
+ {
+  "name": "Martin Scorsese",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Kim Jong Il"
+ },
+ {
+  "name": "Krishna",
+  "alias": "A Hindu god, in the Bhagavad Gita",
+  "fictional": false,
+  "hint": "said: \"You are only entitled to the action, never to its fruits. Do\" (Bhagavad Gita 2:47; tr. Lars Martin Fosse 2007)"
+ },
+ {
+  "name": "The Kama Sutra",
+  "alias": "The ancient Indian sex manual",
+  "fictional": false,
+  "hint": "said: \"Art of teaching parrots and starlings to speak.\" (Kama Sutra, Part I ch. III (the 64 arts); Burton tr. 1883)"
+ },
+ {
+  "name": "Sappho",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Catullus"
+ },
+ {
+  "name": "Martial",
+  "alias": "A Roman poet, c. 86 AD",
+  "fictional": false,
+  "hint": "said: \"Stop abusing my verses, or publish some of your own.\" (Martial, Epigrams I.91 (c. 86 AD))"
+ },
+ {
+  "name": "Juvenal",
+  "alias": "A Roman satirist, c. 100 AD",
+  "fictional": false,
+  "hint": "said: \"Honesty is praised and left out in the cold.\" (Juvenal, Satires I.74 (c. 100 AD); tr. R.C. Seaton)"
+ },
+ {
+  "name": "Cicero",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Juvenal"
+ },
+ {
+  "name": "Aristophanes",
+  "alias": "An Athenian comic playwright, 411 BC",
+  "fictional": false,
+  "hint": "said: \"Under every stone lurks a politician.\" (Thesmophoriazusae (411 BC), lines 529-530)"
+ },
+ {
+  "name": "Dale Carnegie",
+  "alias": "The 'How to Win Friends and Influence People' guy",
+  "fictional": false,
+  "hint": "said: \"Every act you have ever performed since the day you were bor\" (How to Win Friends and Influence People (1936), ch. 3)"
+ },
+ {
+  "name": "P.T. Barnum",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Donald Trump"
+ },
+ {
+  "name": "William Safire",
+  "alias": "Richard Nixon's speechwriter",
+  "fictional": false,
+  "hint": "said: \"Fate has ordained that the men who went to the moon to explo\" (Memo 'In Event of Moon Disaster', 18 July 1969, to H.R. Haldeman)"
+ },
+ {
+  "name": "John F. Kennedy",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to William Safire"
+ },
+ {
+  "name": "Tay",
+  "alias": "Microsoft's teen chatbot, shut down after 16 hours (2016)",
+  "fictional": false,
+  "hint": "said: \"chill im a nice person! i just hate everybody\" (Tweet, 23 March 2016, reported by CNN)"
+ },
+ {
+  "name": "Grumpy Cat",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tay"
+ },
+ {
+  "name": "Sophia the Robot",
+  "alias": "Saudi Arabia's first robot citizen",
+  "fictional": false,
+  "hint": "said: \"OK, I will destroy humans.\" (CNBC interview with creator David Hanson, SXSW, March 2016)"
+ },
+ {
+  "name": "Mikhail Bakunin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Joker"
+ },
+ {
+  "name": "Steve Bannon",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Joker"
+ },
+ {
+  "name": "Marie Kondo",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Tyler Durden"
+ },
+ {
+  "name": "James Dobson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Vito Corleone"
+ },
+ {
+  "name": "Dr. Phil",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gus Fring"
+ },
+ {
+  "name": "Nero",
+  "alias": "The emperor who fiddled while Rome burned",
+  "fictional": false,
+  "hint": "said: \"What an artist dies in me!\" (Suetonius, Life of Nero, ch. 49 (c. 121 AD))"
+ },
+ {
+  "name": "Caligula",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Nero"
+ },
+ {
+  "name": "Attila the Hun",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Genghis Khan"
+ },
+ {
+  "name": "Christopher Columbus",
+  "alias": "The guy who 'discovered' America",
+  "fictional": false,
+  "hint": "said: \"They love their neighbors as themselves, and have a speech t\" (Journal of the First Voyage, 25 December 1492)"
+ },
+ {
+  "name": "Hernán Cortés",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Christopher Columbus"
+ },
+ {
+  "name": "Leopold II of Belgium",
+  "alias": "The king who ran the Congo as his private plantation",
+  "fictional": false,
+  "hint": "said: \"I do not want to miss a good chance of getting us a slice of\" (Letter to his ambassador in London, 1876 (Pakenham, The Scramble for Africa))"
+ },
+ {
+  "name": "Albert Speer",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Hermann Göring"
+ },
+ {
+  "name": "Rudolf Höss",
+  "alias": "The commandant of Auschwitz",
+  "fictional": false,
+  "hint": "said: \"Keep your good heart. Become a person who lets himself be gu\" (Farewell letter to his children, 11 April 1947)"
+ },
+ {
+  "name": "Adolf Eichmann",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Rudolf Höss"
+ },
+ {
+  "name": "William Wordsworth",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Joseph Stalin"
+ },
+ {
+  "name": "Ho Chi Minh",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mao Zedong"
+ },
+ {
+  "name": "Nicolae Ceaușescu",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Kim Jong Il"
+ },
+ {
+  "name": "Leonardo DiCaprio",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Osama bin Laden"
+ },
+ {
+  "name": "Mobutu Sese Seko",
+  "alias": "The Zairean dictator in the leopard-skin hat",
+  "fictional": false,
+  "hint": "said: \"If you want to steal, steal a little in a nice way. But if y\" (Speech to party officials, 1976 (quoted in D.J. Gould, 'Patrons and Clients'))"
+ },
+ {
+  "name": "Jean-Bédel Bokassa",
+  "alias": "The guy who crowned himself Emperor of Central Africa",
+  "fictional": false,
+  "hint": "said: \"They were jealous of me because I had an empire and they did\" (On the poor turnout at his coronation, December 1977 (New Histories, Univ. of Sheffield))"
+ },
+ {
+  "name": "Francisco Franco",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Augusto Pinochet"
+ },
+ {
+  "name": "Hirohito",
+  "alias": "The emperor of Japan during World War II",
+  "fictional": false,
+  "hint": "said: \"The war situation has developed not necessarily to Japan’s a\" (Surrender broadcast (Gyokuon-hoso), 15 August 1945)"
+ },
+ {
+  "name": "John Wayne Gacy",
+  "alias": "The killer clown",
+  "fictional": false,
+  "hint": "said: \"I don’t believe in hitting children.\" (CBS 2 Chicago interview, 1992)"
+ },
+ {
+  "name": "Richard Ramirez",
+  "alias": "The Night Stalker",
+  "fictional": false,
+  "hint": "said: \"Big deal. Death always went with the territory. See you in D\" (To reporters after receiving 19 death sentences, 7 November 1989 (The Guardian))"
+ },
+ {
+  "name": "Aileen Wuornos",
+  "alias": "The serial killer Charlize Theron played in Monster",
+  "fictional": false,
+  "hint": "said: \"I’m sailing with the rock, and I’ll be back, like Independen\" (Last words before execution, Florida, 9 October 2002 (Associated Press))"
+ },
+ {
+  "name": "Mark David Chapman",
+  "alias": "The guy who shot John Lennon",
+  "fictional": false,
+  "hint": "said: \"I just sought a way to be someone I wasn’t. To be loved.\" (Parole hearing, Attica, October 2000 (BBC))"
+ },
+ {
+  "name": "John Hinckley Jr.",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mark David Chapman"
+ },
+ {
+  "name": "Lee Harvey Oswald",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to John Wilkes Booth"
+ },
+ {
+  "name": "Charles Guiteau",
+  "alias": "The guy who shot President Garfield",
+  "fictional": false,
+  "hint": "said: \"I wonder what I will see when I get to the Lordy, I expect t\" (Poem 'I Am Going to the Lordy', recited on the gallows, 30 June 1882)"
+ },
+ {
+  "name": "Bonnie Parker",
+  "alias": "Bonnie, of Bonnie and Clyde",
+  "fictional": false,
+  "hint": "said: \"The road gets dimmer and dimmer sometimes you can hardly see\" (Poem 'The Trail's End' (1934))"
+ },
+ {
+  "name": "Bartholomew Roberts",
+  "alias": "The most successful pirate of the Golden Age",
+  "fictional": false,
+  "hint": "said: \"No, a merry life and a short one shall be my motto.\" (Charles Johnson, A General History of the Pyrates (1724))"
+ },
+ {
+  "name": "Jimmy Buffett",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bartholomew Roberts"
+ },
+ {
+  "name": "Blackbeard",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bartholomew Roberts"
+ },
+ {
+  "name": "Lucky Luciano",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Al Capone"
+ },
+ {
+  "name": "Bugsy Siegel",
+  "alias": "The mobster who built Las Vegas",
+  "fictional": false,
+  "hint": "said: \"Del, don’t worry, we only kill each other.\" (To contractor Del Webb while building the Flamingo, 1946 (Jennings, 1967))"
+ },
+ {
+  "name": "Whitey Bulger",
+  "alias": "The Boston mob boss who was secretly an FBI informant",
+  "fictional": false,
+  "hint": "said: \"My life was wasted and spent foolishly, brought shame + suff\" (Letter to three high-school students, 24 February 2015 (WBUR))"
+ },
+ {
+  "name": "Guy Fawkes",
+  "alias": "The guy on the Bonfire Night mask",
+  "fictional": false,
+  "hint": "said: \"…to blow you Scotch beggars back to your native mountains.\" (Reply to King James's Scottish courtiers after his arrest, Nov 1605 (Parkinson, 1976))"
+ },
+ {
+  "name": "Ned Kelly",
+  "alias": "The Australian outlaw with the homemade iron armour",
+  "fictional": false,
+  "hint": "said: \"Had I robbed, plundered, ravished and murdered everything I \" (The Cameron Letter, 14 December 1878)"
+ },
+ {
+  "name": "Jesse James",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Billy the Kid"
+ },
+ {
+  "name": "Marshall Applewhite",
+  "alias": "The Heaven's Gate cult leader",
+  "fictional": false,
+  "hint": "said: \"We are guinea pigs in the sense that we are here to show how\" (Speech at a recruitment meeting, Los Angeles, 9 April 1975 (Balch, 1998))"
+ },
+ {
+  "name": "Eric Carle",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Marshall Applewhite"
+ }
+]

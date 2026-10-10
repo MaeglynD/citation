@@ -1,0 +1,434 @@
+[
+ {
+  "name": "Pope Francis",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Carl Sagan | said: \"If my good friend Dr. Gasparri says a curse word against my \" (In-flight press conference, Sri Lanka to Manila, 15 January 2015)"
+ },
+ {
+  "name": "The Dalai Lama",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Palpatine | said: \"If a female Dalai Lama comes, she should be more attractive.\" (BBC interview with Rajini Vaidyanathan, 27 June 2019)"
+ },
+ {
+  "name": "Lady Gaga",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Salvador Dalí"
+ },
+ {
+  "name": "Buddha",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Blaise Pascal | said: \"If a traveller does not meet with one who is his better, or \" (Dhammapada, verse 61; tr. F. Max Müller 1881)"
+ },
+ {
+  "name": "Hugh Hefner",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Ovid"
+ },
+ {
+  "name": "Jesus",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dracula | said: \"Do not suppose that I have come to bring peace to the earth.\" (Gospel of Matthew 10:34 (NIV))"
+ },
+ {
+  "name": "Dolly Parton",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Princess Diana | said: \"I patterned my look after the town tramp.\" (Interview, Rolling Stone, 30 October 2003)"
+ },
+ {
+  "name": "Bob Ross",
+  "alias": "The happy little trees guy",
+  "fictional": false,
+  "hint": "decoy next to Michelangelo | said: \"I was the guy who makes you scrub the latrine, the guy who m\" (Interview, Orlando Sentinel, 1990)"
+ },
+ {
+  "name": "Steve Irwin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Magna Carta | said: \"Crikey, mate. You’re far safer dealing with crocodiles and w\" (Enough Rope with Andrew Denton, ABC TV (2003))"
+ },
+ {
+  "name": "Andrew Tate",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Gus Fring"
+ },
+ {
+  "name": "Mother Teresa",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Frank Sinatra | said: \"I think it is very beautiful for the poor to accept their lo\" (Press conference, Washington DC, 1981 (qtd. Hitchens, 1995))"
+ },
+ {
+  "name": "Martin Luther",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Wolfgang Amadeus Mozart | said: \"I should have no compassion on these witches; I would burn a\" (Table Talk, 25 August 1538 (tr. Hazlitt, 1857))"
+ },
+ {
+  "name": "Confucius",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Bible | said: \"Of all people, girls and servants are the most difficult to \" (Analects, Book XVII, ch. 25 (tr. Legge))"
+ },
+ {
+  "name": "Dr. Seuss",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Martial | said: \"Adults are just obsolete children and the hell with them.\" (Qtd. in Thomas Fensch, Of Sneetches and Whos and the Good Dr. Seuss (1997))"
+ },
+ {
+  "name": "Nelson Mandela",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I do not, however, deny that I planned sabotage. I did not p\" (Statement from the dock, Rivonia Trial, 20 April 1964) | said: \"Force is the only language the imperialists can hear, and no\" (Address to PAFMECA conference, Addis Ababa, 1962)"
+ },
+ {
+  "name": "David Attenborough",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Kama Sutra | said: \"We are a plague on Earth. It’s coming home to roost over the\" (Interview, Radio Times, January 2013)"
+ },
+ {
+  "name": "Mahatma Gandhi",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Dear Friend, That I address you as a friend is no formality.\" (Letter to Adolf Hitler, 24 December 1940) | said: \"I do not consider Hitler to be as bad as he is depicted.\" (Letter to Rajkumari Amrit Kaur, May 1940)"
+ },
+ {
+  "name": "Roald Dahl",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Maurice Sendak | said: \"Even a stinker like Hitler didn’t just pick on them for no r\" (Interview, New Statesman, August 1983)"
+ },
+ {
+  "name": "Greta Thunberg",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Margaret Thatcher"
+ },
+ {
+  "name": "Malcolm X",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Thelonious Monk"
+ },
+ {
+  "name": "Martin Luther King Jr.",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"They believe that American society is essentially hospitable\" (Where Do We Go from Here: Chaos or Community? (1967)) | said: \"Shallow understanding from people of good will is more frust\" (Letter from Birmingham Jail, 16 April 1963)"
+ },
+ {
+  "name": "Jimmy Carter",
+  "alias": "The peanut farmer who became president",
+  "fictional": false,
+  "hint": "decoy next to Herbert Hoover | said: \"I’ve looked on a lot of women with lust. I’ve committed adul\" (Playboy interview, November 1976 issue)"
+ },
+ {
+  "name": "Mel Gibson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mahatma Gandhi"
+ },
+ {
+  "name": "Thomas Aquinas",
+  "alias": "The guy who wrote the Summa Theologica",
+  "fictional": false,
+  "hint": "said: \"As regards the individual nature, woman is defective and mis\" (Summa Theologica, I, q. 92, a. 1 (c. 1270)) | said: \"…they deserve not only to be separated from the Church by ex\" (Summa Theologica, II-II, q. 11, a. 3 (c. 1270))"
+ },
+ {
+  "name": "Edgar Allan Poe",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Buddha"
+ },
+ {
+  "name": "James Baldwin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Martin Luther King Jr."
+ },
+ {
+  "name": "Abraham Lincoln",
+  "alias": "The man who freed the slaves",
+  "fictional": false,
+  "hint": "said: \"…while they do remain together there must be the position of\" (Fourth Lincoln-Douglas debate, Charleston, Illinois, 18 September 1858)"
+ },
+ {
+  "name": "Tomás de Torquemada",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Martin Luther"
+ },
+ {
+  "name": "Saint Augustine",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Give me chastity and continence, but not yet.\" (Confessions, Book VIII, ch. 7 (c. 400 AD)) | said: \"I became evil for no reason. I had no motives for my wickedn\" (Confessions, Book II, ch. 4 (c. 400 AD), tr. Chadwick)"
+ },
+ {
+  "name": "J. R. R. Tolkien",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"But if I am to understand that you are enquiring whether I a\" (Draft letter to German publisher Rütten & Loening, 25 July 1938) | said: \"In fact I dislike Dune with some intensity.\" (Letter to John Bush, 12 March 1966)"
+ },
+ {
+  "name": "Anne Frank",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Fine specimens of humanity, those Germans, and to think that\" (Diary, 9 October 1942) | said: \"There’s a destructive urge in people, the urge to rage, murd\" (Diary, 3 May 1944)"
+ },
+ {
+  "name": "Thomas Hobbes",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Anne Frank"
+ },
+ {
+  "name": "Florence Nightingale",
+  "alias": "The nurse with the lamp",
+  "fictional": false,
+  "hint": "said: \"No man, not even a doctor, ever gives any other definition o\" (Notes on Nursing (1860)) | said: \"Women crave for being loved, not for loving.\" (Letter to Mary Clarke Mohl, 13 December 1861)"
+ },
+ {
+  "name": "Samuel L. Jackson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bill Nye"
+ },
+ {
+  "name": "John Calvin",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"But I am by no means inclined to be responsible for him; and\" (Letter to William Farel, 13 February 1546) | said: \"We take nothing from the womb but pure filth.\" (Qtd. in William Bouwsma, John Calvin: A Sixteenth-Century Portrait (1989))"
+ },
+ {
+  "name": "Walt Disney",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Girls bored me — they still do. I love Mickey Mouse more tha\" (Qtd. in Walter Wagner, You Must Remember This (1975))"
+ },
+ {
+  "name": "Albert Schweitzer",
+  "alias": "The jungle doctor who won the Nobel Peace Prize",
+  "fictional": false,
+  "hint": "said: \"The negro is a child, and with children nothing can be done \" (On the Edge of the Primeval Forest (1922), ch. VII) | said: \"Only at quite rare moments have I felt really glad to be ali\" (Reverence for Life (1969))"
+ },
+ {
+  "name": "Saint Paul",
+  "alias": "The apostle who wrote half the New Testament",
+  "fictional": false,
+  "hint": "said: \"I do not permit a woman to teach or to assume authority over\" (First Epistle to Timothy 2:12 (NIV)) | said: \"But if they cannot control themselves, they should marry, fo\" (First Epistle to the Corinthians 7:9 (NIV))"
+ },
+ {
+  "name": "Jane Goodall",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"All these things we talk about wouldn’t be a problem if ther\" (World Economic Forum panel, Davos, 22 January 2020)"
+ },
+ {
+  "name": "Joseph Goebbels",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mahatma Gandhi"
+ },
+ {
+  "name": "Robert F. Kennedy Jr.",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Mahatma Gandhi"
+ },
+ {
+  "name": "Piers Morgan",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Dalai Lama"
+ },
+ {
+  "name": "Marine Le Pen",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Dalai Lama"
+ },
+ {
+  "name": "Viktor Orbán",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to The Dalai Lama"
+ },
+ {
+  "name": "Stephen Colbert",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Pope Francis"
+ },
+ {
+  "name": "R. Lee Ermey",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Bob Ross"
+ },
+ {
+  "name": "Jefferson Davis",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Abraham Lincoln"
+ },
+ {
+  "name": "George Wallace",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Abraham Lincoln"
+ },
+ {
+  "name": "Clint Eastwood",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Confucius"
+ },
+ {
+  "name": "Laozi",
+  "alias": "The guy who wrote the Tao Te Ching",
+  "fictional": false,
+  "hint": "said: \"Heaven and earth are ruthless, and treat the myriad creature\" (Tao Te Ching, ch. 5 (tr. D. C. Lau))"
+ },
+ {
+  "name": "George R. R. Martin",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to J. R. R. Tolkien"
+ },
+ {
+  "name": "Marlene Dietrich",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Anne Frank"
+ },
+ {
+  "name": "Helen Keller",
+  "alias": "The deaf-blind girl from The Miracle Worker",
+  "fictional": false,
+  "hint": "said: \"…a human life is sacred only when it may be of some use to i\" (New York Call Magazine, 26 November 1915)"
+ },
+ {
+  "name": "Cher",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dolly Parton"
+ },
+ {
+  "name": "Dorothy Day",
+  "alias": "The Catholic Worker founder now up for sainthood",
+  "fictional": false,
+  "hint": "said: \"Our problems stem from our acceptance of this filthy, rotten\" (Qtd. in Daniela Gioseffi, Women on War (1988))"
+ },
+ {
+  "name": "Desmond Tutu",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I would not worship a God who is homophobic and that is how \" (UN Free & Equal campaign launch, Cape Town, 26 July 2013)"
+ },
+ {
+  "name": "Elton John",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Desmond Tutu"
+ },
+ {
+  "name": "Rudyard Kipling",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Albert Schweitzer"
+ },
+ {
+  "name": "King Leopold II",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Albert Schweitzer"
+ },
+ {
+  "name": "W. C. Fields",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dr. Seuss"
+ },
+ {
+  "name": "Jim Henson",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Dr. Seuss"
+ },
+ {
+  "name": "Maya Angelou",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"I believe most plain girls are virtuous because of the scarc\" (I Know Why the Caged Bird Sings (1969), ch. 35)"
+ },
+ {
+  "name": "Julia Child",
+  "alias": "The woman who taught America French cooking",
+  "fictional": false,
+  "hint": "said: \"My, I get so depressed after a poor meal; that’s why I can n\" (Letter to Avis DeVoto, 30 January 1953)"
+ },
+ {
+  "name": "C. S. Lewis",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"Of all bad men religious bad men are the worst.\" (Reflections on the Psalms (1958))"
+ },
+ {
+  "name": "Christopher Hitchens",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to C. S. Lewis"
+ },
+ {
+  "name": "Pope Benedict XVI",
+  "alias": null,
+  "fictional": false,
+  "hint": "said: \"How much filth there is in the Church, even among those who,\" (Good Friday Stations of the Cross meditation, 25 March 2005)"
+ },
+ {
+  "name": "Sinéad O'Connor",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Pope Benedict XVI"
+ },
+ {
+  "name": "Bill Maher",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Pope Benedict XVI"
+ },
+ {
+  "name": "Mae West",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Saint Paul"
+ },
+ {
+  "name": "Jonathan Edwards",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Buddha"
+ },
+ {
+  "name": "Russell Crowe",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Steve Irwin"
+ },
+ {
+  "name": "Thomas Malthus",
+  "alias": null,
+  "fictional": false,
+  "hint": "decoy next to Jane Goodall"
+ }
+]

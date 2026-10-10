@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "themes": {
+    "arcade": {
+      "music": {
+        "menu": { "sources": ["/audio/suno/attribution-chaos.ogg", "/audio/suno/attribution-chaos.mp3"], "gain": 0.9, "loopStart": 0, "loopEnd": 62.96 },
+        "main": { "sources": ["/audio/suno/attribution-chaos.ogg", "/audio/suno/attribution-chaos.mp3"], "gain": 0.9, "loopStart": 0, "loopEnd": 62.96 },
+        "results": { "sources": ["/audio/suno/quiz-groove.ogg", "/audio/suno/quiz-groove.mp3"], "gain": 0.8, "loopStart": 0, "loopEnd": 36.91 }
+      },
+      "sfx": {
+        "correct": { "sources": ["/audio/suno/correct.ogg", "/audio/suno/correct.mp3"], "gain": 0.85 },
+        "wrong": { "sources": ["/audio/suno/wrong.ogg", "/audio/suno/wrong.mp3"], "gain": 0.75 },
+        "complete": { "sources": ["/audio/suno/complete.ogg", "/audio/suno/complete.mp3"], "gain": 0.85 }
+      }
+    }
+  }
+}

@@ -1,0 +1,1196 @@
+{
+ "Donald Trump": {
+  "skin": "orange",
+  "face": "wide",
+  "build": "heavy",
+  "hair": "combover",
+  "hairColor": "orange",
+  "brows": "thin",
+  "browColor": "blonde",
+  "eyes": "squint",
+  "mouth": "o",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Gwyneth Paltrow": {
+  "skin": "pale",
+  "face": "narrow",
+  "hair": "long",
+  "hairColor": "blonde",
+  "eyes": "normal",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "gown",
+  "outfitColor": "pink",
+  "outfitColor2": "pink",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "Prince Philip": {
+  "skin": "pale",
+  "age": "old",
+  "face": "long",
+  "hair": "slick",
+  "hairColor": "grey",
+  "eyes": "narrow",
+  "brows": "bushy",
+  "mouth": "smirk",
+  "outfit": "military",
+  "outfitColor": "navy",
+  "outfitColor2": "gold",
+  "extras": [
+   "medals"
+  ]
+ },
+ "Alex Jones": {
+  "skin": "#f0a88a",
+  "face": "wide",
+  "build": "heavy",
+  "hair": "short",
+  "hairColor": "darkbrown",
+  "facialHair": "short",
+  "facialHairColor": "#6a5040",
+  "brows": "angry",
+  "eyes": "crazy",
+  "mouth": "shout",
+  "outfit": "blazer",
+  "outfitColor": "black",
+  "extras": [
+   "sweat",
+   "microphone"
+  ]
+ },
+ "George W. Bush": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "sidepart",
+  "hairColor": "#a09aa0",
+  "ears": "big",
+  "eyes": "squint",
+  "eyeColor": "blue",
+  "brows": "sad",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "lightblue",
+  "headwear": "cowboy",
+  "headwearColor": "tan"
+ },
+ "Vladimir Putin": {
+  "skin": "fair",
+  "face": "narrow",
+  "hair": "receding",
+  "hairColor": "#b8a888",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "brows": "thin",
+  "mouth": "neutral",
+  "outfit": "bare"
+ },
+ "Bear Grylls": {
+  "skin": "tan",
+  "hair": "short",
+  "hairColor": "brown",
+  "facialHair": "stubble",
+  "facialHairColor": "brown",
+  "eyes": "wide",
+  "mouth": "grin",
+  "outfit": "shirt",
+  "outfitColor": "charcoal",
+  "extras": [
+   "sweat"
+  ]
+ },
+ "Silvio Berlusconi": {
+  "skin": "#e0a070",
+  "face": "round",
+  "age": "old",
+  "hair": "short",
+  "hairColor": "#3a2a20",
+  "eyes": "squint",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#1a2a5a",
+  "extras": [
+   "wrinkles"
+  ]
+ },
+ "Marie Antoinette": {
+  "skin": "pale",
+  "face": "oval",
+  "hair": "afro",
+  "hairColor": "#e8e6f0",
+  "eyeColor": "blue",
+  "mouth": "lipstick",
+  "lipColor": "#e06a8a",
+  "headwear": "bow",
+  "headwearColor": "pink",
+  "outfit": "gown",
+  "outfitColor": "skyblue",
+  "outfitColor2": "pink",
+  "extras": [
+   "blush",
+   "pearls",
+   "lashes"
+  ]
+ },
+ "Judge Judy": {
+  "skin": "fair",
+  "age": "old",
+  "face": "narrow",
+  "hair": "bob",
+  "hairColor": "#8a5030",
+  "eyes": "narrow",
+  "brows": "raised",
+  "mouth": "frown",
+  "outfit": "habit",
+  "outfitColor": "black",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "Dan Quayle": {
+  "skin": "fair",
+  "face": "oval",
+  "age": "young",
+  "hair": "sidepart",
+  "hairColor": "#b08a5a",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Richard Nixon": {
+  "skin": "light",
+  "face": "square",
+  "build": "heavy",
+  "hair": "widow",
+  "hairColor": "#3a3030",
+  "facialHair": "shadow",
+  "facialHairColor": "#a89898",
+  "brows": "bushy",
+  "nose": "big",
+  "eyes": "narrow",
+  "mouth": "frown",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#3a4a8a",
+  "extras": [
+   "sweat"
+  ]
+ },
+ "Stephen Fry": {
+  "skin": "fair",
+  "face": "long",
+  "build": "heavy",
+  "hair": "sidepart",
+  "hairColor": "#9a8a80",
+  "nose": "big",
+  "eyes": "sleepy",
+  "mouth": "smile",
+  "outfit": "suit",
+  "outfitColor": "#6a5a4a",
+  "outfitColor2": "pink"
+ },
+ "Queen Elizabeth II": {
+  "skin": "pale",
+  "age": "old",
+  "face": "round",
+  "hair": "curly",
+  "hairColor": "white",
+  "headwear": "crown",
+  "mouth": "smile",
+  "outfit": "regal",
+  "outfitColor": "royalblue",
+  "extras": [
+   "pearls"
+  ]
+ },
+ "Joe Biden": {
+  "skin": "fair",
+  "age": "old",
+  "face": "oval",
+  "hair": "receding",
+  "hairColor": "white",
+  "eyewear": "aviators",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "lightblue"
+ },
+ "Prince Harry": {
+  "skin": "pale",
+  "hair": "short",
+  "hairColor": "red",
+  "facialHair": "short",
+  "facialHairColor": "red",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "blazer",
+  "outfitColor": "navy"
+ },
+ "Rob Ford": {
+  "skin": "#f4b4a0",
+  "face": "round",
+  "build": "heavy",
+  "hair": "short",
+  "hairColor": "darkblonde",
+  "eyes": "small",
+  "eyeColor": "blue",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "red",
+  "extras": [
+   "blush",
+   "sweat"
+  ]
+ },
+ "Boris Johnson": {
+  "skin": "pale",
+  "face": "round",
+  "build": "heavy",
+  "hair": "mop",
+  "hairColor": "platinum",
+  "eyes": "squint",
+  "mouth": "open",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#3a5aa8",
+  "extras": [
+   "blush"
+  ]
+ },
+ "Jeremy Clarkson": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "curly",
+  "hairColor": "#8a8078",
+  "brows": "raised",
+  "mouth": "smirk",
+  "outfit": "denim",
+  "outfitColor": "#4a6aa8"
+ },
+ "Bill Clinton": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "sidepart",
+  "hairColor": "silver",
+  "nose": "big",
+  "noseColor": "#f0a890",
+  "eyes": "squint",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red",
+  "extras": [
+   "blush"
+  ]
+ },
+ "Sarah Palin": {
+  "skin": "fair",
+  "hair": "long",
+  "hairColor": "darkbrown",
+  "eyewear": "square",
+  "eyewearColor": "#a09080",
+  "mouth": "smile",
+  "outfit": "blazer",
+  "outfitColor": "black",
+  "extras": [
+   "lashes",
+   "earrings"
+  ]
+ },
+ "Rudy Giuliani": {
+  "skin": "fair",
+  "age": "old",
+  "face": "oval",
+  "hair": "baldsides",
+  "hairColor": "saltpepper",
+  "eyes": "wide",
+  "mouth": "gap",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#3a6ad8",
+  "extras": [
+   "sweat"
+  ]
+ },
+ "Louis XIV": {
+  "skin": "pale",
+  "face": "long",
+  "hair": "curlylong",
+  "hairColor": "#3a2a20",
+  "facialHair": "pencil",
+  "facialHairColor": "#3a2a20",
+  "mouth": "smirk",
+  "outfit": "regal",
+  "outfitColor": "royalblue",
+  "outfitColor2": "gold",
+  "headwear": "crown"
+ },
+ "Jon Stewart": {
+  "skin": "fair",
+  "hair": "short",
+  "hairColor": "grey",
+  "brows": "raised",
+  "browColor": "#5a5a68",
+  "eyes": "wide",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "#3a5aa8"
+ },
+ "Theresa May": {
+  "skin": "pale",
+  "face": "long",
+  "hair": "pixie",
+  "hairColor": "silver",
+  "eyes": "narrow",
+  "mouth": "smile",
+  "outfit": "dress",
+  "outfitColor": "navy",
+  "extras": [
+   "necklace",
+   "earrings"
+  ]
+ },
+ "Hillary Clinton": {
+  "skin": "fair",
+  "hair": "shoulder",
+  "hairColor": "blonde",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "mouth": "grin",
+  "outfit": "blazer",
+  "outfitColor": "royalblue",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "David Cameron": {
+  "skin": "pale",
+  "face": "round",
+  "hair": "receding",
+  "hairColor": "brown",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#8a5ad0",
+  "extras": [
+   "blush"
+  ]
+ },
+ "Nikita Khrushchev": {
+  "skin": "fair",
+  "face": "round",
+  "build": "heavy",
+  "age": "old",
+  "hair": "bald",
+  "ears": "big",
+  "eyes": "small",
+  "mouth": "open",
+  "outfit": "suit",
+  "outfitColor": "#5c5c6c",
+  "outfitColor2": "#2b2934",
+  "extras": [
+   "mole",
+   "medals"
+  ]
+ },
+ "Imelda Marcos": {
+  "skin": "light",
+  "hair": "pompadour",
+  "hairColor": "black",
+  "mouth": "lipstick",
+  "lipColor": "#c0203a",
+  "outfit": "gown",
+  "outfitColor": "white",
+  "outfitColor2": "gold",
+  "extras": [
+   "pearls",
+   "earrings",
+   "lashes"
+  ]
+ },
+ "Pat Robertson": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "hair": "sidepart",
+  "hairColor": "#b8b0b0",
+  "eyes": "squint",
+  "mouth": "bigsmile",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Robert Mugabe": {
+  "skin": "dark",
+  "age": "ancient",
+  "face": "oval",
+  "hair": "buzz",
+  "hairColor": "grey",
+  "facialHair": "toothbrush",
+  "facialHairColor": "grey",
+  "eyewear": "thick",
+  "eyewearColor": "#2b2934",
+  "mouth": "neutral",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Ayatollah Khomeini": {
+  "skin": "tan",
+  "age": "ancient",
+  "face": "long",
+  "headwear": "turban",
+  "headwearColor": "black",
+  "facialHair": "long",
+  "facialHairColor": "white",
+  "brows": "bushy",
+  "browColor": "grey",
+  "eyes": "angry",
+  "outfit": "robe",
+  "outfitColor": "black",
+  "outfitColor2": "brown"
+ },
+ "Yoko Ono": {
+  "skin": "light",
+  "face": "oval",
+  "hair": "long",
+  "hairColor": "black",
+  "eyewear": "sunglasses",
+  "mouth": "neutral",
+  "outfit": "shirt",
+  "outfitColor": "white"
+ },
+ "Donald Rumsfeld": {
+  "skin": "fair",
+  "age": "old",
+  "face": "wide",
+  "hair": "sidepart",
+  "hairColor": "#b0aab4",
+  "eyewear": "square",
+  "eyewearColor": "#c8c0a8",
+  "eyes": "squint",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#8a2a3a"
+ },
+ "Marjorie Taylor Greene": {
+  "skin": "pale",
+  "hair": "shoulder",
+  "hairColor": "blonde",
+  "brows": "angry",
+  "eyes": "angry",
+  "mouth": "open",
+  "outfit": "dress",
+  "outfitColor": "red",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "Lauren Boebert": {
+  "skin": "fair",
+  "hair": "longwavy",
+  "hairColor": "#6a4028",
+  "eyeColor": "brown",
+  "mouth": "lipstick",
+  "lipColor": "#c04050",
+  "outfit": "blazer",
+  "outfitColor": "black",
+  "extras": [
+   "lashes",
+   "earrings"
+  ]
+ },
+ "Herman Cain": {
+  "skin": "dark",
+  "face": "round",
+  "hair": "bald",
+  "facialHair": "moustache",
+  "facialHairColor": "grey",
+  "eyes": "squint",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "gold"
+ },
+ "Lyndon B. Johnson": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "hair": "slick",
+  "hairColor": "grey",
+  "ears": "big",
+  "nose": "long",
+  "eyes": "narrow",
+  "brows": "bushy",
+  "mouth": "frown",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "navy"
+ },
+ "Harry S. Truman": {
+  "skin": "fair",
+  "age": "old",
+  "hair": "slick",
+  "hairColor": "grey",
+  "eyewear": "round",
+  "eyewearColor": "#4a4a5a",
+  "mouth": "grin",
+  "outfit": "suit-bowtie",
+  "outfitColor": "#5c5c6c",
+  "outfitColor2": "navy"
+ },
+ "Andrew Jackson": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "build": "slim",
+  "hair": "wild",
+  "hairColor": "white",
+  "brows": "angry",
+  "browColor": "grey",
+  "eyes": "narrow",
+  "mouth": "frown",
+  "outfit": "suit-bowtie",
+  "outfitColor": "black",
+  "outfitColor2": "white"
+ },
+ "Theodore Roosevelt": {
+  "skin": "light",
+  "face": "square",
+  "build": "heavy",
+  "hair": "short",
+  "hairColor": "brown",
+  "facialHair": "walrus",
+  "facialHairColor": "brown",
+  "eyewear": "round",
+  "eyewearColor": "#c8b070",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "black",
+  "outfitColor2": "black"
+ },
+ "50 Cent": {
+  "skin": "darkbrown",
+  "build": "broad",
+  "face": "square",
+  "hair": "buzz",
+  "hairColor": "black",
+  "facialHair": "stubble",
+  "facialHairColor": "black",
+  "eyes": "sleepy",
+  "mouth": "smirk",
+  "outfit": "tank",
+  "outfitColor": "white",
+  "extras": [
+   "chain"
+  ],
+  "headwear": "durag",
+  "headwearColor": "black"
+ },
+ "John Adams": {
+  "skin": "fair",
+  "age": "old",
+  "face": "round",
+  "build": "heavy",
+  "hair": "baldsides",
+  "hairColor": "white",
+  "brows": "thick",
+  "browColor": "grey",
+  "mouth": "frown",
+  "outfit": "suit-bowtie",
+  "outfitColor": "black",
+  "outfitColor2": "white"
+ },
+ "Thomas Jefferson": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "ponytail",
+  "hairColor": "#a86a48",
+  "eyeColor": "hazel",
+  "mouth": "smile",
+  "outfit": "suit-bowtie",
+  "outfitColor": "darkbrown",
+  "outfitColor2": "white"
+ },
+ "Benjamin Franklin": {
+  "skin": "fair",
+  "age": "old",
+  "build": "heavy",
+  "face": "round",
+  "hair": "tonsure",
+  "hairColor": "#c8c4cc",
+  "eyewear": "reading",
+  "eyewearColor": "#8a7a5a",
+  "mouth": "smile",
+  "outfit": "suit-bowtie",
+  "outfitColor": "brown",
+  "outfitColor2": "white"
+ },
+ "Warren G. Harding": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "sidepart",
+  "hairColor": "silver",
+  "brows": "thick",
+  "browColor": "black",
+  "mouth": "neutral",
+  "outfit": "suit",
+  "outfitColor": "black",
+  "outfitColor2": "#5c5c6c"
+ },
+ "Lord Byron": {
+  "skin": "pale",
+  "face": "oval",
+  "hair": "curly",
+  "hairColor": "darkbrown",
+  "eyes": "sleepy",
+  "mouth": "neutral",
+  "outfit": "blazer",
+  "outfitColor": "black"
+ },
+ "Henry Kissinger": {
+  "skin": "fair",
+  "age": "old",
+  "face": "wide",
+  "build": "heavy",
+  "hair": "curly",
+  "hairColor": "saltpepper",
+  "eyewear": "thick",
+  "eyewearColor": "#2b2934",
+  "mouth": "frown",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "#2a3d78"
+ },
+ "Marion Barry": {
+  "skin": "darkbrown",
+  "hair": "short",
+  "hairColor": "black",
+  "facialHair": "moustache",
+  "facialHairColor": "#16121a",
+  "mouth": "smile",
+  "outfit": "suit",
+  "outfitColor": "tan",
+  "outfitColor2": "red",
+  "extras": [
+   "sweat"
+  ]
+ },
+ "Ted Stevens": {
+  "skin": "fair",
+  "age": "ancient",
+  "face": "narrow",
+  "build": "slim",
+  "hair": "receding",
+  "hairColor": "white",
+  "eyewear": "square",
+  "eyewearColor": "#6a6a78",
+  "mouth": "frown",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "green"
+ },
+ "Antonin Scalia": {
+  "skin": "light",
+  "face": "round",
+  "build": "heavy",
+  "hair": "receding",
+  "hairColor": "saltpepper",
+  "brows": "bushy",
+  "browColor": "black",
+  "eyes": "squint",
+  "mouth": "grin",
+  "outfit": "labcoat",
+  "outfitColor": "black",
+  "outfitColor2": "white"
+ },
+ "Oliver Wendell Holmes Jr.": {
+  "skin": "fair",
+  "age": "ancient",
+  "face": "long",
+  "build": "slim",
+  "hair": "sidepart",
+  "hairColor": "white",
+  "facialHair": "handlebar",
+  "facialHairColor": "white",
+  "brows": "bushy",
+  "browColor": "white",
+  "mouth": "neutral",
+  "outfit": "labcoat",
+  "outfitColor": "black",
+  "outfitColor2": "white"
+ },
+ "Emperor Norton": {
+  "skin": "fair",
+  "face": "round",
+  "hair": "short",
+  "hairColor": "#5a4a3a",
+  "facialHair": "full",
+  "facialHairColor": "#6a5a4a",
+  "headwear": "peaked",
+  "headwearColor": "navy",
+  "headwearColor2": "gold",
+  "mouth": "neutral",
+  "outfit": "military",
+  "outfitColor": "navy",
+  "outfitColor2": "gold",
+  "extras": [
+   "medals"
+  ]
+ },
+ "Pablo Escobar": {
+  "skin": "medium",
+  "face": "round",
+  "build": "heavy",
+  "hair": "curly",
+  "hairColor": "black",
+  "facialHair": "moustache",
+  "facialHairColor": "black",
+  "mouth": "smile",
+  "outfit": "polo",
+  "outfitColor": "white",
+  "outfitColor2": "navy"
+ },
+ "King Charles III": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "hair": "receding",
+  "hairColor": "silver",
+  "ears": "big",
+  "nose": "long",
+  "mouth": "smile",
+  "headwear": "crown",
+  "outfit": "suit",
+  "outfitColor": "#4a5060",
+  "outfitColor2": "#8a2a4a"
+ },
+ "Princess Anne": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "hair": "bun",
+  "hairColor": "#9a8a7a",
+  "eyes": "narrow",
+  "mouth": "neutral",
+  "outfit": "dress",
+  "outfitColor": "#3a7a6a",
+  "extras": [
+   "pearls"
+  ]
+ },
+ "Prince Andrew": {
+  "skin": "pale",
+  "face": "round",
+  "build": "heavy",
+  "hair": "receding",
+  "hairColor": "grey",
+  "eyes": "squint",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "charcoal",
+  "outfitColor2": "pink"
+ },
+ "Queen Victoria": {
+  "skin": "pale",
+  "age": "old",
+  "face": "round",
+  "build": "heavy",
+  "hair": "partmiddle",
+  "hairColor": "#8a8a90",
+  "headwear": "crown",
+  "headwearColor": "silver",
+  "eyes": "sleepy",
+  "mouth": "frown",
+  "outfit": "regal",
+  "outfitColor": "black",
+  "outfitColor2": "royalblue"
+ },
+ "Princess Diana": {
+  "skin": "fair",
+  "hair": "sidefringe",
+  "hairColor": "blonde",
+  "eyes": "sleepy",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "dress",
+  "outfitColor": "black",
+  "extras": [
+   "lashes",
+   "pearls"
+  ]
+ },
+ "Elizabeth Taylor": {
+  "skin": "pale",
+  "hair": "curly",
+  "hairColor": "black",
+  "eyeColor": "purple",
+  "brows": "thick",
+  "mouth": "lipstick",
+  "lipColor": "#c0203a",
+  "outfit": "gown",
+  "outfitColor": "white",
+  "outfitColor2": "silver",
+  "extras": [
+   "lashes",
+   "necklace",
+   "earrings"
+  ]
+ },
+ "Tony Blair": {
+  "skin": "fair",
+  "hair": "sidepart",
+  "hairColor": "#7a6050",
+  "ears": "big",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "mouth": "grin",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Liz Truss": {
+  "skin": "pale",
+  "hair": "bob",
+  "hairColor": "darkblonde",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "mouth": "smile",
+  "outfit": "blazer",
+  "outfitColor": "teal",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "Jacob Rees-Mogg": {
+  "skin": "pale",
+  "face": "long",
+  "build": "slim",
+  "hair": "slick",
+  "hairColor": "darkbrown",
+  "eyes": "sleepy",
+  "mouth": "smirk",
+  "eyewear": "round",
+  "eyewearColor": "#6a4a2a",
+  "outfit": "suit",
+  "outfitColor": "#2b2934",
+  "outfitColor2": "#5a5a6a"
+ },
+ "Boris Yeltsin": {
+  "skin": "fair",
+  "face": "big",
+  "build": "heavy",
+  "hair": "slick",
+  "hairColor": "silver",
+  "eyes": "closed",
+  "mouth": "grin",
+  "nose": "big",
+  "noseColor": "#f0a090",
+  "outfit": "suit",
+  "outfitColor": "#5c5c6c",
+  "outfitColor2": "red",
+  "extras": [
+   "blush"
+  ]
+ },
+ "Joan Rivers": {
+  "skin": "pale",
+  "age": "old",
+  "hair": "bob",
+  "hairColor": "platinum",
+  "eyes": "wide",
+  "eyeColor": "blue",
+  "mouth": "lipstick",
+  "lipColor": "#e0304a",
+  "outfit": "dress",
+  "outfitColor": "black",
+  "extras": [
+   "lashes",
+   "earrings",
+   "microphone"
+  ]
+ },
+ "Charles de Gaulle": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "hair": "short",
+  "hairColor": "#4a4040",
+  "facialHair": "pencil",
+  "facialHairColor": "#4a4040",
+  "nose": "big",
+  "eyes": "sleepy",
+  "headwear": "military",
+  "headwearColor": "khaki",
+  "headwearColor2": "black",
+  "mouth": "frown",
+  "outfit": "military",
+  "outfitColor": "khaki",
+  "outfitColor2": "gold",
+  "extras": [
+   "medals"
+  ]
+ },
+ "Nicolas Sarkozy": {
+  "skin": "light",
+  "hair": "short",
+  "hairColor": "darkbrown",
+  "eyes": "angry",
+  "brows": "angry",
+  "mouth": "open",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#2b2934"
+ },
+ "Zinedine Zidane": {
+  "skin": "olive",
+  "face": "long",
+  "hair": "baldsides",
+  "hairColor": "darkbrown",
+  "eyes": "angry",
+  "brows": "angry",
+  "mouth": "frown",
+  "outfit": "jersey",
+  "outfitColor": "blue",
+  "outfitColor2": "white",
+  "symbol": "10"
+ },
+ "Hugh Grant": {
+  "skin": "fair",
+  "hair": "partmiddle",
+  "hairColor": "brown",
+  "eyes": "sleepy",
+  "eyeColor": "blue",
+  "brows": "sad",
+  "mouth": "smile",
+  "outfit": "blazer",
+  "outfitColor": "navy"
+ },
+ "Kaiser Wilhelm II": {
+  "skin": "fair",
+  "hair": "short",
+  "hairColor": "#5a4a3a",
+  "facialHair": "dali",
+  "facialHairColor": "#3a2a20",
+  "headwear": "military",
+  "headwearColor": "#5a6070",
+  "eyes": "angry",
+  "mouth": "neutral",
+  "outfit": "military",
+  "outfitColor": "#5a6070",
+  "outfitColor2": "gold",
+  "extras": [
+   "medals"
+  ],
+  "headwearColor2": "red"
+ },
+ "Justin Trudeau": {
+  "skin": "fair",
+  "hair": "sidepart",
+  "hairColor": "darkbrown",
+  "eyeColor": "blue",
+  "mouth": "bigsmile",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "red"
+ },
+ "Tony Abbott": {
+  "skin": "fair",
+  "face": "long",
+  "hair": "receding",
+  "hairColor": "saltpepper",
+  "ears": "big",
+  "eyes": "narrow",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "royalblue"
+ },
+ "Bob Hawke": {
+  "skin": "tan",
+  "age": "old",
+  "hair": "slick",
+  "hairColor": "silver",
+  "brows": "bushy",
+  "browColor": "black",
+  "eyes": "squint",
+  "mouth": "grin",
+  "outfit": "hawaiian",
+  "outfitColor": "navy",
+  "outfitColor2": "white"
+ },
+ "Shane Warne": {
+  "skin": "tan",
+  "hair": "spiky",
+  "hairColor": "platinum",
+  "eyes": "squint",
+  "mouth": "lipstick",
+  "lipColor": "white",
+  "outfit": "polo",
+  "outfitColor": "white",
+  "outfitColor2": "darkgreen",
+  "extras": [
+   "earrings"
+  ]
+ },
+ "Paul Keating": {
+  "skin": "fair",
+  "face": "long",
+  "build": "slim",
+  "hair": "slick",
+  "hairColor": "silver",
+  "eyes": "narrow",
+  "brows": "raised",
+  "mouth": "smirk",
+  "outfit": "suit",
+  "outfitColor": "#2b2934",
+  "outfitColor2": "silver"
+ },
+ "Barry White": {
+  "skin": "dark",
+  "face": "round",
+  "build": "heavy",
+  "hair": "short",
+  "hairColor": "black",
+  "facialHair": "moustache",
+  "facialHairColor": "#16121a",
+  "eyes": "sleepy",
+  "mouth": "smile",
+  "outfit": "tuxedo",
+  "outfitColor": "black",
+  "extras": [
+   "microphone"
+  ]
+ },
+ "Hugo Chávez": {
+  "skin": "medium",
+  "face": "round",
+  "build": "heavy",
+  "hair": "short",
+  "hairColor": "black",
+  "headwear": "beret",
+  "headwearColor": "red",
+  "mouth": "open",
+  "outfit": "shirt",
+  "outfitColor": "red"
+ },
+ "King Juan Carlos I": {
+  "skin": "fair",
+  "age": "old",
+  "face": "long",
+  "hair": "receding",
+  "hairColor": "white",
+  "nose": "long",
+  "brows": "angry",
+  "eyes": "angry",
+  "mouth": "frown",
+  "headwear": "crown",
+  "outfit": "military",
+  "outfitColor": "navy",
+  "outfitColor2": "gold",
+  "extras": [
+   "medals"
+  ]
+ },
+ "Mahmoud Ahmadinejad": {
+  "skin": "light",
+  "hair": "short",
+  "hairColor": "#3a3438",
+  "facialHair": "short",
+  "facialHairColor": "saltpepper",
+  "eyes": "narrow",
+  "mouth": "smile",
+  "outfit": "leather",
+  "outfitColor": "#b8ad98",
+  "outfitColor2": "white"
+ },
+ "Mike Pence": {
+  "skin": "fair",
+  "face": "square",
+  "hair": "sidepart",
+  "hairColor": "white",
+  "brows": "thick",
+  "browColor": "#7a7a88",
+  "eyes": "narrow",
+  "eyeColor": "blue",
+  "mouth": "neutral",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "royalblue"
+ },
+ "Recep Tayyip Erdoğan": {
+  "skin": "light",
+  "face": "long",
+  "hair": "slick",
+  "hairColor": "saltpepper",
+  "facialHair": "moustache",
+  "facialHairColor": "#5a5a60",
+  "eyes": "narrow",
+  "brows": "thick",
+  "mouth": "frown",
+  "outfit": "suit",
+  "outfitColor": "navy",
+  "outfitColor2": "#8a2a3a"
+ },
+ "Phyllis Schlafly": {
+  "skin": "fair",
+  "age": "old",
+  "hair": "bob",
+  "hairColor": "#d8c088",
+  "mouth": "smile",
+  "outfit": "dress",
+  "outfitColor": "royalblue",
+  "extras": [
+   "pearls",
+   "earrings"
+  ]
+ },
+ "Jair Bolsonaro": {
+  "skin": "fair",
+  "face": "oval",
+  "hair": "sidepart",
+  "hairColor": "saltpepper",
+  "eyes": "narrow",
+  "mouth": "smirk",
+  "outfit": "jersey",
+  "outfitColor": "yellow",
+  "outfitColor2": "green",
+  "symbol": "17"
+ },
+ "Evo Morales": {
+  "skin": "olive",
+  "face": "wide",
+  "hair": "bowl",
+  "hairColor": "black",
+  "mouth": "smile",
+  "outfit": "stripes",
+  "outfitColor": "#c0302a",
+  "outfitColor2": "#2a3d78"
+ },
+ "Deng Xiaoping": {
+  "skin": "light",
+  "age": "old",
+  "face": "round",
+  "hair": "buzz",
+  "hairColor": "saltpepper",
+  "ears": "big",
+  "mouth": "smile",
+  "outfit": "mao",
+  "outfitColor": "charcoal",
+  "extras": [
+   "cigarette"
+  ]
+ }
+}

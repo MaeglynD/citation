@@ -1,0 +1,2033 @@
+[
+  {
+    "id": "mus-kanye-warhol-shakespeare",
+    "quote": "I am Warhol. I am the number 1 most impactful artist of our generation. I am Shakespeare in the flesh.",
+    "answer": {
+      "name": "Kanye West",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Salvador Dalí",
+        "fictional": false
+      },
+      {
+        "name": "Lady Gaga",
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      }
+    ],
+    "source": "Sway in the Morning radio interview, 26 Nov 2013",
+    "note": "Same interview as 'You ain't got the answers, Sway!'",
+    "url": "https://en.wikiquote.org/wiki/Kanye_West",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "ego",
+      "rap"
+    ]
+  },
+  {
+    "id": "mus-stravinsky-children-animals",
+    "quote": "My music is best understood by children and animals.",
+    "answer": {
+      "name": "Igor Stravinsky",
+      "alias": "The composer whose ballet caused a riot in Paris",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dr. Seuss",
+        "fictional": false
+      },
+      {
+        "name": "Björk",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      }
+    ],
+    "source": "The Observer, 8 Oct 1961",
+    "note": "The Rite of Spring premiere (1913) ended with fistfights in the audience.",
+    "url": "https://en.wikiquote.org/wiki/Igor_Stravinsky",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "classical"
+    ]
+  },
+  {
+    "id": "mus-satie-white-foods",
+    "quote": "I eat only white foods: eggs, sugar, grated bones, the fat of dead animals; veal, salt, coconut...",
+    "answer": {
+      "name": "Erik Satie",
+      "alias": "The composer of the Gymnopédies",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      },
+      {
+        "name": "John Cage",
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      }
+    ],
+    "source": "Memoirs of an Amnesiac (1913), quoted in Rollo Myers, Erik Satie",
+    "note": "The list goes on: chicken cooked in white water, fruit mould, and skinless fish.",
+    "url": "https://en.wikiquote.org/wiki/Erik_Satie",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "genius-absurd",
+      "classical",
+      "food"
+    ]
+  },
+  {
+    "id": "mus-tchaikovsky-brahms",
+    "quote": "I played over the music of that scoundrel Brahms. What a giftless bastard!",
+    "answer": {
+      "name": "Pyotr Ilyich Tchaikovsky",
+      "alias": "The guy who wrote The Nutcracker",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Richard Wagner",
+        "fictional": false
+      },
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Diary entry, 9 Oct 1886",
+    "note": "They later met, got drunk together, and still didn't like each other's music.",
+    "url": "https://en.wikiquote.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "genius-petty",
+      "classical"
+    ]
+  },
+  {
+    "id": "mus-mozart-salzburg",
+    "quote": "I care very little for Salzburg and not at all for the archbishop: I shit on both of them.",
+    "answer": {
+      "name": "Wolfgang Amadeus Mozart",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Friedrich Nietzsche",
+        "fictional": false
+      },
+      {
+        "name": "Liam Gallagher",
+        "fictional": false
+      },
+      {
+        "name": "Pope Francis",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to his father Leopold, 12 July 1783",
+    "note": "Salzburg now sells Mozart chocolates on every corner.",
+    "url": "https://en.wikiquote.org/wiki/Wolfgang_Amadeus_Mozart",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "genius-petty",
+      "classical",
+      "letters"
+    ]
+  },
+  {
+    "id": "mus-zappa-air-molecules",
+    "quote": "A composer is a guy who goes around forcing his will on unsuspecting air molecules, often with the assistance of unsuspecting musicians.",
+    "answer": {
+      "name": "Frank Zappa",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "John Cage",
+        "fictional": false
+      },
+      {
+        "name": "Richard Feynman",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "The Real Frank Zappa Book (1989)",
+    "url": "https://en.wikiquote.org/wiki/Frank_Zappa",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "rock"
+    ]
+  },
+  {
+    "id": "mus-miles-play-it-first",
+    "quote": "I'll play it and tell you what it is later.",
+    "answer": {
+      "name": "Miles Davis",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yogi Berra",
+        "fictional": false
+      },
+      {
+        "name": "Bob Dylan",
+        "fictional": false
+      },
+      {
+        "name": "Yoda",
+        "fictional": true
+      }
+    ],
+    "source": "Spoken on tape at a 1956 Prestige recording session (Relaxin')",
+    "note": "The line is still audible at the start of the record.",
+    "url": "https://en.wikiquote.org/wiki/Miles_Davis",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "jazz"
+    ]
+  },
+  {
+    "id": "mus-prince-internet-over",
+    "quote": "The internet's completely over.",
+    "answer": {
+      "name": "Prince",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bill Gates",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Kim Jong Un",
+        "fictional": false
+      }
+    ],
+    "source": "Interview, Daily Mirror, 5 July 2010",
+    "note": "He added that the internet was 'like MTV'. He had a point about MTV.",
+    "url": "https://en.wikiquote.org/wiki/Prince_(musician)",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "pop",
+      "tech"
+    ]
+  },
+  {
+    "id": "mus-bowie-instant-star",
+    "quote": "I'm an instant star. Just add water and stir.",
+    "answer": {
+      "name": "David Bowie",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Andy Warhol",
+        "fictional": false
+      },
+      {
+        "name": "Lady Gaga",
+        "fictional": false
+      },
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted in Rex Reed, Valentines & Vitriol (1978)",
+    "url": "https://en.wikiquote.org/wiki/David_Bowie",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "rock",
+      "ego"
+    ]
+  },
+  {
+    "id": "mus-sinatra-through-the-night",
+    "quote": "I'm for anything that gets you through the night, be it prayer, tranquilizers, or a bottle of Jack Daniel's.",
+    "answer": {
+      "name": "Frank Sinatra",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charles Bukowski",
+        "fictional": false
+      },
+      {
+        "name": "Dean Martin",
+        "fictional": false
+      },
+      {
+        "name": "Mother Teresa",
+        "fictional": false
+      }
+    ],
+    "source": "Playboy interview, Feb 1963",
+    "url": "https://en.wikiquote.org/wiki/Frank_Sinatra",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "crooner",
+      "vice"
+    ]
+  },
+  {
+    "id": "mus-loureed-week",
+    "quote": "My week beats your year.",
+    "answer": {
+      "name": "Lou Reed",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charlie Sheen",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      },
+      {
+        "name": "Napoleon Bonaparte",
+        "fictional": false
+      }
+    ],
+    "source": "Liner notes, Metal Machine Music (1975)",
+    "note": "The album is 64 minutes of guitar feedback. He meant it as a compliment to himself.",
+    "url": "https://en.wikiquote.org/wiki/Lou_Reed",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "rock",
+      "ego"
+    ]
+  },
+  {
+    "id": "mus-cohen-pessimist",
+    "quote": "I think of a pessimist as someone who is waiting for it to rain. And I feel completely soaked to the skin.",
+    "answer": {
+      "name": "Leonard Cohen",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Eeyore",
+        "fictional": true
+      },
+      {
+        "name": "Morrissey",
+        "fictional": false
+      },
+      {
+        "name": "Arthur Schopenhauer",
+        "fictional": false
+      }
+    ],
+    "source": "Interview, The Daily Telegraph, 26 Apr 1993",
+    "url": "https://en.wikiquote.org/wiki/Leonard_Cohen",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "gloom",
+      "folk"
+    ]
+  },
+  {
+    "id": "mus-joni-on-dylan",
+    "quote": "Bob is not authentic at all. He's a plagiarist, and his name and voice are fake. Everything about Bob is a deception.",
+    "answer": {
+      "name": "Joni Mitchell",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Lou Reed",
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "Interview, Los Angeles Times, 22 Apr 2010",
+    "note": "She later said the journalist was 'a moron' and that she likes a lot of Bob's songs.",
+    "url": "https://www.thedailybeast.com/joni-mitchell-trashes-bob-dylan",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "folk",
+      "feud"
+    ]
+  },
+  {
+    "id": "mus-keith-snorted-father",
+    "quote": "I snorted my father. He was cremated and I couldn't resist grinding him up with a little bit of blow.",
+    "answer": {
+      "name": "Keith Richards",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "fictional": true
+      }
+    ],
+    "source": "Interview with Mark Beaumont, NME, Apr 2007",
+    "note": "His manager said it was a joke. His 2010 memoir confirmed it, minus the cocaine.",
+    "url": "https://www.nme.com/?p=1341183",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "rock",
+      "drugs",
+      "family"
+    ]
+  },
+  {
+    "id": "mus-jagger-satisfaction-45",
+    "quote": "I'd rather be dead than sing Satisfaction when I'm 45.",
+    "answer": {
+      "name": "Mick Jagger",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Johnny Rotten",
+        "fictional": false
+      },
+      {
+        "name": "Keith Richards",
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "fictional": false
+      }
+    ],
+    "source": "People magazine, 'The Jaggers', 9 June 1975",
+    "note": "He sang it at 45. And at 80.",
+    "url": "https://quoteinvestigator.com/?p=4251",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "rock",
+      "ageing"
+    ]
+  },
+  {
+    "id": "mus-lennon-humiliate",
+    "quote": "One has to completely humiliate oneself to be what the Beatles were.",
+    "answer": {
+      "name": "John Lennon",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Morrissey",
+        "fictional": false
+      },
+      {
+        "name": "Liam Gallagher",
+        "fictional": false
+      },
+      {
+        "name": "Kermit the Frog",
+        "fictional": true
+      }
+    ],
+    "source": "Rolling Stone interview ('Lennon Remembers'), 1970",
+    "url": "https://en.wikiquote.org/wiki/John_Lennon",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-bitter",
+      "rock"
+    ]
+  },
+  {
+    "id": "mus-waits-break-windows",
+    "quote": "Break windows, smoke cigars, and stay up late.",
+    "answer": {
+      "name": "Tom Waits",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Winston Churchill",
+        "fictional": false
+      },
+      {
+        "name": "Lemmy",
+        "fictional": false
+      },
+      {
+        "name": "Bart Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Advice to young musicians, Musician magazine, Oct 1987",
+    "url": "https://en.wikiquote.org/wiki/Tom_Waits",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "advice",
+      "rock"
+    ]
+  },
+  {
+    "id": "mus-jaden-mirrors",
+    "quote": "How Can Mirrors Be Real If Our Eyes Aren't Real",
+    "answer": {
+      "name": "Jaden Smith",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Socrates",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      }
+    ],
+    "source": "Tweet, 2 May 2013",
+    "note": "He was 14. He later said it was based on a study about visual perception.",
+    "url": "https://knowyourmeme.com/memes/14353",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "shallow-profound",
+      "tweet"
+    ]
+  },
+  {
+    "id": "mus-geri-thatcher",
+    "quote": "We Spice Girls are true Thatcherites. Thatcher was the first Spice Girl, the pioneer of our ideology – Girl Power.",
+    "answer": {
+      "name": "Geri Halliwell",
+      "alias": "Ginger Spice",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Victoria Beckham",
+        "fictional": false
+      },
+      {
+        "name": "Mel B",
+        "fictional": false
+      },
+      {
+        "name": "Mel C",
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Simon Sebag Montefiore, The Spectator, Dec 1996",
+    "note": "Mel C's 2022 verdict on whether Thatcher was the first Spice Girl: 'Abbbbbsolutely not!'",
+    "url": "https://attitude.co.uk/culture/music/melanie-c-confirms-margaret-thatcher-was-absolutely-not-the-first-spice-girl-386027",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "pop",
+      "politics"
+    ]
+  },
+  {
+    "id": "mus-whitney-crack-is-cheap",
+    "quote": "First of all, let's get one thing straight. Crack is cheap. I make too much money to ever smoke crack.",
+    "answer": {
+      "name": "Whitney Houston",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charlie Sheen",
+        "fictional": false
+      },
+      {
+        "name": "Mariah Carey",
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      }
+    ],
+    "source": "ABC Primetime interview with Diane Sawyer, 4 Dec 2002",
+    "note": "The follow-up line was 'Crack is wack.'",
+    "url": "https://www.goodmorningamerica.com/culture/story/transcript-whitney-houston-im-person-life-15574357",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "pop",
+      "drugs",
+      "money"
+    ]
+  },
+  {
+    "id": "mus-kylie-realizing-stuff",
+    "quote": "I feel like this year is really about, like, the year of just realizing stuff.",
+    "answer": {
+      "name": "Kylie Jenner",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Marcus Aurelius",
+        "fictional": false
+      },
+      {
+        "name": "Kim Kardashian",
+        "fictional": false
+      },
+      {
+        "name": "Winnie the Pooh",
+        "fictional": true
+      }
+    ],
+    "source": "'Kylie Up Close' video, Jan 2016",
+    "note": "She was 18 and about to become a billionaire, so, fair.",
+    "url": "https://www.wmagazine.com/story/kylie-jenner-entrepreneur-gets-in-on-the-merch-game",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "shallow-profound",
+      "reality-tv"
+    ]
+  },
+  {
+    "id": "mus-kourtney-people-dying",
+    "quote": "Kim, there's people that are dying.",
+    "answer": {
+      "name": "Kourtney Kardashian",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Khloé Kardashian",
+        "fictional": false
+      },
+      {
+        "name": "Kris Jenner",
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "fictional": false
+      }
+    ],
+    "source": "Keeping Up with the Kardashians, season 6 (Bora Bora episode), 2011",
+    "note": "Kim had lost a $75,000 diamond earring in the ocean. Kylie found it.",
+    "url": "https://www.aol.com/kim-kardashian-explains-meltdown-led-181501608.html",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "reality-tv",
+      "perspective"
+    ]
+  },
+  {
+    "id": "mus-youngthug-gender",
+    "quote": "In my world, you can be a gangsta with a dress or you can be a gangsta with baggy pants. I feel like there's no such thing as gender.",
+    "answer": {
+      "name": "Young Thug",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Judith Butler",
+        "fictional": false
+      },
+      {
+        "name": "Prince",
+        "fictional": false
+      },
+      {
+        "name": "RuPaul",
+        "fictional": false
+      }
+    ],
+    "source": "Calvin Klein Fall 2016 campaign video",
+    "note": "He wore a periwinkle dress on the cover of his mixtape the same year.",
+    "url": "https://www.complex.com/style/a/michael-arceneaux/young-thug-says-there-is-no-such-thing-as-gender",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "shallow-profound",
+      "rap",
+      "gender"
+    ]
+  },
+  {
+    "id": "mus-lilwayne-lasagna",
+    "quote": "Real G's move in silence like lasagna.",
+    "answer": {
+      "name": "Lil Wayne",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Snoop Dogg",
+        "fictional": false
+      },
+      {
+        "name": "Tony Soprano",
+        "fictional": true
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "Lyric, '6 Foot 7 Foot' (Tha Carter IV), 2011",
+    "note": "The G in lasagna is silent. In 2024 the line stumped all three Jeopardy! contestants.",
+    "url": "https://www.kalb.com/2024/03/01/lil-wayne-jeopardy-clue-stumps-all-three-contestants",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "rap",
+      "absurd",
+      "lyric"
+    ]
+  },
+  {
+    "id": "mus-snooki-tanning-tax",
+    "quote": "I don't go tanning-tanning anymore because Obama put a 10 percent tax on tanning. And I feel like he did that intentionally for us.",
+    "answer": {
+      "name": "Snooki",
+      "alias": "The Jersey Shore one",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      },
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      }
+    ],
+    "source": "Jersey Shore season 2 promo, MTV, June 2010",
+    "note": "PolitiFact rated it True. John McCain tweeted that he would never tax her tanning bed.",
+    "url": "https://www.politifact.com/factchecks/2010/jun/21/snooki/snooki-says-obama-put-10-percent-tax-tannning/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "reality-tv",
+      "politics"
+    ]
+  },
+  {
+    "id": "mus-bieber-anne-frank",
+    "quote": "Truly inspiring to be able to come here. Anne was a great girl. Hopefully she would have been a Belieber.",
+    "answer": {
+      "name": "Justin Bieber",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kim Kardashian",
+        "fictional": false
+      },
+      {
+        "name": "Harry Styles",
+        "fictional": false
+      },
+      {
+        "name": "Logan Paul",
+        "fictional": false
+      }
+    ],
+    "source": "Anne Frank House guestbook, Amsterdam, 12 Apr 2013",
+    "note": "The museum defended him: 'We think he meant it well. He's only 19 years old.'",
+    "url": "https://www.heraldnet.com/2013/04/14/bieber-criticized-for-anne-frank-comment/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "pop",
+      "ego",
+      "history"
+    ]
+  },
+  {
+    "id": "mus-nicki-cousin-trinidad",
+    "quote": "My cousin in Trinidad won't get the vaccine cuz his friend got it & became impotent. His testicles became swollen. His friend was weeks away from getting married, now the girl called off the wedding.",
+    "answer": {
+      "name": "Nicki Minaj",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Joe Rogan",
+        "fictional": false
+      },
+      {
+        "name": "Cardi B",
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "fictional": false
+      }
+    ],
+    "source": "Tweet, 13 Sept 2021",
+    "note": "Trinidad's health minister said officials 'wasted so much time' checking the claim.",
+    "url": "https://globalnews.ca/news/8195142/nicki-minaj-vaccine-swollen-testicles-covid-19-trinidad",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "rap",
+      "tweet",
+      "absurd"
+    ]
+  },
+  {
+    "id": "mus-britney-trust-president",
+    "quote": "Honestly, I think we should just trust our president in every decision that he makes and we should just support that.",
+    "answer": {
+      "name": "Britney Spears",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Toby Keith",
+        "fictional": false
+      },
+      {
+        "name": "Jessica Simpson",
+        "fictional": false
+      },
+      {
+        "name": "Kim Jong Un",
+        "fictional": false
+      }
+    ],
+    "source": "CNN Crossfire interview with Tucker Carlson, 3 Sept 2003",
+    "note": "The clip ended up in Fahrenheit 9/11. She won a Razzie for it.",
+    "url": "https://transcripts.cnn.com/show/cf/date/2003-09-03/segment/00",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "pop",
+      "politics"
+    ]
+  },
+  {
+    "id": "mus-ariana-hate-america",
+    "quote": "I hate Americans. I hate America.",
+    "answer": {
+      "name": "Ariana Grande",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Osama bin Laden",
+        "fictional": false
+      },
+      {
+        "name": "Justin Bieber",
+        "fictional": false
+      },
+      {
+        "name": "Noam Chomsky",
+        "fictional": false
+      }
+    ],
+    "source": "Security-camera video in a Lake Elsinore doughnut shop, 4 July 2015",
+    "note": "Said on Independence Day, while licking doughnuts she had not paid for.",
+    "url": "https://www.nbcnews.com/pop-culture/music/ariana-grande-sorry-i-said-i-hate-america-doughnut-shop-n389126",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "pop",
+      "scandal"
+    ]
+  },
+  {
+    "id": "mus-jessica-simpson-chicken",
+    "quote": "Is this chicken, what I have, or is this fish? I know it's tuna, but it says chicken... by the sea.",
+    "answer": {
+      "name": "Jessica Simpson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Paris Hilton",
+        "fictional": false
+      },
+      {
+        "name": "Kylie Jenner",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Newlyweds: Nick and Jessica, MTV, 2003",
+    "note": "Chicken of the Sea later hired her to sing their jingle.",
+    "url": "https://www.today.com/today/amp/rcna133555",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "reality-tv",
+      "food",
+      "absurd"
+    ]
+  },
+  {
+    "id": "mus-kris-jenner-amazing-sweetie",
+    "quote": "Kim, you're doing amazing, sweetie.",
+    "answer": {
+      "name": "Kris Jenner",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "Khloé Kardashian",
+        "fictional": false
+      },
+      {
+        "name": "Hugh Hefner",
+        "fictional": false
+      }
+    ],
+    "source": "Keeping Up with the Kardashians S1E4 'Birthday Suit', 4 Nov 2007",
+    "note": "Said while photographing her daughter's nude Playboy shoot. She later trademarked it.",
+    "url": "https://knowyourmeme.com/memes/youre-doing-amazing-sweetie",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "reality-tv",
+      "family"
+    ]
+  },
+  {
+    "id": "mus-rossini-wagner-quarters",
+    "quote": "Monsieur Wagner has good moments, but awful quarters of an hour!",
+    "answer": {
+      "name": "Gioachino Rossini",
+      "alias": "The guy who wrote the William Tell Overture",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "fictional": false
+      },
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Emile Naumann, April 1867",
+    "url": "https://en.wikiquote.org/wiki/Gioachino_Rossini",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "genius-petty",
+      "classical"
+    ]
+  },
+  {
+    "id": "mus-beethoven-scoundrel-shit",
+    "quote": "O you miserable scoundrel, what I shit is better than anything you ever thought.",
+    "answer": {
+      "name": "Ludwig van Beethoven",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Liam Gallagher",
+        "fictional": false
+      },
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      }
+    ],
+    "source": "Margin note on a critic's review in his copy of Cäcilia, Aug 1825",
+    "note": "The critic, Gottfried Weber, had panned Wellington's Victory.",
+    "url": "https://en.wikiquote.org/wiki/Ludwig_van_Beethoven",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "genius-petty",
+      "classical"
+    ]
+  },
+  {
+    "id": "mus-berlioz-time-teacher",
+    "quote": "Time is a great teacher, but unfortunately it kills all its pupils.",
+    "answer": {
+      "name": "Hector Berlioz",
+      "alias": "The composer of the Symphonie fantastique",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Groucho Marx",
+        "fictional": false
+      },
+      {
+        "name": "Leonard Cohen",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "Letter, November 1856",
+    "url": "https://en.wikiquote.org/wiki/Hector_Berlioz",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "classical",
+      "gloom",
+      "wit"
+    ]
+  },
+  {
+    "id": "mus-cage-nothing-to-say",
+    "quote": "I have nothing to say and I am saying it and that is poetry as I need it.",
+    "answer": {
+      "name": "John Cage",
+      "alias": "The composer of 4'33\" (four and a half minutes of silence)",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Samuel Beckett",
+        "fictional": false
+      },
+      {
+        "name": "Bob Dylan",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      }
+    ],
+    "source": "'Lecture on Nothing', 1949",
+    "url": "https://en.wikiquote.org/wiki/John_Cage",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "classical"
+    ]
+  },
+  {
+    "id": "mus-celine-take-a-kayak",
+    "quote": "Nobody can open any roofs? The helicopters flying in take two people at a time, take a kayak. Go into those walls.",
+    "answer": {
+      "name": "Celine Dion",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bear Grylls",
+        "fictional": false
+      },
+      {
+        "name": "Shakira",
+        "fictional": false
+      },
+      {
+        "name": "Sean Penn",
+        "fictional": false
+      }
+    ],
+    "source": "Larry King Live Hurricane Katrina special, CNN, 3 Sept 2005",
+    "note": "Said live from her Las Vegas dressing room, right after donating a million dollars.",
+    "url": "https://transcripts.cnn.com/show/lkl/date/2005-09-03/segment/03",
+    "verification": "transcript",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "pop",
+      "rant",
+      "absurd"
+    ]
+  },
+  {
+    "id": "mus-dylan-songs-four-minutes",
+    "quote": "Oh, some are about four minutes; some are about five, and some, believe it or not, are about eleven or twelve.",
+    "answer": {
+      "name": "Bob Dylan",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yogi Berra",
+        "fictional": false
+      },
+      {
+        "name": "Lou Reed",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Playboy interview, Feb 1966, asked what his songs are about",
+    "note": "He won the Nobel Prize in Literature fifty years later.",
+    "url": "https://en.wikiquote.org/wiki/Bob_Dylan",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "interview"
+    ]
+  },
+  {
+    "id": "mus-cardib-fdr-maga",
+    "quote": "He's the real 'Make America Great Again,' because if it wasn't for him, old people wouldn't even get Social Security.",
+    "answer": {
+      "name": "Cardi B",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bernie Sanders",
+        "fictional": false
+      },
+      {
+        "name": "Lil Wayne",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "GQ profile, April 2018, on Franklin D. Roosevelt",
+    "note": "Bernie Sanders tweeted 'Cardi B is right.'",
+    "url": "https://www.thefader.com/2018/04/18/bernie-sanders-cardi-b",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "shallow-profound",
+      "politics",
+      "rap"
+    ]
+  },
+  {
+    "id": "mus-snoop-thank-me",
+    "quote": "I want to thank me for believing in me, I want to thank me for doing all this hard work.",
+    "answer": {
+      "name": "Snoop Dogg",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "fictional": false
+      },
+      {
+        "name": "DJ Khaled",
+        "fictional": false
+      },
+      {
+        "name": "Zlatan Ibrahimović",
+        "fictional": false
+      }
+    ],
+    "source": "Hollywood Walk of Fame acceptance speech, 19 Nov 2018",
+    "note": "He closed the speech by calling himself a bad motherfucker.",
+    "url": "https://www.thefader.com/2018/11/19/snoop-dogg-hollywood-walk-of-fame-acceptance-speech",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "ego",
+      "rap",
+      "speech"
+    ]
+  },
+  {
+    "id": "mus-kimk-nobody-wants-to-work",
+    "quote": "Get your fucking ass up and work. It seems like nobody wants to work these days.",
+    "answer": {
+      "name": "Kim Kardashian",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "fictional": false
+      },
+      {
+        "name": "Kris Jenner",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "Variety video interview, 9 March 2022, 'best advice for women in business'",
+    "note": "She later said she was having an 'off day'.",
+    "url": "https://www.mediaite.com/media/entertainment/kim-kardashian-responds-to-backlash-over-viral-get-your-fcking-ass-up-and-work-comment-i-was-having-an-off-day/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "reality-tv",
+      "boomer",
+      "work"
+    ]
+  },
+  {
+    "id": "mus-monk-hate-white-people",
+    "quote": "They tried to get me to hate white people, but someone would always come along and spoil it.",
+    "answer": {
+      "name": "Thelonious Monk",
+      "alias": "The jazz pianist who wrote 'Round Midnight'",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Malcolm X",
+        "fictional": false
+      },
+      {
+        "name": "Miles Davis",
+        "fictional": false
+      },
+      {
+        "name": "Mike Tyson",
+        "fictional": false
+      }
+    ],
+    "source": "Advice to saxophonist Steve Lacy, written in Lacy's notebook, 1960",
+    "note": "Same list of advice includes 'Always leave them wanting more.'",
+    "url": "https://www.premierguitar.com/articles/31315-last-call-monks-advice",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-dry",
+      "jazz",
+      "race"
+    ]
+  },
+  {
+    "id": "mus-elvis-nixon-brainwashing",
+    "quote": "I have done an in-depth study of drug abuse and Communist brainwashing techniques and I am right in the middle of the whole thing where I can and will do the most good.",
+    "answer": {
+      "name": "Elvis Presley",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      },
+      {
+        "name": "Johnny Cash",
+        "fictional": false
+      },
+      {
+        "name": "Dwight Schrute",
+        "fictional": true
+      }
+    ],
+    "source": "Handwritten letter to President Nixon, 21 Dec 1970",
+    "note": "He asked to be made a Federal Agent at Large. Nixon gave him a badge.",
+    "url": "https://www.archives.gov/exhibits/nixon-met-elvis/assets/doc_1.1_transcript.html",
+    "verification": "primary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "politics",
+      "letter"
+    ]
+  },
+  {
+    "id": "mus-nickcave-song-sucks",
+    "quote": "The apocalypse is well on its way. This song sucks.",
+    "answer": {
+      "name": "Nick Cave",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "The Red Hand Files #218, Jan 2023, on a ChatGPT song written in his style",
+    "note": "He also called it a grotesque mockery of what it is to be human.",
+    "url": "https://www.theredhandfiles.com/chat-gpt-what-do-you-think/",
+    "verification": "primary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "AI"
+    ]
+  },
+  {
+    "id": "mus-bjork-poets-lie",
+    "quote": "You shouldn't let poets lie to you.",
+    "answer": {
+      "name": "Björk",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Leonard Cohen",
+        "fictional": false
+      },
+      {
+        "name": "Vladimir Putin",
+        "fictional": false
+      }
+    ],
+    "source": "Icelandic TV segment, c. 1988, after dismantling a television set",
+    "note": "A poet had told her TV hypnotizes you. She checked in a Danish book.",
+    "url": "https://www.openculture.com/2013/11/a-young-bjork-deconstructs-physically-theoretically-a-television-in-a-delightful-retro-video.html",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "genius-absurd",
+      "television"
+    ]
+  },
+  {
+    "id": "mus-morrissey-testicles",
+    "quote": "I would rather eat my own testicles than reform The Smiths.",
+    "answer": {
+      "name": "Morrissey",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Johnny Marr",
+        "fictional": false
+      },
+      {
+        "name": "Noel Gallagher",
+        "fictional": false
+      },
+      {
+        "name": "Eeyore",
+        "fictional": true
+      }
+    ],
+    "source": "Uncut magazine, March 2006, turning down a reunion offer",
+    "note": "He is a vegetarian.",
+    "url": "https://www.stereoboard.com/content/view/30/46",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "indie"
+    ]
+  },
+  {
+    "id": "mus-noel-no-hiphop-glastonbury",
+    "quote": "I'm not having hip-hop at Glastonbury. No way. No. It's wrong.",
+    "answer": {
+      "name": "Noel Gallagher",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Liam Gallagher",
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "fictional": false
+      },
+      {
+        "name": "Prince Philip",
+        "fictional": false
+      }
+    ],
+    "source": "BBC interview, April 2008, on Jay-Z headlining",
+    "note": "Jay-Z opened his set by singing Wonderwall.",
+    "url": "https://www.spinmagazine.com/2008/04/jay-z-headline-glastonbury-oasis-noel-gallagher-not-having-it/",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "britpop"
+    ]
+  },
+  {
+    "id": "mus-odb-wutang-children",
+    "quote": "Wu-Tang is for the children.",
+    "answer": {
+      "name": "Ol' Dirty Bastard",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "RZA",
+        "fictional": false
+      },
+      {
+        "name": "Method Man",
+        "fictional": false
+      }
+    ],
+    "source": "Interrupting Shawn Colvin's acceptance speech, Grammy Awards, 25 Feb 1998",
+    "note": "He had bought an expensive outfit expecting Wu-Tang to win.",
+    "url": "https://www.xxlmag.com/today-hip-hop-ol-dirty-bastard-says-wu-tang-children-40th-annual-grammy-awards/",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "rap",
+      "children",
+      "speech"
+    ]
+  },
+  {
+    "id": "mus-grimes-ai-communism",
+    "quote": "AI is actually the fastest path to communism.",
+    "answer": {
+      "name": "Grimes",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Karl Marx",
+        "fictional": false
+      },
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Rick Sanchez",
+        "fictional": true
+      }
+    ],
+    "source": "TikTok video, June 2021",
+    "note": "She was dating the world's richest capitalist at the time.",
+    "url": "https://www.axios.com/2021/06/05/grimes-artificial-intelligence-communism-equality",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "pop",
+      "politics",
+      "AI"
+    ]
+  },
+  {
+    "id": "mus-tyler-cyberbullying",
+    "quote": "Hahahahahahaha How The Fuck Is Cyber Bullying Real Hahahaha...",
+    "answer": {
+      "name": "Tyler, the Creator",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jordan Peterson",
+        "fictional": false
+      },
+      {
+        "name": "Eminem",
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "fictional": true
+      }
+    ],
+    "source": "Tweet, 31 Dec 2012",
+    "note": "His advice: just walk away from the screen.",
+    "url": "https://knowyourmeme.com/memes/tyler-the-creators-cyber-bullying-tweet",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "rap",
+      "tweet",
+      "shallow-profound"
+    ]
+  },
+  {
+    "id": "mus-manson-listen-columbine",
+    "quote": "I wouldn't say a single word to them. I would listen to what they have to say, and that's what no one did.",
+    "answer": {
+      "name": "Marilyn Manson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mister Rogers",
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "fictional": false
+      }
+    ],
+    "source": "Bowling for Columbine (2002), asked what he would say to the Columbine students",
+    "note": "His music had been blamed for the shooting.",
+    "url": "https://www.imdb.com/title/tt0310793/quotes",
+    "verification": "transcript",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "shock-rock-tender",
+      "documentary"
+    ]
+  },
+  {
+    "id": "mus-corgan-shapeshifter",
+    "quote": "Let's just say I was with somebody once and I saw a transformation that I can't explain.",
+    "answer": {
+      "name": "Billy Corgan",
+      "alias": "The Smashing Pumpkins frontman",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Alex Jones",
+        "fictional": false
+      },
+      {
+        "name": "Tom DeLonge",
+        "fictional": false
+      },
+      {
+        "name": "Bugs Bunny",
+        "fictional": true
+      }
+    ],
+    "source": "The Howard Stern Show, Oct 2017, on meeting a shapeshifter",
+    "note": "He insisted he was totally sober. The shapeshifter was, he later implied, naked.",
+    "url": "https://stereogum.com/?p=1967483",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "paranormal"
+    ]
+  },
+  {
+    "id": "mus-cobain-pete-townshend",
+    "quote": "Hope I die before I turn into Pete Townshend.",
+    "answer": {
+      "name": "Kurt Cobain",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Johnny Rotten",
+        "fictional": false
+      },
+      {
+        "name": "Eddie Vedder",
+        "fictional": false
+      },
+      {
+        "name": "Bart Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "BAM magazine interview, 10 Jan 1992",
+    "note": "Townshend wrote \"Hope I die before I get old.\" Only one of them did.",
+    "url": "https://en.wikiquote.org/wiki/Kurt_Cobain",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "grunge",
+      "dark"
+    ]
+  },
+  {
+    "id": "mus-ozzy-bat-plush",
+    "quote": "Today marks the 37th Anniversary since I bit a head off a f*cking bat! Celebrate with this commemorative plush with detachable head.",
+    "answer": {
+      "name": "Ozzy Osbourne",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Marilyn Manson",
+        "fictional": false
+      },
+      {
+        "name": "Dracula",
+        "fictional": true
+      },
+      {
+        "name": "Steve Irwin",
+        "fictional": false
+      }
+    ],
+    "source": "Tweet, 20 Jan 2019",
+    "note": "The $40 plush sold out. He got rabies shots in 1982.",
+    "url": "https://consequence.net/2019/01/ozzy-osbourne-bat-biting-plush-toy",
+    "verification": "reputable-secondary",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "metal",
+      "tweet",
+      "merch"
+    ]
+  },
+  {
+    "id": "mus-alice-cooper-womans-name",
+    "quote": "He has a woman's name and wears makeup. How original.",
+    "answer": {
+      "name": "Alice Cooper",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gene Simmons",
+        "fictional": false
+      },
+      {
+        "name": "RuPaul",
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "fictional": true
+      }
+    ],
+    "source": "On Marilyn Manson, quoted in Celebrity Diss and Tell (2005)",
+    "note": "Alice Cooper is a man who wears makeup.",
+    "url": "https://en.wikiquote.org/wiki/Alice_Cooper",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "shock-rock"
+    ]
+  },
+  {
+    "id": "mus-gene-simmons-know-it-all",
+    "quote": "I think I know it all, relatively speaking.",
+    "answer": {
+      "name": "Gene Simmons",
+      "alias": "The KISS bassist with the tongue",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "fictional": false
+      },
+      {
+        "name": "Ted Nugent",
+        "fictional": false
+      },
+      {
+        "name": "Lisa Simpson",
+        "fictional": true
+      }
+    ],
+    "source": "Esquire, \"What I've Learned\", July 2002",
+    "note": "Same interview: \"You can't buy love with money.\"",
+    "url": "https://en.wikiquote.org/wiki/Gene_Simmons",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "ego",
+      "rock"
+    ]
+  },
+  {
+    "id": "mus-paris-dont-be-boring",
+    "quote": "The only rule is don't be boring and dress cute wherever you go. Life is too short to blend in.",
+    "answer": {
+      "name": "Paris Hilton",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "fictional": false
+      },
+      {
+        "name": "Coco Chanel",
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "fictional": false
+      }
+    ],
+    "source": "Confessions of an Heiress (2004), p. 53",
+    "note": "The line is in the Oxford Dictionary of Quotations.",
+    "url": "https://en.wikiquote.org/wiki/Paris_Hilton",
+    "verification": "wikiquote-sourced",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "shallow-profound",
+      "reality-tv"
+    ]
+  },
+  {
+    "id": "mus-strauss-second-rate",
+    "quote": "I may not be a first-rate composer, but I am a first-class second-rate composer.",
+    "answer": {
+      "name": "Richard Strauss",
+      "alias": "The composer of the 2001: A Space Odyssey fanfare",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ringo Starr",
+        "fictional": false
+      },
+      {
+        "name": "Antonio Salieri",
+        "fictional": false
+      },
+      {
+        "name": "Chad Kroeger",
+        "fictional": false
+      }
+    ],
+    "source": "Quoted in Michael Kennedy, Richard Strauss (1995), p. 111",
+    "note": "His Ten Golden Rules for conductors: never look encouragingly at the brass.",
+    "url": "https://en.wikiquote.org/wiki/Richard_Strauss",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-humble",
+      "classical"
+    ]
+  },
+  {
+    "id": "mus-sunra-another-dimension",
+    "quote": "I am of another dimension. I am on this planet because people need me.",
+    "answer": {
+      "name": "Sun Ra",
+      "alias": "The jazz bandleader who said he was from Saturn",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Superman",
+        "fictional": true
+      },
+      {
+        "name": "David Bowie",
+        "fictional": false
+      },
+      {
+        "name": "Thanos",
+        "fictional": true
+      }
+    ],
+    "source": "A&M Records press release, 1989",
+    "note": "He maintained the Saturn story for about fifty years.",
+    "url": "https://en.wikiquote.org/wiki/Sun_Ra",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "jazz",
+      "space"
+    ]
+  },
+  {
+    "id": "mus-liam-fuck-the-sea",
+    "quote": "Fuck the sea. I ain't going in that. Fuck that, mate. That ain't meant for us.",
+    "answer": {
+      "name": "Liam Gallagher",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "fictional": true
+      },
+      {
+        "name": "Noel Gallagher",
+        "fictional": false
+      },
+      {
+        "name": "SpongeBob SquarePants",
+        "fictional": true
+      }
+    ],
+    "source": "Noisey (Vice) interview, Aug 2017",
+    "note": "Same interview: modern buildings look like they came out of a Kinder Egg.",
+    "url": "https://stereogum.com/1956637/more-things-liam-gallagher-thinks-are-shit-cars-buildings-the-sea-modern-rock-bands-harry-styles-debut-single-and-his-stalker-brother-chatting-up-bradley-fuckin-cooper/wheres-the-beef",
+    "verification": "reputable-secondary",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-absurd",
+      "britpop"
+    ]
+  },
+  {
+    "id": "mus-callas-who-cares",
+    "quote": "What a lovely voice, but who cares?",
+    "answer": {
+      "name": "Maria Callas",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Simon Cowell",
+        "fictional": false
+      },
+      {
+        "name": "Luciano Pavarotti",
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "fictional": true
+      }
+    ],
+    "source": "On hearing a Renata Tebaldi recording; Rasponi, The Last Prima Donnas (1982)",
+    "note": "Tebaldi was her great rival. Callas said the comparison was champagne versus Coca-Cola.",
+    "url": "https://en.wikiquote.org/wiki/Maria_Callas",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "genius-petty",
+      "opera"
+    ]
+  },
+  {
+    "id": "mus-courtney-sell-out",
+    "quote": "If you don't 'sell out,' guess what? An asshole will.",
+    "answer": {
+      "name": "Courtney Love",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Andy Warhol",
+        "fictional": false
+      },
+      {
+        "name": "Gene Simmons",
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "fictional": true
+      }
+    ],
+    "source": "24 Hours of Love, MTV2 special, 21 Sep 2005",
+    "note": "Same special: \"We choose convenience over individuality every time.\"",
+    "url": "https://en.wikiquote.org/wiki/Courtney_Love",
+    "verification": "wikiquote-sourced",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "shallow-profound",
+      "grunge",
+      "business"
+    ]
+  }
+]
