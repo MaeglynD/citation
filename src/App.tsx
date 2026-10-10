@@ -7,6 +7,7 @@ import { FontTest } from './scene/FontTest'
 import { useGame } from './game/store'
 import { useSettings } from './game/settings'
 import { audio } from './audio/engine'
+import { recordings, type MusicScene } from './audio/recordings'
 import './game/input'
 import { BG } from './scene/palette'
 import quotes from './data/quotes.json'
@@ -94,8 +95,20 @@ function Input() {
 export function App() {
   useEffect(() => {
     useGame.setState({ all: quotes as unknown as Quote[] })
+    let warmTimer: number | undefined
+    const musicScene = (): MusicScene => useGame.getState().screen === 'play' ? 'main' : useGame.getState().screen === 'summary' ? 'results' : 'menu'
+    const warmMusic = () => {
+      window.clearTimeout(warmTimer)
+      // Let the scene and fonts load first. Respect mute and metered connections.
+      warmTimer = window.setTimeout(() => {
+        const st = useSettings.getState()
+        const connection = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection
+        if (document.hidden || st.muted || st.volume === 0 || connection?.saveData || ['slow-2g', '2g'].includes(connection?.effectiveType ?? '')) return
+        void recordings.preloadMusic(st.theme, musicScene())
+      }, 1200)
+    }
     // keep the audio engine in step with the saved settings
-    const sync = () => { const st = useSettings.getState(); audio.configure({ theme: st.theme, volume: st.volume, muted: st.muted }) }
+    const sync = () => { const st = useSettings.getState(); audio.configure({ theme: st.theme, volume: st.volume, muted: st.muted }); warmMusic() }
     sync()
     const unlock = () => {
       audio.resume(); audio.startMusic()
@@ -105,10 +118,11 @@ export function App() {
     window.addEventListener('pointerdown', unlock, true)
     window.addEventListener('keydown', unlock, true)
     const settings = useSettings.subscribe(sync)
-    const scene = () => audio.setScene(useGame.getState().screen === 'play' ? 'main' : useGame.getState().screen === 'summary' ? 'results' : 'menu')
+    const scene = () => { audio.setScene(musicScene()); warmMusic() }
     scene()
     const game = useGame.subscribe((s, prev) => { if (s.screen !== prev.screen) scene() })
     return () => {
+      window.clearTimeout(warmTimer)
       settings(); game()
       window.removeEventListener('pointerdown', unlock, true)
       window.removeEventListener('keydown', unlock, true)

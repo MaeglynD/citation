@@ -60,6 +60,16 @@ python scripts/prepare-suno-audio.py <directory-containing-the-original-WAVs>
 
 Browsers require a click, tap or keypress to unlock audio; hovering alone does not. Music ducks under dialogue and verdict cues, pauses in hidden tabs, and preserves its phrase when moving between the menu and questions. Dialogue uses an original grainy nonsense voice with a distinct timbre per quote.
 
+The current scene's music starts a low-priority compressed download after a 1.2-second startup delay. This creates no audio context or playback, and is skipped for mute, zero volume, hidden tabs, Data Saver and 2G connections. Playback shares that request and decodes the track once; menu and gameplay share one buffer. The results track stays lazy. Unsupported codecs are skipped before downloading, and a failed speculative request can be retried during playback. UI sounds are synthesized locally and the three recorded verdict cues are small, separately loaded files.
+
+## Branding and loading
+
+The favicon uses the game's cream speech bubble and pink question mark. The README wordmark uses the actual mystery portrait and Press Start 2P outlines, so GitHub needs no external font. Its gameplay screenshot is supplied by the project owner.
+
+`python scripts/prepare-branding.py` (Python with `fontTools`, plus Node and the installed npm dependencies) regenerates the wordmark and the two production WOFF fonts. WOFF compression preserves every glyph; the original TTFs and license notices remain in `public/fonts/`. Troika supports WOFF, but not WOFF2.
+
+The HTML preloads the production fonts. Vite gives them and the JavaScript chunks content hashes; `public/_headers` lets browsers cache these immutable assets for a year. Editable HTML and the audio manifest/recordings revalidate, preventing stale releases. Portrait textures are generated locally on demand, so the cast does not require hundreds of image downloads. The two music tracks and three recorded cues use about 2.02 MB in Ogg format altogether; the menu/gameplay loop is about 1.25 MB. MP3 alternatives are downloaded only when needed.
+
 ## Verification
 
 Start with:

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Citation Needed
+<a href="https://citation.party"><img src="md/assets/logo.svg" alt="Citation Needed!" width="672" /></a>
 
 **One real quote. Four suspects. One of them actually said it.**
 
@@ -15,7 +15,7 @@ A little pixel-art quiz about very questionable first impressions.
 
 </div>
 
-[![A round of Citation Needed, with a pixel portrait, a quote and four possible speakers.](md/assets/gameplay.png)](https://citation.party)
+[![A correct answer revealed in Citation Needed: the KISS bassist with the tongue.](md/assets/gameplay.png)](https://citation.party)
 
 ## The game
 

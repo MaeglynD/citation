@@ -1,0 +1,10 @@
+# Only content-addressed files get a permanent browser cache.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Revalidate editable files so new releases don't leave stale settings or music.
+/audio/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+/
+  Cache-Control: public, max-age=0, must-revalidate

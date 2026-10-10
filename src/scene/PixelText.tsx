@@ -1,12 +1,14 @@
 import { forwardRef, useLayoutEffect, useRef } from 'react'
 import { Text } from '@react-three/drei'
 import * as THREE from 'three'
+import pressFont from '../assets/fonts/PressStart2P-Regular.woff'
+import dialogueFont from '../assets/fonts/VT323-Regular.woff'
 
 export const FONTS = {
   // 8px grid arcade font: headings, options, stamps.
-  press: '/fonts/PressStart2P-Regular.ttf',
+  press: pressFont,
   // 16px grid terminal font: long quotes (narrow, so more characters per line).
-  vt: '/fonts/VT323-Regular.ttf',
+  vt: dialogueFont,
   // 5px grid: tiny labels.
   micro: '/fonts/Micro5-Regular.ttf',
   // 10px grid display font.
