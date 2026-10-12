@@ -1,8 +1,7 @@
 import { useEffect, useMemo } from 'react'
 import { useFrame, useThree } from '@react-three/fiber'
 import * as THREE from 'three'
-import { useGame } from '../game/store'
-import { calculateView } from '../game/view'
+import { useGame, FRAME_MAX_W, FRAME_MAX_H } from '../game/store'
 import { useSettings, MAX_CSS_PX } from '../game/settings'
 import { currentTheme } from '../themes'
 
@@ -23,7 +22,23 @@ export function PixelPipeline() {
 
   // Derive the virtual resolution from the drawing-buffer size.
   useEffect(() => {
-    setView(calculateView(size.width, size.height, gl.getPixelRatio(), MAX_CSS_PX[sizeSetting]))
+    const dpr = gl.getPixelRatio()
+    const bufW = Math.round(size.width * dpr)
+    const bufH = Math.round(size.height * dpr)
+    const portrait = bufW / bufH < 1.2
+    // Aim for ~360 virtual pixels along the shorter axis (classic 640x360 on a 1080p screen)...
+    const target = portrait ? 400 : 360
+    let scale = Math.max(1, Math.round(Math.min(bufW, bufH) / target))
+    // ...but never let one virtual pixel get bigger than the size setting allows, so on a big
+    // monitor the game stays a comfortable size instead of filling the whole screen.
+    const cap = Math.max(1, Math.floor(MAX_CSS_PX[sizeSetting] * dpr + 1e-6))
+    scale = Math.min(scale, cap, bufW / 320, bufH / (portrait ? 600 : 360))
+    // Even sizes keep the pixel grid aligned to integer world coordinates.
+    const w = Math.max(2, 2 * Math.round(bufW / scale / 2))
+    const h = Math.max(2, 2 * Math.round(bufH / scale / 2))
+    const fw = portrait ? Math.min(w, 400) : Math.min(w, FRAME_MAX_W)
+    const fh = portrait ? Math.min(h, 700) : Math.min(h, FRAME_MAX_H)
+    setView({ w, h, fw, fh, scale, portrait })
   }, [gl, size.width, size.height, setView, sizeSetting])
 
   const target = useMemo(() => {

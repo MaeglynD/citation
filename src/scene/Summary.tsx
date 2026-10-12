@@ -4,8 +4,7 @@ import { useGame, type View } from '../game/store'
 import { useSettings } from '../game/settings'
 import { formatPlayedAt, type AnswerRecord } from '../game/history'
 import type { Quote } from '../game/types'
-import { reviewLayout } from '../game/screen-layout'
-export { reviewLayout } from '../game/screen-layout'
+import { fitText, wrapLines } from '../game/layout'
 import { PixelText, FONTS } from './PixelText'
 import { PixelBox } from './PixelBox'
 import { Bitmap, CHECK, CROSS, QUOTE_OPEN } from './Sprites'
@@ -17,6 +16,19 @@ import { audio } from '../audio/engine'
 import { Surface, Action, Control } from './Surface'
 
 export interface ReviewEntry { quote: Quote; answer: AnswerRecord }
+
+export function reviewLayout(view: View, q: Quote, count: number) {
+  const top = view.fh / 2, bottom = -top, bw = Math.min(view.fw - 28, 540)
+  const perRow = view.portrait ? 5 : 10, slotW = Math.min(50, (bw - 8) / perRow)
+  const lineupY = top - 103, rows = Math.ceil(count / perRow)
+  const fileTop = lineupY - (rows - 1) * 59 - 34, fileBottom = bottom + 44
+  const peopleH = view.portrait ? 108 : 58
+  const sourceH = wrapLines(q.source + ' ↗', (bw - 30) / 6.4) * 16 + 8
+  const fit = fitText(q.quote, bw - 34, Math.max(24, fileTop - fileBottom - peopleH - sourceH - 32))
+  const bh = fit.height + 24, quoteY = fileTop - bh / 2, peopleTop = fileTop - bh - 14
+  const peopleY = peopleTop - 28, sourceY = peopleTop - peopleH - 2
+  return { top, bottom, bw, perRow, slotW, lineupY, fileTop, fileBottom, peopleH, sourceH, fit, bh, quoteY, peopleTop, peopleY, sourceY }
+}
 
 export function Summary() {
   const deck = useGame(s => s.deck), picks = useGame(s => s.picks), results = useGame(s => s.results)
@@ -64,7 +76,6 @@ export function ResultReview({ entries, total, startedAt, since = 0, onPlay, onB
   const pageStart = Math.floor(sel / 10) * 10, shown = entries.slice(pageStart, pageStart + 10)
   const { top, bottom, bw, perRow, slotW, lineupY, fileTop, fileBottom, peopleH, sourceH, fit, bh, quoteY, peopleTop, peopleY, sourceY } = reviewLayout(view, q, shown.length)
   const picked = [q.answer, ...q.decoys].find(p => p.name === entry.answer.picked) ?? { name: entry.answer.picked }
-  const footerY = bottom + (view.portrait ? 25 : 18), footerH = view.portrait ? 38 : 26
   const share = async () => {
     try {
       await navigator.clipboard.writeText('CITATION NEEDED ' + score + '/' + total + '\n'
@@ -109,13 +120,13 @@ export function ResultReview({ entries, total, startedAt, since = 0, onPlay, onB
       <SourceLink url={q.url} x={0} y={sourceY - sourceH / 2} w={bw} h={sourceH} />
     </group>
     {onBack && <>
-      <Action x={-bw / 2 + 28} y={footerY} w={46} h={footerH} label="<" onClick={() => move(-1)} disabled={entries.length < 2} />
-      <Action x={0} y={footerY} w={146} h={footerH} label="BACK TO GAMES" primary onClick={onBack} />
-      <Action x={bw / 2 - 28} y={footerY} w={46} h={footerH} label=">" onClick={() => move(1)} disabled={entries.length < 2} />
+      <Action x={-bw / 2 + 28} y={bottom + 18} w={46} h={26} label="<" onClick={() => move(-1)} disabled={entries.length < 2} />
+      <Action x={0} y={bottom + 18} w={146} h={26} label="BACK TO GAMES" primary onClick={onBack} />
+      <Action x={bw / 2 - 28} y={bottom + 18} w={46} h={26} label=">" onClick={() => move(1)} disabled={entries.length < 2} />
     </>}
     {!onBack && <>
-      <Action x={-74} y={footerY} w={136} h={footerH} label="PLAY AGAIN" primary onClick={onPlay!} />
-      <Action x={74} y={footerY} w={136} h={footerH} label={copyState} onClick={() => void share()} />
+      <Action x={-74} y={bottom + 18} w={136} h={26} label="PLAY AGAIN" primary onClick={onPlay!} />
+      <Action x={74} y={bottom + 18} w={136} h={26} label={copyState} onClick={() => void share()} />
       <Confetti burstKey={score > 0 ? 'summary' : null} since={since} delay={.2} x={0} y={top - 70} spread={bw * .85} />
     </>}
   </group>

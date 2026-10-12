@@ -32,12 +32,12 @@ function ClickCatcher() {
   )
 }
 
-function MuteButton({ x, y, hitSize }: { x: number; y: number; hitSize: number }) {
+function MuteButton({ x, y }: { x: number; y: number }) {
   const pal = usePalette()
   const muted = useSettings((s) => s.muted)
   const toggle = useGame((s) => s.toggleMute)
   return (
-    <Control x={x} y={y} w={hitSize} h={hitSize} z={5} onClick={toggle}>{hot => <>
+    <Control x={x} y={y} w={22} h={20} z={5} onClick={toggle}>{hot => <>
       <Surface x={0} y={0} w={22} h={20} z={5} fill={pal.bg} stroke={hot ? pal.accent : pal.dim} />
       <Bitmap rows={muted ? SPEAKER_OFF : SPEAKER_ON} x={0} y={0} z={5.1} color={hot ? pal.accent : muted ? pal.dim : pal.muted} />
     </>}</Control>
@@ -47,14 +47,13 @@ function MuteButton({ x, y, hitSize }: { x: number; y: number; hitSize: number }
 function Corner() {
   const view = useGame((s) => s.view)
   const screen = useGame(s => s.screen)
-  const phone = view.portrait, hitSize = phone ? 44 : 28
-  const x = view.fw / 2 - (phone ? 26 : 18)
-  const y = view.fh / 2 - (phone ? 26 : 15)
+  const x = view.fw / 2 - 18
+  const y = view.fh / 2 - 15
   return (
     <group>
-      <MuteButton x={x} y={y} hitSize={hitSize} />
-      <GearButton x={x - (phone ? 48 : 28)} y={y} hitSize={hitSize} />
-      {screen !== 'title' && <Action x={-view.fw / 2 + 33} y={y} w={48} h={phone ? 32 : 20} z={5} label="MENU" onClick={() => useGame.getState().menu()} />}
+      <MuteButton x={x} y={y} />
+      <GearButton x={x - 28} y={y} />
+      {screen !== 'title' && <Action x={-view.fw / 2 + 33} y={y} w={48} h={20} z={5} label="MENU" onClick={() => useGame.getState().menu()} />}
     </group>
   )
 }

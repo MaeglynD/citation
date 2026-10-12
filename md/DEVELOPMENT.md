@@ -62,10 +62,6 @@ Browsers require a click, tap or keypress to unlock audio; hovering alone does n
 
 The current scene's music starts a low-priority compressed download after a 1.2-second startup delay. This creates no audio context or playback, and is skipped for mute, zero volume, hidden tabs, Data Saver and 2G connections. Playback shares that request and decodes the track once; menu and gameplay share one buffer. The results track stays lazy. Unsupported codecs are skipped before downloading, and a failed speculative request can be retried during playback. UI sounds are synthesized locally and the three recorded verdict cues are small, separately loaded files.
 
-Settings offers Violet (the default), Mint, Coral and Midnight. Palette definitions live in `src/themes/palettes.ts`; they recolour the same scene and share portrait textures. Visual preferences persist independently of the `arcade` soundtrack, so switching colours does not interrupt the music.
-
-`src/game/view.ts` selects the virtual frame; `src/game/screen-layout.ts` measures gameplay and results. Phones and square tablets use stacked content with a 2×2 answer grid. The canvas respects safe-area insets, mobile controls have larger hit areas, and result names reserve their wrapped height. Short screens scroll vertically rather than squeezing text below its pixel grid. `npm test` checks all quotes across representative viewport sizes and pixel densities, full and partial results, palette contrast and preference persistence.
-
 ## Branding and loading
 
 The favicon uses the game's cream speech bubble and pink question mark. The README wordmark uses the actual mystery portrait and Press Start 2P outlines, so GitHub needs no external font. Its gameplay screenshot is supplied by the project owner.

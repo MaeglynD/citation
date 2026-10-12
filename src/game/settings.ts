@@ -1,8 +1,7 @@
 import { create } from 'zustand'
-import { themeById } from '../themes/palettes'
 
 /**
- * Player preferences, persisted per browser: the visual palette,
+ * Player preferences, persisted per browser: the stable soundtrack id,
  * one volume, the display size, and mute.
  */
 
@@ -30,11 +29,12 @@ function load(): Settings {
     if (!raw) return { ...DEFAULTS }
     const saved = JSON.parse(raw)
     const s: Settings = { ...DEFAULTS }
-    s.theme = themeById(saved.theme).id
+    // Old visual choices migrate to the single game identity.
     if (Number.isFinite(saved.volume)) s.volume = Math.max(0, Math.min(5, Math.round(saved.volume)))
     else if (typeof saved.music === 'number') s.volume = Math.max(0, Math.min(5, Math.round(saved.music)))
     if (SIZE_ORDER.includes(saved.size)) s.size = saved.size
     if (typeof saved.muted === 'boolean') s.muted = saved.muted
+    if (s.theme === 'classic') s.theme = 'arcade'
     return s
   } catch {
     return { ...DEFAULTS }
@@ -60,7 +60,7 @@ export const useSettings = create<SettingsStore>((set, get) => ({
   open: false,
   setOpen: (open) => set({ open }),
   update: (patch) => {
-    set({ ...patch, ...(patch.theme !== undefined ? { theme: themeById(patch.theme).id } : {}) })
+    set({ ...patch, theme: 'arcade' })
     const { theme, volume, size, muted } = get()
     save({ theme, volume, size, muted })
   },

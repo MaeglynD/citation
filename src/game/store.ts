@@ -18,7 +18,8 @@ export interface View {
   portrait: boolean
 }
 
-export { FRAME_MAX_W, FRAME_MAX_H } from './view'
+export const FRAME_MAX_W = 576
+export const FRAME_MAX_H = 400
 
 export interface Fx {
   shakeUntil: number
