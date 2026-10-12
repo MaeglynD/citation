@@ -33,43 +33,52 @@ export function saveSeen(seen: Set<string>) {
 }
 
 /**
- * Pick a deck of distinct quotes: unseen first, no repeated answer, and
- * at most a few per theme so a single deck doesn't feel samey.
+ * Unseen material always comes before repeats. Within each pool, give the
+ * strongest editorial tier first billing, with fresh shuffles on every game.
+ * Start with up to three accessible openers, then mix themes and speakers.
  */
-export function buildDeck(all: Quote[], seen: Set<string>, n = ROUNDS): Quote[] {
-  if (all.length === 0) return []
+export function buildDeck(all: Quote[], seen: Set<string>, n = ROUNDS, rnd = Math.random): Quote[] {
+  if (all.length === 0 || n <= 0) return []
   let pool = all.filter((q) => !seen.has(q.id))
   if (pool.length === 0) {
     seen.clear()
     pool = all.slice()
   }
-  const candidates = [...shuffle(pool), ...shuffle(all.filter(q => seen.has(q.id)))]
+  // A stable sort preserves the shuffle within each tier.
+  const rank = (quotes: Quote[]) => shuffle(quotes, rnd).sort((a, b) => (b.priority ?? 0) - (a.priority ?? 0))
+  const unseen = rank(pool)
+  const repeats = rank(all.filter(q => seen.has(q.id)))
   const deck: Quote[] = []
+  const usedIds = new Set<string>()
   const usedAnswers = new Set<string>()
   const themeCount = new Map<string, number>()
   const theme = (q: Quote) => q.tags[0] ?? 'misc'
   const perThemeCap = Math.max(2, Math.ceil(n / 4))
 
-  for (const q of candidates) {
-    if (deck.length >= n) break
-    if (usedAnswers.has(q.answer.name)) continue
+  const add = (q: Quote, capThemes = true, uniqueSpeaker = true): boolean => {
+    if (deck.length >= n || usedIds.has(q.id)) return false
+    if (uniqueSpeaker && usedAnswers.has(q.answer.name)) return false
     const t = theme(q)
-    if ((themeCount.get(t) ?? 0) >= perThemeCap) continue
+    if (capThemes && (themeCount.get(t) ?? 0) >= perThemeCap) return false
     deck.push(q)
+    usedIds.add(q.id)
     usedAnswers.add(q.answer.name)
     themeCount.set(t, (themeCount.get(t) ?? 0) + 1)
+    return true
   }
-  // Relax the theme cap if the pool is lopsided.
-  for (const q of candidates) {
-    if (deck.length >= n) break
-    if (deck.includes(q) || usedAnswers.has(q.answer.name)) continue
-    deck.push(q)
-    usedAnswers.add(q.answer.name)
+
+  const openingThemes = new Set<string>()
+  for (const q of unseen) {
+    if (deck.length >= Math.min(3, n)) break
+    if (!q.opener || openingThemes.has(theme(q))) continue
+    if (add(q)) openingThemes.add(theme(q))
   }
-  // A small custom pool may have fewer unique speakers than rounds.
-  for (const q of candidates) {
-    if (deck.length >= n) break
-    if (!deck.includes(q)) deck.push(q)
+
+  for (const candidates of [unseen, repeats]) {
+    for (const q of candidates) add(q)
+    // Exhaust fresh material before using repeats, even in a lopsided pool.
+    for (const q of candidates) add(q, false)
+    for (const q of candidates) add(q, false, false)
   }
   return deck
 }

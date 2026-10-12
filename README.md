@@ -16,8 +16,8 @@
 
 Read a quote, meet the suspects, and pick its unlikely source. Ten rounds later, revisit your spectacular deductions—and spectacular mistakes (with citations for every answer)
 
-- **611 quotes.** Historical figures, fictional characters and people you probably weren't expecting.
-- **A cast of 853.** A pixel portrait for every answer and decoy, with springy cards, confetti and expressive reveals.
+- **658 quotes.** Historical figures, fictional characters and people you probably weren't expecting. A curated opening puts the strongest surprises first.
+- **A cast of 881.** A pixel portrait for every answer and decoy, with springy cards, confetti and expressive reveals.
 - **Sound with character.** Original interface sounds, chattering dialogue and a playful soundtrack.
 - **Your own pace.** No timer. Play with a mouse, keyboard or touch; keep your past games in the browser.
 - **Straight into the game.** No account, backend or API key required.

@@ -7,17 +7,42 @@ async function moduleAt(path) {
 }
 const { buildDeck, buildOptions } = await moduleAt('src/game/deck.ts')
 const quotes = JSON.parse(fs.readFileSync('src/data/quotes.json', 'utf8'))
+const random = seed => () => ((seed = (Math.imul(seed, 1664525) + 1013904223) >>> 0) / 2 ** 32)
+const openingQuotes = new Set()
 for (let i = 0; i < 500; i++) {
-  const deck = buildDeck(quotes, new Set())
+  const deck = buildDeck(quotes, new Set(), 10, random(i + 1))
   assert.equal(deck.length, 10)
   assert.equal(new Set(deck.map(q => q.id)).size, 10)
   assert.equal(new Set(deck.map(q => q.answer.name)).size, 10)
+  assert(deck.every(q => q.priority === 2), 'Fresh games lead with the strongest collection')
+  assert(deck.slice(0, 3).every(q => q.opener), 'The first three rounds use accessible openers')
+  assert.equal(new Set(deck.slice(0, 3).map(q => q.tags[0])).size, 3, 'Opening themes vary')
+  for (const q of deck) assert(deck.filter(other => other.tags[0] === q.tags[0]).length <= 3, 'No theme dominates a fresh game')
+  openingQuotes.add(deck[0].id)
   for (const q of deck) {
     const options = buildOptions(q)
     assert.equal(options.length, 4)
     assert.equal(options.filter(o => o.correct).length, 1)
     assert.equal(options.find(o => o.correct).person.name, q.answer.name)
   }
+}
+assert(openingQuotes.size > 8, 'Fresh visits must not have a fixed opening script')
+assert.deepEqual(buildDeck(quotes, new Set(), 10, random(42)), buildDeck(quotes, new Set(), 10, random(42)), 'Seeded selection is reproducible')
+
+// Small, deliberately awkward pools separate editorial billing from freshness.
+const fixture = (id, priority, theme = 'test', speaker = id, opener = false) => ({ ...quotes[0], id, priority, opener, tags: [theme], answer: { name: speaker } })
+const rankedPool = [fixture('ordinary'), fixture('featured', 1), fixture('headliner', 2)]
+assert.deepEqual(buildDeck(rankedPool, new Set(), 3, random(42)).map(q => q.id), ['headliner', 'featured', 'ordinary'])
+assert.deepEqual(buildDeck(rankedPool, new Set(['headliner', 'featured']), 3, random(42)).map(q => q.id), ['ordinary', 'headliner', 'featured'], 'Unseen ordinary quotes beat seen headliners')
+const lopsided = [fixture('fresh-a', undefined, 'same', 'same'), fixture('fresh-b', undefined, 'same', 'same'), fixture('seen-hit', 2, 'other', 'other', true)]
+assert.deepEqual(buildDeck(lopsided, new Set(['seen-hit']), 3, random(42)).slice(0, 2).map(q => q.id).sort(), ['fresh-a', 'fresh-b'], 'Use every unseen quote before repeating, even if it means repeating a speaker')
+assert.equal(buildDeck(lopsided, new Set(), 1, random(42))[0].id, 'seen-hit', 'One-round decks honour the opener')
+assert.deepEqual(buildDeck(quotes, new Set(), 0), [])
+const openingHistory = new Set()
+for (let game = 0; game < 5; game++) {
+  const deck = buildDeck(quotes, openingHistory, 10, random(game + 700))
+  assert(deck.every(q => !openingHistory.has(q.id) && q.priority), 'The first five games remain curated and fresh')
+  deck.forEach(q => openingHistory.add(q.id))
 }
 const first = buildDeck(quotes, new Set())
 const seen = new Set(first.map(q => q.id))
@@ -76,5 +101,5 @@ globalThis.localStorage.getItem=()=>{throw new Error('storage blocked')}
 assert.deepEqual(loadGames(),[])
 delete globalThis.localStorage
 await import('./validate-quotes.mjs')
-console.log('Passed 500 deck simulations, answer integrity, unseen priority, exhausted and small-pool cases.')
+console.log('Passed 500 seeded deck simulations, opener variety, editorial tiers, five fresh curated games, answer integrity, unseen priority, exhausted and small-pool cases.')
 console.log('History passed: per-game upserts, completion, legacy migration, validation, ordering, bounds and blocked storage.')

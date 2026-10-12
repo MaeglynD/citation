@@ -1435,6 +1435,25 @@ function drawRobot(p: Pix, s: PortraitSpec, frame: Frame) {
   const kind = (s.kind ?? 'boxy').toLowerCase()
   const M = ramp(colour(s.color, kind === 'bender' ? 0x9aa6b8 : 0xa8b2c4))
   const glow = colour(s.color2, kind === 'terminator' ? 0xff3030 : 0x8fd3ff)
+  if (kind === 'glados') {
+    // Suspended white shell, articulated neck and a single amber camera eye.
+    p.rect(18, 0, 5, 12, 0x46465a)
+    for (const x of [11, 27]) {
+      p.rect(x, 0, 2, 18, 0x2b2934)
+      p.rect(x < 20 ? x : x - 3, 17, 5, 2, 0x46465a)
+    }
+    p.ellipse(20, 12, 7, 5, M.lo)
+    p.trap(13, 25, 15, 25, 19, 29, M.base)
+    p.rect(24, 18, 4, 12, M.lo)
+    p.trap(25, 40, 10, 28, 14, 25, M.base)
+    p.span(25, 11, 27, M.hi)
+    p.rect(12, 29, 14, 8, 0x2b2934)
+    p.ellipse(19, 33, 4, 3, 0x15111e)
+    p.ellipse(19, 33, frame === 'talk' ? 3 : 2, frame === 'blink' ? 1 : 2, glow)
+    if (frame !== 'blink') p.set(18, 32, 0xfff6d0)
+    p.span(40, 16, 23, M.lo)
+    return
+  }
   for (let y = 38; y < PH; y++) { const w = y === 38 ? 10 : y === 39 ? 14 : 16; for (let x = Math.ceil(19.5 - w); x <= Math.floor(19.5 + w); x++) p.set(x, y, x > 31 ? M.lo : M.base) }
   if (kind === 'bender') {
     for (let y = 9; y <= 36; y++) { const w = y < 12 ? 6 + (y - 9) : 9; for (let x = Math.ceil(19.5 - w); x <= Math.floor(19.5 + w); x++) p.set(x, y, x > 26 ? M.lo : M.base) }
@@ -1556,6 +1575,18 @@ function drawObject(p: Pix, s: PortraitSpec, frame: Frame) {
   const B = colour(s.color2, kind === 'document' ? 0x2b2934 : 0xe8b83a)
   const face = s.extras?.includes('face')
   switch (kind) {
+    case 'park-sign': {
+      // A park-service sign, with a mountain and evergreen inside the shield.
+      p.trap(6, 31, 7, 32, 9, 30, 0x7a4a2a)
+      p.trap(31, 44, 9, 30, 19, 20, 0x7a4a2a)
+      p.trap(9, 30, 10, 29, 11, 28, 0x3d6546)
+      p.trap(30, 39, 11, 28, 19, 20, 0x3d6546)
+      p.trap(15, 24, 16, 17, 11, 23, 0xf1e2c2)
+      p.rect(23, 22, 2, 12, 0x2b2934)
+      p.trap(13, 27, 23, 24, 18, 29, 0x203d2a)
+      p.text('NPS', 14, 9, 0xf1e2c2)
+      return
+    }
     case 'book': {
       p.rect(9, 7, 22, 33, A.base); for (let y = 7; y < 40; y++) { p.set(9, y, A.dk); p.set(10, y, A.lo) } p.rect(11, 38, 20, 3, 0xf1e2c2); p.span(41, 10, 31, A.dk)
       drawSymbol(p, s.symbol, 20.5, 18, B)

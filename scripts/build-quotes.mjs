@@ -83,8 +83,9 @@ function normQuote(s) {
 // Editorial overrides: research/overrides.json maps id -> partial record (or null to drop the quote).
 const overridesFile = path.join(researchDir, 'overrides.json')
 const overrides = fs.existsSync(overridesFile) ? JSON.parse(fs.readFileSync(overridesFile, 'utf8')) : {}
+const curation = JSON.parse(fs.readFileSync(path.join(researchDir, 'curation.json'), 'utf8'))
 
-const files = fs.readdirSync(researchDir).filter((f) => f.endsWith('.json') && f !== 'overrides.json').sort()
+const files = fs.readdirSync(researchDir).filter((f) => f.endsWith('.json') && !['overrides.json', 'curation.json'].includes(f)).sort()
 const all = []
 const problems = []
 for (const f of files) {
@@ -122,7 +123,7 @@ for (const f of files) {
       source: String(r.source ?? '').trim().slice(0, 96),
       note: r.note ? String(r.note).trim().slice(0, 110) : undefined,
       tags: Array.isArray(r.tags) ? r.tags.map(String) : [f.replace('.json', '')],
-      theme: f.replace('.json', ''),
+      theme: r.theme ?? f.replace('.json', ''),
       url: r.url,
       verification: r.verification,
       confidence: r.confidence,
@@ -171,7 +172,15 @@ for (const q of deduped) {
 }
 
 // Output (strip research-only fields).
-const out = deduped.map(({ verification, confidence, theme, ...q }) => ({ ...q, tags: [theme, ...q.tags.filter((t) => t !== theme)] }))
+for (const [id, billing] of Object.entries(curation)) {
+  const q = deduped.find(q => q.id === id)
+  if (!q) throw new Error(`Curation refers to an absent quote: ${id}`)
+  if (!billing || typeof billing !== 'object' || Object.keys(billing).some(key => !['priority', 'opener'].includes(key))) throw new Error(`Invalid curation fields: ${id}`)
+  if (![1, 2].includes(billing.priority)) throw new Error(`Invalid priority: ${id}`)
+  if (billing.opener !== undefined && typeof billing.opener !== 'boolean') throw new Error(`Invalid opener flag: ${id}`)
+  if (billing.opener && (billing.priority !== 2 || q.quote.length > 180)) throw new Error(`Opener must be a short headliner: ${id}`)
+}
+const out = deduped.map(({ verification, confidence, theme, ...q }) => ({ ...q, ...curation[q.id], tags: [theme, ...q.tags.filter((t) => t !== theme)] }))
 fs.mkdirSync(path.dirname(outFile), { recursive: true })
 fs.writeFileSync(outFile, JSON.stringify(out, null, 0) + '\n')
 fs.writeFileSync(peopleFile, JSON.stringify([...people.values()].map(({ aliasFromAnswer, ...p }) => p).sort((a, b) => b.asAnswer + b.asDecoy - (a.asAnswer + a.asDecoy)), null, 1) + '\n')

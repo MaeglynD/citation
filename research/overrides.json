@@ -257,6 +257,9 @@
   },
   "Guy Fawkes": {
    "alias": null
+  },
+  "The CIA": {
+   "alias": null
   }
  },
  "tech-jobs-gates-acid": {
@@ -431,5 +434,42 @@
  },
  "exp-einstein-socks": {
   "note": "His cousin Elsa was also his second wife."
+ },
+ "doc-cia-committees": {
+  "answer": {
+   "name": "The OSS",
+   "alias": "The CIA's wartime predecessor",
+   "fictional": false
+  },
+  "source": "OSS Simple Sabotage Field Manual (1944), section 11(a)(3)",
+  "note": "Wartime sabotage instructions. Your last meeting may sound familiar.",
+  "url": "https://www.cia.gov/static/5c875f3ec660e092cf893f60b4a288df/SimpleSabotage.pdf",
+  "verification": "Primary manual, published by the Office of Strategic Services in 1944. The CIA did not exist until 1947.",
+  "decoys": [
+   {
+    "name": "Michael Scott",
+    "alias": null,
+    "fictional": true
+   },
+   {
+    "name": "Joseph Stalin",
+    "alias": null,
+    "fictional": false
+   },
+   {
+    "name": "Bill Gates",
+    "alias": null,
+    "fictional": false
+   }
+  ]
+ },
+ "toon-dug-just-met-you": {
+  "quote": "I have just met you and I love you."
+ },
+ "exp-newton-sins": {
+  "url": "https://www.newtonproject.ox.ac.uk/view/texts/diplomatic/ALCH00069",
+  "note": "His private list of sins. Original spelling; very specific remorse.",
+  "verification": "Primary Fitzwilliam Notebook transcription, item 13 in the list of sins.",
+  "source": "Fitzwilliam Notebook, list of sins, 1662"
  }
 }

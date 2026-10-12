@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "enc-darwin-hate-everybody",
+    "theme": "experts",
+    "quote": "But I am very poorly today & very stupid & hate everybody & everything.",
+    "answer": {
+      "name": "Charles Darwin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Eeyore",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Franz Kafka",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Charles Lyell, 1 October 1861",
+    "note": "Natural selection was having an off day.",
+    "url": "https://www.darwinproject.ac.uk/letter?docId=letters/DCP-LETT-3272.xml",
+    "verification": "Primary letter, DCP-LETT-3272. Original ampersands retained.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-herzog-chicken",
+    "theme": "arts",
+    "quote": "I have nothing against chicken. I like to eat them but otherwise, they are scary because they are so phenomenally stupid.",
+    "answer": {
+      "name": "Werner Herzog",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Alfred Hitchcock",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Colonel Sanders",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Charles Darwin",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Red Bull Music Academy interview, 2017",
+    "note": "He went on to explain how to hypnotise them. As one does.",
+    "url": "https://www.redbullmusicacademy.com/lectures/werner-herzog-lecture/",
+    "verification": "Host's full interview transcript, response to Todd Burns on chickens. Laughter markers omitted.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-paltrow-cheese",
+    "theme": "arts",
+    "quote": "I'd rather smoke crack than eat cheese from a can.",
+    "answer": {
+      "name": "Gwyneth Paltrow",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Snoop Dogg",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Wallace",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "iTunes Festival cookbook appearance, London, July 2011",
+    "note": "A very specific dietary restriction.",
+    "url": "https://www.salon.com/2011/07/08/gwyneth_paltrow_canned_cheese_crack/",
+    "verification": "Contemporaneous report quoting the cookbook appearance. A joke about food preferences.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-noel-soup",
+    "theme": "music",
+    "quote": "He's like a man with a fork in a world of soup.",
+    "answer": {
+      "name": "Noel Gallagher",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kermit the Frog",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Q magazine interview, 2009; recalled by Radio X",
+    "note": "About Liam. Liam later filmed himself eating soup with a fork.",
+    "url": "https://www.radiox.co.uk/artists/liam-gallagher/liam-gallagher-eats-soup-with-fork-dig-noel/",
+    "verification": "Radio X identifies Q (2009) as the source and reproduces the insult and Liam's 2019 response.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-nixon-pandas",
+    "theme": "politics",
+    "quote": "The problem, however, with pandas is that they don't know how to mate.",
+    "answer": {
+      "name": "Richard Nixon",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "David Attenborough",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Hugh Hefner",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Dr. Evil",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Recorded call to Crosby Noyes, 1972",
+    "note": "The Nixon tapes had a wildlife department.",
+    "url": "https://time.com/3048944/richard-nixon-panda/",
+    "verification": "Transcript excerpt from The Nixon Tapes: 1971-1972, reproduced by TIME. This is Nixon's claim, not zoological guidance.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-franklin-wind",
+    "theme": "politics",
+    "quote": "What Comfort can the Vortices of Descartes give to a Man who has Whirlwinds in his Bowels!",
+    "answer": {
+      "name": "Benjamin Franklin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Isaac Newton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Sigmund Freud",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Shrek",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Letter to the Royal Academy of Brussels, c. 1781",
+    "note": "His proposed research topic: making farts smell like perfume.",
+    "url": "https://humorinamerica.wordpress.com/2012/02/21/fart-proudly/",
+    "verification": "Full text of Franklin's public-domain satirical essay. Original capitalisation retained.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-martha-shank",
+    "theme": "arts",
+    "quote": "The first thing you'll need is a shank. I made mine out of the pintail comb and a pack of gum.",
+    "answer": {
+      "name": "Martha Stewart",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Pablo Escobar",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Snoop Dogg",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "MacGyver",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Comedy Central Roast of Justin Bieber, 2015",
+    "note": "A roast routine. Please do not attempt this craft project.",
+    "url": "https://transcripts.cnn.com/show/ebo/date/2015-03-31/segment/01",
+    "verification": "CNN broadcast transcript at 19:51:15 reproduces Stewart's two sentences. Scripted roast joke, not a prison confession.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-cher-dessert",
+    "theme": "music",
+    "quote": "Like dessert, yeah. A man is absolutely not a necessity.",
+    "answer": {
+      "name": "Cher",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Simone de Beauvoir",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Jane Pauley, Dateline NBC, 1996",
+    "note": "She did clarify that she adores dessert.",
+    "url": "https://www.anothermag.com/fashion-beauty/9846/chers-lessons-in-life-love-and-twitter",
+    "verification": "Dialogue transcription distinguishes Pauley's question from Cher's reply. Only Cher's own words are quoted.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-britney-global-warming",
+    "theme": "music",
+    "quote": "Does anyone think global warming is a good thing? I love Lady Gaga. I think she's a really interesting artist.",
+    "answer": {
+      "name": "Britney Spears",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Greta Thunberg",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Patrick Star",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Twitter Q&A, 10 February 2011",
+    "note": "A Q&A: the Gaga sentence answered a fan. The topic change survived.",
+    "url": "https://www.thepinknews.com/2021/02/10/britney-spears-lady-gaga-global-warming-tweet-explained/",
+    "verification": "Report reproduces the 2011 tweet and explains that two topics were combined during a fan Q&A.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-taylor-mind-alive",
+    "theme": "music",
+    "quote": "I'm not asleep. My mind is alive.",
+    "answer": {
+      "name": "Taylor Swift",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Stephen Hawking",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Salvador Dalí",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "HAL 9000",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Home video shown on The Tonight Show, 3 October 2019",
+    "note": "Recovering from eye surgery. Also negotiating with a banana.",
+    "url": "https://time.com/5692754/taylor-swift-banana-video/",
+    "verification": "Report with Tonight Show footage and exact quotation. Post-LASIK recovery context retained.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-paris-walmart",
+    "theme": "arts",
+    "quote": "What is Wal-Mart? Is it like they sell wall stuff?",
+    "answer": {
+      "name": "Paris Hilton",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "The Simple Life (2003), clip transcribed by CNN",
+    "note": "Hilton said she was kidding. The walls remain unconfirmed.",
+    "url": "https://transcripts.cnn.com/show/lad/date/2003-12-03/segment/12",
+    "verification": "Contemporaneous CNN transcript reproduces the Fox clip and notes Hilton said it was a joke.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-bush-perch",
+    "theme": "politics",
+    "quote": "I would say the best moment of all was when I caught a 7.5-pound perch in my lake.",
+    "answer": {
+      "name": "George W. Bush",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Vladimir Putin",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ernest Hemingway",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Bild am Sonntag interview, May 2006",
+    "note": "Asked for the best moment of his presidency. Chose a fish.",
+    "url": "https://transcripts.cnn.com/show/sm/date/2006-05-07/segment/02",
+    "verification": "CNN's contemporary report quotes the Bild interview. Do not claim that the fish's size/species was independently verified.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-mourinho-eggs",
+    "theme": "sports",
+    "quote": "So when the class one eggs are in Waitrose and you cannot go there, you have a problem.",
+    "answer": {
+      "name": "José Mourinho",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Karl Marx",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Chelsea press conference, September 2007",
+    "note": "He was discussing the transfer budget.",
+    "url": "https://www.skysports.com/football/news/11095/10102554/chelsea-sack-jose-mourinho-the-managers-most-memorable-quotes",
+    "verification": "Sky Sports reproduces the full omelette metaphor and dates it to 2007. Contiguous final sentence.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-boris-buses",
+    "theme": "politics",
+    "quote": "I paint the passengers enjoying themselves on a wonderful bus.",
+    "answer": {
+      "name": "Boris Johnson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bob Ross",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mister Rogers",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kim Jong Il",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "TalkRadio interview, 25 June 2019",
+    "note": "His stated hobby: turning wine crates into model buses.",
+    "url": "https://www.theguardian.com/politics/2019/jun/25/boris-johnson-reveals-he-makes-models-of-buses-to-relax",
+    "verification": "Contemporaneous report and interview clip. Quote ends before his ensuing description of emissions.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-cage-haunted-house",
+    "theme": "arts",
+    "quote": "I did buy the most haunted mansion in New Orleans, which is known as the LaLaurie Mansion.",
+    "answer": {
+      "name": "Nicolas Cage",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Stephen King",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gomez Addams",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Interview with Marilyn Manson, Interview magazine, 2020",
+    "note": "A property search with unusually specific requirements.",
+    "url": "https://www.interviewmagazine.com/film/nicolas-cage-marilyn-manson-in-conversation",
+    "verification": "Primary published conversation. 'Most haunted' is Cage's description, not an independently established property.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-fox-bigfoot",
+    "theme": "arts",
+    "quote": "What distracts me from my reality is bigfoot. They are my celebrities.",
+    "answer": {
+      "name": "Megan Fox",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jane Goodall",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Alex Jones",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Luna Lovegood",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Esquire cover interview, February 2013",
+    "note": "Celebrity culture has a cryptid subdivision.",
+    "url": "https://www.esquire.com/entertainment/interviews/a18000/megan-fox-photos-interview-0213/",
+    "verification": "Primary interview by Stephen Marche; exact two sentences near the end.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-sagan-apple-pie",
+    "theme": "experts",
+    "quote": "If you wish to make an apple pie from scratch, you must first invent the universe.",
+    "answer": {
+      "name": "Carl Sagan",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Martha Stewart",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Willy Wonka",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "GLaDOS",
+        "alias": "GLaDOS (Portal's homicidal AI)",
+        "fictional": true
+      }
+    ],
+    "source": "Cosmos, 'The Lives of the Stars' (1980)",
+    "note": "Prep time: approximately 13.8 billion years.",
+    "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e09&tv-show=cosmos-carl-sagan",
+    "verification": "Episode transcript; also present in the Cosmos book and episode quotation listings.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-austen-husband",
+    "theme": "arts",
+    "quote": "Mrs Hall of Sherbourn was brought to bed yesterday of a dead child, some weeks before she expected, oweing to a fright. I suppose she happened unawares to look at her husband.",
+    "answer": {
+      "name": "Jane Austen",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dorothy Parker",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Letter to Cassandra Austen, 27–28 October 1798",
+    "note": "The Pride and Prejudice author, in private correspondence.",
+    "url": "https://janeaustens.house/object/letter-from-jane-austen-to-cassandra-austen-27-28-october-1798/",
+    "verification": "Museum transcription of the public-domain letter. Original spelling retained; the husband's role is Austen's cruel joke, not a factual cause.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-byron-bear",
+    "theme": "arts",
+    "quote": "I have got a new friend, the finest in the world, a tame Bear, when I bought him here, they asked me what I meant to do with him, and my reply was \"he should sit for a fellowship.\"",
+    "answer": {
+      "name": "Lord Byron",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Theodore Roosevelt",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Hagrid",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Vladimir Putin",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Elizabeth Pigot, 26 October 1807",
+    "note": "Trinity College. An unconventional admissions strategy.",
+    "url": "https://www.trin.cam.ac.uk/about/historical-overview/trinity-in-literature/",
+    "verification": "Trinity College's transcription of Byron's public-domain letter. Uses the college transcription's 'bought'.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-jokic-home",
+    "theme": "sports",
+    "quote": "The job is done. We can go home now.",
+    "answer": {
+      "name": "Nikola Jokić",
+      "alias": "Nikola Jokić",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Neil Armstrong",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "The Terminator",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "On-court interview after winning the 2023 NBA Finals",
+    "note": "Won the championship. Immediately ready to clock out.",
+    "url": "https://www.nba.com/news/24-thoughts-championship-clinching-game-5-2023-finals",
+    "verification": "Official NBA report with video of Finals MVP remarks. Short transcription as printed.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-stafford-floating",
+    "theme": "experts",
+    "quote": "Give me a napkin quick, there's a turd floating through the air.",
+    "answer": {
+      "name": "Thomas Stafford",
+      "alias": "The commander of Apollo 10",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Rick Sanchez",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Han Solo",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Apollo 10 onboard transcript, 133:29:52 (1969)",
+    "note": "Lunar orbit. Neither crewmate claimed responsibility.",
+    "url": "https://apollojournals.org/afj/ap10fj/as10-day6-pt28.html",
+    "verification": "Apollo Flight Journal's corrected onboard transcript, 133:29:52. Speaker is Stafford, not Young or Cernan.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-parks-slower-friend",
+    "theme": "docs",
+    "quote": "If you come across a bear, never push a slower friend down…even if you feel the friendship has run its course.",
+    "answer": {
+      "name": "The National Park Service",
+      "alias": "The US National Park Service",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bear Grylls",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Sun Tzu",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Winnie the Pooh",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "National Park Service tweet, 28 February 2023",
+    "note": "Actual government communications. Friendship clause included.",
+    "url": "https://www.cbsnews.com/news/bear-safety-national-park-service-never-push-a-slower-friend-down/",
+    "verification": "Contemporaneous report embeds the agency tweet; NPS's My Park Story podcast separately interviews author Matt Turner about it.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-hitchcock-eggs",
+    "theme": "arts",
+    "quote": "I'm frightened of eggs, worse than frightened, they revolt me.",
+    "answer": {
+      "name": "Alfred Hitchcock",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Interview with Oriana Fallaci, quoted by Criterion",
+    "note": "The director of Psycho. Breakfast was the real horror.",
+    "url": "https://www.criterion.com/current/posts/2087-chef-du-cinema-the-lady-vanishes",
+    "verification": "Criterion reproduces the Fallaci interview and corroborating remarks to Peter Bogdanovich.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-ron-clear-alcohol",
+    "theme": "toons",
+    "quote": "Clear alcohols are for rich women on diets.",
+    "answer": {
+      "name": "Ron Swanson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ernest Hemingway",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Joseph Stalin",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Parks and Recreation, 'Win, Lose, or Draw' (2012)",
+    "note": "His order was Lagavulin, neat.",
+    "url": "https://tvquot.es/parks-and-recreation/win-lose-or-draw/",
+    "verification": "Episode-specific dialogue listing; confirmed by episode transcript and official Parks and Recreation clip.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-lucille-banana",
+    "theme": "toons",
+    "quote": "How much could a banana cost? Ten dollars?",
+    "answer": {
+      "name": "Lucille Bluth",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Bill Gates",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Marie Antoinette",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Paris Hilton",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Arrested Development, 'Charity Drive' (2003)",
+    "note": "A family banana business did not improve her market research.",
+    "url": "https://www.imdb.com/title/tt0515214/quotes/",
+    "verification": "Episode-specific quotation listing. Short excerpt excludes commonly conflated wording from other retellings.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-holt-cheddar",
+    "theme": "toons",
+    "quote": "And you're not Cheddar, you're just some common bitch!",
+    "answer": {
+      "name": "Captain Raymond Holt",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Martha Stewart",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Brooklyn Nine-Nine, 'HalloVeen' (2017)",
+    "note": "Addressing an impostor corgi.",
+    "url": "https://brooklyn99.fandom.com/wiki/HalloVeen",
+    "verification": "Episode-specific dialogue and plot describe Amy substituting another corgi for Cheddar.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-ford-force-ghost",
+    "theme": "arts",
+    "quote": "I have no fucking idea what a Force ghost is. And I don't care!",
+    "answer": {
+      "name": "Harrison Ford",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Sir Alec Guinness",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Han Solo",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "William Shatner",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "USA Today interview, February 2020",
+    "note": "Han Solo's actor, answering a question about Han Solo.",
+    "url": "https://knowyourmeme.com/news/harrison-ford-shuts-down-star-wars-force-ghost-question",
+    "verification": "Report quotes and links the original USA Today interview; contiguous final two sentences.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-trump-diet-coke",
+    "theme": "politics",
+    "quote": "I have never seen a thin person drinking Diet Coke.",
+    "answer": {
+      "name": "Donald Trump",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Karl Lagerfeld",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Tweet, October 2012",
+    "note": "A soft-drink review with a substantial afterlife.",
+    "url": "https://www.cbsnews.com/newyork/news/donald-trump-diet-coke/",
+    "verification": "CBS reproduces the 2012 tweet alongside a later photograph of Trump with Diet Coke.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-gaddafi-switzerland",
+    "theme": "villains",
+    "quote": "Switzerland is a world mafia, and not a state.",
+    "answer": {
+      "name": "Muammar Gaddafi",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Bernie Sanders",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Al Capone",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ernst Stavro Blofeld",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Reported during Libya's 2009 dispute with Switzerland",
+    "note": "He proposed splitting it between France, Germany and Italy.",
+    "url": "https://www.ipsnews.net/2009/09/politics-libya-brings-focused-agenda-to-un-presidency/",
+    "verification": "Contemporaneous IPS report; Swissinfo independently quotes the proposal. English translation of reported remarks.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-niyazov-bones",
+    "theme": "villains",
+    "quote": "Those of you whose teeth have fallen out did not gnaw on bones. This is my advice.",
+    "answer": {
+      "name": "Saparmurat Niyazov",
+      "alias": "Turkmenistan's president for life",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Steve Irwin",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Televised agricultural academy visit, April 2004",
+    "note": "Turkmenistan's president, dispensing dental advice.",
+    "url": "https://www.cbsnews.com/news/the-odd-truth-april-7-2004/",
+    "verification": "Contemporaneous AP-contributed report, Turkmenistan item. Use its 'gnaw' wording rather than Wikipedia's 'chew'.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-lynch-clown-suit",
+    "theme": "arts",
+    "quote": "And I call this the suffocating rubber clown suit of negativity.",
+    "answer": {
+      "name": "David Lynch",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Stephen King",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Björk",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Joker",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Interview with Lyndsey Parker, October 2018",
+    "note": "His description of stress and anger. Meditation was the exit.",
+    "url": "https://www.lyndsanity.com/music/david-lynch-talks-tm-trump-escaping-the-suffocating-rubber-clown-suit-of-negativity/",
+    "verification": "Interviewer's transcript and audio of her October 2018 Yahoo Entertainment interview, published in full on 16 January 2025.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-kanye-fonts",
+    "theme": "music",
+    "quote": "Tell everyone at the label to either use Gothic or Helvetica fonts for email blasts unless I otherwise approve.",
+    "answer": {
+      "name": "Kanye West",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Steve Jobs",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Patrick Bateman",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Anna Wintour",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Tweet, 4 August 2010",
+    "note": "The revolution will be correctly typeset.",
+    "url": "https://www.thenationalnews.com/arts-culture/music/kanye-west-the-140-carat-star-1.511929",
+    "verification": "Contemporaneous 2010 collection transcribes the tweet. Only one short quotation drawn from this article.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-reagan-bombing",
+    "theme": "politics",
+    "quote": "I'm pleased to tell you today that I've signed legislation that will outlaw Russia forever. We begin bombing in five minutes.",
+    "answer": {
+      "name": "Ronald Reagan",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dr. Strangelove",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Zapp Brannigan",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Radio microphone check, 11 August 1984",
+    "note": "A soundcheck joke. The recording escaped.",
+    "url": "https://cgi.pbs.org/wgbh/amex/reagan/filmmore/transcript/transcript2.html",
+    "verification": "PBS documentary transcript reproduces archival audio. Omitted opening salutation; context explicitly labels it a joke.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-patrick-enigma",
+    "theme": "toons",
+    "quote": "The inner machinations of my mind are an enigma.",
+    "answer": {
+      "name": "Patrick Star",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Sigmund Freud",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Albert Einstein",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Jaden Smith",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "SpongeBob SquarePants, 'The Secret Box' (2001)",
+    "note": "His inner monologue is a carton of milk falling over.",
+    "url": "https://www.youtube.com/watch?v=CmkqPuu8wBU",
+    "verification": "Official Patrick Star channel's episode clip; Nickelodeon's character page independently references the line.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-glados-adoption",
+    "theme": "toons",
+    "quote": "Science has now validated your birth mother's decision to abandon you on a doorstep.",
+    "answer": {
+      "name": "GLaDOS",
+      "alias": "GLaDOS (Portal's homicidal AI)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Richard Dawkins",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gregory House",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Portal 2 (2011), GLaDOS test chamber 3",
+    "note": "Peer review has become personal.",
+    "url": "https://theportalwiki.com/wiki/GLaDOS_voice_lines_(Portal_2)",
+    "verification": "In-game voice line transcript with linked original audio: sp_a2_laser_intro, chamber 3. Sentence excerpt.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-squidward-romance",
+    "theme": "toons",
+    "quote": "That's just a cruel reminder that I'm single, and likely to remain that way forever.",
+    "answer": {
+      "name": "Squidward",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Franz Kafka",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Isaac Newton",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "SpongeBob SquarePants, 'Love That Squid' (2011)",
+    "note": "The offending object was a romance book.",
+    "url": "https://spongebob.fandom.com/wiki/Love_That_Squid/transcript",
+    "verification": "Episode transcript clearly labels Squidward. Preserve 'That's' rather than popular paraphrase 'It's'.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-edison-sleep",
+    "theme": "experts",
+    "quote": "A million years from now we won't go to bed at all. Really, sleep is an absurdity, a bad habit.",
+    "answer": {
+      "name": "Thomas Edison",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Margaret Thatcher",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Dracula",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Interview reported in November 1914; Edison Papers",
+    "note": "Electric lighting wasn't enough. Bedtime had to go.",
+    "url": "https://edison.rutgers.edu/digital-exhibits/edison-science-fiction/science-fiction-09",
+    "verification": "Rutgers Edison Papers reproduces the 1914 quotation. Public-domain historical passage.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-farnsworth-measurement",
+    "theme": "toons",
+    "quote": "No fair! You changed the outcome by measuring it.",
+    "answer": {
+      "name": "Professor Farnsworth",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Erwin Schrödinger",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Albert Einstein",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Futurama, 'The Luck of the Fryrish' (2001)",
+    "note": "He had just lost a bet on a quantum horse race.",
+    "url": "https://futurama.fandom.com/wiki/The_Luck_of_the_Fryrish/Transcript",
+    "verification": "Episode transcript and clip agree; speaker is Farnsworth, after electron-microscope race adjudication.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  },
+  {
+    "id": "enc-babbage-steam",
+    "theme": "tech",
+    "quote": "I wish to God these calculations had been executed by steam.",
+    "answer": {
+      "name": "Charles Babbage",
+      "alias": "The mechanical computer pioneer",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Professor Farnsworth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Isambard Kingdom Brunel",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Linus Torvalds",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Recollection of checking astronomical tables, 1821",
+    "note": "The computer industry began with a complaint.",
+    "url": "https://www.computerhistory.org/babbage/overview/",
+    "verification": "Computer History Museum's historical account; also quoted by Cambridge's Whipple Museum.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-pattinson-clown",
+    "theme": "arts",
+    "quote": "The first time I went to the circus, somebody died.",
+    "answer": {
+      "name": "Robert Pattinson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Werner Herzog",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Joker",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Today interview, 2011; later admitted to be invented",
+    "note": "He made up an exploding-clown story. The quote is real; the clown isn't.",
+    "url": "https://www.eonline.com/news/1410818/robert-pattinson-reveals-he-lied-on-live-tv-about-seeing-a-clown-die-in-an-explosion",
+    "verification": "Report quotes his Today statement and 2024 recollection of fabricating it. Never present the story as a real death.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-ringo-peace-love",
+    "theme": "music",
+    "quote": "I'm warning you with peace and love, I have too much to do.",
+    "answer": {
+      "name": "Ringo Starr",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dalai Lama",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mother Teresa",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Video message on his website, October 2008",
+    "note": "Peace, love, and absolutely no more fan mail.",
+    "url": "https://www.abc.net.au/news/2008-10-14/ringo-too-busy-for-autographs/540830",
+    "verification": "Contemporaneous ABC/Reuters report quotes the video announcement. Punctuation follows its transcription.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-dolly-cheap",
+    "theme": "music",
+    "quote": "It costs a lot of money to look this cheap!",
+    "answer": {
+      "name": "Dolly Parton",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "RuPaul",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Karl Lagerfeld",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Vogue interview with Alex Frank, 10 August 2016",
+    "note": "Her own long-running stage joke, repeated in a Vogue interview.",
+    "url": "https://www.vogue.com/article/dolly-parton-interview-album-tour",
+    "verification": "Primary interview. Parton explicitly quotes her own stage line and discusses using it for over 25 years.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-mariah-lighting",
+    "theme": "music",
+    "quote": "I have a rule which states that I will not be seen in fluorescent lighting without sunglasses.",
+    "answer": {
+      "name": "Mariah Carey",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dracula",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Karl Lagerfeld",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Anna Wintour",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Mariah's World (2016), quoted by Elle",
+    "note": "The ceiling lighting had not been approved by management.",
+    "url": "https://www.elle.com/culture/celebrities/a41333/mariah-carey-loves-lighting/",
+    "verification": "Elle quotes the line from her reality series. Use the exact 19-word sentence, without adding other lines.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-obama-guacamole",
+    "theme": "politics",
+    "quote": "respect the nyt, but not buying peas in guac. onions, garlic, hot peppers. classic.",
+    "answer": {
+      "name": "Barack Obama",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Anthony Bourdain",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "@POTUS tweet, 1 July 2015",
+    "note": "A healthcare Q&A became a presidential intervention in guacamole.",
+    "url": "https://abcnews.com/US/president-obama-buying-york-times-advice-add-peas/story?id=32166743",
+    "verification": "Contemporaneous ABC News report embeds the original tweet. Lowercase spelling preserved.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-hopper-haunting",
+    "theme": "tech",
+    "quote": "I will instantly materialize beside you and I will haunt you for twenty-four hours.",
+    "answer": {
+      "name": "Grace Hopper",
+      "alias": "The computer pioneer and Navy admiral",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "The Grim Reaper",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Gandalf",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Margaret Thatcher",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "NSA lecture, Future Possibilities (1982)",
+    "note": "Her threat to anyone who said: we have always done it that way.",
+    "url": "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/",
+    "verification": "NSA publishes the original lecture video. This sentence is also transcribed, with the surrounding condition, at https://ttamttam.com/blog/grace-hopper/.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-rupaul-drag",
+    "theme": "arts",
+    "quote": "You're born naked, the rest is drag.",
+    "answer": {
+      "name": "RuPaul",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Simone de Beauvoir",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Diogenes of Sinope",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Salon interview with D. Watkins, 24 March 2017",
+    "note": "A wardrobe-based theory of the human condition.",
+    "url": "https://www.salon.com/2017/03/24/watch-rupaul-breaks-down-why-drag-is-a-political-act/",
+    "verification": "Primary filmed interview with transcript. Wording follows the spoken quotation in the article body.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "encore"
+    ]
+  },
+  {
+    "id": "enc-zapp-checkmate",
+    "theme": "toons",
+    "quote": "If we can hit that bullseye, the rest of the dominoes will fall like a house of cards. Checkmate.",
+    "answer": {
+      "name": "Zapp Brannigan",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Boris Johnson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "George W. Bush",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Futurama, 'When Aliens Attack' (1999)",
+    "note": "Four games. One strategy. No survivors of the metaphor.",
+    "url": "https://imsdb.com/transcripts/Futurama-When-Aliens-Attack.html",
+    "verification": "Episode transcript credits this dialogue to Zapp. Also corroborated by the Infosphere episode page; production/broadcast season numbers differ.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "encore",
+      "fictional"
+    ]
+  }
+]
