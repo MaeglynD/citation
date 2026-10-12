@@ -5,6 +5,7 @@ import { PixelBox, type PixelBoxProps } from './PixelBox'
 import { PixelText } from './PixelText'
 import { usePalette } from '../themes'
 import { audio } from '../audio/engine'
+import { useGame } from '../game/store'
 
 /** A crisp face, a dark lower edge, and a one-pixel catchlight. */
 export function Surface({ kind = 'panel', ...p }: PixelBoxProps & { kind?: 'panel' | 'paper' | 'button' }) {
@@ -27,6 +28,7 @@ export function Control({ x, y, w, h, z = 2, focused = false, disabled = false, 
   children: (hot: boolean, down: boolean) => ReactNode
 }) {
   const [over, setOver] = useState(false), [down, setDown] = useState(false)
+  const phone = useGame(s => s.view.portrait)
   const face = useRef<Group>(null), lift = useRef(0), velocity = useRef(0)
   const hot = !disabled && (focused || over)
   useFrame((_, delta) => {
@@ -51,8 +53,9 @@ export function Control({ x, y, w, h, z = 2, focused = false, disabled = false, 
       }}
       onPointerDown={e => { if (!disabled) { e.stopPropagation(); setDown(true) } }}
       onPointerUp={() => setDown(false)}
+      onPointerCancel={() => { setDown(false); setOver(false) }}
       onClick={e => { if (!disabled) { e.stopPropagation(); setDown(false); if (sound) audio.select(); onClick() } }}>
-      <planeGeometry args={[w, h]} /><meshBasicMaterial transparent opacity={0} depthWrite={false} />
+      <planeGeometry args={[w, phone ? Math.max(44, h) : h]} /><meshBasicMaterial transparent opacity={0} depthWrite={false} />
     </mesh>
   </group>
 }

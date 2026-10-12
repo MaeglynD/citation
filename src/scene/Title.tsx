@@ -32,9 +32,9 @@ export function Title() {
       <PixelText x={titleX + 2} y={titleY - i * (big + 11) - 4} size={big} color={p.shadow} font={FONTS.press} anchorX="left">{i ? 'NEEDED' : 'CITATION'}</PixelText>
       <PixelText x={titleX} y={titleY - i * (big + 11)} z={.3} size={big} color={i ? p.accent : p.paper} font={FONTS.press} anchorX="left">{i ? 'NEEDED' : 'CITATION'}</PixelText>
     </group>)}
-    <PixelText x={0} y={phone ? -32 : -25} size={8} color={p.text} maxWidth={v.fw - 36} lineHeight={1.75}>{'One quote. Four suspects.\nAnd one of them actually said it.'}</PixelText>
-    <Action x={0} y={playY} w={158} h={30} label={paused ? 'CONTINUE' : 'PRESS START'} primary onClick={() => useGame.getState().resume()} />
-    <Action x={0} y={playY - 44} w={122} h={24} label="HISTORY" onClick={() => useGame.getState().showHistory()} />
-    {best > 0 && <PixelText x={0} y={playY - 80} size={8} color={p.muted}>{'BEST ' + best + '/10'}</PixelText>}
+    <PixelText x={0} y={phone ? -32 : -25} size={phone ? 20 : 8} font={phone ? FONTS.vt : FONTS.press} color={p.text} maxWidth={v.fw - 36} lineHeight={1.75}>Who said that, then?</PixelText>
+    <Action x={0} y={playY} w={158} h={phone ? 42 : 30} label={paused ? 'CONTINUE' : 'PRESS START'} primary onClick={() => useGame.getState().resume()} />
+    <Action x={0} y={playY - (phone ? 58 : 44)} w={122} h={phone ? 38 : 24} label="HISTORY" onClick={() => useGame.getState().showHistory()} />
+    {best > 0 && <PixelText x={0} y={playY - (phone ? 100 : 80)} size={8} color={p.muted}>{'BEST ' + best + '/10'}</PixelText>}
   </group>
 }

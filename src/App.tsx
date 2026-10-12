@@ -12,6 +12,7 @@ import './game/input'
 import { BG } from './scene/palette'
 import quotes from './data/quotes.json'
 import type { Quote } from './game/types'
+import { themeById } from './themes/palettes'
 
 // Development-only handles for the browser regression suite; never shipped.
 if (import.meta.env.DEV) (window as any).__qa = { game: useGame, settings: useSettings }
@@ -79,7 +80,9 @@ function Input() {
     const describe = () => {
       const s = useGame.getState()
       const q = s.deck[s.round]
-      const label = s.phase === 'title' ? 'Citation Needed. One real quote, four suspects. Press Enter to start. S opens settings. M mutes.'
+      const settings = useSettings.getState()
+      const label = settings.open ? `Settings. ${themeById(settings.theme).name} palette. Volume ${settings.muted ? 'muted' : settings.volume}. Size ${settings.size}. Tab chooses palette, volume, size or Done. Left and right change the selection. Escape closes settings.`
+        : s.phase === 'title' ? 'Citation Needed. Who said that, then? Press Enter to start. S opens settings. M mutes.'
         : s.phase === 'question' && q ? `Question ${s.round + 1} of ${s.deck.length}. ${q.quote}. ${s.options.map((o, i) => `${i + 1}: ${o.person.alias || o.person.name}`).join('. ')}. Space reveals the full quote. Use 1 to 4 to answer, or Tab then Enter.`
         : s.phase === 'reveal' && q ? `${s.results[s.results.length - 1] === 'right' ? 'Correct' : 'Incorrect'}. ${q.answer.name}. ${q.source}. ${q.note ?? ''}. Press Enter to continue.`
         : s.phase === 'summary' ? `Final score ${s.score} of ${s.deck.length}. Left and right arrows browse answers. Enter plays again.`
@@ -87,7 +90,9 @@ function Input() {
       gl.domElement.setAttribute('aria-label', label)
     }
     describe()
-    return useGame.subscribe((s, previous) => { if (s.phase !== previous.phase || s.round !== previous.round) describe() })
+    const game = useGame.subscribe((s, previous) => { if (s.phase !== previous.phase || s.round !== previous.round) describe() })
+    const settings = useSettings.subscribe(describe)
+    return () => { game(); settings() }
   }, [gl])
   return null
 }
@@ -104,11 +109,12 @@ export function App() {
         const st = useSettings.getState()
         const connection = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection
         if (document.hidden || st.muted || st.volume === 0 || connection?.saveData || ['slow-2g', '2g'].includes(connection?.effectiveType ?? '')) return
-        void recordings.preloadMusic(st.theme, musicScene())
+        void recordings.preloadMusic('arcade', musicScene())
       }, 1200)
     }
     // keep the audio engine in step with the saved settings
-    const sync = () => { const st = useSettings.getState(); audio.configure({ theme: st.theme, volume: st.volume, muted: st.muted }); warmMusic() }
+    // Colour palettes never restart or replace the imported soundtrack.
+    const sync = () => { const st = useSettings.getState(); audio.configure({ theme: 'arcade', volume: st.volume, muted: st.muted }); warmMusic() }
     sync()
     const unlock = () => {
       audio.resume(); audio.startMusic()
@@ -117,10 +123,14 @@ export function App() {
     }
     window.addEventListener('pointerdown', unlock, true)
     window.addEventListener('keydown', unlock, true)
-    const settings = useSettings.subscribe(sync)
+    const scrollTop = () => document.getElementById('root')?.scrollTo(0, 0)
+    const settings = useSettings.subscribe((s, prev) => { sync(); if (s.open && !prev.open) scrollTop() })
     const scene = () => { audio.setScene(musicScene()); warmMusic() }
     scene()
-    const game = useGame.subscribe((s, prev) => { if (s.screen !== prev.screen) scene() })
+    const game = useGame.subscribe((s, prev) => {
+      if (s.screen !== prev.screen) scene()
+      if (s.screen !== prev.screen || s.round !== prev.round) scrollTop()
+    })
     return () => {
       window.clearTimeout(warmTimer)
       settings(); game()
@@ -139,7 +149,7 @@ export function App() {
         if (import.meta.env.DEV) (window as any).__qa.scene = scene
         gl.setClearColor(BG, 1)
       }}
-      style={{ background: BG }}
+      style={{ background: BG, minHeight: 'var(--game-min-height)' }}
     >
       <CameraRig />
       <Clock />

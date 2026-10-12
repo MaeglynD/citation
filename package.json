@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "deploy": "npm test && npm run build && wrangler deploy",
     "quotes:check": "node scripts/build-quotes.mjs && node scripts/validate-quotes.mjs",
-    "test": "node scripts/test-game.mjs && node scripts/test-audio-loading.mjs",
+    "test": "node scripts/test-game.mjs && node scripts/test-audio-loading.mjs && node scripts/test-responsive.mjs",
     "test:browser": "node scripts/test-browser.mjs",
     "test:audio": "node scripts/audio-qa.mjs http://127.0.0.1:5173/"
   },

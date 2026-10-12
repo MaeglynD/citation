@@ -8,12 +8,12 @@
     <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg" />
     <link rel="preload" href="/src/assets/fonts/PressStart2P-Regular.woff" as="fetch" type="font/woff" crossorigin />
     <link rel="preload" href="/src/assets/fonts/VT323-Regular.woff" as="fetch" type="font/woff" crossorigin />
-    <meta name="description" content="One quote. Four suspects. And one of them actually said it." />
+    <meta name="description" content="Who said that, then? A pixel-art quiz about quotes from unlikely sources." />
     <meta name="theme-color" content="#493794" />
     <link rel="canonical" href="https://citation.party/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Citation Needed!" />
-    <meta property="og:description" content="One quote. Four suspects. And one of them actually said it." />
+    <meta property="og:description" content="Who said that, then? A pixel-art quiz about quotes from unlikely sources." />
     <meta property="og:url" content="https://citation.party/" />
     <meta property="og:image" content="https://citation.party/social-preview.png" />
     <meta property="og:image:width" content="1280" />
@@ -21,10 +21,13 @@
     <meta property="og:image:alt" content="Citation Needed: a purple and yellow pixel-art quote quiz." />
     <meta name="twitter:card" content="summary_large_image" />
     <style>
-      /* The only CSS in the project: make the GPU canvas fill the window. */
+      /* Keep the pixel canvas readable; short screens can scroll instead of shrinking it. */
+      :root { --game-min-height: 600px; }
+      @media (min-width: 560px) and (min-aspect-ratio: 31/20) { :root { --game-min-height: 360px; } }
       html, body { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #0b0e1a; }
-      #root { position: fixed; inset: 0; }
-      canvas { display: block; touch-action: none; }
+      #root { position: fixed; inset: env(safe-area-inset-top, 0px) env(safe-area-inset-right, 0px) env(safe-area-inset-bottom, 0px) env(safe-area-inset-left, 0px); overflow-y: auto; overflow-x: hidden; overscroll-behavior: none; scrollbar-width: none; }
+      #root::-webkit-scrollbar { display: none; }
+      canvas { display: block; touch-action: pan-y; }
     </style>
   </head>
   <body>

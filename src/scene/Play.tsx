@@ -1,188 +1,24 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useFrame } from '@react-three/fiber'
 import * as THREE from 'three'
-import { useGame, SUSPENSE_MS, type View } from '../game/store'
+import { useGame, SUSPENSE_MS } from '../game/store'
 import { CHARS_PER_SECOND } from '../game/settings'
 import { input } from '../game/input'
-import { displayName, type Quote } from '../game/types'
+import { displayName } from '../game/types'
 import { PixelText, FONTS } from './PixelText'
 import { PixelBox, BubbleTail } from './PixelBox'
 import { Bitmap, CURSOR, CHECK, CROSS, QUOTE_OPEN, QUOTE_CLOSE, HEAD } from './Sprites'
 import { Mugshot } from './Mugshot'
-import { CARD_W, CARD_H, preload } from '../portraits/textures'
-import { usePalette, useTheme } from '../themes'
+import { preload } from '../portraits/textures'
+import { usePalette } from '../themes'
 import { audio, voiceFor } from '../audio/engine'
 import { Confetti } from './Confetti'
-import { wrapLines, fitText } from '../game/layout'
+import { layout, META_SIZE, type Layout } from '../game/screen-layout'
+export { layout } from '../game/screen-layout'
 import { VerdictReaction } from './VerdictReaction'
 import { Surface, Control } from './Surface'
 
 // ---- layout -----------------------------------------------------------------
-
-const META_SIZE = 16
-const META_LH = 16
-const META_ADV = 0.4 // VT323 advance width in em (monospace)
-
-interface Layout {
-  /** content width (options span this) */
-  bw: number
-  dotsY: number
-  // speech bubble
-  bubbleX: number
-  bubbleW: number
-  innerW: number
-  quoteSize: number
-  quoteFont: 'press' | 'vt'
-  lineHeight: number
-  bubbleTop: number
-  bubbleBottom: number
-  bubbleCy: number
-  bh: number
-  tailX: number
-  tailY: number
-  tailLeft: boolean
-  // suspect
-  mugScale: number
-  mugX: number
-  mugY: number
-  plateY: number | null
-  plateW: number
-  textX: number
-  textW: number
-  // reveal block
-  cardW: number
-  cardH: number
-  cardX: number
-  cardY: number
-  srcTop: number
-  noteTop: number
-  // options
-  optW: number
-  optH: number
-  gap: number
-  cols: number
-  optsTop: number
-  optsBottom: number
-  optPos: (i: number) => { x: number; y: number }
-}
-
-/** Greedy word wrap for a monospace font: returns the number of lines. */
-function fitQuote(quote: string, innerW: number, maxBh: number, portrait: boolean, padY: number) {
-  const f = fitText(quote, innerW, maxBh - padY * 2)
-  return { quoteSize: f.size, quoteFont: f.font, lineHeight: f.lineHeight, textH: f.height }
-}
-
-export function layout(v: View, q: Quote, theme = 'arcade'): Layout {
-  const { fw: w, fh: h, portrait } = v
-  // Roomy screens get the dialogue layout: a double-size portrait on the left, talking into the bubble.
-  const wide = !portrait && h >= 330
-  const mugScale = wide || (portrait && h >= 560) ? 2 : 1
-  const MUG_W = CARD_W * mugScale + 4
-  const MUG_H = CARD_H * mugScale + 4
-  const m = portrait ? 14 : 26
-  const bw = w - 2 * m
-  const dotsY = h / 2 - 11
-  const cols = 2
-  const rows = 4 / cols
-  const gap = 10
-  const optW = Math.floor((bw - gap) / 2)
-  const optionLines = Math.max(...[q.answer, ...q.decoys].map(person => wrapLines(displayName(person), (optW - 44) / 8)))
-  const optH = Math.max(portrait ? 48 : 38, optionLines * 10 + 12)
-  const optsH = rows * optH + (rows - 1) * gap
-  const optsBottom = -h / 2 + 30
-  const regionTop = dotsY - 14
-  const padY = 14
-  const name = displayName(q.answer)
-
-  const measureReveal = (textW: number) => {
-    const cardW = Math.min(textW, name.length * 8 + 28)
-    const nameLines = wrapLines(name, Math.max(4, Math.floor((cardW - 20) / 8)))
-    const cardH = 10 + Math.round(nameLines * 8 * 1.25) + 2
-    const metaCpl = Math.max(10, Math.floor(textW / (META_SIZE * META_ADV)))
-    const srcLines = 0
-    const noteLines = q.note ? wrapLines(q.note, metaCpl) : 0
-    const revealH = cardH + 6 + (noteLines ? 4 + noteLines * META_LH : 0)
-    return { cardW, cardH, srcLines, revealH }
-  }
-
-  let optsTop = optsBottom + optsH
-  const optPos = (i: number) => {
-    const c = i % cols
-    const r = Math.floor(i / cols)
-    const x = -bw / 2 + optW / 2 + c * (optW + gap)
-    const y = optsTop - optH / 2 - r * (optH + gap)
-    return { x: Math.round(x), y: Math.round(y) }
-  }
-
-  if (wide) {
-    const plateH = 16
-    const leftW = MUG_W
-    const bubbleLeft = -bw / 2 + leftW + 14
-    const bubbleW = Math.round(bw / 2 - bubbleLeft)
-    const bubbleX = Math.round(bubbleLeft + bubbleW / 2)
-    const textX = Math.round(bubbleLeft)
-    const textW = bubbleW
-    const R = measureReveal(textW)
-    const midTop = regionTop
-    const midBottom = optsTop + 10
-    const midH = midTop - midBottom
-    const innerW = bubbleW - 36
-    const maxBh = midH - R.revealH - 10
-    const f = fitQuote(q.quote, innerW, maxBh, false, padY)
-    const bh = Math.max(64, Math.min(maxBh, Math.round(f.textH + padY * 2)))
-    const blockH = Math.max(bh + 10 + R.revealH, MUG_H + 4 + plateH)
-    const top = Math.round(midTop - Math.max(0, midH - blockH) / 2)
-    const bubbleTop = top
-    const bubbleBottom = top - bh
-    const mugY = Math.round(top - MUG_H / 2)
-    const plateY = Math.round(mugY - MUG_H / 2 - 4 - plateH / 2)
-    const tailY = Math.max(bubbleBottom + 12, Math.min(bubbleTop - 12, mugY + 14))
-    const cardY = bubbleBottom - 10 - R.cardH / 2
-    const srcTop = cardY - R.cardH / 2 - 6
-    const result: Layout = {
-      bw, dotsY, bubbleX, bubbleW, innerW, quoteSize: f.quoteSize, quoteFont: f.quoteFont, lineHeight: f.lineHeight,
-      bubbleTop, bubbleBottom, bubbleCy: Math.round((bubbleTop + bubbleBottom) / 2), bh,
-      tailX: bubbleLeft - 5, tailY, tailLeft: true,
-      mugScale, mugX: Math.round(-bw / 2 + MUG_W / 2), mugY, plateY, plateW: MUG_W, textX, textW,
-      cardW: R.cardW, cardH: R.cardH, cardX: textX + R.cardW / 2, cardY, srcTop, noteTop: srcTop - R.srcLines * META_LH - 2,
-      optW, optH, gap, cols, optsTop, optsBottom, optPos,
-    }
-    return result
-  }
-
-  // Compact layout (phones, short windows): the mugshot hangs under the bubble's tail, reveal text beside it.
-  const mugX = Math.round(-bw / 2 + 4 + MUG_W / 2)
-  const textX = Math.round(-bw / 2 + 4 + MUG_W + 10)
-  const textW = Math.round(bw / 2 - textX - 2)
-  const R = measureReveal(textW)
-  const suspectZone = Math.max(14 + MUG_H + 10, R.revealH + 24)
-  const maxBh = regionTop - (optsBottom + optsH + suspectZone)
-  const pad = portrait ? 12 : 18
-  const innerW = bw - pad * 2
-  const f = fitQuote(q.quote, innerW, maxBh, portrait, padY)
-  const bh = Math.max(portrait ? 60 : 64, Math.min(maxBh, Math.round(f.textH + padY * 2)))
-  let bubbleTop: number
-  if (portrait) {
-    const stackH = bh + suspectZone + optsH
-    bubbleTop = Math.round(regionTop - (regionTop - optsBottom - stackH) / 2)
-    optsTop = bubbleTop - bh - suspectZone
-  } else {
-    const free = regionTop - optsTop - (bh + suspectZone)
-    bubbleTop = Math.round(regionTop - Math.max(0, free) / 2)
-  }
-  const bubbleBottom = bubbleTop - bh
-  const mugY = Math.round(bubbleBottom - 14 - MUG_H / 2)
-  const cardY = bubbleBottom - 10 - R.cardH / 2
-  const srcTop = cardY - R.cardH / 2 - 6
-  return {
-    bw, dotsY, bubbleX: 0, bubbleW: bw, innerW, quoteSize: f.quoteSize, quoteFont: f.quoteFont, lineHeight: f.lineHeight,
-    bubbleTop, bubbleBottom, bubbleCy: Math.round((bubbleTop + bubbleBottom) / 2), bh,
-    tailX: mugX + 2, tailY: bubbleBottom - 4, tailLeft: false,
-    mugScale, mugX, mugY, plateY: null, plateW: MUG_W, textX, textW,
-    cardW: R.cardW, cardH: R.cardH, cardX: textX + R.cardW / 2, cardY, srcTop, noteTop: srcTop - R.srcLines * META_LH - 2,
-    optW, optH, gap, cols, optsTop, optsBottom: optsTop - optsH, optPos,
-  }
-}
 
 // ---- helpers ----------------------------------------------------------------
 
@@ -233,7 +69,6 @@ function ProgressDots({ L }: { L: Layout }) {
 
 function QuoteBubble({ L }: { L: Layout }) {
   const pal = usePalette()
-  const theme = useTheme()
   const q = useGame((s) => s.deck[s.round])
   const phase = useGame((s) => s.phase)
   const phaseAt = useGame((s) => s.phaseAt)
@@ -437,7 +272,7 @@ function OptionBox({ L, i }: { L: Layout; i: number }) {
       <PixelBox x={-w / 2 + 15} y={0} w={18} h={18} z={.6} fill={right || wrong || chosen ? fill : keyColor} stroke={hot ? pal.accent : pal.dim} border={hot || right || wrong || chosen ? 0 : 1} radius={2} />
       {right || wrong ? <Bitmap rows={right ? CHECK : CROSS} x={-w / 2 + 15} y={0} z={.7} color={text} />
         : <PixelText x={-w / 2 + 15} y={0} z={.7} size={8} color={right || wrong || chosen ? text : pal.muted}>{String(i + 1)}</PixelText>}
-      <PixelText x={12} y={down ? -1 : 0} z={.7} size={8} color={hot ? pal.ink : text} maxWidth={w - 44} lineHeight={1.25}>{displayName(opt.person)}</PixelText>
+      <PixelText x={12} y={down ? -1 : 0} z={.7} size={L.optSize} font={FONTS[L.optFont]} color={hot ? pal.ink : text} maxWidth={w - 44} lineHeight={L.optLineHeight}>{displayName(opt.person)}</PixelText>
       {chosen && <group name={'answer-suspense-' + i} ref={suspenseRef} position={[-w / 2 + 12, 0, 0]}>
         <PixelBox x={0} y={-h / 2 + 4} w={12} h={1} z={.8} fill={pal.paper} opacity={.8} border={0} />
       </group>}
@@ -448,14 +283,13 @@ function OptionBox({ L, i }: { L: Layout; i: number }) {
 
 export function Play() {
   const pal = usePalette()
-  const theme = useTheme()
   const view = useGame((s) => s.view)
   const q = useGame((s) => s.deck[s.round])
   const phase = useGame((s) => s.phase)
   const phaseAt = useGame((s) => s.phaseAt)
   const results = useGame((s) => s.results)
   const options = useGame((s) => s.options)
-  const L = useMemo(() => (q ? layout(view, q, theme.id) : null), [view, q, theme.id])
+  const L = useMemo(() => (q ? layout(view, q) : null), [view, q])
   if (!q || !L) return null
   const right = phase === 'reveal' && results[results.length - 1] === 'right'
   const correctIdx = Math.max(0, options.findIndex((o) => o.correct))
