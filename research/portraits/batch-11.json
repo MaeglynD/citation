@@ -1,0 +1,465 @@
+{
+  "Ryan Reynolds": {
+    "skin": "fair",
+    "face": "square",
+    "hair": "short",
+    "hairColor": "brown",
+    "brows": "oneraised",
+    "eyes": "narrow",
+    "facialHair": "stubble",
+    "facialHairColor": "brown",
+    "mouth": "smirk",
+    "outfit": "shirt",
+    "outfitColor": "navy"
+  },
+  "Pedro Pascal": {
+    "skin": "light",
+    "face": "square",
+    "hair": "messy",
+    "hairColor": "darkbrown",
+    "brows": "thick",
+    "eyeColor": "brown",
+    "facialHair": "moustache",
+    "facialHairColor": "darkbrown",
+    "mouth": "smile",
+    "outfit": "shirt",
+    "outfitColor": "burgundy",
+    "extras": [
+      "bags"
+    ]
+  },
+  "Jeff Goldblum": {
+    "skin": "light",
+    "face": "long",
+    "age": "old",
+    "hair": "slick",
+    "hairColor": "saltpepper",
+    "brows": "oneraised",
+    "nose": "long",
+    "eyewear": "thick",
+    "mouth": "smirk",
+    "outfit": "shirt",
+    "outfitColor": "cream",
+    "pattern": "leopard",
+    "patternColor": "brown"
+  },
+  "Frida Kahlo": {
+    "skin": "olive",
+    "face": "oval",
+    "hair": "bun",
+    "hairColor": "black",
+    "brows": "unibrow",
+    "browColor": "black",
+    "headwear": "flower",
+    "headwearColor": "red",
+    "lipColor": "crimson",
+    "mouth": "lipstick",
+    "outfit": "dress",
+    "outfitColor": "darkgreen",
+    "outfitColor2": "red",
+    "extras": [
+      "earrings",
+      "necklace"
+    ]
+  },
+  "Oklahoma Department of Wildlife Conservation": {
+    "base": "object",
+    "kind": "park-sign",
+    "symbol": "OK"
+  },
+  "Wednesday Addams": {
+    "skin": "pale",
+    "face": "oval",
+    "hair": "braids",
+    "hairColor": "black",
+    "brows": "normal",
+    "eyes": "sleepy",
+    "mouth": "frown",
+    "outfit": "dress",
+    "outfitColor": "black",
+    "extras": [
+      "poppedcollar"
+    ]
+  },
+  "The CDC": {
+    "base": "object",
+    "kind": "document",
+    "symbol": "CDC",
+    "color": "white",
+    "color2": "royalblue"
+  },
+  "Kevin Durant": {
+    "skin": "darkbrown",
+    "face": "long",
+    "build": "slim",
+    "hair": "buzz",
+    "hairColor": "black",
+    "facialHair": "goatee",
+    "facialHairColor": "black",
+    "brows": "thick",
+    "mouth": "smirk",
+    "outfit": "jersey",
+    "outfitColor": "blue",
+    "outfitColor2": "orange",
+    "symbol": "35"
+  },
+  "Gollum": {
+    "skin": "pale",
+    "face": "narrow",
+    "build": "slim",
+    "hair": "wisps",
+    "hairColor": "grey",
+    "ears": "pointy",
+    "eyes": "big",
+    "eyeColor": "blue",
+    "nose": "small",
+    "brows": "sad",
+    "mouth": "teeth",
+    "outfit": "bare",
+    "extras": [
+      "bags"
+    ]
+  },
+  "Giannis Antetokounmpo": {
+    "skin": "brown",
+    "face": "long",
+    "build": "broad",
+    "hair": "crew",
+    "hairColor": "black",
+    "brows": "thick",
+    "mouth": "grin",
+    "outfit": "jersey",
+    "outfitColor": "darkgreen",
+    "outfitColor2": "cream",
+    "symbol": "34"
+  },
+  "Google AI Overview": {
+    "base": "object",
+    "kind": "ai-search"
+  },
+  "Cookie Monster": {
+    "base": "animal",
+    "animal": {
+      "fur": "blue",
+      "ears": "none",
+      "snout": "none"
+    },
+    "face": "round",
+    "build": "heavy",
+    "eyes": "googly",
+    "nose": "none",
+    "brows": "none",
+    "mouth": "muppet",
+    "extras": [
+      "fuzzy"
+    ],
+    "outfit": "none"
+  },
+  "Laszlo Cravensworth": {
+    "skin": "pale",
+    "face": "round",
+    "build": "heavy",
+    "hair": "longwavy",
+    "hairColor": "darkbrown",
+    "facialHair": "full",
+    "facialHairColor": "darkbrown",
+    "brows": "bushy",
+    "eyes": "sleepy",
+    "mouth": "smirk",
+    "outfit": "cape",
+    "outfitColor": "black",
+    "outfitColor2": "burgundy"
+  },
+  "Moira Rose": {
+    "skin": "pale",
+    "face": "long",
+    "age": "old",
+    "hair": "bob",
+    "hairColor": "platinum",
+    "brows": "thin",
+    "eyes": "wide",
+    "mouth": "lipstick",
+    "lipColor": "crimson",
+    "outfit": "dress",
+    "outfitColor": "black",
+    "pattern": "hstripes",
+    "patternColor": "white",
+    "extras": [
+      "lashes",
+      "necklace"
+    ]
+  },
+  "Severus Snape": {
+    "skin": "pale",
+    "face": "long",
+    "hair": "long",
+    "hairColor": "black",
+    "brows": "angry",
+    "eyes": "sleepy",
+    "nose": "hooked",
+    "mouth": "frown",
+    "outfit": "robe",
+    "outfitColor": "black",
+    "extras": [
+      "bags"
+    ],
+    "outfitColor2": "black"
+  },
+  "Sister Michael": {
+    "skin": "fair",
+    "face": "round",
+    "build": "heavy",
+    "hair": "none",
+    "headwear": "habit",
+    "headwearColor": "black",
+    "headwearColor2": "white",
+    "outfit": "habit",
+    "outfitColor": "black",
+    "brows": "oneraised",
+    "eyes": "sleepy",
+    "mouth": "frown",
+    "extras": [
+      "cross"
+    ]
+  },
+  "Frank Reynolds": {
+    "skin": "light",
+    "face": "wide",
+    "build": "heavy",
+    "age": "old",
+    "hair": "baldsides",
+    "hairColor": "grey",
+    "eyewear": "square",
+    "brows": "bushy",
+    "eyes": "wide",
+    "mouth": "grin",
+    "outfit": "shirt",
+    "outfitColor": "lightblue",
+    "extras": [
+      "bags"
+    ]
+  },
+  "Philomena Cunk": {
+    "skin": "fair",
+    "face": "long",
+    "hair": "longbangs",
+    "hairColor": "brown",
+    "brows": "normal",
+    "eyes": "sleepy",
+    "nose": "long",
+    "mouth": "neutral",
+    "outfit": "blazer",
+    "outfitColor": "brown",
+    "outfitColor2": "cream"
+  },
+  "Miriam Margolyes": {
+    "skin": "fair",
+    "face": "round",
+    "build": "heavy",
+    "age": "old",
+    "hair": "curly",
+    "hairColor": "white",
+    "brows": "raised",
+    "eyes": "wide",
+    "mouth": "grin",
+    "outfit": "cardigan",
+    "outfitColor": "purple",
+    "outfitColor2": "pink",
+    "extras": [
+      "earrings"
+    ]
+  },
+  "Aubrey Plaza": {
+    "skin": "light",
+    "face": "oval",
+    "hair": "bob",
+    "hairColor": "darkbrown",
+    "brows": "oneraised",
+    "eyes": "sleepy",
+    "mouth": "smirk",
+    "outfit": "dress",
+    "outfitColor": "black"
+  },
+  "James Blunt": {
+    "skin": "fair",
+    "face": "long",
+    "hair": "messy",
+    "hairColor": "brown",
+    "eyes": "sleepy",
+    "brows": "sad",
+    "facialHair": "stubble",
+    "mouth": "smile",
+    "outfit": "shirt",
+    "outfitColor": "white"
+  },
+  "Rod Ponton": {
+    "skin": "fair",
+    "face": "wide",
+    "age": "old",
+    "hair": "short",
+    "hairColor": "white",
+    "brows": "raised",
+    "eyes": "wide",
+    "mouth": "o",
+    "outfit": "suit",
+    "outfitColor": "navy",
+    "outfitColor2": "red"
+  },
+  "Salem Saberhagen": {
+    "base": "animal",
+    "animal": {
+      "fur": "black",
+      "fur2": "charcoal",
+      "ears": "pointy",
+      "earColor": "darkgrey",
+      "snout": "cat",
+      "muzzle": "charcoal",
+      "nose": "black"
+    },
+    "face": "round",
+    "eyes": "narrow",
+    "eyeColor": "yellow",
+    "brows": "none",
+    "mouth": "smirk",
+    "outfit": "none"
+  },
+  "David Byrne": {
+    "skin": "pale",
+    "face": "long",
+    "build": "broad",
+    "hair": "short",
+    "hairColor": "black",
+    "brows": "raised",
+    "eyes": "wide",
+    "mouth": "neutral",
+    "outfit": "suit",
+    "outfitColor": "lightgrey",
+    "outfitColor2": "grey"
+  },
+  "Adele": {
+    "skin": "fair",
+    "face": "round",
+    "build": "heavy",
+    "hair": "bouffant",
+    "hairColor": "auburn",
+    "eyes": "normal",
+    "brows": "raised",
+    "mouth": "lipstick",
+    "lipColor": "red",
+    "outfit": "dress",
+    "outfitColor": "black",
+    "extras": [
+      "lashes",
+      "hoops",
+      "microphone"
+    ]
+  },
+  "Stevie Wonder": {
+    "skin": "darkbrown",
+    "face": "round",
+    "hair": "braids",
+    "hairColor": "black",
+    "eyewear": "sunglasses",
+    "facialHair": "moustache",
+    "mouth": "grin",
+    "outfit": "suit",
+    "outfitColor": "burgundy",
+    "outfitColor2": "gold"
+  },
+  "Viktor Chernomyrdin": {
+    "skin": "light",
+    "face": "wide",
+    "build": "heavy",
+    "age": "old",
+    "hair": "receding",
+    "hairColor": "silver",
+    "brows": "bushy",
+    "eyes": "small",
+    "mouth": "neutral",
+    "outfit": "suit",
+    "outfitColor": "navy",
+    "outfitColor2": "red"
+  },
+  "Sir Humphrey Appleby": {
+    "skin": "fair",
+    "face": "long",
+    "age": "old",
+    "hair": "sidepart",
+    "hairColor": "grey",
+    "brows": "oneraised",
+    "eyes": "sleepy",
+    "mouth": "smirk",
+    "outfit": "suit",
+    "outfitColor": "charcoal",
+    "outfitColor2": "burgundy"
+  },
+  "Bert": {
+    "skin": "yellow",
+    "face": "tall",
+    "hair": "tuft",
+    "hairColor": "black",
+    "brows": "unibrow",
+    "browColor": "black",
+    "eyes": "big",
+    "nose": "big",
+    "noseColor": "orange",
+    "mouth": "muppet",
+    "outfit": "sweater",
+    "outfitColor": "green",
+    "pattern": "vstripes",
+    "patternColor": "orange",
+    "extras": [
+      "poppedcollar"
+    ]
+  },
+  "John McAfee": {
+    "skin": "light",
+    "face": "long",
+    "age": "old",
+    "hair": "messy",
+    "hairColor": "saltpepper",
+    "brows": "thick",
+    "facialHair": "goatee",
+    "facialHairColor": "saltpepper",
+    "eyes": "narrow",
+    "mouth": "smirk",
+    "outfit": "shirt",
+    "outfitColor": "blue"
+  },
+  "Johnny Knoxville": {
+    "skin": "fair",
+    "face": "square",
+    "hair": "pompadour",
+    "hairColor": "black",
+    "eyewear": "sunglasses",
+    "mouth": "grin",
+    "outfit": "tshirt",
+    "outfitColor": "black",
+    "symbol": "skull"
+  },
+  "Draco Malfoy": {
+    "skin": "pale",
+    "face": "narrow",
+    "age": "young",
+    "hair": "slick",
+    "hairColor": "platinum",
+    "brows": "angry",
+    "eyes": "narrow",
+    "mouth": "smirk",
+    "outfit": "suit",
+    "outfitColor": "black",
+    "outfitColor2": "darkgreen"
+  },
+  "Dora the Explorer": {
+    "skin": "tan",
+    "face": "round",
+    "age": "child",
+    "hair": "bob",
+    "hairColor": "darkbrown",
+    "eyes": "big",
+    "brows": "raised",
+    "mouth": "smile",
+    "outfit": "tshirt",
+    "outfitColor": "pink"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "Bart Simpson": { "hairColor": "#fcd12a" },
   "Mother Teresa": { "skin": "fair" },
   "Tupac Shakur": { "extras": ["necktattoo", "earrings"] },
   "Chad Kroeger": { "facialHair": "goatee" },

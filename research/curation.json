@@ -14,8 +14,7 @@
     "priority": 2
   },
   "enc-nixon-pandas": {
-    "priority": 2,
-    "opener": true
+    "priority": 1
   },
   "enc-franklin-wind": {
     "priority": 1
@@ -25,24 +24,22 @@
     "opener": true
   },
   "enc-cher-dessert": {
-    "priority": 2
+    "priority": 1
   },
   "enc-britney-global-warming": {
     "priority": 2
   },
   "enc-taylor-mind-alive": {
-    "priority": 2,
-    "opener": true
+    "priority": 1
   },
   "enc-paris-walmart": {
-    "priority": 2,
-    "opener": true
+    "priority": 1
   },
   "enc-bush-perch": {
-    "priority": 2
+    "priority": 1
   },
   "enc-mourinho-eggs": {
-    "priority": 2
+    "priority": 1
   },
   "enc-boris-buses": {
     "priority": 2,
@@ -64,8 +61,7 @@
     "priority": 1
   },
   "enc-jokic-home": {
-    "priority": 2,
-    "opener": true
+    "priority": 1
   },
   "enc-stafford-floating": {
     "priority": 2,
@@ -120,7 +116,7 @@
     "priority": 1
   },
   "enc-edison-sleep": {
-    "priority": 2
+    "priority": 1
   },
   "enc-farnsworth-measurement": {
     "priority": 2,
@@ -322,6 +318,111 @@
     "priority": 1
   },
   "spo-lynch-fined": {
+    "priority": 1
+  },
+  "aft-reynolds-bagel": {
+    "priority": 2
+  },
+  "aft-pascal-daddy": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-francis-tequila": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-oklahoma-fur": {
+    "priority": 2
+  },
+  "aft-cdc-chicken-snuggling": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-durant-bathwater": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-giannis-smoothie": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-google-rock-diet": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-laszlo-vampire": {
+    "priority": 2
+  },
+  "aft-moira-also-wrong": {
+    "priority": 2
+  },
+  "aft-sister-michael-french": {
+    "priority": 2
+  },
+  "aft-frank-get-weird": {
+    "priority": 2
+  },
+  "aft-bender-parenting": {
+    "priority": 2
+  },
+  "aft-wednesday-hatchets": {
+    "priority": 1
+  },
+  "aft-cunk-beyonce": {
+    "priority": 2
+  },
+  "aft-charles-pen": {
+    "priority": 1
+  },
+  "aft-miriam-criminal": {
+    "priority": 2
+  },
+  "aft-cage-crow": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-plaza-hollywood-sign": {
+    "priority": 1
+  },
+  "aft-blunt-bad-year": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-ponton-not-cat": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-liam-pencil": {
+    "priority": 1
+  },
+  "aft-adele-ears": {
+    "priority": 1
+  },
+  "aft-chernomyrdin-government": {
+    "priority": 1
+  },
+  "aft-marx-carbuncles": {
+    "priority": 1
+  },
+  "aft-mozart-bedtime": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-tesla-pigeon": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-mcafee-wager": {
+    "priority": 2
+  },
+  "aft-50cent-grandma": {
+    "priority": 2,
+    "opener": true
+  },
+  "aft-shakira-boars": {
+    "priority": 1
+  },
+  "aft-pattinson-spit": {
     "priority": 1
   }
 }

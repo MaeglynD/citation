@@ -679,15 +679,33 @@ function drawHairFront(p: Pix, H: Head, style: string, hc: Ramp, SK: Ramp, hatHi
       sides(p, H, hc, hl, H.eyeY + 3, 2, 1)
       break
     }
-    case 'spiky': case 'zigzag': case 'anime': {
-      capFill(p, H, hc, H.top - 1, hl, 1, 1)
-      sides(p, H, hc, hl + 1, H.eyeY - 1, 2, 1)
-      const tall = st === 'anime' ? 7 : 5
-      for (let i = 0; i < 6; i++) {
-        const bx = 10 + i * 4
-        const h = st === 'zigzag' ? 4 : tall - ((i * 5) % 3)
-        for (let k = 0; k < h; k++) p.span(H.top - 1 - k, bx + Math.floor(k / 2), bx + 3 - Math.ceil(k / 2), i > 3 ? hc.lo : hc.base)
+    case 'zigzag': {
+      // A flat cartoon crown joins the full forehead; it is not a row of
+      // triangles balanced on the narrow tip of an elliptical scalp.
+      const [left, right] = H.dome(hl, 1, 1)!
+      for (let x = left; x <= right; x++) {
+        const top = H.top - 3 + [0, 1, 2, 1][(x - left) % 4]
+        for (let y = top; y <= hl; y++) p.set(x, y, x >= right - 2 ? hc.lo : hc.base)
       }
+      sides(p, H, hc, hl + 1, H.eyeY - 1, 2, 1)
+      break
+    }
+    case 'spiky': case 'anime': {
+      // Anchor each tuft to its own point on the scalp, and fill down to
+      // the hairline. Fixed-height bases left wide floating shelves.
+      const [left, right] = H.dome(hl, 1, 1)!
+      const peaks = st === 'anime' ? [1, 3, 5, 2, 0] : [0, 2, 3, 1, 0]
+      for (let x = left; x <= right; x++) {
+        let root = H.top - 1
+        for (; root < hl; root++) {
+          const span = H.dome(root, 1, 1)
+          if (span && x >= span[0] && x <= span[1]) break
+        }
+        const top = Math.max(1, root - peaks[(x - left) % peaks.length])
+        for (let y = top; y <= hl; y++) p.set(x, y, x >= right - 2 ? hc.lo : hc.base)
+        if (x < H.cx && (x - left) % 5 === 2) p.set(x, top + 2, hc.hi)
+      }
+      sides(p, H, hc, hl + 1, H.eyeY - 1, 2, 1)
       if (st === 'anime') for (let k = 0; k < 7; k++) p.set(13 + k * 2, hl + 1 + (k % 2), hc.base)
       shadowForehead()
       break
@@ -772,7 +790,15 @@ function drawHairFront(p: Pix, H: Head, style: string, hc: Ramp, SK: Ramp, hatHi
     }
     case 'tuft': p.set(19, H.top - 1, hc.dk); p.set(20, H.top - 2, hc.dk); p.set(21, H.top - 1, hc.dk); p.set(18, H.top - 2, hc.dk); break
     case 'flattop': {
-      for (let y = H.top - 4; y <= hl; y++) { const sp = y < H.top + 2 ? [10, 29] : H.span(y)!; p.span(y, sp[0], sp[1], y === H.top - 4 ? hc.hi : hc.base); p.set(sp[1], y, hc.lo) }
+      // Carry the flat top's sides all the way down to its hairline; narrowing
+      // to the dome halfway down makes a detached-looking horizontal shelf.
+      const [left, right] = H.dome(hl, 0, 0)!
+      for (let y = Math.max(1, H.top - 3); y <= hl; y++) {
+        p.span(y, left, right, y === H.top - 3 ? hc.hi : hc.base)
+        p.set(right, y, hc.lo)
+      }
+      sides(p, H, hc, hl + 1, H.eyeY - 1, 1, 0)
+      shadowForehead()
       break
     }
     case 'tonsure': sides(p, H, hc, H.top + 2, H.eyeY - 1, 3, 1); p.span(H.top + 1, 11, 28, hc.base); break
@@ -1584,7 +1610,29 @@ function drawObject(p: Pix, s: PortraitSpec, frame: Frame) {
       p.trap(15, 24, 16, 17, 11, 23, 0xf1e2c2)
       p.rect(23, 22, 2, 12, 0x2b2934)
       p.trap(13, 27, 23, 24, 18, 29, 0x203d2a)
-      p.text('NPS', 14, 9, 0xf1e2c2)
+      const label = (s.symbol ?? 'NPS').slice(0, 3)
+      p.text(label, Math.floor((PW - (label.length * 4 - 1)) / 2), 9, 0xf1e2c2)
+      return
+    }
+    case 'ai-search': {
+      // A search-result card: a four-colour G and an overly cheerful AI answer.
+      p.rect(5, 6, 30, 37, 0xf4f1ea)
+      p.rect(5, 6, 30, 3, 0xc2c3c7)
+      p.rect(8, 12, 24, 7, 0xe0e5ef)
+      const logo = FONT.G
+      logo.forEach((row, y) => {
+        for (let x = 0; x < row.length; x++) if (row[x] === '#') {
+          p.set(10 + x, 13 + y, [0xd8303a, 0xe8b83a, 0x2f6fd6, 0x35a852, 0x35a852][y])
+        }
+      })
+      p.span(15, 17, 28, 0x8b8b99)
+      p.rect(8, 22, 24, 17, 0xe6ddfa)
+      drawSymbol(p, 'star', 13, 27, 0x7a3fb0)
+      p.text('AI', 21, 24, 0x2a3d78)
+      if (frame === 'blink') p.span(33, 12, 27, 0x7a3fb0)
+      else { p.rect(12, 32, 2, 2, 0x7a3fb0); p.rect(26, 32, 2, 2, 0x7a3fb0) }
+      p.span(36, 17, 22, 0x7a3fb0)
+      if (frame === 'talk') p.span(35, 17, 22, 0x7a3fb0)
       return
     }
     case 'book': {
@@ -1853,7 +1901,7 @@ export const OPTIONS = {
   robotKind: ['bender', 'boxy', 'screen', 'terminator', 'android'],
   helmetKind: ['vader', 'trooper', 'chief', 'spartan', 'knight', 'astronaut', 'football', 'diver', 'racing'],
   patterns: ['leopard', 'plaid', 'camo', 'pinstripes', 'vstripes', 'hstripes', 'polka', 'zigzag', 'unionjack'],
-  objectKind: ['eye', 'car', 'book', 'tablet', 'scroll', 'document', 'screen', 'device', 'lens', 'building', 'flag', 'globe', 'coin', 'trophy', 'bottle', 'crown', 'camera', 'burger'],
+  objectKind: ['eye', 'car', 'book', 'tablet', 'scroll', 'document', 'screen', 'device', 'ai-search', 'park-sign', 'lens', 'building', 'flag', 'globe', 'coin', 'trophy', 'bottle', 'crown', 'camera', 'burger'],
   symbols: Object.keys(SYMBOLS).filter((k) => k !== 'swastika'),
   colors: Object.keys(COLORS),
 }

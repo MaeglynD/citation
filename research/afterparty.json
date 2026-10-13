@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "aft-reynolds-bagel",
+    "theme": "arts",
+    "quote": "People in LA are deathly afraid of gluten. I swear to god, you could rob a liquor store in this city with a bagel.",
+    "answer": {
+      "name": "Ryan Reynolds",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Dr. Evil",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Twitter, 7 January 2017",
+    "note": "An armed robbery. The arms are carbohydrates.",
+    "url": "https://www.pajiba.com/celebrities_are_better_than_you/the-best-of-ryan-reynolds-twitter-feed.php",
+    "verification": "Embedded original tweet dated 7 January 2017; also reproduced in Dear Los Angeles, reviewed by Kirkus. Exact 25-word tweet.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-pascal-daddy",
+    "theme": "arts",
+    "quote": "I am your cool, slutty daddy.",
+    "answer": {
+      "name": "Pedro Pascal",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jeff Goldblum",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Snoop Dogg",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Darth Vader",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Entertainment Tonight red-carpet interview, January 2023",
+    "note": "A red-carpet interview took a paternal turn.",
+    "url": "https://www.out.com/celebs/2023/1/18/tlou-star-pedro-pascal-declares-himself-our-cool-slutty-daddy",
+    "verification": "Embeds Entertainment Tonight video tweet 1614805889109659648, published 16 January 2023, from The Last of Us premiere.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-francis-tequila",
+    "theme": "saints",
+    "quote": "Do you know what I need for my leg? A bit of tequila.",
+    "answer": {
+      "name": "Pope Francis",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Keith Richards",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Jack Sparrow",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Frida Kahlo",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "St Peter's Square, 11 May 2022 (translation)",
+    "note": "A popemobile consultation with Mexican seminarians.",
+    "url": "https://www.arabnews.com/offbeat/i-need-a-shot-of-tequila-for-my-knee-pain-pope-jokes-2083971",
+    "verification": "Reuters report, 17 May 2022, translates the filmed Spanish exchange at the preceding Wednesday general audience. Joke about his painful knee, not medical advice.",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-oklahoma-fur",
+    "theme": "docs",
+    "quote": "YOU are cold. They have fur. Do not let inside.",
+    "answer": {
+      "name": "Oklahoma Department of Wildlife Conservation",
+      "alias": "Oklahoma's wildlife department",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Cruella de Vil",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Official wildlife-department tweet, 20 January 2022",
+    "note": "The accompanying photograph was a mountain lion.",
+    "url": "https://www.livescience.com/oklahoma-mountain-lion-viral-tweet-explained",
+    "verification": "Report reproduces the agency tweet and interviews its communications specialist Sarah Southerland. Original capitalisation retained.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-cdc-chicken-snuggling",
+    "theme": "docs",
+    "quote": "Don't kiss or snuggle backyard poultry, and don't eat or drink around them.",
+    "answer": {
+      "name": "The CDC",
+      "alias": "The US public-health agency",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Colonel Sanders",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Werner Herzog",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Backyard-poultry Salmonella outbreak notice, 2023",
+    "note": "The chickens are strictly colleagues.",
+    "url": "https://www.cdc.gov/salmonella/outbreaks/backyard-poultry-05-23/index.html",
+    "verification": "Primary CDC outbreak page, What poultry owners should do > Be safe around backyard flocks. Full first sentence.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-durant-bathwater",
+    "theme": "sports",
+    "quote": "Scarlett johanneson I will drink ur bath water...#random",
+    "answer": {
+      "name": "Kevin Durant",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Lord Byron",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gollum",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Twitter, 17 January 2011",
+    "note": "Original spelling. Original thirst.",
+    "url": "https://www.si.com/extra-mustard/2022/11/04/memorable-athlete-tweets",
+    "verification": "Sports Illustrated reproduces the original tweet with its timestamp. Misspelling, lower-case surname and hashtag retained.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-giannis-smoothie",
+    "theme": "sports",
+    "quote": "I just taste for the first time a smothie..MAN GOD BLESS AMERICA",
+    "answer": {
+      "name": "Giannis Antetokounmpo",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Borat",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Arnold Schwarzenegger",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Twitter, 20 January 2014",
+    "note": "His first smoothie. An immediate diplomatic success.",
+    "url": "https://www.sportingnews.com/us/nba/news/nba-writer-stephen-noh-why-im-joining-the-sporting-news/1ui0o7outqpxb120wb8bk0vono",
+    "verification": "Embedded original tweet. Original spelling, punctuation and capitals retained; trailing smiling emoji omitted because the pixel font cannot render it.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-google-rock-diet",
+    "theme": "tech",
+    "quote": "According to UC Berkeley geologists, eating at least one small rock per day is recommended…",
+    "answer": {
+      "name": "Google AI Overview",
+      "alias": "Google's AI search summary",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Rock",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Cookie Monster",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Google AI Overview search result, May 2024",
+    "note": "False advice: the AI had swallowed an Onion satire.",
+    "url": "https://www.wired.com/story/google-openai-gemini-chatgpt-artificial-intelligence/",
+    "verification": "WIRED documents this false AI answer. Excerpt ends before its invented explanation; ellipsis marks the cut. This is an AI output, not a real recommendation from geologists.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-laszlo-vampire",
+    "theme": "toons",
+    "quote": "I became a vampire to suck blood and fuck forever!",
+    "answer": {
+      "name": "Laszlo Cravensworth",
+      "alias": "Laszlo from What We Do in the Shadows",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Dracula",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Peter Thiel",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "What We Do in the Shadows, season 3 premiere, 2021",
+    "note": "Immortality, with a very clear mission statement.",
+    "url": "https://www.insidehook.com/television/masculinity-we-shadows/amp",
+    "verification": "Quoted as Laszlo dialogue in this review and the contemporaneous A.V. Club review of the season-three opening double bill. Speaker is the fictional vampire, not Matt Berry.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-moira-also-wrong",
+    "theme": "toons",
+    "quote": "What you did was impulsive, capricious, and melodramatic but it was also wrong.",
+    "answer": {
+      "name": "Moira Rose",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Severus Snape",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Winston Churchill",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Schitt's Creek, \"Finding David\", 2016",
+    "note": "The first three were apparently compliments.",
+    "url": "https://www.imdb.com/title/tt4444336/quotes/",
+    "verification": "Episode dialogue attributed to Moira Rose; excerpt omits only her opening address, David, and capitalises What. No invented join.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-sister-michael-french",
+    "theme": "toons",
+    "quote": "Sadly, I am unable to come on this one as I despise the French.",
+    "answer": {
+      "name": "Sister Michael",
+      "alias": "The headmistress in Derry Girls",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Winston Churchill",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Margaret Thatcher",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Stewie Griffin",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Derry Girls, series 1 episode 2, 2018",
+    "note": "The school trip to Paris was down one nun.",
+    "url": "https://tvquot.es/derry-girls/episode-two/",
+    "verification": "Full scene transcript gives this wording in Sister Michael's school-trip announcement. Fictional character, not actress Siobhan McSweeney.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-frank-get-weird",
+    "theme": "toons",
+    "quote": "Well, I don't know how many years on this Earth I got left. I'm gonna get real weird with it.",
+    "answer": {
+      "name": "Frank Reynolds",
+      "alias": "Frank from Always Sunny",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "David Lynch",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Always Sunny, \"The Gang Gives Frank an Intervention\", 2009",
+    "note": "A retirement plan with absolutely no brakes.",
+    "url": "https://www.fxnetworks.com/shows/its-always-sunny-in-philadelphia/extras",
+    "verification": "FX's official video-extras page quotes the line; checked against the S5E4 transcript at transcripts.foreverdreaming.org/viewtopic.php?t=15522. Retains gonna and real, which some quote lists silently change to going to and really.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-bender-parenting",
+    "theme": "toons",
+    "quote": "Have you ever tried simply turning off the TV, sitting down with your children, and hitting them?",
+    "answer": {
+      "name": "Bender",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Dr. Phil",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Prince Philip",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mister Rogers",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Futurama, \"Bender Should Not Be Allowed on TV\", 2003",
+    "note": "The anti-bad-influences speech developed a flaw.",
+    "url": "https://futurama.fandom.com/wiki/Bender_Should_Not_Be_Allowed_on_Television/Transcript",
+    "verification": "Episode dialogue attributed to Bender. The joke satirises his appalling parenting advice; it is not a recommendation.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-wednesday-hatchets",
+    "theme": "toons",
+    "quote": "I don't bury hatchets. I sharpen them.",
+    "answer": {
+      "name": "Wednesday Addams",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Taylor Swift",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Margaret Thatcher",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Wednesday, \"Quid Pro Woe\", 2022",
+    "note": "Conflict resolution, Addams style.",
+    "url": "https://clip.cafe/wednesday-2022/i-dont-bury-hatchets/",
+    "verification": "Clip and subtitles from season 1 episode 6, around 15:45; wording also matched against MagicalQuote and Scattered Quotes.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-cunk-beyonce",
+    "theme": "toons",
+    "quote": "Which was more culturally significant: the Renaissance, or Single Ladies by Beyoncé?",
+    "answer": {
+      "name": "Philomena Cunk",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Jaden Smith",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Karl Lagerfeld",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Cunk on Earth, 2022",
+    "note": "An art historian was required to answer this.",
+    "url": "https://www.abc.net.au/news/2023-02-14/what-to-know-about-cunk-on-earth-philomena-cunk-diane-morgan/101969760",
+    "verification": "ABC quotes Cunk's question to Martin Kemp. Cunk is Diane Morgan's fictional interviewer; the title Single Ladies is not a lyric.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-charles-pen",
+    "theme": "politics",
+    "quote": "I can't bear this bloody thing… every stinking time.",
+    "answer": {
+      "name": "King Charles III",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gollum",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "José Mourinho",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Hillsborough Castle visitors' book, 13 September 2022",
+    "note": "His adversary was a leaking pen.",
+    "url": "https://www.abc.net.au/news/2022-09-14/king-charles-vents-at-leaky-pen/101437008",
+    "verification": "ABC report and video of the signing. Ellipsis retains the pause/omitted repetition in the reported line; wording of the two clauses is unchanged.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-miriam-criminal",
+    "theme": "arts",
+    "quote": "I knew it wasn't criminal because it was me. I couldn't be criminal.",
+    "answer": {
+      "name": "Miriam Margolyes",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Richard Nixon",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "British Vogue interview, June 2023",
+    "note": "On being gay in the 1960s. Case closed.",
+    "url": "https://www.vogue.co.uk/article/miriam-margolyes-british-vogue-cover-interview",
+    "verification": "Primary interview, two consecutive sentences about coming out. Context is her refusal to feel ashamed of being gay, not an admission of criminal conduct.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-cage-crow",
+    "theme": "arts",
+    "quote": "No, he's an African pied crow. … The other morning he started laughing and called me an asshole.",
+    "answer": {
+      "name": "Nicolas Cage",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Edgar Allan Poe",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Interview magazine, 20 October 2020",
+    "note": "His pet crow, Huginn. A difficult housemate.",
+    "url": "https://www.interviewmagazine.com/film/nicolas-cage-marilyn-manson-in-conversation",
+    "verification": "Primary interview with Marilyn Manson. Explicit ellipsis omits the intervening sentence about the bird saying hi and bye. Original first and third sentences retained.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-plaza-hollywood-sign",
+    "theme": "arts",
+    "quote": "If I was 18 living alone in Los Angeles, I would burn the Hollywood sign down on day two or something.",
+    "answer": {
+      "name": "Aubrey Plaza",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Charles Manson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Interview magazine, 4 November 2022",
+    "note": "A hypothetical in a chat with her White Lotus co-star.",
+    "url": "https://www.interviewmagazine.com/film/haley-lu-richardson-and-aubrey-plaza-on-stalking-obsession-and-torture",
+    "verification": "Primary conversation with Haley Lu Richardson, full sentence labelled PLAZA. Hypothetical joke, not a claim of actual arson.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-blunt-bad-year",
+    "theme": "music",
+    "quote": "If you thought 2016 was bad - I'm releasing an album in 2017.",
+    "answer": {
+      "name": "James Blunt",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Morrissey",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Justin Bieber",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Twitter, 13 December 2016",
+    "note": "The album announcement came with its own threat level.",
+    "url": "https://www.rte.ie/lifestyle/living/2017/0214/852531-valentines-day-lovehappens-on-twitter/",
+    "verification": "RTÉ embeds the original tweet with date; Blunt also quotes his own tweet in his April 2017 Guardian interview.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-ponton-not-cat",
+    "theme": "docs",
+    "quote": "I'm here live, I'm not a cat.",
+    "answer": {
+      "name": "Rod Ponton",
+      "alias": "The Texas lawyer",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Salem Saberhagen",
+        "alias": "Salem the talking cat",
+        "fictional": true
+      },
+      {
+        "name": "Erwin Schrödinger",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Garfield",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Texas court hearing over Zoom, 9 February 2021",
+    "note": "He was trapped in a kitten filter. The hearing continued.",
+    "url": "https://www.thedailystar.net/offbeat/news/im-not-cat-says-lawyer-after-zoom-filter-mishap-2042397",
+    "verification": "Reuters report and original hearing video, followed by an interview with Ponton. Quote is the lawyer speaking through a kitten filter, not a fictional cat.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-liam-pencil",
+    "theme": "music",
+    "quote": "I'm gonna have someone sharpening a pencil at my gig. It's gonna properly blow people's minds.",
+    "answer": {
+      "name": "Liam Gallagher",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Yoko Ono",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "David Byrne",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Björk",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "BBC Radio 1 interview, November 2017",
+    "note": "His brother had hired someone to play the scissors.",
+    "url": "https://www.abc.net.au/triplej/news/why-2017%E2%80%99s-best-headlines-involved-liam-gallagher/9279296",
+    "verification": "ABC triple j reproduces the Radio 1 interview on Noel Gallagher's scissors player. First two consecutive sentences; no fabricated continuation.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-adele-ears",
+    "theme": "music",
+    "quote": "I don't make music for eyes. I make music for ears.",
+    "answer": {
+      "name": "Adele",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Ludwig van Beethoven",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Stevie Wonder",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Rolling Stone interview, April 2011",
+    "note": "A practical statement of the target organs.",
+    "url": "https://www.rte.ie/entertainment/2011/0414/428833-adele/",
+    "verification": "Contemporaneous RTÉ report quoting Rolling Stone; matches Marie Claire and Curve reports of the same interview.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-chernomyrdin-government",
+    "theme": "politics",
+    "quote": "We have to do what our people need, not what we're doing here.",
+    "answer": {
+      "name": "Viktor Chernomyrdin",
+      "alias": "Russia's 1990s prime minister",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Sir Humphrey Appleby",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Michael Scott",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Yogi Berra",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Quoted in The Moscow Times, 11 November 2010 (translation)",
+    "note": "An unusually candid government performance review.",
+    "url": "https://www.themoscowtimes.com/2010/11/11/chernomyrdins-linguistic-legacy-a2902",
+    "verification": "Michele A. Berdy gives the Russian Надо делать то, что нужно нашим людям, а не то, чем мы здесь занимаемся and this English translation. Article date is not claimed as utterance date.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-marx-carbuncles",
+    "theme": "arts",
+    "quote": "At all events, I hope the bourgeoisie will remember my carbuncles until their dying day.",
+    "answer": {
+      "name": "Karl Marx",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Slavoj Žižek",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Squidward",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Letter to Friedrich Engels, 22 June 1867 (translation)",
+    "note": "Writing Capital while suffering from boils. Very cross.",
+    "url": "https://www.dhspriory.org/kenny/PhilTexts/Marx/www.marxists.org/archive/marx/works/1867/letters/67_06_22.htm",
+    "verification": "Primary correspondence in a Marxists Internet Archive mirror, Marx-Engels Collected Works translation. Full sentence; source date checked against the letter heading.",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-mozart-bedtime",
+    "theme": "music",
+    "quote": "now I wish good-night, shit in your bed so that it's really loud; sleep soundly, raise your arse to your mouth;",
+    "answer": {
+      "name": "Wolfgang Amadeus Mozart",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Eric Cartman",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Dr. Seuss",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Letter to his cousin, 5 November 1777 (translation)",
+    "note": "A bedtime farewell.",
+    "url": "https://dme.mozarteum.at/DME/objs/pdf/nma_93_-22_-3_eng.pdf",
+    "verification": "International Mozart Edition, English preface p. XV, footnote 42: original German and this English translation of the letter to his cousin, 5 November 1777, Bauer-Deutsch II no. 364, p.104. Excerpt stops at the second semicolon; not lyrics from a modern song.",
+    "confidence": 5,
+    "translated": true,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-tesla-pigeon",
+    "theme": "experts",
+    "quote": "Yes, I loved that pigeon, I loved her as a man loves a woman, and she loved me.",
+    "answer": {
+      "name": "Nikola Tesla",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Salvador Dalí",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mike Tyson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Bert",
+        "alias": "Bert from Sesame Street",
+        "fictional": true
+      }
+    ],
+    "source": "Recalled by John J. O'Neill in Prodigal Genius, 1944",
+    "note": "The inventor's biographer recalled this pigeon romance.",
+    "url": "https://www.essra.org.cn/upload/202005/132339994729506489.pdf",
+    "verification": "Biographer John J. O'Neill writes that Tesla told him this directly in the presence of a second listener. Exact sentence from the book; attributed recollection, not a surviving recording.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-mcafee-wager",
+    "theme": "tech",
+    "quote": "if not, I will eat my dick on national television.",
+    "answer": {
+      "name": "John McAfee",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Gordon Ramsay",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Johnny Knoxville",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Bear Grylls",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Twitter, 17 July 2017",
+    "note": "His collateral for a $500,000 Bitcoin price prediction.",
+    "url": "https://cointelegraph.com/magazine/mcafee-stakes-his-name-10-mln-on-bitcoin-split",
+    "verification": "Contemporaneous 18 July report and tweet. Uncensored original text visible in Cornell-hosted 2017 Year In Review screenshot, p. on the McAfee prediction; also described in SEC complaint 1:20-cv-08281. Original lower-case if retained.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-50cent-grandma",
+    "theme": "music",
+    "quote": "I can't belive my grand mothers making me take Out the garbage I'm rich fuck this I'm going home I don't need this shit",
+    "answer": {
+      "name": "50 Cent",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Paris Hilton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Eric Cartman",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Draco Malfoy",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Twitter, 26 August 2010",
+    "note": "Grandma outranked the entire music industry.",
+    "url": "https://www.villagevoice.com/the-day-50-cent-threatened-gawker-com-michelle-obama-and-his-own-grandmother-on-twitter/",
+    "verification": "Contemporaneous 27 August 2010 article embeds the 26 August tweet. Original belive, grand mothers and capital Out retained.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-shakira-boars",
+    "theme": "music",
+    "quote": "They were taking my bag to the woods with my mobile phone in it. They've destroyed everything.",
+    "answer": {
+      "name": "Shakira",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Paris Hilton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Dora the Explorer",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Björk",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Instagram story, September 2021 (translation)",
+    "note": "The culprits: wild boars.",
+    "url": "https://www.vanityfair.com/style/2021/09/feral-hogs-shakira-stole-bag",
+    "verification": "Vanity Fair, 30 September 2021, translates her Spanish Instagram story. Two consecutive sentences with this outlet's exact wording. The animals were wild boars.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "afterparty"
+    ]
+  },
+  {
+    "id": "aft-pattinson-spit",
+    "theme": "arts",
+    "quote": "Have you ever had someone spit on you in a kind of erotic way?",
+    "answer": {
+      "name": "Robert Pattinson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Sigmund Freud",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "David Bowie",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Jimmy Kimmel Live!, 12 June 2014",
+    "note": "A question for the host during a film-promotion interview.",
+    "url": "https://www.thewrap.com/robert-pattinson-the-rover-lying-erotic-spitting-homeless-guy-pearce/",
+    "verification": "Contemporaneous 13 June report embeds the previous night's interview and directly quotes Pattinson asking Kimmel this question.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "afterparty"
+    ]
+  }
+]

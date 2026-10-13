@@ -4,7 +4,14 @@
   "alias": null,
   "fictional": false,
   "asAnswer": 7,
-  "asDecoy": 34
+  "asDecoy": 35
+ },
+ {
+  "name": "Gordon Ramsay",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 38
  },
  {
   "name": "Homer Simpson",
@@ -14,18 +21,11 @@
   "asDecoy": 31
  },
  {
-  "name": "Gordon Ramsay",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 33
- },
- {
   "name": "Kanye West",
   "alias": null,
   "fictional": false,
   "asAnswer": 2,
-  "asDecoy": 29
+  "asDecoy": 32
  },
  {
   "name": "Eeyore",
@@ -39,14 +39,21 @@
   "alias": null,
   "fictional": true,
   "asAnswer": 1,
-  "asDecoy": 27
+  "asDecoy": 28
+ },
+ {
+  "name": "Gwyneth Paltrow",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 25
  },
  {
   "name": "Oscar Wilde",
   "alias": null,
   "fictional": false,
   "asAnswer": 0,
-  "asDecoy": 25
+  "asDecoy": 26
  },
  {
   "name": "Mr. Burns",
@@ -63,11 +70,11 @@
   "asDecoy": 24
  },
  {
-  "name": "Gwyneth Paltrow",
+  "name": "Squidward",
   "alias": null,
-  "fictional": false,
+  "fictional": true,
   "asAnswer": 1,
-  "asDecoy": 22
+  "asDecoy": 23
  },
  {
   "name": "Elon Musk",
@@ -75,13 +82,6 @@
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 22
- },
- {
-  "name": "Squidward",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 1,
-  "asDecoy": 21
  },
  {
   "name": "Rick Sanchez",
@@ -98,25 +98,32 @@
   "asDecoy": 21
  },
  {
-  "name": "Patrick Star",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 1,
-  "asDecoy": 18
- },
- {
   "name": "Mister Rogers",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
-  "asDecoy": 18
+  "asDecoy": 19
  },
  {
   "name": "Michael Scott",
   "alias": null,
   "fictional": true,
   "asAnswer": 0,
-  "asDecoy": 19
+  "asDecoy": 20
+ },
+ {
+  "name": "Yogi Berra",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 4,
+  "asDecoy": 15
+ },
+ {
+  "name": "Patrick Star",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 18
  },
  {
   "name": "Napoleon Bonaparte",
@@ -126,18 +133,11 @@
   "asDecoy": 18
  },
  {
-  "name": "Yogi Berra",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 4,
-  "asDecoy": 14
- },
- {
   "name": "Hunter S. Thompson",
   "alias": null,
   "fictional": false,
   "asAnswer": 0,
-  "asDecoy": 17
+  "asDecoy": 18
  },
  {
   "name": "Alex Jones",
@@ -154,11 +154,74 @@
   "asDecoy": 17
  },
  {
+  "name": "Keith Richards",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 15
+ },
+ {
   "name": "Hannibal Lecter",
   "alias": null,
   "fictional": true,
   "asAnswer": 1,
+  "asDecoy": 15
+ },
+ {
+  "name": "The Dalai Lama",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
   "asDecoy": 14
+ },
+ {
+  "name": "Ozzy Osbourne",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 15
+ },
+ {
+  "name": "Winston Churchill",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 15
+ },
+ {
+  "name": "Prince Philip",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 5,
+  "asDecoy": 11
+ },
+ {
+  "name": "Darth Vader",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 14
+ },
+ {
+  "name": "Pope Francis",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 4,
+  "asDecoy": 11
+ },
+ {
+  "name": "Mike Tyson",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 4,
+  "asDecoy": 11
+ },
+ {
+  "name": "Paris Hilton",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 3,
+  "asDecoy": 12
  },
  {
   "name": "Marcus Aurelius",
@@ -175,60 +238,11 @@
   "asDecoy": 15
  },
  {
-  "name": "Keith Richards",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 14
- },
- {
-  "name": "Prince Philip",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 5,
-  "asDecoy": 10
- },
- {
-  "name": "Winston Churchill",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 13
- },
- {
-  "name": "Darth Vader",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 1,
-  "asDecoy": 13
- },
- {
-  "name": "Ozzy Osbourne",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 13
- },
- {
   "name": "Thanos",
   "alias": null,
   "fictional": true,
   "asAnswer": 1,
   "asDecoy": 13
- },
- {
-  "name": "The Dalai Lama",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 12
- },
- {
-  "name": "Mike Tyson",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 4,
-  "asDecoy": 10
  },
  {
   "name": "George W. Bush",
@@ -245,11 +259,18 @@
   "asDecoy": 12
  },
  {
-  "name": "Pope Francis",
+  "name": "Snoop Dogg",
   "alias": null,
   "fictional": false,
-  "asAnswer": 3,
-  "asDecoy": 11
+  "asAnswer": 1,
+  "asDecoy": 12
+ },
+ {
+  "name": "Morrissey",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 12
  },
  {
   "name": "Lisa Simpson",
@@ -280,13 +301,6 @@
   "asDecoy": 9
  },
  {
-  "name": "Paris Hilton",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 3,
-  "asDecoy": 10
- },
- {
   "name": "Steve Jobs",
   "alias": null,
   "fictional": false,
@@ -295,13 +309,6 @@
  },
  {
   "name": "Ernest Hemingway",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 11
- },
- {
-  "name": "Snoop Dogg",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
@@ -343,13 +350,6 @@
   "asDecoy": 11
  },
  {
-  "name": "Morrissey",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 10
- },
- {
   "name": "Genghis Khan",
   "alias": null,
   "fictional": false,
@@ -362,6 +362,13 @@
   "fictional": false,
   "asAnswer": 2,
   "asDecoy": 9
+ },
+ {
+  "name": "Bear Grylls",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 10
  },
  {
   "name": "Lady Gaga",
@@ -385,6 +392,27 @@
   "asDecoy": 7
  },
  {
+  "name": "Charles Manson",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 7
+ },
+ {
+  "name": "Karl Marx",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 3,
+  "asDecoy": 6
+ },
+ {
+  "name": "Sigmund Freud",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 7
+ },
+ {
   "name": "Winnie the Pooh",
   "alias": null,
   "fictional": true,
@@ -397,13 +425,6 @@
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 8
- },
- {
-  "name": "Bear Grylls",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 9
  },
  {
   "name": "BoJack Horseman",
@@ -455,11 +476,18 @@
   "asDecoy": 6
  },
  {
-  "name": "Karl Marx",
+  "name": "Arnold Schwarzenegger",
   "alias": null,
   "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 6
+  "asAnswer": 3,
+  "asDecoy": 5
+ },
+ {
+  "name": "Taylor Swift",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 7
  },
  {
   "name": "Joe Rogan",
@@ -532,13 +560,6 @@
   "asDecoy": 8
  },
  {
-  "name": "Sigmund Freud",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 6
- },
- {
   "name": "Jesus",
   "alias": null,
   "fictional": false,
@@ -581,13 +602,6 @@
   "asDecoy": 7
  },
  {
-  "name": "Charles Manson",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 6
- },
- {
   "name": "Mark Zuckerberg",
   "alias": null,
   "fictional": false,
@@ -595,14 +609,21 @@
   "asDecoy": 6
  },
  {
-  "name": "Stephen King",
+  "name": "Dr. Seuss",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 5
+ },
+ {
+  "name": "Salvador Dalí",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 6
  },
  {
-  "name": "Taylor Swift",
+  "name": "Stephen King",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
@@ -631,13 +652,6 @@
  },
  {
   "name": "Adolf Hitler",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 3,
-  "asDecoy": 4
- },
- {
-  "name": "Arnold Schwarzenegger",
   "alias": null,
   "fictional": false,
   "asAnswer": 3,
@@ -686,6 +700,48 @@
   "asDecoy": 4
  },
  {
+  "name": "Dracula",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 5
+ },
+ {
+  "name": "Queen Elizabeth II",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 6
+ },
+ {
+  "name": "José Mourinho",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 3,
+  "asDecoy": 3
+ },
+ {
+  "name": "Lucille Bluth",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 5
+ },
+ {
+  "name": "Slavoj Žižek",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 5
+ },
+ {
+  "name": "Eric Cartman",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 6
+ },
+ {
   "name": "Franz Kafka",
   "alias": null,
   "fictional": false,
@@ -698,13 +754,6 @@
   "fictional": false,
   "asAnswer": 0,
   "asDecoy": 6
- },
- {
-  "name": "Salvador Dalí",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 5
  },
  {
   "name": "Confucius",
@@ -726,13 +775,6 @@
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 5
- },
- {
-  "name": "Dr. Seuss",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 4
  },
  {
   "name": "Gordon Gekko",
@@ -805,6 +847,62 @@
   "asDecoy": 5
  },
  {
+  "name": "Borat",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 5
+ },
+ {
+  "name": "Margaret Thatcher",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 4
+ },
+ {
+  "name": "Jaden Smith",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 4
+ },
+ {
+  "name": "Karl Lagerfeld",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 4
+ },
+ {
+  "name": "Richard Nixon",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 3
+ },
+ {
+  "name": "Liam Gallagher",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 3
+ },
+ {
+  "name": "Björk",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 4
+ },
+ {
+  "name": "Nikola Tesla",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 3,
+  "asDecoy": 2
+ },
+ {
   "name": "Gore Vidal",
   "alias": null,
   "fictional": false,
@@ -820,13 +918,6 @@
  },
  {
   "name": "Andy Warhol",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 4
- },
- {
-  "name": "Slavoj Žižek",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
@@ -882,13 +973,6 @@
   "asDecoy": 5
  },
  {
-  "name": "Dracula",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 1,
-  "asDecoy": 4
- },
- {
   "name": "Martha Stewart",
   "alias": null,
   "fictional": false,
@@ -896,32 +980,11 @@
   "asDecoy": 4
  },
  {
-  "name": "Queen Elizabeth II",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 5
- },
- {
   "name": "Greta Thunberg",
   "alias": null,
   "fictional": false,
   "asAnswer": 0,
   "asDecoy": 5
- },
- {
-  "name": "Lucille Bluth",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 1,
-  "asDecoy": 4
- },
- {
-  "name": "José Mourinho",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 3,
-  "asDecoy": 2
  },
  {
   "name": "Boris Johnson",
@@ -987,6 +1050,62 @@
   "asDecoy": 3
  },
  {
+  "name": "Dr. Evil",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 4
+ },
+ {
+  "name": "Wednesday Addams",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 3
+ },
+ {
+  "name": "Colonel Sanders",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 3
+ },
+ {
+  "name": "Werner Herzog",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 3
+ },
+ {
+  "name": "Peter Thiel",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 3
+ },
+ {
+  "name": "Edgar Allan Poe",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 4
+ },
+ {
+  "name": "Garfield",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 4
+ },
+ {
+  "name": "Wolfgang Amadeus Mozart",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 3,
+  "asDecoy": 1
+ },
+ {
   "name": "Vladimir Nabokov",
   "alias": null,
   "fictional": false,
@@ -1020,13 +1139,6 @@
   "fictional": false,
   "asAnswer": 0,
   "asDecoy": 4
- },
- {
-  "name": "Jaden Smith",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 3
  },
  {
   "name": "Larry David",
@@ -1071,13 +1183,6 @@
   "asDecoy": 3
  },
  {
-  "name": "Richard Nixon",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 2
- },
- {
   "name": "Keanu Reeves",
   "alias": null,
   "fictional": false,
@@ -1092,13 +1197,6 @@
   "asDecoy": 2
  },
  {
-  "name": "Karl Lagerfeld",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 3
- },
- {
   "name": "RuPaul",
   "alias": null,
   "fictional": false,
@@ -1107,20 +1205,6 @@
  },
  {
   "name": "Bill Nye",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 3
- },
- {
-  "name": "Nikola Tesla",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 2
- },
- {
-  "name": "Liam Gallagher",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
@@ -1148,25 +1232,11 @@
   "asDecoy": 2
  },
  {
-  "name": "Borat",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 4
- },
- {
   "name": "Che Guevara",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 3
- },
- {
-  "name": "Eric Cartman",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 4
  },
  {
   "name": "Martin Luther King Jr.",
@@ -1211,6 +1281,34 @@
   "asDecoy": 4
  },
  {
+  "name": "Lord Byron",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 2
+ },
+ {
+  "name": "Justin Bieber",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 2
+ },
+ {
+  "name": "Ludwig van Beethoven",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 2
+ },
+ {
+  "name": "David Bowie",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 2
+ },
+ {
   "name": "Seneca",
   "alias": null,
   "fictional": false,
@@ -1218,21 +1316,7 @@
   "asDecoy": 3
  },
  {
-  "name": "Garfield",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 3
- },
- {
   "name": "Blaise Pascal",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 2,
-  "asDecoy": 1
- },
- {
-  "name": "Wolfgang Amadeus Mozart",
   "alias": null,
   "fictional": false,
   "asAnswer": 2,
@@ -1358,28 +1442,7 @@
   "asDecoy": 1
  },
  {
-  "name": "Werner Herzog",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 2
- },
- {
-  "name": "Colonel Sanders",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 2
- },
- {
   "name": "Wallace",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 3
- },
- {
-  "name": "Dr. Evil",
   "alias": null,
   "fictional": true,
   "asAnswer": 0,
@@ -1400,21 +1463,7 @@
   "asDecoy": 3
  },
  {
-  "name": "Björk",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 2
- },
- {
   "name": "Ronald Reagan",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 2
- },
- {
-  "name": "Margaret Thatcher",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
@@ -1589,13 +1638,6 @@
   "asDecoy": 3
  },
  {
-  "name": "Edgar Allan Poe",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 3
- },
- {
   "name": "Batman",
   "alias": null,
   "fictional": true,
@@ -1666,13 +1708,6 @@
   "asDecoy": 2
  },
  {
-  "name": "Peter Thiel",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 2
- },
- {
   "name": "Larry Ellison",
   "alias": null,
   "fictional": false,
@@ -1706,6 +1741,111 @@
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 2
+ },
+ {
+  "name": "Jack Sparrow",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "Cruella de Vil",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "Gollum",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "The Rock",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "Stewie Griffin",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "David Lynch",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 1
+ },
+ {
+  "name": "Bender",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 1
+ },
+ {
+  "name": "Dr. Phil",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "King Charles III",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 0
+ },
+ {
+  "name": "Nicolas Cage",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 0
+ },
+ {
+  "name": "Erwin Schrödinger",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "Yoko Ono",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 2
+ },
+ {
+  "name": "50 Cent",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 1
+ },
+ {
+  "name": "Shakira",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 1
+ },
+ {
+  "name": "Robert Pattinson",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 2,
+  "asDecoy": 0
  },
  {
   "name": "Truman Capote",
@@ -1765,13 +1905,6 @@
  },
  {
   "name": "Banksy",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 1
- },
- {
-  "name": "Ludwig van Beethoven",
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
@@ -1974,13 +2107,6 @@
   "asDecoy": 1
  },
  {
-  "name": "Lord Byron",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 1
- },
- {
   "name": "Theodore Roosevelt",
   "alias": null,
   "fictional": false,
@@ -2079,13 +2205,6 @@
   "asDecoy": 1
  },
  {
-  "name": "David Bowie",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 1
- },
- {
   "name": "Johnny Rotten",
   "alias": null,
   "fictional": false,
@@ -2105,13 +2224,6 @@
   "fictional": false,
   "asAnswer": 0,
   "asDecoy": 2
- },
- {
-  "name": "Justin Bieber",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 1
  },
  {
   "name": "Logan Paul",
@@ -2601,6 +2713,223 @@
   "alias": null,
   "fictional": false,
   "asAnswer": 1,
+  "asDecoy": 1
+ },
+ {
+  "name": "Ryan Reynolds",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Pedro Pascal",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Jeff Goldblum",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Frida Kahlo",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Oklahoma Department of Wildlife Conservation",
+  "alias": "Oklahoma's wildlife department",
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "The CDC",
+  "alias": "The US public-health agency",
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Kevin Durant",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Giannis Antetokounmpo",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Google AI Overview",
+  "alias": "Google's AI search summary",
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Cookie Monster",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Laszlo Cravensworth",
+  "alias": "Laszlo from What We Do in the Shadows",
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Moira Rose",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Severus Snape",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Sister Michael",
+  "alias": "The headmistress in Derry Girls",
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Frank Reynolds",
+  "alias": "Frank from Always Sunny",
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Philomena Cunk",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Miriam Margolyes",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Aubrey Plaza",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "James Blunt",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Rod Ponton",
+  "alias": "The Texas lawyer",
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Salem Saberhagen",
+  "alias": "Salem the talking cat",
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "David Byrne",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Adele",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Stevie Wonder",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Viktor Chernomyrdin",
+  "alias": "Russia's 1990s prime minister",
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Sir Humphrey Appleby",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Bert",
+  "alias": "Bert from Sesame Street",
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "John McAfee",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 1,
+  "asDecoy": 0
+ },
+ {
+  "name": "Johnny Knoxville",
+  "alias": null,
+  "fictional": false,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Draco Malfoy",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
+  "asDecoy": 1
+ },
+ {
+  "name": "Dora the Explorer",
+  "alias": null,
+  "fictional": true,
+  "asAnswer": 0,
   "asDecoy": 1
  },
  {
@@ -3206,13 +3535,6 @@
   "asDecoy": 0
  },
  {
-  "name": "Dr. Phil",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
   "name": "Roy Batty",
   "alias": "The replicant from Blade Runner",
   "fictional": true,
@@ -3253,13 +3575,6 @@
   "fictional": true,
   "asAnswer": 0,
   "asDecoy": 1
- },
- {
-  "name": "Nicolas Cage",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 0
  },
  {
   "name": "Gomez Addams",
@@ -3367,13 +3682,6 @@
   "asDecoy": 0
  },
  {
-  "name": "David Lynch",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 0
- },
- {
   "name": "Patrick Bateman",
   "alias": null,
   "fictional": true,
@@ -3384,13 +3692,6 @@
   "name": "Dr. Strangelove",
   "alias": null,
   "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
-  "name": "Erwin Schrödinger",
-  "alias": null,
-  "fictional": false,
   "asAnswer": 0,
   "asDecoy": 1
  },
@@ -3407,13 +3708,6 @@
   "fictional": false,
   "asAnswer": 0,
   "asDecoy": 1
- },
- {
-  "name": "Robert Pattinson",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 0
  },
  {
   "name": "Grace Hopper",
@@ -3857,13 +4151,6 @@
   "asDecoy": 0
  },
  {
-  "name": "Shakira",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
   "name": "Sean Penn",
   "alias": null,
   "fictional": false,
@@ -4046,13 +4333,6 @@
   "asDecoy": 0
  },
  {
-  "name": "Yoko Ono",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
   "name": "Don Quixote",
   "alias": null,
   "fictional": true,
@@ -4103,13 +4383,6 @@
  },
  {
   "name": "Andrew Jackson",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
-  "name": "50 Cent",
   "alias": null,
   "fictional": false,
   "asAnswer": 0,
@@ -4174,13 +4447,6 @@
  {
   "name": "Emperor Norton",
   "alias": "The man who declared himself Emperor of the United States",
-  "fictional": false,
-  "asAnswer": 1,
-  "asDecoy": 0
- },
- {
-  "name": "King Charles III",
-  "alias": null,
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 0
@@ -4683,13 +4949,6 @@
   "asDecoy": 1
  },
  {
-  "name": "Cruella de Vil",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
   "name": "Archie Bunker",
   "alias": null,
   "fictional": true,
@@ -4919,13 +5178,6 @@
   "fictional": false,
   "asAnswer": 1,
   "asDecoy": 0
- },
- {
-  "name": "The Rock",
-  "alias": null,
-  "fictional": false,
-  "asAnswer": 0,
-  "asDecoy": 1
  },
  {
   "name": "Wilt Chamberlain",
@@ -5187,13 +5439,6 @@
   "asDecoy": 0
  },
  {
-  "name": "Jack Sparrow",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
   "name": "Lars Ulrich",
   "alias": null,
   "fictional": false,
@@ -5332,13 +5577,6 @@
   "fictional": true,
   "asAnswer": 1,
   "asDecoy": 0
- },
- {
-  "name": "Stewie Griffin",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 1
  },
  {
   "name": "Grampa Simpson",
@@ -5594,13 +5832,6 @@
  },
  {
   "name": "Dobby",
-  "alias": null,
-  "fictional": true,
-  "asAnswer": 0,
-  "asDecoy": 1
- },
- {
-  "name": "Bender",
   "alias": null,
   "fictional": true,
   "asAnswer": 0,
