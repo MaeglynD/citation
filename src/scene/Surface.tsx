@@ -63,6 +63,6 @@ export function Action({ x, y, w = 128, h = 28, z = 2, label, onClick, primary =
   const p = usePalette()
   return <Control {...{x,y,w,h,z,onClick,disabled,focused}}>{(hot, down) => <>
     <Surface kind="button" x={0} y={0} w={w} h={h} z={z} fill={primary ? (hot ? p.paper : p.accent) : hot ? p.bg2 : p.box} stroke={hot ? p.accent : p.boxEdge} />
-    <PixelText x={0} y={down ? -1 : 0} z={z + .1} size={8} color={disabled ? p.dim : primary ? p.accentInk : hot ? p.accent : p.boxText}>{label}</PixelText>
+    <PixelText x={0} y={down ? -1 : 0} z={z + .1} size={8} color={disabled ? p.dim : primary ? (hot ? p.ink : p.accentInk) : hot ? p.accent : p.boxText}>{label}</PixelText>
   </>}</Control>
 }

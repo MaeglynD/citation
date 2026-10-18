@@ -34,7 +34,7 @@ function ClickCatcher() {
 
 function MuteButton({ x, y }: { x: number; y: number }) {
   const pal = usePalette()
-  const muted = useSettings((s) => s.muted)
+  const muted = useSettings((s) => s.muted || s.volume === 0)
   const toggle = useGame((s) => s.toggleMute)
   return (
     <Control x={x} y={y} w={22} h={20} z={5} onClick={toggle}>{hot => <>

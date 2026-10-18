@@ -10,6 +10,7 @@ import { audio } from './audio/engine'
 import { recordings, type MusicScene } from './audio/recordings'
 import './game/input'
 import { BG } from './scene/palette'
+import { ThemePreview } from './themes/ThemePreview'
 import quotes from './data/quotes.json'
 import type { Quote } from './game/types'
 
@@ -79,7 +80,7 @@ function Input() {
     const describe = () => {
       const s = useGame.getState()
       const q = s.deck[s.round]
-      const label = s.phase === 'title' ? 'Citation Needed. One real quote, four suspects. Press Enter to start. S opens settings. M mutes.'
+      const label = s.phase === 'title' ? 'Citation Needed. One real quote, four suspects. Press Enter to start. S opens settings. M toggles music.'
         : s.phase === 'question' && q ? `Question ${s.round + 1} of ${s.deck.length}. ${q.quote}. ${s.options.map((o, i) => `${i + 1}: ${o.person.alias || o.person.name}`).join('. ')}. Space reveals the full quote. Use 1 to 4 to answer, or Tab then Enter.`
         : s.phase === 'reveal' && q ? `${s.results[s.results.length - 1] === 'right' ? 'Correct' : 'Incorrect'}. ${q.answer.name}. ${q.source}. ${q.note ?? ''}. Press Enter to continue.`
         : s.phase === 'summary' ? `Final score ${s.score} of ${s.deck.length}. Left and right arrows browse answers. Enter plays again.`
@@ -129,7 +130,7 @@ export function App() {
     }
   }, [])
   return (
-    <Canvas
+    <><Canvas
       dpr={[1, 2]}
       flat
       linear
@@ -146,6 +147,6 @@ export function App() {
       <Input />
       <PixelPipeline />
       {import.meta.env.DEV && new URLSearchParams(window.location.search).has('fonttest') ? <FontTest /> : <Stage />}
-    </Canvas>
+    </Canvas><ThemePreview /></>
   )
 }

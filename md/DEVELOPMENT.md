@@ -24,7 +24,7 @@ Controls have stationary hit targets while their faces lift or depress. During t
 
 Windows/browser reduced-motion preferences do not disable the game's answer effects. This is intentional for this version. The game does not modify the system preference.
 
-Settings retain saved values. New players start with audio enabled, the quietest audible volume and large display size. In Settings, Tab or up/down selects a control, left/right adjusts it, and Enter activates it. M toggles mute, +/− changes volume and D cycles display size.
+Settings retain saved values, including the color scheme. New players start with Midnight colors, audio enabled, the quietest audible volume and large display size. In Settings, Tab or up/down selects a control, left/right adjusts it, and Enter activates it. M toggles music only, +/− changes overall volume and D cycles display size. Zero volume silences everything; music mute leaves dialogue and effects audible. The four theme swatches are Midnight, Arcade, Ember and Parchment. T / Shift+T cycle through the same saved choices.
 
 ## Saved games
 

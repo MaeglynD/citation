@@ -87,7 +87,7 @@ export function ResultReview({ entries, total, startedAt, since = 0, onPlay, onB
     <Surface x={0} y={-16} w={bw + 12} h={view.fh - 52} z={-.4} fill={pal.box} stroke={pal.boxEdge} />
     <PixelBox x={0} y={top - 63} w={bw + 8} h={38} z={-.2} fill={pal.bg2} border={0} />
     <PixelText x={-bw / 2 + 10} y={top - 60} size={legacy ? 16 : 24} color={pal.accent} anchorX="left">{shownScore + '/' + total}</PixelText>
-    {legacy && <PixelText x={bw / 2 - 10} y={top - 55} size={8} color={pal.paper} anchorX="right">EARLIER ANSWERS</PixelText>}
+    {legacy && <PixelText x={bw / 2 - 10} y={top - 55} size={8} color={pal.heading} anchorX="right">EARLIER ANSWERS</PixelText>}
     <PixelText x={bw / 2 - 10} y={top - (legacy ? 73 : 62)} size={16} font={FONTS.vt} color={pal.text} anchorX="right">{formatPlayedAt(startedAt)}</PixelText>
     {shown.map((e, index) => {
       const i = pageStart + index, count = Math.min(perRow, shown.length - Math.floor(index / perRow) * perRow)

@@ -8,7 +8,8 @@ import { Bitmap, QMARK } from './Sprites'
 import { Mugshot } from './Mugshot'
 import { audio } from '../audio/engine'
 
-const CAST = [null, 'Dolly Parton', 'Albert Einstein', 'SpongeBob SquarePants', 'Bob Ross', 'Darth Vader', 'Mahatma Gandhi', 'Kermit the Frog', 'Mother Teresa', 'Napoleon Bonaparte']
+// Distinct silhouettes and recognizable details at the home-screen pixel size.
+const CAST = [null, 'Dr. Evil', 'Gordon Ramsay', 'Wolfgang Amadeus Mozart', 'The Pokédex', 'Albert Einstein', 'David Bowie', 'Frida Kahlo', 'Bob Ross']
 
 export function Title() {
   const p = usePalette(), v = useGame(s => s.view), best = useGame(s => s.bestScore)
@@ -30,7 +31,7 @@ export function Title() {
     </>}</Control>
     {[0, 1].map(i => <group key={i}>
       <PixelText x={titleX + 2} y={titleY - i * (big + 11) - 4} size={big} color={p.shadow} font={FONTS.press} anchorX="left">{i ? 'NEEDED' : 'CITATION'}</PixelText>
-      <PixelText x={titleX} y={titleY - i * (big + 11)} z={.3} size={big} color={i ? p.accent : p.paper} font={FONTS.press} anchorX="left">{i ? 'NEEDED' : 'CITATION'}</PixelText>
+      <PixelText x={titleX} y={titleY - i * (big + 11)} z={.3} size={big} color={i ? p.accent : p.heading} font={FONTS.press} anchorX="left">{i ? 'NEEDED' : 'CITATION'}</PixelText>
     </group>)}
     <PixelText x={0} y={phone ? -32 : -25} size={8} color={p.text} maxWidth={v.fw - 36} lineHeight={1.75}>{'One quote. Four suspects.\nAnd one of them actually said it.'}</PixelText>
     <Action x={0} y={playY} w={158} h={30} label={paused ? 'CONTINUE' : 'PRESS START'} primary onClick={() => useGame.getState().resume()} />

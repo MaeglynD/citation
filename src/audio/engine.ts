@@ -7,7 +7,7 @@ import { recordings, type MusicScene, type Clip } from './recordings'
 export type { Voice }
 
 /** Volume steps 0..5 mapped onto a roughly perceptual gain curve. */
-const LEVEL = [0, 0.08, 0.2, 0.4, 0.67, 1]
+const LEVEL = [0, 0.025, 0.2, 0.4, 0.67, 1]
 const MUSIC_BASE = 0.3
 const SFX_BASE = 1.0
 /** Seconds of music scheduled ahead of the clock. */
@@ -66,7 +66,7 @@ class AudioEngine {
   /** Music ducks under the big sound effects (duckGain) and, more gently, under typing (typeGain). */
   private duckGain: GainNode | null = null
   private typeGain: GainNode | null = null
-  private muted = false
+  private muted = false // music only; effects still follow the overall volume
   private volume = 1
   private lastBlip = 0
   private lastMumble = -1
@@ -102,8 +102,9 @@ class AudioEngine {
     if (!s) return
     const t = s.now
     s.master.gain.cancelScheduledValues(t)
-    s.master.gain.setTargetAtTime(this.muted ? 0 : LEVEL[this.volume], t, this.muted ? 0.015 : 0.04)
-    s.music.gain.value = MUSIC_BASE
+    s.master.gain.setTargetAtTime(LEVEL[this.volume], t, 0.04)
+    s.music.gain.cancelScheduledValues(t)
+    s.music.gain.setTargetAtTime(this.muted ? 0 : MUSIC_BASE, t, this.muted ? 0.015 : 0.04)
     s.sfx.gain.cancelScheduledValues(t)
     s.sfx.gain.setTargetAtTime(SFX_BASE * this.theme.sfxGain, t, 0.03)
   }
@@ -245,7 +246,7 @@ class AudioEngine {
   // ---- sound effects -----------------------------------------------------
 
   private play(fn: (s: Synth, t: number) => void) {
-    if (document.hidden || this.muted || this.volume === 0) return
+    if (document.hidden || this.volume === 0) return
     const s = this.ensure()
     // A hover before the first gesture must not queue a burst of sounds for unlock.
     if (!s || s.ctx.state !== 'running') return
@@ -256,7 +257,7 @@ class AudioEngine {
   }
 
   blip(ch: string, v: Voice, i: number) {
-    if (document.hidden || this.muted || this.volume === 0 || !isLetter(ch)) return
+    if (document.hidden || this.volume === 0 || !isLetter(ch)) return
     const s = this.ensure()
     if (!s || s.ctx.state !== 'running') return
     if (s.now - this.lastBlip < 0.065) return

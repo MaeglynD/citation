@@ -68,6 +68,7 @@ export function PixelPipeline() {
         uFlash: { value: 0 },
         uWipe: { value: 0 },
         uWipeColor: { value: new THREE.Color('#1d2b53') },
+        uBgColor: { value: new THREE.Color() },
         uTime: { value: 0 },
       },
       depthTest: false,
@@ -84,6 +85,7 @@ export function PixelPipeline() {
         uniform float uFlash;
         uniform float uWipe;
         uniform vec3 uWipeColor;
+        uniform vec3 uBgColor;
         uniform float uTime;
         varying vec2 vUv;
 
@@ -106,8 +108,8 @@ export function PixelPipeline() {
           vec2 px = floor(vUv * uRes) + 0.5 + uShake;
           vec2 uv = px / uRes;
           vec3 c = texture2D(uTex, uv).rgb;
-          // Outside the shaken frame: darken to the frame colour.
-          if (uv.x < 0.0 || uv.x > 1.0 || uv.y < 0.0 || uv.y > 1.0) c = vec3(0.04, 0.05, 0.1);
+          // Keep exposed edges in the active palette during screen shake.
+          if (uv.x < 0.0 || uv.x > 1.0 || uv.y < 0.0 || uv.y > 1.0) c = uBgColor;
 
           // Dithered vignette: two discrete darkness levels, Bayer-dithered.
           vec2 q = (px / uRes) - 0.5;
@@ -169,6 +171,7 @@ export function PixelPipeline() {
     blit.mat.uniforms.uFlash.value = flash * 0.5
     blit.mat.uniforms.uWipe.value = wipe
     ;(blit.mat.uniforms.uWipeColor.value as THREE.Color).set(pal.bg2)
+    ;(blit.mat.uniforms.uBgColor.value as THREE.Color).copy(bg)
     blit.mat.uniforms.uTime.value = t
     gl.render(blit.scene, blit.camera)
   }, 1)

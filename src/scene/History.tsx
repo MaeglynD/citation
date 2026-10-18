@@ -34,7 +34,7 @@ export function History() {
     }) as ReviewEntry[]
     if (entries.length) return <ResultReview key={game.id} entries={entries} total={game.total} startedAt={game.startedAt}
       legacy={game.legacy} onBack={() => useGame.setState({ reviewGameId: null })} />
-    return <group><PixelText size={16} color={p.paper}>These quotes are unavailable.</PixelText><Action x={0} y={-50} label="BACK TO GAMES" onClick={() => useGame.setState({reviewGameId:null})} /></group>
+    return <group><PixelText size={16} color={p.heading}>These quotes are unavailable.</PixelText><Action x={0} y={-50} label="BACK TO GAMES" onClick={() => useGame.setState({reviewGameId:null})} /></group>
   }
   const w = Math.min(v.fw - 32, 490), top = Math.min(v.fh / 2 - 55, v.portrait ? 265 : 145)
   if (!games.length) return <group>
@@ -47,7 +47,7 @@ export function History() {
   const gameCount = games.filter(g => !g.legacy).length
   const bottom = top - 45 - shown.length * (rowH + gap)
   return <group>
-    <PixelText x={-w / 2 + 5} y={top} size={16} color={p.paper} anchorX="left">HISTORY</PixelText>
+    <PixelText x={-w / 2 + 5} y={top} size={16} color={p.heading} anchorX="left">HISTORY</PixelText>
     {gameCount > 0 && <PixelText x={w / 2 - 4} y={top} size={8} color={p.muted} anchorX="right">{gameCount + (gameCount === 1 ? ' GAME' : ' GAMES')}</PixelText>}
     {shown.map((g, slot) => {
       const i = start + slot, y = top - 38 - rowH / 2 - slot * (rowH + gap)
@@ -55,7 +55,7 @@ export function History() {
       return <Control key={g.id} x={0} y={y} w={w} h={rowH} z={1} focused={selected === i} onClick={() => open(i)} onOver={() => choose(i)}>{hot => <>
         <Surface x={0} y={0} w={w} h={rowH} z={1} fill={hot ? p.bg2 : p.box} stroke={hot ? p.accent : p.boxEdge} />
         <PixelBox x={-w / 2 + 2} y={0} w={3} h={rowH - 8} z={1.1} fill={complete ? p.bg3 : p.mark} border={0} />
-        <PixelText x={-w / 2 + 16} y={rowH / 2 - 16} z={1.2} size={16} font={FONTS.vt} color={p.paper} anchorX="left">{g.legacy ? 'Earlier answers' : formatPlayedAt(g.startedAt)}</PixelText>
+        <PixelText x={-w / 2 + 16} y={rowH / 2 - 16} z={1.2} size={16} font={FONTS.vt} color={p.heading} anchorX="left">{g.legacy ? 'Earlier answers' : formatPlayedAt(g.startedAt)}</PixelText>
         <PixelText x={w / 2 - 15} y={-3} z={1.2} size={16} color={p.accent} anchorX="right">{score + '/' + g.total}</PixelText>
         {g.answers.slice(0,10).map((a, j) => <Bitmap key={j} rows={a.correct ? CHECK : CROSS} x={-w / 2 + 20 + j * 13} y={-4} z={1.2} color={a.correct ? p.good : p.bad} />)}
         {!complete && !g.legacy && <PixelText x={-w / 2 + 16} y={-rowH / 2 + 13} z={1.2} size={16} font={FONTS.vt} color={p.muted} anchorX="left">{g.answers.length + ' of ' + g.total + ' answered'}</PixelText>}

@@ -52,7 +52,10 @@ The complete site builds into `dist/`.
 | Next quote | Click after the reveal | Enter or Space |
 | Review your answers | Click a numbered portrait | Arrow keys |
 | Main menu | Menu | Home |
-| Settings / mute | Top-right buttons | S / M |
+| Settings / music on or off | Top-right buttons | S / M |
+| Color scheme | Swatches in Settings | T next / Shift+T previous |
+
+The theme swatches run left to right: Midnight, Arcade, Ember, Parchment, with Midnight as the default. Your choice is saved. T and Shift+T also cycle through them. The speaker button silences only the soundtrack; dialogue and effects stay on. Volume controls all audio, with zero silencing everything.
 
 Audio begins after the first click, tap or keypress. Scores, settings and the latest 50 games stay in your browser's local storage.
 

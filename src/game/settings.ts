@@ -1,17 +1,19 @@
 import { create } from 'zustand'
+import { THEMES, themeById, type Theme } from '../themes/palettes'
 
 /**
  * Player preferences, persisted per browser: the stable soundtrack id,
- * one volume, the display size, and mute.
+ * color scheme, overall volume, display size, and music mute.
  */
 
 export type SizeSetting = 'small' | 'medium' | 'large' | 'huge'
 
 export interface Settings {
   theme: string
+  colorScheme: Theme['id']
   volume: number // 0..5
   size: SizeSetting
-  muted: boolean
+  muted: boolean // music only
 }
 
 export const SIZE_ORDER: SizeSetting[] = ['small', 'medium', 'large', 'huge']
@@ -21,7 +23,7 @@ export const MAX_CSS_PX: Record<SizeSetting, number> = { small: 1.5, medium: 2, 
 export const CHARS_PER_SECOND = 55
 
 const KEY = 'citation-needed.settings'
-const DEFAULTS: Settings = { theme: 'arcade', volume: 1, size: 'large', muted: false }
+const DEFAULTS: Settings = { theme: 'arcade', colorScheme: THEMES[0].id, volume: 1, size: 'large', muted: false }
 
 function load(): Settings {
   try {
@@ -29,12 +31,12 @@ function load(): Settings {
     if (!raw) return { ...DEFAULTS }
     const saved = JSON.parse(raw)
     const s: Settings = { ...DEFAULTS }
-    // Old visual choices migrate to the single game identity.
+    // Keep the soundtrack stable; visual choices have their own preference.
+    if (typeof saved.colorScheme === 'string') s.colorScheme = themeById(saved.colorScheme).id
     if (Number.isFinite(saved.volume)) s.volume = Math.max(0, Math.min(5, Math.round(saved.volume)))
     else if (typeof saved.music === 'number') s.volume = Math.max(0, Math.min(5, Math.round(saved.music)))
     if (SIZE_ORDER.includes(saved.size)) s.size = saved.size
     if (typeof saved.muted === 'boolean') s.muted = saved.muted
-    if (s.theme === 'classic') s.theme = 'arcade'
     return s
   } catch {
     return { ...DEFAULTS }
@@ -60,8 +62,8 @@ export const useSettings = create<SettingsStore>((set, get) => ({
   open: false,
   setOpen: (open) => set({ open }),
   update: (patch) => {
-    set({ ...patch, theme: 'arcade' })
-    const { theme, volume, size, muted } = get()
-    save({ theme, volume, size, muted })
+    set({ ...patch, theme: 'arcade', colorScheme: themeById(patch.colorScheme ?? get().colorScheme).id })
+    const { theme, colorScheme, volume, size, muted } = get()
+    save({ theme, colorScheme, volume, size, muted })
   },
 }))
