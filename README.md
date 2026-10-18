@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://citation.party"><img src="md/assets/logo.svg" alt="Citation Needed!" width="672" /></a>
+<a href="https://citation.party"><img src="md/assets/logo.svg" alt="Citation Needed! — Dr. Evil in the Midnight theme" width="672" /></a>
 
 [![Play Citation Needed](https://img.shields.io/badge/play-citation.party-ffe65a?style=flat-square&labelColor=352363)](https://citation.party)
 [![CI](https://github.com/MaeglynD/citation/actions/workflows/ci.yml/badge.svg)](https://github.com/MaeglynD/citation/actions/workflows/ci.yml)
@@ -12,7 +12,7 @@
 </div>
 
 
-## The game
+## The game (vibe coded w/ astra)
 
 Read a quote, meet the suspects, and pick its unlikely source. Ten rounds later, revisit your spectacular deductions—and spectacular mistakes (with citations for every answer)
 

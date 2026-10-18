@@ -82,9 +82,9 @@ The current scene's music starts a low-priority compressed download after a 1.2-
 
 ## Branding and loading
 
-The favicon uses the game's cream speech bubble and pink question mark. The README wordmark uses the actual mystery portrait and Press Start 2P outlines, so GitHub needs no external font. Its gameplay screenshot is supplied by the project owner.
+The favicon uses the game's cream speech bubble and pink question mark. The README wordmark uses Dr. Evil's actual portrait, the default theme's palette, the game's question-mark sprite, and Press Start 2P outlines, so GitHub needs no external font. Its card and speech bubble follow the home-screen styling. Its gameplay screenshot is supplied by the project owner.
 
-`python scripts/prepare-branding.py` (Python with `fontTools`, plus Node and the installed npm dependencies) regenerates the wordmark and the two production WOFF fonts. WOFF compression preserves every glyph; the original TTFs and license notices remain in `public/fonts/`. Troika supports WOFF, but not WOFF2.
+`python scripts/prepare-branding.py` (Python with `fontTools`, plus Node and the installed npm dependencies) regenerates the wordmark and the two production WOFF fonts. Add `--logo-only` to refresh just the README artwork. WOFF compression preserves every glyph; the original TTFs and license notices remain in `public/fonts/`. Troika supports WOFF, but not WOFF2.
 
 The HTML preloads the production fonts. Vite gives them and the JavaScript chunks content hashes; `public/_headers` lets browsers cache these immutable assets for a year. Editable HTML and the audio manifest/recordings revalidate, preventing stale releases. Portrait textures are generated locally on demand, so the cast does not require hundreds of image downloads. The two music tracks and three recorded cues use about 2.02 MB in Ogg format altogether; the menu/gameplay loop is about 1.25 MB. MP3 alternatives are downloaded only when needed.
 
