@@ -41,23 +41,34 @@ const topicPressure = [
 assert(buildDeck(topicPressure, new Set(), 10, random(42)).every(q => q.priority === 2), 'Topic variety must not promote weaker material over unseen headliners')
 const speakerPressure = [fixture('best-a', 2, 'same', 'same'), fixture('best-b', 2, 'same', 'same'), fixture('weaker', 1), fixture('reserve', -1)]
 assert(buildDeck(speakerPressure, new Set(), 2, random(42)).every(q => q.priority === 2), 'Speaker variety must not promote weaker material over unseen headliners')
-const newQuoteIds = new Set(JSON.parse(fs.readFileSync('research/punchlines.json', 'utf8')).map(q => q.id))
+const newQuoteIds = new Set(JSON.parse(fs.readFileSync('research/readable.json', 'utf8')).map(q => q.id))
 const returning = new Set(quotes.filter(q => q.priority === 2 && !newQuoteIds.has(q.id)).map(q => q.id))
 const returningDeck = buildDeck(quotes, returning, 10, random(42))
-assert(returningDeck.every(q => newQuoteIds.has(q.id) && q.priority === 2), 'Existing players discover new headliners without a history reset')
+const newHeadliners = quotes.filter(q => q.priority === 2 && newQuoteIds.has(q.id))
+assert(newHeadliners.length > 0, 'The new collection contains selected headliners')
+assert.deepEqual(new Set(returningDeck.slice(0, newHeadliners.length).map(q => q.id)), new Set(newHeadliners.map(q => q.id)), 'Existing players receive every new headliner before lower tiers, without requiring ten additions')
+assert(returningDeck.every(q => !returning.has(q.id)), 'Returning players receive unseen material throughout the game')
 assert.equal(returning.size, quotes.filter(q => q.priority === 2 && !newQuoteIds.has(q.id)).length, 'Building a deck preserves existing history')
-for (const id of ['toon-burns-three-demons', 'sharp-superhans-people']) {
+for (const id of ['toon-burns-three-demons', 'sharp-superhans-people', 'punch-cave-chili-peppers', 'readable-carlin-driving']) {
   assert.equal(quotes.find(q => q.id === id)?.priority, 2, 'Explicit user favourites remain headliners')
 }
-assert.equal(quotes.find(q => q.id === 'enc-britney-global-warming')?.priority, -1, 'The explicitly rejected Gaga non sequitur stays in reserve')
+for (const id of ['enc-britney-global-warming', 'toon-homer-two-to-lie', 'punch-reagan-deficit']) {
+  const quote = quotes.find(q => q.id === id)
+  assert.equal(quote?.priority, -1, 'Explicitly rejected opening lines stay in reserve')
+  assert(!quote.opener, 'Rejected opening lines cannot retain an opener flag')
+}
 const lopsided = [fixture('fresh-a', undefined, 'same', 'same'), fixture('fresh-b', undefined, 'same', 'same'), fixture('seen-hit', 2, 'other', 'other', true)]
 assert.deepEqual(buildDeck(lopsided, new Set(['seen-hit']), 3, random(42)).slice(0, 2).map(q => q.id).sort(), ['fresh-a', 'fresh-b'], 'Use every unseen quote before repeating, even if it means repeating a speaker')
 assert.equal(buildDeck(lopsided, new Set(), 1, random(42))[0].id, 'seen-hit', 'One-round decks honour the opener')
 assert.deepEqual(buildDeck(quotes, new Set(), 0), [])
 const openingHistory = new Set()
-for (let game = 0; game < 5; game++) {
+const headlinerCount = quotes.filter(q => q.priority === 2).length
+for (let game = 0; game < Math.ceil(headlinerCount / 10); game++) {
+  const remainingHeadliners = quotes.filter(q => q.priority === 2 && !openingHistory.has(q.id)).length
   const deck = buildDeck(quotes, openingHistory, 10, random(game + 700))
-  assert(deck.every(q => !openingHistory.has(q.id) && q.priority === 2), 'The first five games contain only fresh headliners')
+  assert(deck.every(q => !openingHistory.has(q.id)), 'Opening games remain fresh')
+  assert.equal(deck.filter(q => q.priority === 2).length, Math.min(10, remainingHeadliners), 'Spend the actual headliner pool before lower tiers; never require an editorial quantity target')
+  assert(deck.slice(0, Math.min(10, remainingHeadliners)).every(q => q.priority === 2), 'The final partial headliner game keeps its stronger rounds first')
   deck.forEach(q => openingHistory.add(q.id))
 }
 const first = buildDeck(quotes, new Set())
@@ -127,5 +138,5 @@ globalThis.localStorage.getItem=()=>{throw new Error('storage blocked')}
 assert.deepEqual(loadGames(),[])
 delete globalThis.localStorage
 await import('./validate-quotes.mjs')
-console.log('Passed 500 seeded deck simulations, opener variety, strict tiers under topic/speaker pressure, reserve ordering, returning-player discovery, explicit taste feedback, five fresh headliner games, and a full collection without repeats.')
+console.log('Passed 500 seeded deck simulations, opener variety, strict tiers under topic/speaker pressure, reserve ordering, returning-player discovery, explicit taste feedback, headliner exhaustion without a quantity target, and a full collection without repeats.')
 console.log('History passed: per-game upserts, completion, legacy migration, validation, ordering, bounds and blocked storage.')

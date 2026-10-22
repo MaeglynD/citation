@@ -1,0 +1,111 @@
+{
+  "Steven Wright": {
+    "skin": "fair",
+    "face": "long",
+    "age": "adult",
+    "build": "slim",
+    "hair": "baldsides",
+    "hairColor": "brown",
+    "facialHair": "goatee",
+    "facialHairColor": "brown",
+    "brows": "bushy",
+    "eyes": "sleepy",
+    "nose": "long",
+    "mouth": "neutral",
+    "outfit": "sweater",
+    "outfitColor": "charcoal"
+  },
+  "Sarah Silverman": {
+    "skin": "light",
+    "face": "oval",
+    "age": "adult",
+    "hair": "long",
+    "hairColor": "black",
+    "brows": "thick",
+    "eyes": "normal",
+    "eyeColor": "brown",
+    "nose": "normal",
+    "mouth": "smirk",
+    "outfit": "tshirt",
+    "outfitColor": "red",
+    "extras": [
+      "lashes"
+    ]
+  },
+  "Del Boy": {
+    "skin": "fair",
+    "face": "round",
+    "build": "broad",
+    "hair": "short",
+    "hairColor": "brown",
+    "headwear": "cap",
+    "headwearColor": "darkbrown",
+    "brows": "raised",
+    "eyes": "normal",
+    "nose": "big",
+    "mouth": "grin",
+    "outfit": "fur",
+    "outfitColor": "tan",
+    "outfitColor2": "darkbrown",
+    "extras": [
+      "chain"
+    ]
+  },
+  "Alan Sugar": {
+    "skin": "light",
+    "face": "wide",
+    "build": "broad",
+    "age": "old",
+    "hair": "short",
+    "hairColor": "saltpepper",
+    "facialHair": "stubble",
+    "facialHairColor": "grey",
+    "brows": "angry",
+    "eyes": "narrow",
+    "nose": "big",
+    "mouth": "frown",
+    "outfit": "suit",
+    "outfitColor": "navy",
+    "outfitColor2": "blue",
+    "extras": [
+      "wrinkles"
+    ]
+  },
+  "John Waters": {
+    "skin": "pale",
+    "face": "long",
+    "age": "old",
+    "build": "slim",
+    "hair": "receding",
+    "hairColor": "grey",
+    "facialHair": "pencil",
+    "facialHairColor": "black",
+    "brows": "thin",
+    "eyes": "small",
+    "nose": "long",
+    "mouth": "smirk",
+    "outfit": "suit",
+    "outfitColor": "burgundy",
+    "outfitColor2": "black"
+  },
+  "Tyrion Lannister": {
+    "skin": "fair",
+    "face": "wide",
+    "build": "broad",
+    "hair": "shaggy",
+    "hairColor": "lightbrown",
+    "facialHair": "short",
+    "facialHairColor": "brown",
+    "brows": "normal",
+    "eyes": "normal",
+    "eyeColor": "green",
+    "nose": "normal",
+    "mouth": "smirk",
+    "outfit": "vest",
+    "outfitColor": "maroon",
+    "outfitColor2": "black",
+    "extras": [
+      "scar"
+    ]
+  }
+}

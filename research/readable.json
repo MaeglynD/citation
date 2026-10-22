@@ -1,0 +1,248 @@
+[
+  {
+    "id": "readable-carlin-driving",
+    "theme": "arts",
+    "quote": "Have you ever noticed ... that anyone who's driving slower than you is an idiot? And anyone driving faster than you is a maniac.",
+    "answer": {
+      "name": "George Carlin",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Jeremy Clarkson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Larry David",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Carlin on Campus (1984), driving routine, 26:34",
+    "url": "https://www.subtitlecat.com/subs/1324/George%20Carlin%3B%20Carlin%20on%20Campus%20%28June%2022%2C%201984%29.html",
+    "verification": "Subtitles at 26:34-26:52. Ellipsis explicitly omits only 'when you're driving'; preserves the two complete contrasting clauses. Corroborated by the album-specific quotations at https://www.georgecarlin.net/quotes/albumhboquotes.html. The user approved the familiar compact version on 23 October 2026.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  },
+  {
+    "id": "readable-wright-skylight",
+    "theme": "arts",
+    "quote": "I've been getting into astronomy, so I installed a skylight. The people who live above me are furious.",
+    "answer": {
+      "name": "Steven Wright",
+      "alias": "The deadpan American comic with the wild hair",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Neil deGrasse Tyson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "The Virginian-Pilot interview, 20 April 1996",
+    "url": "https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1996/vp960420/04190066.htm",
+    "verification": "Contemporary interview quotes this exact version. Also reproduced in Dennis Lythgoe's Deseret News interview, 28 January 2001. The astronomy setup is retained; this is a stand-up joke, not a factual account of construction work.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  },
+  {
+    "id": "readable-silverman-thin",
+    "theme": "arts",
+    "quote": "I don't care if you think I'm racist. I just want you to think I'm thin.",
+    "answer": {
+      "name": "Sarah Silverman",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Paris Hilton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Joan Rivers",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Sarah Silverman: Jesus Is Magic (2005)",
+    "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=143334",
+    "note": "A joke from her satirical stage persona in Jesus Is Magic.",
+    "verification": "Film transcript matches the two sentences (site asterisk restored in 'racist'). Corroborated verbatim by Christopher Borrelli's Chicago Tribune interview, syndicated 27 March 2011: https://www.mrt.com/news/article/Q-A-Comedian-Sarah-Silverman-7432410.php. Not an unscripted confession.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  },
+  {
+    "id": "readable-garth-books",
+    "theme": "toons",
+    "quote": "I'm one of the few people you'll meet who's written more books than they've read.",
+    "answer": {
+      "name": "Garth Marenghi",
+      "alias": "The horror writer from Darkplace",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Stephen King",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "In-character interview, Varsity, 19 November 2004, p. 8",
+    "url": "https://archive.varsity.co.uk/609.pdf#page=8",
+    "verification": "Primary interview headed 'Oh, the horror!', p. 8; Garth's first answer. Uses this interview's 'who's ... they've', not the different television wording. Leading 'In fact' omitted. The speaker is the fictional author, not Matthew Holness speaking as himself.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  },
+  {
+    "id": "readable-bender-theme-park",
+    "theme": "toons",
+    "quote": "I'm gonna go build my own theme park, with blackjack and hookers. In fact, forget the park!",
+    "answer": {
+      "name": "Bender",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Frank Reynolds",
+        "alias": "Frank from Always Sunny",
+        "fictional": true
+      },
+      {
+        "name": "Hugh Hefner",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Silvio Berlusconi",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Futurama, S1E2 The Series Has Landed (1999)",
+    "url": "https://imsdb.com/transcripts/Futurama-The-Series-Has-Landed.html",
+    "verification": "Episode transcript, Bender after the Moon Patrol ejects him from Luna Park. Continuous excerpt omits only opening 'Yeah, well'; retains the abandoned plan as well as the notorious additions. Not the later lunar-lander repetition.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  },
+  {
+    "id": "readable-superhans-van",
+    "theme": "toons",
+    "quote": "With a van, it's like you've got an MBA. But you've also got a fucking van.",
+    "answer": {
+      "name": "Super Hans",
+      "alias": "Super Hans (Peep Show)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Del Boy",
+        "alias": "Del Boy (Only Fools and Horses)",
+        "fictional": true
+      },
+      {
+        "name": "Alan Sugar",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Peep Show, S6E1 Jeremy at JLB (2009)",
+    "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=127185",
+    "verification": "Episode transcript, advice after the loss of JLB jobs. Two consecutive sentences; site's censorship restored against https://www.imdb.com/title/tt1503944/quotes/. Kept below headliners: the MBA comparison is a less immediate payoff.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  },
+  {
+    "id": "readable-waters-books",
+    "theme": "arts",
+    "quote": "If you go home with somebody and they don't have books, don't fuck them.",
+    "answer": {
+      "name": "John Waters",
+      "alias": "The director of Hairspray and Pink Flamingos",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Stephen Fry",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Dolly Parton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Tyrion Lannister",
+        "alias": "Tyrion from Game of Thrones",
+        "fictional": true
+      }
+    ],
+    "source": "Barnes & Noble interview, 2014; discussing Role Models",
+    "url": "https://www.barnesandnoble.com/blog/the-68-year-old-thrill-seeker-john-waters/",
+    "verification": "Interviewer quotes the sentence and Waters acknowledges it, then elaborates on his literary dating advice. This uses the interview's 'them', not a silently substituted version from the book. Featured, not automatically promoted for its profanity.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "readable"
+    ]
+  }
+]

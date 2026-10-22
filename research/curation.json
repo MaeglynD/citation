@@ -9,32 +9,27 @@
   },
   "enc-noel-soup": {
     "priority": 2,
-    "reason": "An unusually vivid insult, with no dependence on a swear word or gross image.",
-    "opener": true
+    "reason": "An unusually vivid insult, with no dependence on a swear word or gross image."
   },
   "aft-50cent-grandma": {
     "priority": 2,
-    "reason": "Wealth and swagger collapse under a grandmother's chores. The profanity is incidental to the joke.",
-    "opener": true
+    "reason": "Wealth and swagger collapse under a grandmother's chores. The profanity is incidental to the joke."
   },
   "enc-britney-global-warming": {
     "priority": -1,
     "reason": "Explicit user rejection, 22 October 2026: the Gaga/global-warming switch has no clear punchline. Do not restore early billing merely because it is eccentric."
   },
   "enc-farnsworth-measurement": {
-    "priority": 2,
-    "reason": "A childish grievance that is also a correct physics joke; the real scientists are excellent decoys.",
-    "opener": true
+    "priority": 1,
+    "reason": "The isolated complaint needs the missing quantum-measurement scene or physics knowledge. It should not be an early cold read."
   },
   "enc-zapp-checkmate": {
     "priority": 2,
-    "reason": "Four incompatible metaphors in one confident strategy; politics and management are plausible rivals.",
-    "opener": true
+    "reason": "Four incompatible metaphors in one confident strategy; politics and management are plausible rivals."
   },
   "toon-homer-facts-meaningless": {
-    "priority": 2,
-    "reason": "The final qualification destroys the argument with perfect confidence.",
-    "opener": true
+    "priority": 1,
+    "reason": "The final qualification is clever but the spoken emphasis does much of the work. Below the complete written setups."
   },
   "toon-burns-three-demons": {
     "priority": 2,
@@ -43,18 +38,15 @@
   },
   "toon-farquaad-sacrifice": {
     "priority": 2,
-    "reason": "A noble sacrifice made entirely at other people's expense; compact, recognisable and playable.",
-    "opener": true
+    "reason": "A noble sacrifice made entirely at other people's expense; compact, recognisable and playable."
   },
   "spo-barkley-character": {
-    "priority": 2,
-    "reason": "The lawsuit cancels itself in the final clause; a self-own rather than random sports banter.",
-    "opener": true
+    "priority": 1,
+    "reason": "A familiar double meaning with a mild self-own; not enough for the leading selection."
   },
   "spo-walker-prophecies": {
-    "priority": 2,
-    "reason": "A proud rebranding of being wrong; the fortune-teller decoy makes the exact wording matter.",
-    "opener": true
+    "priority": 1,
+    "reason": "A neat rephrasing of being wrong, but little beyond the phrasing. Preserve below the more developed jokes."
   },
   "spo-clough-topone": {
     "priority": 1,
@@ -95,9 +87,8 @@
     "opener": true
   },
   "art-banksy-learn-to-draw": {
-    "priority": 2,
-    "reason": "Grand artistic sacrifice undercut by a basic competence question.",
-    "opener": true
+    "priority": 1,
+    "reason": "Legible as text, but closer to a pointed artistic opinion than a substantial laugh. Keep for later games."
   },
   "art-vidal-friend-succeeds": {
     "priority": 1,
@@ -128,14 +119,12 @@
     "reason": "An officeholder reviewing his own job with magnificent contempt."
   },
   "spo-shaq-company": {
-    "priority": 2,
-    "reason": "A self-serving workplace argument that is impeccably consistent. Previous billing described a different Shaq joke.",
-    "opener": true
+    "priority": 1,
+    "reason": "A good workplace complaint, but the literal symmetry is a smaller payoff than the opening material."
   },
   "spo-best-booze": {
     "priority": 2,
-    "reason": "The confession of waste becomes a defence of the three most extravagant items.",
-    "opener": true
+    "reason": "The confession of waste becomes a defence of the three most extravagant items."
   },
   "spo-ali-job": {
     "priority": 1,
@@ -158,9 +147,8 @@
     "reason": "An inspirational ambition rescued by one practical qualification; now a familiar line."
   },
   "toon-robot-devil-announce-feel": {
-    "priority": 2,
-    "reason": "A writing rule is broken immediately by the person laying it down.",
-    "opener": true
+    "priority": 1,
+    "reason": "A short meta contradiction; more amusing in the performance than as an isolated line."
   },
   "toon-hobbes-ignorance-instantaneous": {
     "priority": 1,
@@ -168,8 +156,7 @@
   },
   "toon-zapp-wave-after-wave": {
     "priority": 2,
-    "reason": "Mass casualties presented as tactical ingenuity. The confident, monstrous logic of the user's Burns example.",
-    "opener": true
+    "reason": "Mass casualties presented as tactical ingenuity. The confident, monstrous logic of the user's Burns example."
   },
   "toon-morty-nobody-exists": {
     "priority": 1,
@@ -193,9 +180,8 @@
     "opener": true
   },
   "aft-moira-also-wrong": {
-    "priority": 2,
-    "reason": "The list of apparent criticisms turns out to be praise; only the final word is the objection.",
-    "opener": true
+    "priority": 1,
+    "reason": "The joke asks the reader to infer that the first three criticisms are praise. Moira's delivery and character carry too much of it for an opener."
   },
   "aft-blunt-bad-year": {
     "priority": 1,
@@ -367,46 +353,41 @@
     "reason": "A good grandmotherly interrogation, below the more savage musical insults."
   },
   "sharp-pattinson-boring-prison": {
-    "priority": 2,
-    "reason": "An actor inventing compulsory creativity by dictatorship; the real answer is the least expected option.",
-    "opener": true
+    "priority": 1,
+    "reason": "Without the hypothetical-dictator setup, 'the people who were boring' is an awkward fragment. The reveal explains too much for an opener."
   },
   "sharp-irs-stolen-property": {
-    "priority": 2,
-    "reason": "The theft is accepted as a premise; the paperwork is the concern. A real agency outdoes the criminal-lawyer decoy."
+    "priority": 1,
+    "reason": "The agency reveal and the unfamiliar FMV abbreviation do too much work. Interesting official absurdity, but later billing."
   },
   "sharp-superhans-people": {
     "priority": 2,
-    "reason": "Explicit user favourite, 22 October 2026. A musical dislike and an atrocity are offered as equally conclusive evidence against humanity; preserve as a taste benchmark."
+    "reason": "Explicit user favourite, 22 October 2026. The two wildly disproportionate examples and the conclusion are all present in the text. A positive anchor, not a genre quota.",
+    "opener": true
   },
   "sharp-jason-molotov": {
     "priority": 2,
-    "reason": "The punchline technically proves his claim while demolishing his competence.",
-    "opener": true
+    "reason": "The punchline technically proves his claim while demolishing his competence."
   },
   "sharp-michael-knew-exactly": {
-    "priority": 2,
-    "reason": "A confident assertion eaten by its own qualification; equally plausible as management or politics.",
-    "opener": true
+    "priority": 1,
+    "reason": "The two clauses contradict each other, but the performance supplies most of the comic rhythm. Later billing."
   },
   "sharp-selina-atm": {
     "priority": 2,
-    "reason": "A blunt political argument compressed into an absurdly convenient piece of infrastructure.",
-    "opener": true
+    "reason": "A blunt political argument compressed into an absurdly convenient piece of infrastructure."
   },
   "sharp-zaphod-ego": {
     "priority": 2,
-    "reason": "A dictator's priorities stated with perfect honesty; three plausible real-world rivals.",
-    "opener": true
+    "reason": "A dictator's priorities stated with perfect honesty; three plausible real-world rivals."
   },
   "sharp-glados-person-test": {
     "priority": 2,
     "reason": "An unsolicited personality diagnosis that contaminates an unrelated experiment."
   },
   "sharp-ron-history": {
-    "priority": 2,
-    "reason": "National pride promoted into a categorical error about all of history.",
-    "opener": true
+    "priority": 1,
+    "reason": "Clear patriotic absurdity, but the voice supplies more of the laugh than the bare assertion."
   },
   "sharp-carrie-unacceptable": {
     "priority": 1,
@@ -417,9 +398,8 @@
     "reason": "A two-stage rebuttal with the cosmetic confession saved for last; excellent but well known."
   },
   "toon-homer-two-to-lie": {
-    "priority": 2,
-    "reason": "A liar converts the listener into an accomplice through a technically correct counting exercise.",
-    "opener": true
+    "priority": -1,
+    "reason": "Explicit feedback, 23 October 2026: the isolated text did not land; the user understood the joke after hearing Homer's stressed delivery in the clip. This is a text-transfer failure, not a rejection of wordplay or gentle comedy. Keep out of early billing; do not invent a paraphrase and call it a quotation."
   },
   "tech-altman-end-of-world": {
     "priority": 2,
@@ -444,88 +424,103 @@
     "reason": "Remembering events is blamed for their bad impression. Compact self-exculpation, less substantial than the leading Homer lines."
   },
   "punch-garth-subtext": {
-    "priority": 2,
-    "opener": true,
-    "reason": "An artistic limitation recast as moral courage. Brief, belligerent and funny without knowing the character."
+    "priority": 1,
+    "reason": "A writer's technical term and belligerent delivery carry much of this line. The new books/read boast is more immediately legible."
   },
   "punch-cave-chili-peppers": {
     "priority": 2,
-    "opener": true,
-    "reason": "Recognition by disgust: the setup is a genuine question, then the answer becomes an entire band's identity. Close to the user's Coldplay benchmark."
+    "reason": "Explicit positive feedback, 23 October 2026. The question and the band-name answer both survive as text; the user also liked Carlin's driving observation, so this is not a mandate for insult-only comedy.",
+    "opener": true
   },
   "punch-logan-shakespeare": {
     "priority": 2,
-    "opener": true,
     "reason": "Cultured negotiation collapses into the only advice the billionaire values. A direct match for the Burns business maxim."
   },
   "punch-bender-discrimination": {
-    "priority": 2,
-    "opener": true,
-    "reason": "Moral outrage reveals its exact, selfish boundary in the final three words."
+    "priority": 1,
+    "reason": "A clear selfish qualification, but a small joke beside Bender abandoning his whole theme-park plan. Later billing."
   },
   "punch-sideshow-attempted-chemistry": {
     "priority": 2,
-    "opener": true,
     "reason": "An impeccable analogy used to defend an appalling conclusion. Strong wrong logic, with criminal and scientist decoys."
   },
   "punch-skinner-children-wrong": {
-    "priority": 2,
-    "opener": true,
-    "reason": "A flicker of self-awareness is extinguished in the next sentence. Age, authority and fiction all supply plausible suspects."
+    "priority": 1,
+    "reason": "A recognisable scene and meme, but very slight as a fresh isolated sentence. Do not mistake recognition for a large laugh."
   },
   "punch-sister-michael-support": {
     "priority": 2,
-    "opener": true,
     "reason": "The entire sentence performs kindness until the final refusal. The nun, doctor, psychologist and saint make the reveal work."
   },
   "punch-humphrey-experts": {
-    "priority": 2,
-    "opener": true,
-    "reason": "Professional pride survives the discovery that the profession is wasting money. Bureaucratic doublespeak with a complete punchline."
+    "priority": 1,
+    "reason": "A tidy bureaucratic quip that mostly confirms the reader's existing expectation of official waste. A modest payoff beside the surviving headliners."
   },
   "punch-blackadder-french": {
-    "priority": 2,
-    "opener": true,
-    "reason": "An insult built around a specific, perfectly useless publishing project; the image carries the laugh."
+    "priority": 1,
+    "reason": "A self-contained publishing joke, kept in featured for range; less substantial than the leading visual and narrative reversals."
   },
   "punch-darrow-obituaries": {
     "priority": 2,
-    "opener": true,
     "reason": "A reassuring denial of murder ends with a completely unreassuring qualification. The real lawyer belongs among the fictional suspects."
   },
   "punch-bierce-egotist": {
-    "priority": 2,
-    "opener": true,
-    "reason": "A definition that demonstrates the very vice it condemns. The last word is the turn."
+    "priority": 1,
+    "reason": "Works on the page, but the dictionary definition is a gentle final-word joke. Retain without first billing."
   },
   "punch-oconnor-stifle": {
-    "priority": 2,
-    "opener": true,
-    "reason": "The expected defence of creative freedom becomes a demand for more effective suppression. A clear, cruel reversal."
+    "priority": 1,
+    "reason": "The suppression reversal works in writing, but has a narrow literary premise. Featured rather than opening material."
   },
   "punch-bush-neither-do-we": {
-    "priority": 2,
-    "opener": true,
-    "reason": "An earnest national-security boast accidentally promises the exact opposite. The final four words supply the payoff."
+    "priority": 1,
+    "reason": "A real verbal slip whose accidental menace is better in the recording. On the page it can look like missing context or a transcription error."
   },
   "punch-reagan-deficit": {
-    "priority": 2,
-    "opener": true,
-    "reason": "The scale of the problem becomes the excuse for ignoring it. Real government and fictional management are equally plausible."
+    "priority": -1,
+    "reason": "Explicit user rejection as an opening round, 23 October 2026. The personified-deficit quip did not land. Preserve in reserve rather than re-promoting for its presidential source."
   },
   "punch-hedberg-drugs": {
-    "priority": 2,
-    "opener": true,
-    "reason": "A rehabilitation cliché retracts its implied claim while insisting it was technically true. The qualification is the whole joke."
+    "priority": 1,
+    "reason": "Much of the joke depends on the stress and pause around 'used to'. The user's Homer clarification specifically cautions against this kind of extraction."
   },
   "punch-adams-creation": {
     "priority": 2,
-    "opener": true,
     "reason": "The creation of everything receives the language of a disastrous committee decision. Complete without science-fiction context."
   },
   "punch-dennis-government": {
     "priority": 2,
-    "opener": true,
     "reason": "A fairy-tale coronation reduced to its absurd administrative procedure. The political philosophers are plausible wrong answers."
+  },
+  "readable-carlin-driving": {
+    "priority": 2,
+    "reason": "Explicit user approval, 23 October 2026. An everyday observation exposes the driver's self-serving standard; both halves are present without the performance. Preserves observational comedy in the leading pool.",
+    "opener": true
+  },
+  "readable-wright-skylight": {
+    "priority": 2,
+    "reason": "The astronomy setup and the upstairs neighbours create a complete visual reversal in two sentences. No scene knowledge, target identity or special delivery is required.",
+    "opener": true
+  },
+  "readable-silverman-thin": {
+    "priority": 2,
+    "reason": "The second sentence reveals an absurd hierarchy of anxieties. Both stakes are explicit; the text carries the vanity satire and the reveal preserves its stage context.",
+    "opener": true
+  },
+  "readable-garth-books": {
+    "priority": 2,
+    "reason": "A boast about prolific authorship simultaneously confesses barely reading. The whole comparison is on the page, with a writer and celebrity egos as plausible rivals."
+  },
+  "readable-bender-theme-park": {
+    "priority": 2,
+    "reason": "A grand rival business is proposed, embellished, then abandoned for the embellishments. The final sentence is essential and is retained."
+  },
+  "readable-superhans-van": {
+    "priority": 1,
+    "reason": "The absurd business qualification is readable, but depends on recognising an MBA and has a smaller payoff. Same character as a favourite does not earn automatic top billing."
+  },
+  "readable-waters-books": {
+    "priority": 1,
+    "reason": "A literary preference becomes blunt dating advice. Readable and useful for tonal range; profanity alone does not earn an opener."
   }
 }
