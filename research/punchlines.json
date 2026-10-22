@@ -1,0 +1,602 @@
+[
+  {
+    "id": "punch-garth-subtext",
+    "theme": "toons",
+    "quote": "I know writers who use subtext and they're all cowards.",
+    "answer": {
+      "name": "Garth Marenghi",
+      "alias": "The horror writer from Darkplace",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ayn Rand",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Steven Seagal",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Garth Marenghi's Darkplace, The Apes of Wrath (2004)",
+    "url": "https://en.wikiquote.org/wiki/Garth_Marenghi%27s_Darkplace",
+    "verification": "Episode-specific dialogue; Garth's retrospective interview, not Dr. Dagless.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-cave-chili-peppers",
+    "theme": "music",
+    "quote": "I'm forever near a stereo saying, 'What the fuck is this garbage?' And the answer is always the Red Hot Chili Peppers.",
+    "answer": {
+      "name": "Nick Cave",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Noel Gallagher",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Simon Cowell",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Old remark revisited in The Red Hand Files #316 (2025)",
+    "url": "https://stereogum.com/2300054/nick-cave-clarifies-stance-on-red-hot-chili-peppers-discusses-forthcoming-flea-collaboration/news",
+    "note": "Cave later befriended Flea and regretted how long the insult had followed him.",
+    "verification": "Stereogum, 12 March 2025, quotes the remark; Cave acknowledges it in https://www.theredhandfiles.com/red-hot-chili-peppers-flea-bear/. Original interview date uncertain.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-logan-shakespeare",
+    "theme": "toons",
+    "quote": "Would you like to hear my favorite passage from Shakespeare? Take the fucking money.",
+    "answer": {
+      "name": "Logan Roy",
+      "alias": "The media-mogul father from Succession",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Warren Buffett",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Jeff Bezos",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Succession, S2E5 Tern Haven (2019)",
+    "url": "https://www.magicalquote.com/seriesquotes/would-you-like-to-hear-my-favorite-passage-from-shakespeare/",
+    "verification": "Episode-specific quote and frame identify Logan Roy, not Tom Wambsgans. Corroborated by Tern Haven reviews.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-bender-discrimination",
+    "theme": "toons",
+    "quote": "This is the worst kind of discrimination: the kind against me!",
+    "answer": {
+      "name": "Bender",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Elon Musk",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Futurama, War Is the H-Word (2000)",
+    "url": "https://en.wikiquote.org/wiki/Futurama/Season_2",
+    "verification": "Sourced episode section War Is the H-Word.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-sideshow-attempted-chemistry",
+    "theme": "toons",
+    "quote": "Attempted murder? Now, honestly, what is that? Do they give a Nobel Prize for attempted chemistry?",
+    "answer": {
+      "name": "Sideshow Bob",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Saul Goodman",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Al Capone",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Richard Feynman",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S6E5 Sideshow Bob Roberts (1994)",
+    "url": "https://99percentinvisible.org/wp-content/uploads/2019/12/bribery.docx.pdf",
+    "verification": "Bribery podcast transcript, 00:09:45, reproduces the show audio and identifies Bob; continuous excerpt.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-skinner-children-wrong",
+    "theme": "toons",
+    "quote": "Am I so out of touch? No, it's the children who are wrong.",
+    "answer": {
+      "name": "Principal Skinner",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Prince Philip",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Richard Dawkins",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "The Simpsons, S5E20 The Boy Who Knew Too Much (1994)",
+    "url": "https://www.simpsonsarchive.com/episodes/1F19.html",
+    "verification": "Episode transcript, Skinner outside the 4-H club.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-sister-michael-support",
+    "theme": "toons",
+    "quote": "If anyone is feeling anxious or worried, or even if you just want to chat, please, please, do not come crying to me.",
+    "answer": {
+      "name": "Sister Michael",
+      "alias": "The headmistress in Derry Girls",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Gregory House",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Jordan Peterson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mother Teresa",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Derry Girls, S1E2 (2018)",
+    "url": "https://www.transcripts.foreverdreaming.org/viewtopic.php?t=61873",
+    "verification": "Opening assembly about maths resits. Wording corroborated at https://www.subtitlecat.com/subs/406/Derry.Girls.S01E02.html; leading setup omitted.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-humphrey-experts",
+    "theme": "toons",
+    "quote": "The public doesn't know anything about wasting government money. We're the experts.",
+    "answer": {
+      "name": "Sir Humphrey Appleby",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Boris Johnson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Henry Kissinger",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Yes Minister, S1E3 The Economy Drive (1980)",
+    "url": "https://heywoodquarterly.com/no-minister-the-long-and-lamentable-shadow-of-sir-humphrey/",
+    "verification": "Heywood Quarterly quotes television wording. Episode corroborated by https://www.imdb.com/title/tt0751818/characters/nm0001329/ and https://zzzptm.com/YM-The_Economy_Drive.pdf.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-blackadder-french",
+    "theme": "toons",
+    "quote": "It's the most pointless book since How To Learn French was translated into French.",
+    "answer": {
+      "name": "Edmund Blackadder",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mark Twain",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Blackadder the Third, Ink and Incapability (1987)",
+    "url": "https://en.wikiquote.org/wiki/Blackadder_the_Third_(series_3)",
+    "note": "He was reviewing Samuel Johnson's dictionary.",
+    "verification": "Episode-specific dialogue about Johnson's dictionary. Leading 'No, sir.' omitted.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-darrow-obituaries",
+    "theme": "arts",
+    "quote": "I have never killed any one, but I have read some obituary notices with great satisfaction.",
+    "answer": {
+      "name": "Clarence Darrow",
+      "alias": "The lawyer from the Scopes monkey trial",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Dorothy Parker",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Hannibal Lecter",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "The Story of My Life (1932), p. 86",
+    "url": "https://quoteinvestigator.com/2011/05/05/darrow-obituary/",
+    "note": "Often misattributed to Mark Twain; this wording is in Darrow's memoir.",
+    "verification": "Quote Investigator traces this exact wording to Darrow's memoir, p. 86. Preserve 'any one'; do not use the viral Twain variant.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-bierce-egotist",
+    "theme": "arts",
+    "quote": "EGOTIST, n. A person of low taste, more interested in himself than in me.",
+    "answer": {
+      "name": "Ambrose Bierce",
+      "alias": "The American satirist who vanished in Mexico",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "The Devil's Dictionary (1911), EGOTIST",
+    "url": "https://www.gutenberg.org/files/972/972-h/972-h.htm",
+    "verification": "Primary public-domain text, entry EGOTIST.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-oconnor-stifle",
+    "theme": "arts",
+    "quote": "Everywhere I go I'm asked if I think the universities stifle writers. My opinion is that they don't stifle enough of them.",
+    "answer": {
+      "name": "Flannery O'Connor",
+      "alias": "The devout Catholic who wrote A Good Man Is Hard to Find",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Stephen King",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Terry Pratchett",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Mystery and Manners, The Nature and Aim of Fiction (1969)",
+    "url": "https://quoteinvestigator.com/2018/01/18/stifle/",
+    "verification": "Quote Investigator quotes the 1969 essay wording and distinguishes the earlier 1960 interview variant. Continuous first two sentences.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-bush-neither-do-we",
+    "theme": "politics",
+    "quote": "Our enemies are innovative and resourceful, and so are we. They never stop thinking about new ways to harm our country and our people, and neither do we.",
+    "answer": {
+      "name": "George W. Bush",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Richard Nixon",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Zapp Brannigan",
+        "alias": "The space captain in Futurama",
+        "fictional": true
+      },
+      {
+        "name": "Dr. Evil",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Defense Appropriations Act signing remarks, 5 August 2004",
+    "url": "https://www.govinfo.gov/content/pkg/PPP-2004-book2/pdf/PPP-2004-book2-doc-pg1494.pdf",
+    "note": "A verbal slip while discussing the fight against terrorism.",
+    "verification": "Primary US government transcript, Public Papers 2004 book II, p. 1494. Public-domain federal text.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-reagan-deficit",
+    "theme": "politics",
+    "quote": "But I'm not worrying about the deficit. I figure it's big enough to take care of itself.",
+    "answer": {
+      "name": "Ronald Reagan",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Boris Johnson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Michael Scott",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Mr. Burns",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Gridiron Dinner talking points, 24 March 1984",
+    "url": "https://www.reaganlibrary.gov/sites/default/files/2026-01/40-744-5752775-014-017-2025.pdf",
+    "note": "Prepared for the Gridiron press dinner.",
+    "verification": "Primary presidential speech file, Folder 265, Gridiron Dinner draft p. 4 (PDF p. 5). Prepared talking points, not a checked recording.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-hedberg-drugs",
+    "theme": "arts",
+    "quote": "I used to do drugs. I still do, but I used to, too.",
+    "answer": {
+      "name": "Mitch Hedberg",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Keith Richards",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ozzy Osbourne",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Bender",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Strategic Grill Locations (1999)",
+    "url": "https://en.wikiquote.org/wiki/Mitch_Hedberg",
+    "verification": "Sourced album section Strategic Grill Locations; also at https://libquotes.com/mitch-hedberg/quote/lbp3q0v.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-adams-creation",
+    "theme": "arts",
+    "quote": "In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.",
+    "answer": {
+      "name": "Douglas Adams",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Kurt Vonnegut",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Stephen Hawking",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Marvin the Paranoid Android",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "The Restaurant at the End of the Universe (1980), chapter 1",
+    "url": "https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy",
+    "verification": "Sourced novel section, opening of chapter 1. Narrative prose attributed to the author, not Ford Prefect.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  },
+  {
+    "id": "punch-dennis-government",
+    "theme": "toons",
+    "quote": "Strange women lying in ponds distributing swords is no basis for a system of government.",
+    "answer": {
+      "name": "Dennis",
+      "alias": "The peasant from Monty Python",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Karl Marx",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Thomas Jefferson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Monty Python and the Holy Grail (1975)",
+    "url": "https://www.springfieldspringfield.co.uk/movie_script.php?movie=monty-python-and-the-holy-grail",
+    "verification": "Film transcript, Dennis disputing Arthur's claim to kingship. Site title mislabels year 1974; film released 1975.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "punchlines"
+    ]
+  }
+]

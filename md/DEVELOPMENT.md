@@ -36,7 +36,7 @@ Local storage belongs to an origin. Records from localhost or the earlier hosted
 
 ## Quote data
 
-The release contains 714 quotes across ten topics and 925 distinct answer/decoy identities, all with portraits. `research/encore.json` adds 47 sourced rounds, `research/afterparty.json` adds 31, and `research/sharp-turns.json` adds 25. These collections specify each record's primary `theme` explicitly.
+The release contains 731 quotes across ten topics and 932 distinct answer/decoy identities, all with portraits. `research/encore.json` adds 47 sourced rounds, `research/afterparty.json` adds 31, `research/sharp-turns.json` adds 25, and `research/punchlines.json` adds 17. These collections specify each record's primary `theme` explicitly.
 
 Research records retain source URLs, verification notes and confidence ratings. `research/overrides.json` applies editorial corrections. Source links and translation flags remain in the shipped data. Fifteen records rated 3/5 are held out pending stronger verification; six duplicates are merged out. Automated checks validate the data and portrait coverage; they are not a fresh historical audit of every attribution.
 
@@ -50,7 +50,7 @@ This regenerates game data and validates sources, unique answer choices, consist
 
 Before changing the shortlist, read the [October editorial notes](research/CURATION-2026-10-22.md).
 
-`research/curation.json` assigns billing independently of the source records: `priority: 2` is a headliner (35 rounds), `priority: 1` is featured (58), unlisted records remain in the wider collection (588), and `priority: -1` is reserve (33). Twenty-five short headliners also have `opener: true`. Every decision includes a required research-only `reason`. Judge the quote **and its four choices**: a quick setup, recognisable suspects, plausible misdirection, and a reveal that earns another laugh. Length alone is not a quality score.
+`research/curation.json` assigns billing independently of the source records: `priority: 2` is a headliner (50 rounds), `priority: 1` is featured (37), unlisted records remain in the wider collection (610), and `priority: -1` is reserve (34). Forty-five short headliners also have `opener: true`. Every listed decision includes a required research-only `reason`. Judge the quote **and its four choices**: a quick setup, recognisable suspects, plausible misdirection, and a reveal that earns another laugh. Length alone is not a quality score. The user's Burns and Super Hans favourites set the benchmark; the rejected Gaga/global-warming non sequitur is reserve. See the second-pass audit in `md/research/CURATION-2026-10-22.md` before promoting a demoted line again.
 
 The October pass rebuilt the shortlist rather than automatically promoting each new batch. Prefer a reversal, a precise insult, broken reasoning delivered with confidence, or official language that accidentally becomes comedy. Being gross, eccentric, famous or historically unexpected is insufficient on its own. Toilet and poultry novelties now sit in reserve. Profanity is not itself a disqualifier when the joke works independently of it.
 
@@ -58,13 +58,13 @@ Each game shuffles within tiers and starts with up to three unseen openers from 
 
 To add a round, keep its exact sourced wording, three deliberately chosen decoys, a short source label and a useful reveal note. Preserve context when a speaker is joking, quoting someone, or telling a fabricated story; the Pattinson and Martha Stewart records are examples. Source and verification details live in research; source URLs ship with the game. Prefer primary transcripts, letters, recordings and original interviews, with contemporary reporting where those are unavailable. Curation validation rejects missing IDs, missing reasons, unknown fields, invalid tiers and openers over 180 characters. Reasons do not ship in the game payload.
 
-Recent portrait specifications are in `research/portraits/batch-10.json`, `batch-11.json` and `batch-12.json`. GLaDOS, agency signs and the AI search card have dedicated procedural renderers. Spiky and anime hair rise from the scalp contour; flat tops remain connected down to the hairline. Bart's zigzag silhouette is a continuous yellow head shape with a matching colour override. For a visual check:
+Recent portrait specifications are in `research/portraits/batch-10.json` through `batch-13.json`. GLaDOS, agency signs and the AI search card have dedicated procedural renderers. Spiky and anime hair rise from the scalp contour; flat tops remain connected down to the hairline. Bart's zigzag silhouette is a continuous yellow head shape with a matching colour override. For a visual check:
 
 ```sh
-node --experimental-strip-types scripts/portrait-sheet.mts research/portraits/batch-12.json shots/sharp-turns-portraits.png --frames
+node --experimental-strip-types scripts/portrait-sheet.mts research/portraits/batch-13.json shots/punchlines-portraits.png --frames
 ```
 
-`npm test` includes 500 reproducible deck simulations, opener/theme variety, strict editorial ordering under topic and speaker pressure, reserve ordering, returning-player discovery, freshness over ranking, small and lopsided pools, five consecutive curated games, and a complete run through the collection without repeats.
+`npm test` includes 500 reproducible deck simulations, opener/theme variety, strict editorial ordering under topic and speaker pressure, reserve ordering, returning-player discovery, explicit taste feedback, freshness over ranking, small and lopsided pools, five consecutive games of headliners, and a complete run through the collection without repeats.
 
 ## Audio
 

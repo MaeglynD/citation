@@ -471,5 +471,17 @@
   "note": "His private list of sins. Original spelling; very specific remorse.",
   "verification": "Primary Fitzwilliam Notebook transcription, item 13 in the list of sins.",
   "source": "Fitzwilliam Notebook, list of sins, 1662"
+ },
+ "toon-homer-two-to-lie": {
+  "quote": "It takes two to lie. One to lie, and one to listen.",
+  "verification": "Episode dialogue at https://simpsonswiki.com/wiki/Colonel_Homer/Quotes. Leading address to Marge omitted to avoid giving away the answer."
+ },
+ "tech-altman-end-of-world": {
+  "quote": "AI will probably lead to the end of the world. But in the meantime, there will be great companies created with serious machine learning.",
+  "source": "OpenAir interview (2015), excerpted in Ghost in the Machine (2026)",
+  "url": "https://video.wttw.com/video/ghost-in-the-machine-nynp3f/",
+  "note": "The interview went on to discuss funding AI safety research.",
+  "verification": "WTTW/PBS documentary transcript quotes the interview. Leading filler omitted; retain the full second sentence. Event corroborated by contemporaneous reporting at https://futureoflife.org/ai/sam-altman-investing-in-ai-safety-research/.",
+  "confidence": 4
  }
 }
