@@ -36,6 +36,8 @@ export function saveSeen(seen: Set<string>) {
  * Unseen material always comes before repeats. Within each pool, give the
  * strongest editorial tier first billing, with fresh shuffles on every game.
  * Start with up to three accessible openers, then mix themes and speakers.
+ * Variety is a preference within a tier, never a reason to promote a
+ * weaker quote. Reserve material comes after the rest of the unseen collection.
  */
 export function buildDeck(all: Quote[], seen: Set<string>, n = ROUNDS, rnd = Math.random): Quote[] {
   if (all.length === 0 || n <= 0) return []
@@ -75,10 +77,15 @@ export function buildDeck(all: Quote[], seen: Set<string>, n = ROUNDS, rnd = Mat
   }
 
   for (const candidates of [unseen, repeats]) {
-    for (const q of candidates) add(q)
-    // Exhaust fresh material before using repeats, even in a lopsided pool.
-    for (const q of candidates) add(q, false)
-    for (const q of candidates) add(q, false, false)
+    const tiers = [...new Set(candidates.map(q => q.priority ?? 0))]
+    for (const tier of tiers) {
+      const billing = candidates.filter(q => (q.priority ?? 0) === tier)
+      for (const q of billing) add(q)
+      // Spend this tier before using a weaker one just to fill a topic quota.
+      for (const q of billing) add(q, false)
+      // A second strong quote from one speaker also beats weaker filler.
+      for (const q of billing) add(q, false, false)
+    }
   }
   return deck
 }

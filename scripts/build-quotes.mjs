@@ -175,12 +175,16 @@ for (const q of deduped) {
 for (const [id, billing] of Object.entries(curation)) {
   const q = deduped.find(q => q.id === id)
   if (!q) throw new Error(`Curation refers to an absent quote: ${id}`)
-  if (!billing || typeof billing !== 'object' || Object.keys(billing).some(key => !['priority', 'opener'].includes(key))) throw new Error(`Invalid curation fields: ${id}`)
-  if (![1, 2].includes(billing.priority)) throw new Error(`Invalid priority: ${id}`)
+  if (!billing || typeof billing !== 'object' || Object.keys(billing).some(key => !['priority', 'opener', 'reason'].includes(key))) throw new Error(`Invalid curation fields: ${id}`)
+  if (![-1, 1, 2].includes(billing.priority)) throw new Error(`Invalid priority: ${id}`)
+  if (typeof billing.reason !== 'string' || !billing.reason.trim()) throw new Error(`Missing editorial reason: ${id}`)
   if (billing.opener !== undefined && typeof billing.opener !== 'boolean') throw new Error(`Invalid opener flag: ${id}`)
   if (billing.opener && (billing.priority !== 2 || q.quote.length > 180)) throw new Error(`Opener must be a short headliner: ${id}`)
 }
-const out = deduped.map(({ verification, confidence, theme, ...q }) => ({ ...q, ...curation[q.id], tags: [theme, ...q.tags.filter((t) => t !== theme)] }))
+const out = deduped.map(({ verification, confidence, theme, ...q }) => {
+  const { reason, ...billing } = curation[q.id] ?? {}
+  return { ...q, ...billing, tags: [theme, ...q.tags.filter((t) => t !== theme)] }
+})
 fs.mkdirSync(path.dirname(outFile), { recursive: true })
 fs.writeFileSync(outFile, JSON.stringify(out, null, 0) + '\n')
 fs.writeFileSync(peopleFile, JSON.stringify([...people.values()].map(({ aliasFromAnswer, ...p }) => p).sort((a, b) => b.asAnswer + b.asDecoy - (a.asAnswer + a.asDecoy)), null, 1) + '\n')

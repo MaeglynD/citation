@@ -17,8 +17,8 @@ export interface Quote {
   /** Optional deadpan one-liner shown under the source. */
   note?: string
   tags: string[]
-  /** Editorial billing: 2 = headliner, 1 = featured, omitted = wider collection. */
-  priority?: 1 | 2
+  /** Editorial billing: 2 = headliner, 1 = featured, omitted = wider collection, -1 = reserve. */
+  priority?: -1 | 1 | 2
   /** Short, accessible headliner suitable for the first three rounds. */
   opener?: boolean
 }

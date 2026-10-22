@@ -1,0 +1,146 @@
+{
+  "Dionne Warwick": {
+    "skin": "brown",
+    "face": "long",
+    "age": "old",
+    "hair": "short",
+    "hairColor": "silver",
+    "brows": "raised",
+    "eyes": "normal",
+    "mouth": "smile",
+    "outfit": "dress",
+    "outfitColor": "purple",
+    "extras": [
+      "earrings",
+      "necklace"
+    ]
+  },
+  "Nanni": {
+    "skin": "tan",
+    "face": "square",
+    "hair": "curly",
+    "hairColor": "black",
+    "facialHair": "full",
+    "facialHairColor": "black",
+    "brows": "angry",
+    "mouth": "frown",
+    "outfit": "robe",
+    "outfitColor": "mustard",
+    "outfitColor2": "cream"
+  },
+  "The IRS": {
+    "base": "object",
+    "kind": "document",
+    "symbol": "IRS",
+    "color": "white",
+    "color2": "darkgreen"
+  },
+  "The CIA": {
+    "base": "object",
+    "kind": "document",
+    "symbol": "CIA",
+    "color": "white",
+    "color2": "navy"
+  },
+  "Super Hans": {
+    "skin": "pale",
+    "face": "long",
+    "hair": "messy",
+    "hairColor": "darkblonde",
+    "brows": "thick",
+    "eyes": "sleepy",
+    "facialHair": "stubble",
+    "facialHairColor": "brown",
+    "mouth": "smirk",
+    "outfit": "leather",
+    "outfitColor": "black",
+    "outfitColor2": "darkgrey",
+    "extras": [
+      "bags"
+    ]
+  },
+  "Jason Mendoza": {
+    "skin": "tan",
+    "face": "oval",
+    "hair": "sidepart",
+    "hairColor": "black",
+    "brows": "raised",
+    "eyes": "wide",
+    "mouth": "grin",
+    "outfit": "tracksuit",
+    "outfitColor": "orange",
+    "outfitColor2": "blue"
+  },
+  "Selina Meyer": {
+    "skin": "light",
+    "face": "oval",
+    "hair": "bob",
+    "hairColor": "darkbrown",
+    "brows": "oneraised",
+    "eyes": "narrow",
+    "mouth": "lipstick",
+    "lipColor": "red",
+    "outfit": "blazer",
+    "outfitColor": "red",
+    "outfitColor2": "black",
+    "extras": [
+      "earrings"
+    ]
+  },
+  "Ford Prefect": {
+    "skin": "fair",
+    "face": "long",
+    "hair": "curly",
+    "hairColor": "ginger",
+    "brows": "raised",
+    "eyes": "wide",
+    "mouth": "smile",
+    "outfit": "suit",
+    "outfitColor": "brown",
+    "outfitColor2": "green"
+  },
+  "Zaphod Beeblebrox": {
+    "skin": "fair",
+    "face": "long",
+    "hair": "longwavy",
+    "hairColor": "darkbrown",
+    "facialHair": "full",
+    "facialHairColor": "darkbrown",
+    "eyewear": "sunglasses",
+    "mouth": "grin",
+    "outfit": "leather",
+    "outfitColor": "purple",
+    "outfitColor2": "black"
+  },
+  "Carrie Fisher": {
+    "skin": "fair",
+    "face": "round",
+    "age": "old",
+    "hair": "short",
+    "hairColor": "auburn",
+    "brows": "oneraised",
+    "eyes": "normal",
+    "mouth": "smirk",
+    "outfit": "dress",
+    "outfitColor": "black",
+    "extras": [
+      "earrings",
+      "necklace"
+    ]
+  },
+  "Andy Murray": {
+    "skin": "fair",
+    "face": "long",
+    "hair": "curly",
+    "hairColor": "brown",
+    "facialHair": "stubble",
+    "headwear": "headband",
+    "headwearColor": "white",
+    "brows": "thick",
+    "eyes": "normal",
+    "mouth": "neutral",
+    "outfit": "polo",
+    "outfitColor": "navy",
+    "outfitColor2": "white"
+  }
+}

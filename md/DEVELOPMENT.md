@@ -36,7 +36,7 @@ Local storage belongs to an origin. Records from localhost or the earlier hosted
 
 ## Quote data
 
-The release contains 689 quotes across ten topics and 914 distinct answer/decoy identities. Each has a portrait; the art library contains 930 portraits in total. `research/encore.json` adds 47 sourced rounds and `research/afterparty.json` adds another 31. Both collections specify each record's primary `theme` explicitly.
+The release contains 714 quotes across ten topics and 925 distinct answer/decoy identities, all with portraits. `research/encore.json` adds 47 sourced rounds, `research/afterparty.json` adds 31, and `research/sharp-turns.json` adds 25. These collections specify each record's primary `theme` explicitly.
 
 Research records retain source URLs, verification notes and confidence ratings. `research/overrides.json` applies editorial corrections. Source links and translation flags remain in the shipped data. Fifteen records rated 3/5 are held out pending stronger verification; six duplicates are merged out. Automated checks validate the data and portrait coverage; they are not a fresh historical audit of every attribution.
 
@@ -48,21 +48,23 @@ This regenerates game data and validates sources, unique answer choices, consist
 
 ### Editorial selection
 
-`research/curation.json` assigns billing independently of the source records: `priority: 2` is a headliner (63 rounds), `priority: 1` is featured (71 rounds), and unlisted records remain in the wider collection. Twenty-four short headliners also have `opener: true`. These are editorial judgements about the quote **and its four choices**: a quick setup, recognisable suspects, plausible misdirection, and a reveal that earns another laugh. Length alone is not a quality score.
+Before changing the shortlist, read the [October editorial notes](research/CURATION-2026-10-22.md).
 
-The afterparty pass promoted 22 new headliners, including 12 openers, and moved eight older headliners to featured billing. Prioritise a laugh before the reveal as well as surprise after it: a line that becomes amusing only after a long explanation belongs later. Use contrasting comic mechanisms (oversharing, absurd official language, grandiosity, innocent delight, or a historical voice sounding modern), and make the wrong answers entertaining possibilities. The source remains factual even when the choice pairing is outrageous.
+`research/curation.json` assigns billing independently of the source records: `priority: 2` is a headliner (35 rounds), `priority: 1` is featured (58), unlisted records remain in the wider collection (588), and `priority: -1` is reserve (33). Twenty-five short headliners also have `opener: true`. Every decision includes a required research-only `reason`. Judge the quote **and its four choices**: a quick setup, recognisable suspects, plausible misdirection, and a reveal that earns another laugh. Length alone is not a quality score.
 
-Each game shuffles within tiers, starts with up to three unseen openers from different topics, then prefers headliners and featured rounds. Normal ten-round games use distinct speakers and at most three quotes from one topic. Fresh material always precedes repeats; near exhaustion the topic and speaker limits relax to avoid losing the last unseen rounds. History resets only when every quote has been seen. Answer positions are shuffled separately and reveal no editorial information.
+The October pass rebuilt the shortlist rather than automatically promoting each new batch. Prefer a reversal, a precise insult, broken reasoning delivered with confidence, or official language that accidentally becomes comedy. Being gross, eccentric, famous or historically unexpected is insufficient on its own. Toilet and poultry novelties now sit in reserve. Profanity is not itself a disqualifier when the joke works independently of it.
 
-To add a round, keep its exact sourced wording, three deliberately chosen decoys, a short source label and a useful reveal note. Preserve context when a speaker is joking, quoting someone, or telling a fabricated story; the Pattinson and Martha Stewart records are examples. Source and verification details live in research; source URLs ship with the game. Prefer primary transcripts, letters, recordings and original interviews, with contemporary reporting where those are unavailable. `curation.json` rejects missing IDs, unknown fields, invalid tiers and openers over 180 characters.
+Each game shuffles within tiers and starts with up to three unseen openers from different topics. Within each tier, it first seeks distinct speakers and at most three quotes from one topic, then relaxes those preferences before moving to a weaker tier. Variety cannot promote filler over a stronger unseen quote. Reserve follows all other unseen material, but fresh material always precedes repeats. History resets only when every quote has been seen. Existing players automatically receive new unseen headliners; there is no history migration or reset. Answer positions are shuffled separately.
 
-Recent portrait specifications are in `research/portraits/batch-10.json` and `batch-11.json`; GLaDOS, the agency signs and the AI search card have dedicated procedural renderers. Spiky and anime hair now rise from the scalp contour; flat tops remain connected down to the hairline. Bart's zigzag silhouette is a continuous yellow head shape with a matching colour override. For a visual check:
+To add a round, keep its exact sourced wording, three deliberately chosen decoys, a short source label and a useful reveal note. Preserve context when a speaker is joking, quoting someone, or telling a fabricated story; the Pattinson and Martha Stewart records are examples. Source and verification details live in research; source URLs ship with the game. Prefer primary transcripts, letters, recordings and original interviews, with contemporary reporting where those are unavailable. Curation validation rejects missing IDs, missing reasons, unknown fields, invalid tiers and openers over 180 characters. Reasons do not ship in the game payload.
+
+Recent portrait specifications are in `research/portraits/batch-10.json`, `batch-11.json` and `batch-12.json`. GLaDOS, agency signs and the AI search card have dedicated procedural renderers. Spiky and anime hair rise from the scalp contour; flat tops remain connected down to the hairline. Bart's zigzag silhouette is a continuous yellow head shape with a matching colour override. For a visual check:
 
 ```sh
-node --experimental-strip-types scripts/portrait-sheet.mts research/portraits/batch-11.json shots/afterparty-portraits.png --frames
+node --experimental-strip-types scripts/portrait-sheet.mts research/portraits/batch-12.json shots/sharp-turns-portraits.png --frames
 ```
 
-`npm test` includes 500 reproducible deck simulations, opener/theme variety, editorial ordering, freshness over ranking, small and lopsided pools, and five consecutive curated games.
+`npm test` includes 500 reproducible deck simulations, opener/theme variety, strict editorial ordering under topic and speaker pressure, reserve ordering, returning-player discovery, freshness over ranking, small and lopsided pools, five consecutive curated games, and a complete run through the collection without repeats.
 
 ## Audio
 

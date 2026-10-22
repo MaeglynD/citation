@@ -1,428 +1,531 @@
 {
   "enc-darwin-hate-everybody": {
     "priority": 2,
+    "reason": "A scientist's private bad day sounds exactly like Eeyore or Morrissey. Funny before and after the reveal.",
     "opener": true
   },
-  "enc-herzog-chicken": {
-    "priority": 2
-  },
-  "enc-paltrow-cheese": {
+  "art-kafka-war-swimming": {
     "priority": 2,
+    "reason": "World war and a swim given equal diary space: the juxtaposition does the work without an explanation."
+  },
+  "art-mccarthy-hellman-and-the": {
+    "priority": 2,
+    "reason": "An insult that escalates into attacking conjunctions; a precise punchline and credible rival wits."
+  },
+  "art-adams-deadlines-whoosh": {
+    "priority": 2,
+    "reason": "The second sentence reverses the first; three competing procrastinators make a fair round.",
     "opener": true
   },
   "enc-noel-soup": {
-    "priority": 2
-  },
-  "enc-nixon-pandas": {
-    "priority": 1
-  },
-  "enc-franklin-wind": {
-    "priority": 1
-  },
-  "enc-martha-shank": {
     "priority": 2,
+    "reason": "An unusually vivid insult, with no dependence on a swear word or gross image.",
     "opener": true
-  },
-  "enc-cher-dessert": {
-    "priority": 1
-  },
-  "enc-britney-global-warming": {
-    "priority": 2
-  },
-  "enc-taylor-mind-alive": {
-    "priority": 1
-  },
-  "enc-paris-walmart": {
-    "priority": 1
-  },
-  "enc-bush-perch": {
-    "priority": 1
-  },
-  "enc-mourinho-eggs": {
-    "priority": 1
-  },
-  "enc-boris-buses": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-cage-haunted-house": {
-    "priority": 1
-  },
-  "enc-fox-bigfoot": {
-    "priority": 2
-  },
-  "enc-sagan-apple-pie": {
-    "priority": 1
-  },
-  "enc-austen-husband": {
-    "priority": 1
-  },
-  "enc-byron-bear": {
-    "priority": 1
-  },
-  "enc-jokic-home": {
-    "priority": 1
-  },
-  "enc-stafford-floating": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-parks-slower-friend": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-hitchcock-eggs": {
-    "priority": 1
-  },
-  "enc-ron-clear-alcohol": {
-    "priority": 1
-  },
-  "enc-lucille-banana": {
-    "priority": 2
-  },
-  "enc-holt-cheddar": {
-    "priority": 2
-  },
-  "enc-ford-force-ghost": {
-    "priority": 2
-  },
-  "enc-trump-diet-coke": {
-    "priority": 1
-  },
-  "enc-gaddafi-switzerland": {
-    "priority": 2
-  },
-  "enc-niyazov-bones": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-lynch-clown-suit": {
-    "priority": 1
-  },
-  "enc-kanye-fonts": {
-    "priority": 2
-  },
-  "enc-reagan-bombing": {
-    "priority": 2
-  },
-  "enc-patrick-enigma": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-glados-adoption": {
-    "priority": 2
-  },
-  "enc-squidward-romance": {
-    "priority": 1
-  },
-  "enc-edison-sleep": {
-    "priority": 1
-  },
-  "enc-farnsworth-measurement": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-babbage-steam": {
-    "priority": 1
-  },
-  "enc-pattinson-clown": {
-    "priority": 2
-  },
-  "enc-ringo-peace-love": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-dolly-cheap": {
-    "priority": 2
-  },
-  "enc-mariah-lighting": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-obama-guacamole": {
-    "priority": 2
-  },
-  "enc-hopper-haunting": {
-    "priority": 2,
-    "opener": true
-  },
-  "enc-rupaul-drag": {
-    "priority": 1
-  },
-  "enc-zapp-checkmate": {
-    "priority": 2
-  },
-  "art-dali-i-am-drugs": {
-    "priority": 2
-  },
-  "exp-newton-sins": {
-    "priority": 2
-  },
-  "pol-lbj-trousers": {
-    "priority": 2
-  },
-  "toon-farquaad-sacrifice": {
-    "priority": 2
-  },
-  "toon-pokedex-yamask": {
-    "priority": 2
-  },
-  "spo-tyson-impetuous": {
-    "priority": 2
-  },
-  "spo-shaq-company": {
-    "priority": 2
-  },
-  "mus-bieber-anne-frank": {
-    "priority": 2
-  },
-  "mus-whitney-crack-is-cheap": {
-    "priority": 2
-  },
-  "mus-liam-fuck-the-sea": {
-    "priority": 2
-  },
-  "doc-cia-committees": {
-    "priority": 2
-  },
-  "tech-buffett-six-year-old": {
-    "priority": 2
-  },
-  "art-beethoven-what-i-shit": {
-    "priority": 2
-  },
-  "art-kafka-war-swimming": {
-    "priority": 2
-  },
-  "art-mccarthy-hellman-and-the": {
-    "priority": 1
-  },
-  "art-marcus-aurelius-get-out-of-bed": {
-    "priority": 1
-  },
-  "art-montaigne-kings-shit": {
-    "priority": 1
-  },
-  "art-rossini-wagner-quarters": {
-    "priority": 1
-  },
-  "art-cage-nothing-to-say": {
-    "priority": 1
-  },
-  "art-zizek-flowers-children": {
-    "priority": 1
-  },
-  "exp-dawkins-honey": {
-    "priority": 1
-  },
-  "pol-truss-cheese": {
-    "priority": 1
-  },
-  "pol-degaulle-cheese": {
-    "priority": 1
-  },
-  "tech-musk-mars-impact": {
-    "priority": 1
-  },
-  "tech-turner-humility": {
-    "priority": 1
-  },
-  "tech-lagerfeld-cat": {
-    "priority": 1
-  },
-  "tech-jones-chimpanzee": {
-    "priority": 1
-  },
-  "tech-oreilly-tide": {
-    "priority": 1
-  },
-  "tech-joeexotic-financially-recover": {
-    "priority": 1
-  },
-  "toon-peanutbutter-void": {
-    "priority": 1
-  },
-  "toon-bill-cipher-hologram": {
-    "priority": 1
-  },
-  "toon-homer-thermodynamics": {
-    "priority": 1
-  },
-  "toon-robot-devil-announce-feel": {
-    "priority": 1
-  },
-  "toon-zapp-wave-after-wave": {
-    "priority": 1
-  },
-  "toon-homer-facts-meaningless": {
-    "priority": 1
-  },
-  "toon-burns-three-demons": {
-    "priority": 1
-  },
-  "toon-cave-johnson-lemons": {
-    "priority": 1
-  },
-  "toon-charlie-brown-dread": {
-    "priority": 1
-  },
-  "toon-hobbes-ignorance-instantaneous": {
-    "priority": 1
-  },
-  "vil-pinochet-sourface": {
-    "priority": 1
-  },
-  "vil-capone-canada": {
-    "priority": 1
-  },
-  "vil-hirohito-notnecessarily": {
-    "priority": 1
-  },
-  "vil-rhodes-planets": {
-    "priority": 1
-  },
-  "sai-augustine-chastity": {
-    "priority": 1
-  },
-  "sai-francis-punch": {
-    "priority": 1
-  },
-  "sai-tolkien-dune": {
-    "priority": 1
-  },
-  "sai-dolly-tramp": {
-    "priority": 1
-  },
-  "sai-child-england": {
-    "priority": 1
-  },
-  "spo-barkley-diet": {
-    "priority": 1
-  },
-  "spo-zlatan-hotdog": {
-    "priority": 1
-  },
-  "spo-cantona-seagulls": {
-    "priority": 1
-  },
-  "spo-walker-prophecies": {
-    "priority": 1
-  },
-  "spo-best-booze": {
-    "priority": 1
-  },
-  "spo-clough-topone": {
-    "priority": 1
-  },
-  "spo-steiner-math": {
-    "priority": 1
-  },
-  "spo-lynch-fined": {
-    "priority": 1
-  },
-  "aft-reynolds-bagel": {
-    "priority": 2
-  },
-  "aft-pascal-daddy": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-francis-tequila": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-oklahoma-fur": {
-    "priority": 2
-  },
-  "aft-cdc-chicken-snuggling": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-durant-bathwater": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-giannis-smoothie": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-google-rock-diet": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-laszlo-vampire": {
-    "priority": 2
-  },
-  "aft-moira-also-wrong": {
-    "priority": 2
-  },
-  "aft-sister-michael-french": {
-    "priority": 2
-  },
-  "aft-frank-get-weird": {
-    "priority": 2
-  },
-  "aft-bender-parenting": {
-    "priority": 2
-  },
-  "aft-wednesday-hatchets": {
-    "priority": 1
-  },
-  "aft-cunk-beyonce": {
-    "priority": 2
-  },
-  "aft-charles-pen": {
-    "priority": 1
-  },
-  "aft-miriam-criminal": {
-    "priority": 2
-  },
-  "aft-cage-crow": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-plaza-hollywood-sign": {
-    "priority": 1
-  },
-  "aft-blunt-bad-year": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-ponton-not-cat": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-liam-pencil": {
-    "priority": 1
-  },
-  "aft-adele-ears": {
-    "priority": 1
-  },
-  "aft-chernomyrdin-government": {
-    "priority": 1
-  },
-  "aft-marx-carbuncles": {
-    "priority": 1
-  },
-  "aft-mozart-bedtime": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-tesla-pigeon": {
-    "priority": 2,
-    "opener": true
-  },
-  "aft-mcafee-wager": {
-    "priority": 2
   },
   "aft-50cent-grandma": {
     "priority": 2,
+    "reason": "Wealth and swagger collapse under a grandmother's chores. The profanity is incidental to the joke.",
     "opener": true
   },
+  "enc-ringo-peace-love": {
+    "priority": 2,
+    "reason": "The contradiction between a warning and peace and love is immediate; saintly decoys improve it.",
+    "opener": true
+  },
+  "enc-britney-global-warming": {
+    "priority": 2,
+    "reason": "The unannounced topic change is the punchline; a genuinely chaotic public thought rather than generic eccentricity."
+  },
+  "enc-farnsworth-measurement": {
+    "priority": 2,
+    "reason": "A childish grievance that is also a correct physics joke; the real scientists are excellent decoys.",
+    "opener": true
+  },
+  "enc-zapp-checkmate": {
+    "priority": 2,
+    "reason": "Four incompatible metaphors in one confident strategy; politics and management are plausible rivals.",
+    "opener": true
+  },
+  "toon-homer-facts-meaningless": {
+    "priority": 2,
+    "reason": "The final qualification destroys the argument with perfect confidence.",
+    "opener": true
+  },
+  "toon-burns-three-demons": {
+    "priority": 2,
+    "reason": "A business maxim that treats human attachment as a manufacturing defect; real-business decoys make it worse.",
+    "opener": true
+  },
+  "toon-farquaad-sacrifice": {
+    "priority": 2,
+    "reason": "A noble sacrifice made entirely at other people's expense; compact, recognisable and playable.",
+    "opener": true
+  },
+  "spo-barkley-character": {
+    "priority": 2,
+    "reason": "The lawsuit cancels itself in the final clause; a self-own rather than random sports banter.",
+    "opener": true
+  },
+  "spo-walker-prophecies": {
+    "priority": 2,
+    "reason": "A proud rebranding of being wrong; the fortune-teller decoy makes the exact wording matter.",
+    "opener": true
+  },
+  "spo-clough-topone": {
+    "priority": 2,
+    "reason": "False modesty resolved with mathematical precision. Every decoy plausibly has this ego.",
+    "opener": true
+  },
+  "tech-buffett-six-year-old": {
+    "priority": 2,
+    "reason": "An investor applying mortality statistics to his childish diet: both the logic and the source land.",
+    "opener": true
+  },
+  "pol-kissinger-illegal": {
+    "priority": 2,
+    "reason": "A bureaucracy joke with a startling real official behind it; preserve that he was joking."
+  },
+  "aft-miriam-criminal": {
+    "priority": 2,
+    "reason": "Personal innocence asserted as a circular proof; plausible political decoys make the answer a surprise.",
+    "opener": true
+  },
+  "doc-cia-committees": {
+    "priority": 2,
+    "reason": "Ordinary office procedure is revealed as an actual sabotage method. The institution supplies the second laugh."
+  },
+  "exp-newton-sins": {
+    "priority": 1,
+    "reason": "Striking private confession, but it is historical shock rather than a constructed joke; no longer opening material."
+  },
+  "pol-nixon-not-illegal": {
+    "priority": 1,
+    "reason": "The real assertion is extraordinary, but famous and predictable from the options; move behind sharper surprises."
+  },
+  "art-marcus-aurelius-get-out-of-bed": {
+    "priority": 1,
+    "reason": "The emperor's struggle to get out of bed is an appealing voice mismatch, with less immediate punch."
+  },
+  "art-dali-i-am-drugs": {
+    "priority": 1,
+    "reason": "Concise self-mythologising; familiar enough to belong behind fresher material."
+  },
+  "art-rossini-wagner-quarters": {
+    "priority": 1,
+    "reason": "An unusually exact insult with a delayed qualification."
+  },
+  "art-cage-nothing-to-say": {
+    "priority": 1,
+    "reason": "An elegant contradiction whose source is part of the joke."
+  },
+  "art-emerson-hate-quotation": {
+    "priority": 1,
+    "reason": "A quotable objection to quotation; particularly apt inside this game."
+  },
+  "art-pratchett-set-fire": {
+    "priority": 1,
+    "reason": "A proverb takes its own logic far too literally; familiar but still a complete joke."
+  },
+  "art-banksy-learn-to-draw": {
+    "priority": 1,
+    "reason": "A lofty artistic sentiment abruptly becomes a competence complaint."
+  },
+  "art-vidal-friend-succeeds": {
+    "priority": 1,
+    "reason": "Tiny, candid admission of envy; a good match for competing literary egos."
+  },
+  "art-twain-cooper-offences": {
+    "priority": 1,
+    "reason": "The insult turns into an absurdly precise scorecard; longer reading earns its place later."
+  },
+  "exp-lamarr-glamorous": {
+    "priority": 1,
+    "reason": "Beauty reduced to a pair of insulting practical instructions; the inventor reveal adds something."
+  },
+  "exp-einstein-likes": {
+    "priority": 1,
+    "reason": "A celebrated thinker baffled by his own popularity; slight but clean."
+  },
+  "exp-crick-prose": {
+    "priority": 1,
+    "reason": "An expert attacking his own profession in plain language."
+  },
+  "exp-feynman-boring": {
+    "priority": 1,
+    "reason": "A deathbed joke that treats mortality as a tedious repeat viewing; context belongs after the opener."
+  },
+  "pol-degaulle-cheese": {
+    "priority": 1,
+    "reason": "Governing a nation reduced to its wildly excessive cheese selection; an actual comparison rather than random food."
+  },
+  "pol-diana-three-of-us": {
+    "priority": 1,
+    "reason": "A restrained euphemism with a sharp concluding clause; strong but extremely familiar."
+  },
+  "pol-imelda-shoes": {
+    "priority": 1,
+    "reason": "A corruption investigation reframed as an opportunity to admire her wardrobe."
+  },
+  "pol-berlusconi-napoleon": {
+    "priority": 1,
+    "reason": "Historical grandiosity ends with a petty height comparison."
+  },
+  "pol-adams-insignificant-office": {
+    "priority": 1,
+    "reason": "An officeholder reviewing his own job with magnificent contempt."
+  },
+  "spo-shaq-company": {
+    "priority": 1,
+    "reason": "A confusion of brand and occupation is a clear joke, though its source is increasingly familiar."
+  },
+  "spo-barkley-diet": {
+    "priority": 1,
+    "reason": "The diet is technically followed by multiplying the number of diets."
+  },
+  "spo-best-booze": {
+    "priority": 1,
+    "reason": "A life of excess followed by an inverted definition of waste; familiar but properly built."
+  },
+  "spo-ali-job": {
+    "priority": 1,
+    "reason": "A sequence of natural facts makes hitting people sound like a law of nature."
+  },
+  "spo-yogi-everything": {
+    "priority": 1,
+    "reason": "An attribution paradox that fits the game exactly."
+  },
+  "spo-stengel-smart": {
+    "priority": 1,
+    "reason": "Blunt advice that confesses the value of hiding ignorance."
+  },
+  "spo-fischer-genius": {
+    "priority": 1,
+    "reason": "A complaint about praise because it is insufficiently comprehensive."
+  },
+  "tech-turner-humility": {
+    "priority": 1,
+    "reason": "The brag dismantles the ostensible commitment to humility."
+  },
+  "tech-musk-mars-impact": {
+    "priority": 1,
+    "reason": "An inspirational ambition rescued by one practical qualification; now a familiar line."
+  },
+  "toon-robot-devil-announce-feel": {
+    "priority": 1,
+    "reason": "A fictional robot explaining a basic failure of dramatic writing; good choice ambiguity."
+  },
+  "toon-hobbes-ignorance-instantaneous": {
+    "priority": 1,
+    "reason": "Technological progress measured by the speed of ignorance."
+  },
+  "toon-charlie-brown-dread": {
+    "priority": 1,
+    "reason": "An emotional problem made more manageable by restricting it to one day at a time."
+  },
+  "toon-zapp-wave-after-wave": {
+    "priority": 1,
+    "reason": "A military disaster described as an ingenious exploitation of the enemy's limitations."
+  },
+  "toon-homer-thermodynamics": {
+    "priority": 1,
+    "reason": "A serious scientific law enforced with the authority of a suburban parent."
+  },
+  "toon-morty-nobody-exists": {
+    "priority": 1,
+    "reason": "Cosmic despair ends with an ordinary invitation; good reversal, somewhat familiar."
+  },
+  "vil-capone-canada": {
+    "priority": 1,
+    "reason": "A criminal becomes the accommodating customer-service department of prohibition."
+  },
+  "sai-augustine-chastity": {
+    "priority": 1,
+    "reason": "A moral aspiration immediately undermined by its requested start date."
+  },
+  "sai-child-england": {
+    "priority": 1,
+    "reason": "An insult hidden inside an apparent defence of another country's cooking."
+  },
+  "sai-seuss-adults": {
+    "priority": 1,
+    "reason": "The children's author briefly dismisses his entire adult audience."
+  },
+  "aft-reynolds-bagel": {
+    "priority": 1,
+    "reason": "A specific Los Angeles anxiety turned into a ridiculous robbery method; a conventional joke, not a top surprise."
+  },
+  "aft-moira-also-wrong": {
+    "priority": 1,
+    "reason": "An apparent apology doubles down with one extra word."
+  },
+  "aft-frank-get-weird": {
+    "priority": 1,
+    "reason": "The practical urgency of age made into a licence for chaos."
+  },
+  "aft-blunt-bad-year": {
+    "priority": 1,
+    "reason": "A musician treats his own release as another disaster; the self-directed target makes it work."
+  },
+  "enc-martha-shank": {
+    "priority": 1,
+    "reason": "Domestic expertise applied to prison weaponry; good, but the roast setting limits attribution surprise."
+  },
+  "enc-dolly-cheap": {
+    "priority": 1,
+    "reason": "The cost of carefully manufactured cheapness; excellent but well known."
+  },
+  "enc-mariah-lighting": {
+    "priority": 1,
+    "reason": "Mortal fear reduced to an unacceptable lighting setup."
+  },
+  "enc-parks-slower-friend": {
+    "priority": 1,
+    "reason": "Official wildlife guidance briefly acknowledges the selfish plan people really have."
+  },
+  "enc-lucille-banana": {
+    "priority": 1,
+    "reason": "Wealth revealed through an absurd estimate of an ordinary price; a recognisable classic."
+  },
+  "enc-stafford-floating": {
+    "priority": -1,
+    "reason": "A floating turd is the entire attraction. Explicitly move the toilet novelty behind the wider collection."
+  },
+  "aft-mozart-bedtime": {
+    "priority": -1,
+    "reason": "Scatology carries the whole round; an old date is not enough to make it funny."
+  },
+  "art-beethoven-what-i-shit": {
+    "priority": -1,
+    "reason": "Grossness stands in for a more inventive insult."
+  },
+  "art-montaigne-kings-shit": {
+    "priority": -1,
+    "reason": "Bodily sameness is a point, not a sufficiently funny game opener."
+  },
+  "enc-franklin-wind": {
+    "priority": -1,
+    "reason": "The bodily-function premise is the attraction; place in reserve."
+  },
+  "mus-mozart-salzburg": {
+    "priority": -1,
+    "reason": "Swearing about the town supplies little beyond the famous composer's name."
+  },
+  "enc-herzog-chicken": {
+    "priority": -1,
+    "reason": "Long poultry disdain with no real turn; specifically demoted from headliner."
+  },
+  "aft-cdc-chicken-snuggling": {
+    "priority": -1,
+    "reason": "Official poultry advice was overvalued for its oddness; specifically demoted from opener."
+  },
+  "mus-jessica-simpson-chicken": {
+    "priority": -1,
+    "reason": "An overfamiliar chicken/tuna confusion; weak source surprise."
+  },
+  "pol-morales-chicken": {
+    "priority": -1,
+    "reason": "Dubious poultry biology is more tiresome than funny."
+  },
+  "tech-sanders-worst-fried-chicken": {
+    "priority": -1,
+    "reason": "A chicken complaint from the chicken businessman offers little surprise."
+  },
+  "aft-tesla-pigeon": {
+    "priority": -1,
+    "reason": "The unusual animal attachment does most of the work; no strong comic turn."
+  },
+  "aft-cage-crow": {
+    "priority": -1,
+    "reason": "A swearing pet is an anecdotal novelty, not a strong opening joke."
+  },
+  "aft-giannis-smoothie": {
+    "priority": -1,
+    "reason": "Innocent delight is pleasant, but not enough for top billing in this game."
+  },
+  "aft-oklahoma-fur": {
+    "priority": -1,
+    "reason": "An odd official warning does not by itself earn an early round."
+  },
+  "enc-hitchcock-eggs": {
+    "priority": -1,
+    "reason": "Food aversion with no payoff beyond the speaker's eccentricity."
+  },
+  "enc-mourinho-eggs": {
+    "priority": -1,
+    "reason": "A long egg analogy asks too much reading for a modest payoff."
+  },
+  "enc-niyazov-bones": {
+    "priority": -1,
+    "reason": "Bizarre pseudo-medical advice relies on strangeness alone."
+  },
+  "enc-fox-bigfoot": {
+    "priority": -1,
+    "reason": "The surreal subject is doing more work than the line."
+  },
+  "enc-nixon-pandas": {
+    "priority": -1,
+    "reason": "Animal logistics are odd, but not a strong comic construction."
+  },
+  "enc-byron-bear": {
+    "priority": -1,
+    "reason": "An eccentric pet is mainly an interesting historical fact."
+  },
+  "enc-bush-perch": {
+    "priority": -1,
+    "reason": "A fishing answer is mild incongruity, not an opening laugh."
+  },
+  "aft-google-rock-diet": {
+    "priority": -1,
+    "reason": "An AI error is a novelty with little enduring comic payoff."
+  },
+  "aft-ponton-not-cat": {
+    "priority": -1,
+    "reason": "A visual viral incident loses much of its joke when reduced to quotation."
+  },
   "aft-shakira-boars": {
-    "priority": 1
+    "priority": -1,
+    "reason": "The animal encounter is odd; the extracted words are not especially funny."
+  },
+  "pol-harry-todger": {
+    "priority": -1,
+    "reason": "The body-part story is the whole hook; reserve rather than opening material."
+  },
+  "sai-francis-coprophagia": {
+    "priority": -1,
+    "reason": "An unpleasant term with little standalone comic construction."
+  },
+  "aft-mcafee-wager": {
+    "priority": -1,
+    "reason": "A bodily threat supplies shock more than wit."
+  },
+  "aft-durant-bathwater": {
+    "priority": -1,
+    "reason": "A gross celebrity crush is not enough to justify an opener."
   },
   "aft-pattinson-spit": {
-    "priority": 1
+    "priority": -1,
+    "reason": "Bodily imagery supplies most of the novelty."
+  },
+  "aft-pascal-daddy": {
+    "priority": -1,
+    "reason": "A familiar flirtatious persona line offers little surprise or structure."
+  },
+  "pol-lbj-trousers": {
+    "priority": -1,
+    "reason": "The intimate anatomy is the hook; too dependent on bodily novelty."
+  },
+  "enc-kanye-fonts": {
+    "priority": -1,
+    "reason": "The long all-caps email demand is less precise and less funny than the new short fonts confession."
+  },
+  "sharp-austen-agreeable": {
+    "priority": 2,
+    "reason": "Antisocial efficiency from the novelist of courtship; plausible rival temperaments.",
+    "opener": true
+  },
+  "sharp-satie-accompanied": {
+    "priority": 2,
+    "reason": "The unnecessary companion is the punchline; all four suspects might have this compositional method.",
+    "opener": true
+  },
+  "sharp-johnson-subscribers": {
+    "priority": 2,
+    "reason": "A modern crowdfunding disaster in eighteenth-century dress; the second reason doubles the confession."
+  },
+  "sharp-johnson-understanding": {
+    "priority": 1,
+    "reason": "A perfectly turned insult, but more predictably the work of a professional wit."
+  },
+  "sharp-nanni-contempt": {
+    "priority": 1,
+    "reason": "A modern complaint from antiquity; the reveal works harder than the line, so it is not a headliner."
+  },
+  "sharp-queen-beige": {
+    "priority": 2,
+    "reason": "The world's most recognisable woman treating beige as an invisibility cloak; diva decoys improve the reveal.",
+    "opener": true
+  },
+  "sharp-dionne-rapper": {
+    "priority": 2,
+    "reason": "An earnest naming complaint, then an admission that it has occupied her mind.",
+    "opener": true
+  },
+  "sharp-kanye-emotional-fonts": {
+    "priority": 1,
+    "reason": "A small and precise confession; cleaner than the email quote, but not a major opening laugh."
+  },
+  "sharp-pattinson-boring-prison": {
+    "priority": 2,
+    "reason": "An actor inventing compulsory creativity by dictatorship; the real answer is the least expected option.",
+    "opener": true
+  },
+  "sharp-martha-married-crush": {
+    "priority": 1,
+    "reason": "Cheerful menace with a good domestic-persona reveal; needs the joking context after the answer."
+  },
+  "sharp-lebron-two-points": {
+    "priority": 1,
+    "reason": "Aggressive anti-arithmetic, followed by an explanation that rescues the speaker."
+  },
+  "sharp-murray-never-liked-tennis": {
+    "priority": 1,
+    "reason": "A career dismissed in five words; the retirement occasion supplies much of the joke."
+  },
+  "sharp-cia-first-tweet": {
+    "priority": 1,
+    "reason": "An institution briefly demonstrating self-awareness; good, but familiar."
+  },
+  "sharp-irs-stolen-property": {
+    "priority": 2,
+    "reason": "The theft is accepted as a premise; the paperwork is the concern. A real agency outdoes the criminal-lawyer decoy."
+  },
+  "sharp-superhans-people": {
+    "priority": 2,
+    "reason": "Two catastrophes of vastly different scale treated as equivalent evidence; credible musician decoys."
+  },
+  "sharp-jason-molotov": {
+    "priority": 2,
+    "reason": "The punchline technically proves his claim while demolishing his competence.",
+    "opener": true
+  },
+  "sharp-michael-knew-exactly": {
+    "priority": 2,
+    "reason": "A confident assertion eaten by its own qualification; equally plausible as management or politics.",
+    "opener": true
+  },
+  "sharp-lucille-question": {
+    "priority": 2,
+    "reason": "An imperial refusal to engage with a restaurant menu, initially indistinguishable from political obstruction.",
+    "opener": true
+  },
+  "sharp-selina-atm": {
+    "priority": 1,
+    "reason": "A sharp institutional joke, but less of an attribution surprise than the strongest rounds."
+  },
+  "sharp-ford-lunchtime": {
+    "priority": 2,
+    "reason": "A cosmic premise punctured by a practical concern; the physics and Pooh decoys both work.",
+    "opener": true
+  },
+  "sharp-zaphod-ego": {
+    "priority": 2,
+    "reason": "A dictator's priorities stated with perfect honesty; three plausible real-world rivals.",
+    "opener": true
+  },
+  "sharp-glados-person-test": {
+    "priority": 2,
+    "reason": "An unsolicited personality diagnosis that contaminates an unrelated experiment."
+  },
+  "sharp-ron-history": {
+    "priority": 1,
+    "reason": "A worldview compressed into two absurd sentences; a familiar American comic voice."
+  },
+  "sharp-carrie-unacceptable": {
+    "priority": 2,
+    "reason": "The last word turns a resilience sentiment into a refusal to accept reality."
+  },
+  "sharp-dolly-blonde": {
+    "priority": 1,
+    "reason": "A two-stage rebuttal with the cosmetic confession saved for last; excellent but well known."
   }
 }

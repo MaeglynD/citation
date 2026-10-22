@@ -1,0 +1,887 @@
+[
+  {
+    "id": "sharp-austen-agreeable",
+    "theme": "arts",
+    "quote": "I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal.",
+    "answer": {
+      "name": "Jane Austen",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Dorothy Parker",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Dalai Lama",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Letter to Cassandra Austen, 24 December 1798",
+    "url": "https://pemberley.com/janeinfo/brablet2.html",
+    "verification": "Primary letter, XIV; Monday night, 24 December 1798.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-satie-accompanied",
+    "theme": "music",
+    "quote": "Before I compose a piece, I walk round it several times, accompanied by myself.",
+    "answer": {
+      "name": "Erik Satie",
+      "alias": "The composer of the Gymnopédies",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "David Lynch",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Salvador Dalí",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Aperçus désagréables (1913), trans. Robert Orledge",
+    "url": "https://www.gresham.ac.uk/watch-now/erik-satie-poet-playwright-composer",
+    "verification": "Robert Orledge's Gresham lecture, 16 April 2010, footnote 13. Preserve this translation's 'round'.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-johnson-subscribers",
+    "theme": "arts",
+    "quote": "I have two very cogent reasons for not printing any list of subscribers; — one, that I have lost all the names, — the other, that I have spent all the money.",
+    "answer": {
+      "name": "Samuel Johnson",
+      "alias": "The guy who wrote the first great English dictionary",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Sam Bankman-Fried",
+        "alias": "The FTX guy",
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Boris Johnson",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Boswell, Life of Samuel Johnson (1791), entry for 1781",
+    "note": "The subscribers had paid for his edition of Shakespeare.",
+    "url": "https://en.wikiquote.org/wiki/Samuel_Johnson",
+    "verification": "Sourced to Boswell, p. 477, recalling subscriptions to Johnson's Shakespeare edition (1765). Public-domain text.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-johnson-understanding",
+    "theme": "arts",
+    "quote": "Sir, I have found you an argument; but I am not obliged to find you an understanding.",
+    "answer": {
+      "name": "Samuel Johnson",
+      "alias": "The guy who wrote the first great English dictionary",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Richard Dawkins",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Gregory House",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Boswell, Life of Samuel Johnson (1791), June 1784",
+    "url": "https://en.wikiquote.org/wiki/Samuel_Johnson",
+    "verification": "Boswell, June 1784, p. 545. Public-domain text.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-nanni-contempt",
+    "theme": "docs",
+    "quote": "What do you take me for, that you treat somebody like me with such contempt…",
+    "answer": {
+      "name": "Nanni",
+      "alias": "A customer in 1750 BC",
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Complaint tablet to Ea-nasir, c. 1750 BC",
+    "note": "A complaint about bad copper, written nearly 4,000 years ago.",
+    "url": "https://archaeology.org/issues/may-june-2016/collection/cuneiform-letters/the-worlds-oldest-writing/",
+    "verification": "Archaeology reproduces the translated tablet. Nanni is the complainant; Ea-nasir is the copper seller. Excerpt ends at the publication's ellipsis.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-queen-beige",
+    "theme": "politics",
+    "quote": "I can never wear beige because nobody will know who I am.",
+    "answer": {
+      "name": "Queen Elizabeth II",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Lady Gaga",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Karl Lagerfeld",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Remark to Robert Hardman, reported 2012",
+    "note": "She was joking with her biographer about dressing for the crowds.",
+    "url": "https://www.thenationalnews.com/arts/stamps-to-high-art-queen-elizabeth-ii-is-the-uk-s-public-face-1.453086",
+    "verification": "Contemporary report, 1 June 2012, attributes the joke to a conversation with biographer Robert Hardman.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-dionne-rapper",
+    "theme": "music",
+    "quote": "If you are very obviously a rapper why did you put it in your stage name? I cannot stop thinking about this.",
+    "answer": {
+      "name": "Dionne Warwick",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Simon Cowell",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Philomena Cunk",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Twitter, 5 December 2020",
+    "note": "She was addressing Chance the Rapper.",
+    "url": "https://www.bet.com/article/dz7f1n/dionne-warwick-and-son-damon-reveal-the-one-tweet-he-wishes-she-didnt-post",
+    "verification": "Original tweet reproduced in BET's interview with Warwick and her son. Contiguous excerpt omits the initial greeting and @chancetherapper handle.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-kanye-emotional-fonts",
+    "theme": "music",
+    "quote": "Sometimes I get emotional over fonts",
+    "answer": {
+      "name": "Kanye West",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Steve Jobs",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "David Lynch",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Patrick Bateman",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Twitter, 17 August 2010",
+    "url": "https://www.flickr.com/photos/nicksherman/14157864053",
+    "verification": "Archived screenshot of the original tweet; corroborated by Amy Seago's MICA thesis Your Fave Is, p. 21.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-pattinson-boring-prison",
+    "theme": "arts",
+    "quote": "The people who were boring should be in prison and be forced to learn to be creative with the other prisoners.",
+    "answer": {
+      "name": "Robert Pattinson",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Mao Zedong",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Salvador Dalí",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Willy Wonka",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Bravo interview, reported April 2012",
+    "note": "His hypothetical plan for ruling the world.",
+    "url": "https://www.standard.co.uk/showbiz/celebrity-news/send-boring-people-to-prison-says-robert-pattinson-7306376.html",
+    "verification": "Evening Standard, 10 April 2012, quoting the German magazine's hypothetical ruler-of-the-world interview. Reported English wording.",
+    "confidence": 4,
+    "translated": true,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-martha-married-crush",
+    "theme": "arts",
+    "quote": "I always think, ‘Oh, gosh, couldn’t that person just die?’",
+    "answer": {
+      "name": "Martha Stewart",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Wednesday Addams",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Dear Chelsea podcast, July 2022",
+    "note": "Joking about her inconvenient crushes on married men.",
+    "url": "https://www.wmagazine.com/culture/martha-stewart-friends-dying",
+    "verification": "W reproduces the podcast exchange. One continuous statement, not words spliced across the host's interruption.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-lebron-two-points",
+    "theme": "sports",
+    "quote": "Two points ain’t two points. That’s a lie.",
+    "answer": {
+      "name": "LeBron James",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Albert Einstein",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Professor Farnsworth",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Postgame remarks, May 2018",
+    "note": "He meant that difficult baskets can demoralise the opposition.",
+    "url": "https://cavsnation.com/news/cavs-news-lebron-james-explains-how-his-fadeaways-are-more-demoralizing",
+    "verification": "Contemporary report, 5 May 2018, quoting James to Rick Noland. First uninterrupted statement only.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-murray-never-liked-tennis",
+    "theme": "sports",
+    "quote": "Never even liked tennis anyway.",
+    "answer": {
+      "name": "Andy Murray",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Serena Williams",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Brian Clough",
+        "alias": "The manager who won two European Cups with Nottingham Forest",
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Twitter, 1 August 2024",
+    "note": "Posted on the day he retired.",
+    "url": "https://www.tennis.com/news/articles/andy-murray-most-memorable-quotes-making-history-feminist-wimbledon-perseverance-press-conference-olympics",
+    "verification": "Original retirement tweet embedded in Tennis.com's collection.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-cia-first-tweet",
+    "theme": "docs",
+    "quote": "We can neither confirm nor deny that this is our first tweet.",
+    "answer": {
+      "name": "The CIA",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Banksy",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Edward Snowden",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "GLaDOS",
+        "alias": "GLaDOS (Portal's homicidal AI)",
+        "fictional": true
+      }
+    ],
+    "source": "First official tweet, 6 June 2014",
+    "url": "https://www.cia.gov/readingroom/docs/SOCIAL%20MEDIA%20REPORT%20%20OUR%20%5B14601280%5D.pdf",
+    "verification": "The agency's own declassified Social Media Report reproduces the tweet. US government text.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-irs-stolen-property",
+    "theme": "docs",
+    "quote": "If you steal property, you must report its FMV in your income in the year you steal it, unless in the same year you return it to its rightful owner.",
+    "answer": {
+      "name": "The IRS",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Al Capone",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Saul Goodman",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Hammurabi",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "IRS Publication 525 (2025), Stolen property",
+    "note": "FMV means fair market value. This really is tax guidance.",
+    "url": "https://www.irs.gov/publications/p525",
+    "verification": "Exact text under Other Income / Stolen property in the 2025 publication. US government text.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-superhans-people",
+    "theme": "toons",
+    "quote": "People like Coldplay and voted for the Nazis. You can’t trust people, Jeremy.",
+    "answer": {
+      "name": "Super Hans",
+      "alias": "Super Hans (Peep Show)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Noel Gallagher",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "George Orwell",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Morrissey",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Peep Show, Sectioning (2005)",
+    "url": "https://en.wikiquote.org/wiki/Peep_Show",
+    "verification": "Season 3 episode 2 dialogue. Speaker is Super Hans, not Mark or Jez.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-jason-molotov",
+    "theme": "toons",
+    "quote": "Anytime I had a problem, and I threw a Molotov cocktail, boom! Right away, I had a different problem.",
+    "answer": {
+      "name": "Jason Mendoza",
+      "alias": "Jason from The Good Place",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Che Guevara",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Hunter S. Thompson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "The Joker",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "The Good Place, Rhonda, Diana, Jake, and Trent (2018)",
+    "url": "https://en.wikiquote.org/wiki/The_Good_Place",
+    "verification": "Season 2 episode 11. Contiguous excerpt following 'I'm telling you, Molotov cocktails work!'",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-michael-knew-exactly",
+    "theme": "toons",
+    "quote": "And I knew exactly what to do, but in a much more real sense I had no idea what to do.",
+    "answer": {
+      "name": "Michael Scott",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "George W. Bush",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Boris Johnson",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Homer Simpson",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "The Office, Stress Relief (2009)",
+    "url": "https://bestofficelines.com/s5e13",
+    "verification": "Episode transcript; Michael describes his response to Stanley's heart attack.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-lucille-question",
+    "theme": "toons",
+    "quote": "I don’t understand the question, and I won’t respond to it.",
+    "answer": {
+      "name": "Lucille Bluth",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Richard Nixon",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Queen Elizabeth II",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Ron Swanson",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Arrested Development, Public Relations (2004)",
+    "note": "The question was whether she wanted a plate or a platter.",
+    "url": "https://www.arrestedevelopment.com/lucille-bluth/i-dont-understand-the-question-and-i-wont-respond-to-it/",
+    "verification": "Season 1 episode 11 dialogue. Also reproduced in The Independent's Jessica Walter tribute, 26 March 2021.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-selina-atm",
+    "theme": "toons",
+    "quote": "If men got pregnant, you could get an abortion at an ATM.",
+    "answer": {
+      "name": "Selina Meyer",
+      "alias": "Selina Meyer (Veep)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Dolly Parton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Lucille Bluth",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Dorothy Parker",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Veep, The Choice (2014)",
+    "url": "https://time.com/62331/veeps-take-on-abortion-reminds-us-how-hard-it-is-to-be-a-woman-candidate/",
+    "verification": "Time's contemporary review reproduces the line from season 3 episode 2; corroborated by the episode transcript.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-ford-lunchtime",
+    "theme": "toons",
+    "quote": "Time is an illusion, lunchtime doubly so.",
+    "answer": {
+      "name": "Ford Prefect",
+      "alias": "Ford Prefect (Hitchhiker’s Guide)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Albert Einstein",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Salvador Dalí",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Winnie the Pooh",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "The Hitchhiker’s Guide to the Galaxy, episode 1 (1981)",
+    "url": "https://www.imdb.com/title/tt1113227/characters/nm0228797/",
+    "verification": "TV episode dialogue spoken by Ford Prefect; also catalogued by h2g2 entry A2934849.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-zaphod-ego",
+    "theme": "toons",
+    "quote": "If there’s anything more important than my ego around, I want it caught and shot now.",
+    "answer": {
+      "name": "Zaphod Beeblebrox",
+      "alias": "Zaphod (Hitchhiker’s Guide)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kanye West",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Kim Jong Il",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "The Hitchhiker’s Guide to the Galaxy (1979), chapter 12",
+    "url": "https://en.wikiquote.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy",
+    "verification": "Sourced novel text, chapter 12. Do not import 'right' from the page's shortened image caption.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-glados-person-test",
+    "theme": "toons",
+    "quote": "Here come the test results: You are a horrible person. I’m serious, that’s what it says: A horrible person. We weren’t even testing for that.",
+    "answer": {
+      "name": "GLaDOS",
+      "alias": "GLaDOS (Portal's homicidal AI)",
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Gregory House",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Richard Dawkins",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Sigmund Freud",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "Portal 2 (2011), chapter 2, test chamber 2",
+    "url": "https://theportalwiki.com/wiki/GLaDOS_voice_lines_(Portal_2)",
+    "verification": "Original game audio supplied beside the transcript. Contiguous 25-word excerpt omits 'Well done.'",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-ron-history",
+    "theme": "toons",
+    "quote": "History began on July 4, 1776. Everything that happened before that was a mistake.",
+    "answer": {
+      "name": "Ron Swanson",
+      "alias": null,
+      "fictional": true
+    },
+    "decoys": [
+      {
+        "name": "Donald Trump",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "George W. Bush",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Mr. Burns",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Parks and Recreation, London, Part 1 (2013)",
+    "url": "https://en.wikiquote.org/wiki/Parks_and_Recreation_(season_6)",
+    "verification": "Season 6 episode 1 dialogue, during the London visit.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-carrie-unacceptable",
+    "theme": "arts",
+    "quote": "If my life wasn’t funny, it would just be true and that’s unacceptable.",
+    "answer": {
+      "name": "Carrie Fisher",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Franz Kafka",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "BoJack Horseman",
+        "alias": null,
+        "fictional": true
+      },
+      {
+        "name": "Oscar Wilde",
+        "alias": null,
+        "fictional": false
+      }
+    ],
+    "source": "CBS interview, 2004",
+    "url": "https://www.cbsnews.com/news/carrie-fishers-open-book/",
+    "verification": "Primary interview.",
+    "confidence": 5,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  },
+  {
+    "id": "sharp-dolly-blonde",
+    "theme": "music",
+    "quote": "I’m not offended by all the dumb blonde jokes because I know I’m not dumb, and I know I’m not blonde.",
+    "answer": {
+      "name": "Dolly Parton",
+      "alias": null,
+      "fictional": false
+    },
+    "decoys": [
+      {
+        "name": "Paris Hilton",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Marilyn Monroe",
+        "alias": null,
+        "fictional": false
+      },
+      {
+        "name": "Miss Piggy",
+        "alias": null,
+        "fictional": true
+      }
+    ],
+    "source": "Quoted in Music Week, 28 June 2014",
+    "url": "https://www.worldradiohistory.com/UK/Music-Week/2014/2014-06-28-Music%20Week.pdf",
+    "verification": "Scanned trade publication reproduces this wording. Other tellings vary; retain the wording of this source.",
+    "confidence": 4,
+    "translated": false,
+    "tags": [
+      "sharp-turns"
+    ]
+  }
+]
